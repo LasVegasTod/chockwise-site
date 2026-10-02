@@ -53,6 +53,9 @@
     border-radius: 10px;
   }
   .button:hover { background: #0B1426; }
+  .button.ghost { background: transparent; color: var(--navy); border: 2px solid var(--navy); padding: 12px 22px; }
+  .button.ghost:hover { background: var(--navy); color: #FFFFFF; }
+  .links { display: flex; flex-wrap: wrap; gap: 12px; }
 
   .band { background: var(--navy); color: #FFFFFF; padding: 64px 0; }
   .band h2 { font-size: 28px; letter-spacing: -0.5px; margin: 0 0 32px; }
@@ -120,7 +123,10 @@
     <div class="wrap">
       <h2>Talk to us</h2>
       <p>We're building out airports now. If you work in airline network planning, airport operations or ground handling and want to see what Chockwise can show you, reach out.</p>
-      <a class="button" href="https://x.com/chockwise">@chockwise on X</a>
+      <div class="links">
+        <a class="button" href="mailto:info@chockwise.com">info@chockwise.com</a>
+        <a class="button ghost" href="https://x.com/chockwise">@chockwise on X</a>
+      </div>
     </div>
   </section>
 </main>
