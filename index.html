@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Chockwise · Airport gate intelligence</title>
-<meta name="description" content="Chockwise builds airport gate intelligence: who owns and uses every gate, how busy each gate is, and datasets airlines can't get anywhere else.">
+<meta name="description" content="Chockwise maps every gate at an airport: who holds it, exclusive, preferential, or common use, and how hard it actually works. Turns, tows, and occupancy, built from real arrivals and departures.">
 <link rel="icon" href="favicon.svg" type="image/svg+xml">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -16,7 +16,6 @@
     --ground: #F6F4EE;
     --ink: #14213D;
     --muted: #4A5468;
-    --card: #FFFFFF;
     --line: #E2DED3;
   }
   * { box-sizing: border-box; }
@@ -27,22 +26,35 @@
     font-family: 'Archivo', system-ui, sans-serif;
     line-height: 1.55;
   }
-  .wrap { max-width: 1040px; margin: 0 auto; padding: 0 24px; }
+  img { display: block; max-width: 100%; height: auto; }
+  .wrap { max-width: 1120px; margin: 0 auto; padding: 0 24px; }
   header { padding: 28px 0; }
-  .brand { display: flex; align-items: center; gap: 12px; text-decoration: none; color: var(--ink); }
+  .brand { display: inline-flex; align-items: center; gap: 12px; text-decoration: none; color: var(--ink); }
   .brand svg { width: 44px; height: 44px; flex: none; }
   .brand span { font-size: 28px; font-weight: 800; letter-spacing: -0.8px; }
 
-  .hero { padding: 56px 0 72px; }
-  .hero h1 {
-    font-size: clamp(36px, 6vw, 64px);
-    line-height: 1.05;
-    letter-spacing: -1.5px;
-    font-weight: 800;
-    margin: 0 0 20px;
-    max-width: 14ch;
+  .kicker {
+    display: inline-flex; align-items: center; gap: 10px;
+    font-size: 13px; font-weight: 700; letter-spacing: 2px; text-transform: uppercase; color: var(--muted);
+    margin: 0 0 14px;
   }
-  .hero p { font-size: clamp(17px, 2.2vw, 20px); color: var(--muted); max-width: 46ch; margin: 0 0 32px; }
+  .kicker::before {
+    content: ""; width: 0; height: 0;
+    border-bottom: 11px solid var(--chock); border-right: 13px solid transparent;
+  }
+
+  .hero { padding: 40px 0 56px; }
+  .hero h1 {
+    font-size: clamp(38px, 6.4vw, 72px);
+    line-height: 1.03;
+    letter-spacing: -1.8px;
+    font-weight: 800;
+    margin: 0 0 22px;
+    max-width: 15ch;
+  }
+  .hero p { font-size: clamp(17px, 2.1vw, 20px); color: var(--muted); max-width: 54ch; margin: 0 0 30px; }
+  .hero p strong { color: var(--ink); font-weight: 700; }
+  .buttons { display: flex; flex-wrap: wrap; gap: 12px; }
   .button {
     display: inline-block;
     background: var(--navy);
@@ -51,27 +63,71 @@
     font-weight: 700;
     padding: 14px 24px;
     border-radius: 10px;
+    border: 2px solid var(--navy);
   }
   .button:hover { background: #0B1426; }
-  .button.ghost { background: transparent; color: var(--navy); border: 2px solid var(--navy); padding: 12px 22px; }
+  .button.ghost { background: transparent; color: var(--navy); }
   .button.ghost:hover { background: var(--navy); color: #FFFFFF; }
-  .links { display: flex; flex-wrap: wrap; gap: 12px; }
+
+  figure { margin: 0; }
+  .shot {
+    border-radius: 14px;
+    overflow: hidden;
+    background: #FFFFFF;
+    border: 1px solid var(--line);
+    box-shadow: 0 18px 50px rgba(20, 33, 61, 0.16), 0 2px 6px rgba(20, 33, 61, 0.08);
+  }
+  figcaption { margin-top: 14px; font-size: 15px; color: var(--muted); }
+  .hero figure { margin-top: 56px; }
 
   .band { background: var(--navy); color: #FFFFFF; padding: 64px 0; }
-  .band h2 { font-size: 28px; letter-spacing: -0.5px; margin: 0 0 32px; }
-  .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 20px; }
-  .card { background: rgba(255,255,255,0.06); border: 1px solid rgba(255,255,255,0.12); border-radius: 14px; padding: 22px; }
-  .card h3 { margin: 0 0 8px; font-size: 18px; }
-  .card h3::before {
-    content: ""; display: inline-block; width: 0; height: 0; margin-right: 10px; vertical-align: 1px;
-    border-bottom: 12px solid var(--chock); border-right: 14px solid transparent;
+  .rotator { position: relative; min-height: 3.4em; font-size: clamp(24px, 3.6vw, 40px); font-weight: 800; letter-spacing: -0.8px; line-height: 1.15; }
+  .rotator li { list-style: none; position: absolute; inset: 0 0 auto 0; opacity: 0; transform: translateY(8px); transition: opacity .6s ease, transform .6s ease; max-width: 26ch; }
+  .rotator li.on { opacity: 1; transform: none; }
+  .rotator ul { margin: 0; padding: 0; }
+  .dots { display: flex; gap: 8px; margin-top: 18px; }
+  .dots button { width: 26px; height: 6px; border: 0; padding: 0; border-radius: 3px; background: rgba(255,255,255,0.25); cursor: pointer; }
+  .dots button.on { background: var(--chock); }
+  @media (prefers-reduced-motion: reduce) {
+    .rotator { min-height: 0; }
+    .rotator li { position: static; opacity: 1; transform: none; margin-bottom: 14px; }
+    .dots { display: none; }
   }
-  .card p { margin: 0; color: #C9D0DD; }
 
-  .contact { padding: 64px 0 80px; }
-  .contact h2 { font-size: 28px; letter-spacing: -0.5px; margin: 0 0 12px; }
-  .contact p { color: var(--muted); margin: 0 0 24px; max-width: 52ch; }
-  footer { border-top: 1px solid var(--line); padding: 24px 0; color: var(--muted); font-size: 14px; }
+  .feature { padding: 88px 0 0; }
+  .feature-grid { display: grid; grid-template-columns: 5fr 7fr; gap: 56px; align-items: center; }
+  .feature.flip .feature-grid { grid-template-columns: 7fr 5fr; }
+  .feature.flip .copy { order: 2; }
+  .feature h2 { font-size: clamp(28px, 3.6vw, 40px); line-height: 1.1; letter-spacing: -1px; margin: 0 0 18px; font-weight: 800; }
+  .feature p { color: var(--muted); font-size: 17px; margin: 0 0 16px; }
+  .feature p.punch { color: var(--ink); font-weight: 700; }
+  .feature.wide .feature-grid { grid-template-columns: 1fr; gap: 36px; }
+  .feature.wide .copy { max-width: 760px; }
+
+  .what { padding: 96px 0 0; }
+  .what h2 { font-size: 28px; letter-spacing: -0.5px; margin: 0 0 28px; }
+  .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 20px; }
+  .card { background: #FFFFFF; border: 1px solid var(--line); border-radius: 14px; padding: 22px; }
+  .card h3 { margin: 0 0 8px; font-size: 18px; }
+  .card p { margin: 0; color: var(--muted); }
+
+  .contact { margin-top: 96px; background: var(--navy); color: #FFFFFF; padding: 80px 0 88px; }
+  .contact h2 { font-size: clamp(30px, 4vw, 44px); letter-spacing: -1px; line-height: 1.1; margin: 0 0 16px; max-width: 20ch; }
+  .contact p { color: #C9D0DD; font-size: 18px; margin: 0 0 30px; max-width: 56ch; }
+  .contact .button { background: var(--chock); border-color: var(--chock); color: var(--navy); }
+  .contact .button:hover { background: #FFD23F; border-color: #FFD23F; }
+  .contact .button.ghost { background: transparent; border-color: #FFFFFF; color: #FFFFFF; }
+  .contact .button.ghost:hover { background: #FFFFFF; color: var(--navy); }
+
+  footer { padding: 24px 0 32px; color: var(--muted); font-size: 14px; }
+  footer .wrap { display: flex; flex-wrap: wrap; justify-content: space-between; gap: 8px 24px; }
+
+  @media (max-width: 860px) {
+    .feature-grid, .feature.flip .feature-grid { grid-template-columns: 1fr; gap: 28px; }
+    .feature.flip .copy { order: 0; }
+    .feature { padding-top: 64px; }
+    .wrap { padding: 0 16px; }
+  }
 </style>
 </head>
 <body>
@@ -93,19 +149,90 @@
 <main>
   <section class="hero">
     <div class="wrap">
-      <h1>Airport gate intelligence</h1>
-      <p>Chockwise maps every gate at an airport, who uses it and how hard it works, building datasets airlines and airports can't get from any other source.</p>
-      <a class="button" href="#contact">Get in touch</a>
+      <p class="kicker">Airport gate intelligence</p>
+      <h1>Know more about their gates than they do.</h1>
+      <p>Chockwise maps every gate at an airport: who holds it, exclusive, preferential, or common use, and how hard it actually works. Turns, tows, and occupancy, built from real arrivals and departures. <strong>The dataset your competitors don’t publish.</strong></p>
+      <div class="buttons">
+        <a class="button" href="#contact">Get in touch</a>
+        <a class="button ghost" href="#planning">See what it shows</a>
+      </div>
+      <figure>
+        <a href="images/gate-owners.webp" aria-label="Open full-size image"><img class="shot" src="images/gate-owners.webp" width="2200" height="1375"
+             alt="Map of O'Hare concourses F and G with every gate colored by the airline that holds it: United blue, American silver, Frontier and Alaska preferential, common-use gates in fuchsia, with an Airlines legend."></a>
+        <figcaption>Who owns the gate, who actually uses it, and how long it sits empty.</figcaption>
+      </figure>
     </div>
   </section>
 
-  <section class="band">
+  <section class="band" aria-label="What Chockwise shows">
     <div class="wrap">
-      <h2>What we build</h2>
+      <div class="rotator" id="rotator">
+        <ul>
+          <li class="on">See the gate they just lost before their station manager does.</li>
+          <li>Their utilization. Your planning cycle.</li>
+          <li>Gate counts are public. Gate performance is not. Until now.</li>
+          <li>Who owns the gate, who actually uses it, and how long it sits empty.</li>
+          <li>The other hub’s turns, tows, and idle time, side by side with yours.</li>
+          <li>Stop guessing which of their gates are full and which are theater.</li>
+        </ul>
+      </div>
+      <div class="dots" id="dots" aria-hidden="true"></div>
+    </div>
+  </section>
+
+  <section class="feature">
+    <div class="wrap feature-grid">
+      <div class="copy">
+        <p class="kicker">Every gate, one hover</p>
+        <h2>Gate counts are public. Gate performance is not. Until now.</h2>
+        <p>Point at any gate to see who holds it, which airlines actually fly it, how many turns it ran, how many planes slept there, and how much of the operating day it was occupied.</p>
+        <p class="punch">Stop guessing which of their gates are full and which are theater.</p>
+      </div>
+      <figure>
+        <a href="images/gate-hover.webp" aria-label="Open full-size image"><img class="shot" src="images/gate-hover.webp" width="2200" height="1571" loading="lazy"
+             alt="Hovering gate G2 at O'Hare shows a card: common use, airline mix Frontier, Alaska, JetBlue and Air Canada, 9 turns, 59 minute average turn, 14 overnight stays, 74.8 percent utilization."></a>
+      </figure>
+    </div>
+  </section>
+
+  <section class="feature wide" id="planning">
+    <div class="wrap feature-grid">
+      <div class="copy">
+        <p class="kicker">For network planning</p>
+        <h2>Their utilization. Your planning cycle.</h2>
+        <p>Allocation is annual. Utilization is daily. Chockwise shows both: who was awarded the gate, and whether they are flying it or just holding it.</p>
+        <p>Spot the bank that is over-gated, the concourse that is towing itself into a delay, and the preferential gate that is quietly underused.</p>
+      </div>
+      <figure>
+        <a href="images/airport-summary.webp" aria-label="Open full-size image"><img class="shot" src="images/airport-summary.webp" width="2200" height="1091" loading="lazy"
+             alt="O'Hare gate summary: 194 gates mapped, 1,602 aircraft turns per day, 74 percent average gate utilization, 48 tows per day, a bar of who holds the gates, and charts of utilization, average turn and tows per day by airline."></a>
+        <figcaption>The other hub’s turns, tows, and idle time, side by side with yours.</figcaption>
+      </figure>
+    </div>
+  </section>
+
+  <section class="feature wide">
+    <div class="wrap feature-grid">
+      <div class="copy">
+        <p class="kicker">For station and ground ops</p>
+        <h2>See the gate they just lost before their station manager does.</h2>
+        <p>Every turn at the gate. Every tow on and off. Airport by airport, day by day. Know where the other carrier is burning a tug at 18:40 so you are not the one short a gate at 19:10.</p>
+      </div>
+      <figure>
+        <a href="images/gate-timeline.webp" aria-label="Open full-size image"><img class="shot" src="images/gate-timeline.webp" width="2200" height="1571" loading="lazy"
+             alt="Gate L9's Friday timeline at O'Hare: a bar from 06:00 to 24:00 showing each American Eagle aircraft at the gate and the empty time between, with a table of every arrival and departure."></a>
+        <figcaption>One gate, one day: every aircraft, every turn, every minute it sat empty.</figcaption>
+      </figure>
+    </div>
+  </section>
+
+  <section class="what">
+    <div class="wrap">
+      <h2>What’s in the dataset</h2>
       <div class="grid">
         <div class="card">
-          <h3>Gate ownership maps</h3>
-          <p>Every gate drawn on the airport map and colored by the airline that holds it: exclusive, preferential or common use.</p>
+          <h3>Gate ownership</h3>
+          <p>Every gate drawn on the airport map and colored by the airline that holds it: exclusive, preferential, or common use.</p>
         </div>
         <div class="card">
           <h3>Gate utilization</h3>
@@ -113,7 +240,7 @@
         </div>
         <div class="card">
           <h3>Turns and tows</h3>
-          <p>Aircraft turn times at the gate, and the tows on and off gates each airline makes, airport by airport and day by day.</p>
+          <p>Turn times at the gate, and the tows on and off gates each airline makes, airport by airport and day by day.</p>
         </div>
       </div>
     </div>
@@ -121,9 +248,9 @@
 
   <section class="contact" id="contact">
     <div class="wrap">
-      <h2>Talk to us</h2>
-      <p>We're building out airports now. If you work in airline network planning, airport operations or ground handling and want to see what Chockwise can show you, reach out.</p>
-      <div class="links">
+      <h2>Ask what your competitor’s gates are really doing.</h2>
+      <p>We’re building airports now. If you plan the network, run the station, or handle the ground, get in touch.</p>
+      <div class="buttons">
         <a class="button" href="mailto:info@chockwise.com">info@chockwise.com</a>
         <a class="button ghost" href="https://x.com/chockwise">@chockwise on X</a>
       </div>
@@ -132,8 +259,30 @@
 </main>
 
 <footer>
-  <div class="wrap">© <span id="year">2026</span> Chockwise</div>
+  <div class="wrap">
+    <span>© <span id="year">2026</span> Chockwise</span>
+    <span>Screens show illustrative data. Building outlines © OpenStreetMap contributors.</span>
+  </div>
 </footer>
-<script>document.getElementById('year').textContent = new Date().getFullYear();</script>
+<script>
+  document.getElementById('year').textContent = new Date().getFullYear();
+  // Rotate the short lines in the navy band (left alone when the reader prefers less motion)
+  (function () {
+    var items = document.querySelectorAll('#rotator li'), dots = document.getElementById('dots'), i = 0, timer;
+    if (window.matchMedia('(prefers-reduced-motion: reduce)').matches || items.length < 2) return;
+    items.forEach(function (_, k) {
+      var b = document.createElement('button');
+      b.onclick = function () { show(k); restart(); };
+      dots.appendChild(b);
+    });
+    function show(k) {
+      items[i].classList.remove('on'); dots.children[i].classList.remove('on');
+      i = k;
+      items[i].classList.add('on'); dots.children[i].classList.add('on');
+    }
+    function restart() { clearInterval(timer); timer = setInterval(function () { show((i + 1) % items.length); }, 4500); }
+    show(0); restart();
+  })();
+</script>
 </body>
 </html>
