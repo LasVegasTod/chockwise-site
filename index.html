@@ -52,7 +52,7 @@
     margin: 0 0 22px;
     max-width: 15ch;
   }
-  .hero p { font-size: clamp(17px, 2.1vw, 20px); color: var(--muted); max-width: 54ch; margin: 0 0 30px; }
+  .hero p { font-size: clamp(17px, 2.1vw, 20px); color: var(--muted); max-width: 54ch; margin: 0; }
   .hero p strong { color: var(--ink); font-weight: 700; }
   .buttons { display: flex; flex-wrap: wrap; gap: 12px; }
   .button {
@@ -78,7 +78,6 @@
     box-shadow: 0 18px 50px rgba(20, 33, 61, 0.16), 0 2px 6px rgba(20, 33, 61, 0.08);
   }
   figcaption { margin-top: 14px; font-size: 15px; color: var(--muted); }
-  .hero figure { margin-top: 56px; }
 
   .band { background: var(--navy); color: #FFFFFF; padding: 64px 0; }
   .rotator { position: relative; min-height: 3.4em; font-size: clamp(24px, 3.6vw, 40px); font-weight: 800; letter-spacing: -0.8px; line-height: 1.15; }
@@ -152,14 +151,6 @@
       <p class="kicker">Airport gate intelligence</p>
       <h1>Know more about their gates than they do.</h1>
       <p>Chockwise maps every gate at an airport: who holds it, exclusive, preferential, or common use, and how hard it actually works. Turns, tows, and occupancy, built from real arrivals and departures. <strong>The dataset your competitors don’t publish.</strong></p>
-      <div class="buttons">
-        <a class="button" href="#planning">See what it shows</a>
-      </div>
-      <figure>
-        <a href="images/gate-owners.webp" aria-label="Open full-size image"><img class="shot" src="images/gate-owners.webp" width="2200" height="1375"
-             alt="Map of O'Hare concourses F and G with every gate colored by the airline that holds it: United blue, American silver, Frontier and Alaska preferential, common-use gates in fuchsia, with an Airlines legend."></a>
-        <figcaption>Who owns the gate, who actually uses it, and how long it sits empty.</figcaption>
-      </figure>
     </div>
   </section>
 
@@ -221,6 +212,11 @@
         <a href="images/gate-timeline.webp" aria-label="Open full-size image"><img class="shot" src="images/gate-timeline.webp" width="2200" height="1571" loading="lazy"
              alt="Gate L9's Friday timeline at O'Hare: a bar from 06:00 to 24:00 showing each American Eagle aircraft at the gate and the empty time between, with a table of every arrival and departure."></a>
         <figcaption>One gate, one day: every aircraft, every turn, every minute it sat empty.</figcaption>
+      </figure>
+      <figure class="after">
+        <a href="images/gate-owners.webp" aria-label="Open full-size image"><img class="shot" src="images/gate-owners.webp" width="2200" height="1375" loading="lazy"
+             alt="Map of O'Hare concourses F and G with every gate colored by the airline that holds it: United blue, American silver, Frontier and Alaska preferential, common-use gates in fuchsia, with an Airlines legend."></a>
+        <figcaption>Who owns the gate, who actually uses it, and how long it sits empty.</figcaption>
       </figure>
     </div>
   </section>
