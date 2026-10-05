@@ -87,13 +87,15 @@
   details p { color:var(--muted); margin:10px 0 0; }
   footer { margin-top:64px; padding:24px 0 32px; color:var(--muted); font-size:14px; border-top:1px solid var(--line); }
   footer .wrap { display:flex; flex-wrap:wrap; justify-content:space-between; gap:8px 24px; }
-  @media (max-width: 760px) { .wrap { padding:0 16px; } nav a:not(.cta) { display:none; } .ai { grid-template-columns:1fr; } }
+  @media (max-width: 760px) { .wrap { padding:0 16px; } nav a.wide { display:none; }
+                              header .wrap { flex-wrap:wrap; row-gap:12px; } nav { width:100%; display:flex; align-items:center; }
+                              nav a { margin:0 18px 0 0; } nav a.cta { margin:0 0 0 auto; padding:8px 14px; } .ai { grid-template-columns:1fr; } }
 </style>
 </head>
 <body>
 <header><div class="wrap">
   <a class="brand" href="/" aria-label="Chockwise home"><svg viewBox="0 0 120 120" aria-hidden="true"><circle cx="60" cy="60" r="38" fill="none" stroke="#14213D" stroke-width="12"/><circle cx="60" cy="60" r="12" fill="#14213D"/><path d="M16 104 L37 104 L16 83 Z" fill="#F2B705"/><path d="M104 104 L83 104 L104 83 Z" fill="#F2B705"/><rect x="6" y="104" width="108" height="8" rx="2" fill="#14213D"/></svg><span>chockwise</span></a>
-  <nav aria-label="Main"><a href="/#ai">AI analyst</a><a href="/airports/">Airports</a><a href="/routes">Routes</a><a class="cta" href="/#contact">Request access</a></nav>
+  <nav aria-label="Main"><a class="wide" href="/#ai">AI analyst</a><a href="/airports/">Airports</a><a href="/routes">Routes</a><a class="cta" href="/#contact">Request access</a></nav>
 </div></header>
 <main class="wrap">
   <div class="crumbs"><a href="/">Chockwise</a> › Airports</div>
@@ -101,6 +103,72 @@
   <h1>Airport gates by airline</h1>
   <p class="lead">Every gate at each airport, who holds it, and how hard it works: seats, turns and tows by airline, from real
      arrivals and departures. New airports are added as their gate maps are finished.</p>
+  <div class="alsearch">
+  <label for="al-q">Search airports</label>
+  <input id="al-q" type="text" role="combobox" aria-autocomplete="list" aria-expanded="false" aria-controls="al-list"
+         autocomplete="off" autocapitalize="off" spellcheck="false" placeholder="Airport code or city, e.g. ORD">
+  <ul class="pick" id="al-list" role="listbox" hidden></ul>
+</div>
+<style>
+  .alsearch { position:relative; max-width:520px; margin:0 0 28px; }
+  .alsearch label { display:block; font-weight:700; font-size:14px; margin:0 0 6px; }
+  .alsearch input { width:100%; font:inherit; font-size:18px; padding:11px 14px; border:1px solid var(--line); border-radius:10px;
+                    background:#fff; color:var(--ink); }
+  .alsearch input:focus { outline:2px solid var(--chock); outline-offset:1px; }
+  .alsearch input::placeholder { color:#9AA1AE; }
+  .alsearch .pick { position:absolute; left:0; right:0; top:100%; z-index:20; margin:4px 0 0; padding:4px; list-style:none;
+                    background:#fff; border:1px solid var(--line); border-radius:12px; box-shadow:0 12px 30px rgba(20,33,61,.16);
+                    max-height:340px; overflow-y:auto; }
+  .alsearch .pick li { padding:10px 12px; border-radius:8px; cursor:pointer; display:flex; align-items:center; gap:10px; }
+  .alsearch .pick li span { color:var(--muted); margin-left:auto; font-size:14px; white-space:nowrap; }
+  .alsearch .pick li.on { background:#F1EFE8; }
+  .alsearch .pick li.none { color:var(--muted); cursor:default; }
+</style>
+<script>
+(function () {
+  // Every page in the list (airlines at an airport, or airports); typing narrows it (name or code), Enter opens the top match.
+  var AL = [{"code": "ATL", "name": "Atlanta (ATL)", "url": "/airports/atl", "color": "", "short": "Hartsfield-Jackson Intl, Atlanta Atlanta Atlanta", "where": "201 gates"}, {"code": "ORD", "name": "O’Hare (ORD)", "url": "/airports/ord", "color": "", "short": "Chicago O'Hare Intl Chicago Chicago O'Hare", "where": "194 gates"}, {"code": "DEN", "name": "Denver (DEN)", "url": "/airports/den", "color": "", "short": "Denver Intl Denver Denver", "where": "176 gates"}, {"code": "LAX", "name": "Los Angeles (LAX)", "url": "/airports/lax", "color": "", "short": "Los Angeles Intl Los Angeles Los Angeles", "where": "147 gates"}, {"code": "LAS", "name": "Las Vegas (LAS)", "url": "/airports/las", "color": "", "short": "Harry Reid Intl, Las Vegas Las Vegas Las Vegas", "where": "110 gates"}, {"code": "BOS", "name": "Boston (BOS)", "url": "/airports/bos", "color": "", "short": "Boston Logan Intl Boston Boston", "where": "110 gates"}, {"code": "SAN", "name": "San Diego (SAN)", "url": "/airports/san", "color": "", "short": "San Diego Intl San Diego San Diego", "where": "51 gates"}, {"code": "BUR", "name": "Burbank (BUR)", "url": "/airports/bur", "color": "", "short": "Hollywood Burbank Airport Burbank Burbank", "where": "14 gates"}];
+  var input = document.getElementById('al-q'), list = document.getElementById('al-list'), shown = [], at = 0;
+  function e(s) { return String(s).replace(/[&<>"]/g, function (c) { return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]; }); }
+  function fold(s) { return String(s).normalize('NFD').replace(/[\u0300-\u036f]/g, '').replace(/[’']/g, '').toLowerCase(); }
+  function rank(q) {
+    var f = fold(q.trim()), out = [];
+    AL.forEach(function (a, i) {
+      var n = fold(a.name + ' ' + a.short), score = -1;
+      if (!f) score = 3;
+      else if (a.code.toLowerCase() === f) score = 0;
+      else if (n.indexOf(f) === 0) score = 1;
+      else if ((' ' + n).indexOf(' ' + f) >= 0) score = 2;
+      else if (n.indexOf(f) >= 0) score = 3;
+      if (score >= 0) out.push([score, i, a]);
+    });
+    out.sort(function (x, y) { return x[0] - y[0] || x[1] - y[1]; });   // the list comes busiest first
+    return out.map(function (x) { return x[2]; });
+  }
+  function draw() {
+    list.innerHTML = shown.length ? shown.map(function (a, i) {
+      return '<li role="option" data-i="' + i + '"' + (i === at ? ' class="on" aria-selected="true"' : '') +
+        '>' + (a.color ? '<i class="chip" style="background:' + a.color + '"></i>' : '') + e(a.name) + '<span>' + e(a.where) + '</span></li>'; }).join('')
+      : '<li class="none">No airport by that name yet</li>';
+    list.hidden = false; input.setAttribute('aria-expanded', 'true');
+    var on = list.querySelector('.on'); if (on) on.scrollIntoView({block: 'nearest'});
+  }
+  function close() { list.hidden = true; input.setAttribute('aria-expanded', 'false'); }
+  function go(a) { if (a) location.href = a.url; }
+  input.addEventListener('focus', function () { shown = rank(input.value); at = 0; draw(); });
+  input.addEventListener('input', function () { shown = rank(input.value); at = 0; draw(); });
+  input.addEventListener('keydown', function (ev) {
+    if (ev.key === 'ArrowDown' || ev.key === 'ArrowUp') {
+      at = Math.max(0, Math.min(shown.length - 1, at + (ev.key === 'ArrowDown' ? 1 : -1))); draw(); ev.preventDefault();
+    } else if (ev.key === 'Enter') { ev.preventDefault(); go(shown[at]); }
+    else if (ev.key === 'Escape') { close(); input.blur(); }
+  });
+  list.addEventListener('mousedown', function (ev) {
+    var li = ev.target.closest('li[data-i]'); if (li) { ev.preventDefault(); go(shown[+li.getAttribute('data-i')]); }
+  });
+  input.addEventListener('blur', function () { setTimeout(close, 120); });
+})();
+</script>
   <div class="tablewrap"><table>
     <tr><th>Airport</th><th>Gates mapped</th><th>Most gates</th><th>Seats out a day</th><th>Flights a day</th></tr>
     <tr><td><a href="/airports/atl" style="color:inherit;font-weight:700">Atlanta (ATL)</a><div class="note" style="margin:0">Hartsfield-Jackson Intl, Atlanta</div></td><td>201</td><td><span class="chip" style="background:#C8102E"></span>Delta 146</td><td>170,137</td><td>2,183</td></tr><tr><td><a href="/airports/ord" style="color:inherit;font-weight:700">O’Hare (ORD)</a><div class="note" style="margin:0">Chicago O&#x27;Hare Intl</div></td><td>194</td><td><span class="chip" style="background:#0033A0"></span>United 91</td><td>145,757</td><td>2,621</td></tr><tr><td><a href="/airports/den" style="color:inherit;font-weight:700">Denver (DEN)</a><div class="note" style="margin:0">Denver Intl</div></td><td>176</td><td><span class="chip" style="background:#0033A0"></span>United 80</td><td>141,188</td><td>1,976</td></tr><tr><td><a href="/airports/lax" style="color:inherit;font-weight:700">Los Angeles (LAX)</a><div class="note" style="margin:0">Los Angeles Intl</div></td><td>147</td><td><span class="chip" style="background:#C8102E"></span>Delta 25</td><td>89,152</td><td>1,433</td></tr><tr><td><a href="/airports/las" style="color:inherit;font-weight:700">Las Vegas (LAS)</a><div class="note" style="margin:0">Harry Reid Intl, Las Vegas</div></td><td>110</td><td><span class="chip" style="background:#F7861E"></span>Southwest 33</td><td>82,623</td><td>1,127</td></tr><tr><td><a href="/airports/bos" style="color:inherit;font-weight:700">Boston (BOS)</a><div class="note" style="margin:0">Boston Logan Intl</div></td><td>110</td><td><span class="chip" style="background:#002244"></span>JetBlue 25</td><td>64,554</td><td>1,077</td></tr><tr><td><a href="/airports/san" style="color:inherit;font-weight:700">San Diego (SAN)</a><div class="note" style="margin:0">San Diego Intl</div></td><td>51</td><td><span class="chip" style="background:#F7861E"></span>Southwest 15</td><td>34,766</td><td>610</td></tr><tr><td><a href="/airports/bur" style="color:inherit;font-weight:700">Burbank (BUR)</a><div class="note" style="margin:0">Hollywood Burbank Airport</div></td><td>14</td><td><span class="chip" style="background:#F7861E"></span>Southwest 6</td><td>11,365</td><td>193</td></tr>

@@ -87,7 +87,9 @@
   details p { color:var(--muted); margin:10px 0 0; }
   footer { margin-top:64px; padding:24px 0 32px; color:var(--muted); font-size:14px; border-top:1px solid var(--line); }
   footer .wrap { display:flex; flex-wrap:wrap; justify-content:space-between; gap:8px 24px; }
-  @media (max-width: 760px) { .wrap { padding:0 16px; } nav a:not(.cta) { display:none; } .ai { grid-template-columns:1fr; } }
+  @media (max-width: 760px) { .wrap { padding:0 16px; } nav a.wide { display:none; }
+                              header .wrap { flex-wrap:wrap; row-gap:12px; } nav { width:100%; display:flex; align-items:center; }
+                              nav a { margin:0 18px 0 0; } nav a.cta { margin:0 0 0 auto; padding:8px 14px; } .ai { grid-template-columns:1fr; } }
 
   .label { display:inline-block; font-size:14px; color:var(--muted); background:#fff; border:1px solid var(--line);
            border-radius:999px; padding:4px 12px; margin:-12px 0 26px; }
@@ -117,7 +119,7 @@
 <body>
 <header><div class="wrap">
   <a class="brand" href="/" aria-label="Chockwise home"><svg viewBox="0 0 120 120" aria-hidden="true"><circle cx="60" cy="60" r="38" fill="none" stroke="#14213D" stroke-width="12"/><circle cx="60" cy="60" r="12" fill="#14213D"/><path d="M16 104 L37 104 L16 83 Z" fill="#F2B705"/><path d="M104 104 L83 104 L104 83 Z" fill="#F2B705"/><rect x="6" y="104" width="108" height="8" rx="2" fill="#14213D"/></svg><span>chockwise</span></a>
-  <nav aria-label="Main"><a href="/#ai">AI analyst</a><a href="/airports/">Airports</a><a href="/routes">Routes</a><a class="cta" href="/#contact">Request access</a></nav>
+  <nav aria-label="Main"><a class="wide" href="/#ai">AI analyst</a><a href="/airports/">Airports</a><a href="/routes">Routes</a><a class="cta" href="/#contact">Request access</a></nav>
 </div></header>
 <main class="wrap">
   <div class="crumbs"><a href="/">Chockwise</a> › <a href="/airlines/">Airlines</a> › Ethiopian</div>

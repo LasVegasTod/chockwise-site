@@ -87,13 +87,15 @@
   details p { color:var(--muted); margin:10px 0 0; }
   footer { margin-top:64px; padding:24px 0 32px; color:var(--muted); font-size:14px; border-top:1px solid var(--line); }
   footer .wrap { display:flex; flex-wrap:wrap; justify-content:space-between; gap:8px 24px; }
-  @media (max-width: 760px) { .wrap { padding:0 16px; } nav a:not(.cta) { display:none; } .ai { grid-template-columns:1fr; } }
+  @media (max-width: 760px) { .wrap { padding:0 16px; } nav a.wide { display:none; }
+                              header .wrap { flex-wrap:wrap; row-gap:12px; } nav { width:100%; display:flex; align-items:center; }
+                              nav a { margin:0 18px 0 0; } nav a.cta { margin:0 0 0 auto; padding:8px 14px; } .ai { grid-template-columns:1fr; } }
 </style>
 </head>
 <body>
 <header><div class="wrap">
   <a class="brand" href="/" aria-label="Chockwise home"><svg viewBox="0 0 120 120" aria-hidden="true"><circle cx="60" cy="60" r="38" fill="none" stroke="#14213D" stroke-width="12"/><circle cx="60" cy="60" r="12" fill="#14213D"/><path d="M16 104 L37 104 L16 83 Z" fill="#F2B705"/><path d="M104 104 L83 104 L104 83 Z" fill="#F2B705"/><rect x="6" y="104" width="108" height="8" rx="2" fill="#14213D"/></svg><span>chockwise</span></a>
-  <nav aria-label="Main"><a href="/#ai">AI analyst</a><a href="/airports/">Airports</a><a href="/routes">Routes</a><a class="cta" href="/#contact">Request access</a></nav>
+  <nav aria-label="Main"><a class="wide" href="/#ai">AI analyst</a><a href="/airports/">Airports</a><a href="/routes">Routes</a><a class="cta" href="/#contact">Request access</a></nav>
 </div></header>
 <main class="wrap">
   <div class="crumbs"><a href="/">Chockwise</a> › <a href="/airports/">Airports</a> › SAN</div>
@@ -123,7 +125,7 @@
 </style>
 <script>
 (function () {
-  // Every airline with a page at this airport; typing narrows the list (name or code), Enter opens the top match.
+  // Every page in the list (airlines at an airport, or airports); typing narrows it (name or code), Enter opens the top match.
   var AL = [{"code": "WN", "name": "Southwest Airlines", "short": "Southwest", "url": "/airports/san/southwest", "color": "#F7861E", "where": "Terminal 1"}, {"code": "AS", "name": "Alaska Airlines", "short": "Alaska", "url": "/airports/san/alaska", "color": "#4FB3E8", "where": "Terminal 2"}, {"code": "UA", "name": "United Airlines", "short": "United", "url": "/airports/san/united", "color": "#0033A0", "where": "Terminal 2"}, {"code": "DL", "name": "Delta Air Lines", "short": "Delta", "url": "/airports/san/delta", "color": "#C8102E", "where": "Terminal 2"}, {"code": "AA", "name": "American Airlines", "short": "American", "url": "/airports/san/american", "color": "#A9B4BC", "where": "Terminal 2"}, {"code": "F9", "name": "Frontier Airlines", "short": "Frontier", "url": "/airports/san/frontier", "color": "#248168", "where": "Terminal 1"}, {"code": "B6", "name": "JetBlue", "short": "JetBlue", "url": "/airports/san/jetblue", "color": "#002244", "where": "Terminal 1"}, {"code": "AC", "name": "Air Canada", "short": "Air Canada", "url": "/airports/san/air-canada", "color": "#7F1D1D", "where": "Terminal 1"}, {"code": "BA", "name": "British Airways", "short": "British Airways", "url": "/airports/san/british-airways", "color": "#2B59C3", "where": "Terminal 2"}, {"code": "MX", "name": "Breeze Airways", "short": "Breeze", "url": "/airports/san/breeze", "color": "#DB2777", "where": "Terminal 1"}, {"code": "WS", "name": "WestJet", "short": "WestJet", "url": "/airports/san/westjet", "color": "#0F9D9D", "where": "Terminal 1"}, {"code": "JL", "name": "Japan Airlines", "short": "Japan Airlines", "url": "/airports/san/japan-airlines", "color": "#2B59C3", "where": "Terminal 2"}, {"code": "LH", "name": "Lufthansa", "short": "Lufthansa", "url": "/airports/san/lufthansa", "color": "#2B59C3", "where": "Terminal 2"}, {"code": "KL", "name": "KLM", "short": "KLM", "url": "/airports/san/klm", "color": "#2B59C3", "where": "Terminal 2"}, {"code": "RV", "name": "Air Canada Rouge", "short": "Air Canada Rouge", "url": "/airports/san/air-canada-rouge", "color": "#2B59C3", "where": "Terminal 1"}];
   var input = document.getElementById('al-q'), list = document.getElementById('al-list'), shown = [], at = 0;
   function e(s) { return String(s).replace(/[&<>"]/g, function (c) { return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]; }); }
@@ -145,7 +147,7 @@
   function draw() {
     list.innerHTML = shown.length ? shown.map(function (a, i) {
       return '<li role="option" data-i="' + i + '"' + (i === at ? ' class="on" aria-selected="true"' : '') +
-        '><i class="chip" style="background:' + a.color + '"></i>' + e(a.name) + '<span>' + e(a.where) + '</span></li>'; }).join('')
+        '>' + (a.color ? '<i class="chip" style="background:' + a.color + '"></i>' : '') + e(a.name) + '<span>' + e(a.where) + '</span></li>'; }).join('')
       : '<li class="none">No airline by that name at this airport</li>';
     list.hidden = false; input.setAttribute('aria-expanded', 'true');
     var on = list.querySelector('.on'); if (on) on.scrollIntoView({block: 'nearest'});
