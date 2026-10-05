@@ -7,7 +7,8 @@
   "short": "Atlanta",
   "sig": "{\"common\": 11, \"gates\": 201, \"held\": {\"AA\": 5, \"DL\": 146, \"F9\": 8, \"UA\": 4, \"WN\": 8}, \"low\": 19}",
   "top": "DL",
-  "top_gates": 146
+  "top_gates": 146,
+  "updated": "2026-10-05"
  },
  "BOS": {
   "flights_day": 1077,
@@ -17,7 +18,8 @@
   "short": "Boston",
   "sig": "{\"common\": 14, \"gates\": 110, \"held\": {\"4B\": 1, \"9K\": 1, \"AA\": 16, \"AC\": 3, \"AS\": 2, \"B6\": 25, \"DL\": 23, \"UA\": 9, \"WN\": 5}, \"low\": 11}",
   "top": "B6",
-  "top_gates": 25
+  "top_gates": 25,
+  "updated": "2026-10-05"
  },
  "BUR": {
   "flights_day": 193,
@@ -27,7 +29,8 @@
   "short": "Burbank",
   "sig": "{\"common\": 1, \"gates\": 14, \"held\": {\"AA\": 1, \"AS\": 3, \"DL\": 1, \"UA\": 2, \"WN\": 6}, \"low\": 0}",
   "top": "WN",
-  "top_gates": 6
+  "top_gates": 6,
+  "updated": "2026-10-05"
  },
  "DEN": {
   "flights_day": 1976,
@@ -37,7 +40,8 @@
   "short": "Denver",
   "sig": "{\"common\": 8, \"gates\": 176, \"held\": {\"AA\": 5, \"AS\": 2, \"DL\": 6, \"F9\": 14, \"UA\": 80, \"WN\": 39}, \"low\": 22}",
   "top": "UA",
-  "top_gates": 80
+  "top_gates": 80,
+  "updated": "2026-10-05"
  },
  "LAS": {
   "flights_day": 1127,
@@ -47,7 +51,8 @@
   "short": "Las Vegas",
   "sig": "{\"common\": 10, \"gates\": 110, \"held\": {\"AA\": 9, \"AS\": 5, \"B6\": 2, \"DL\": 9, \"F9\": 11, \"G4\": 6, \"MX\": 1, \"UA\": 9, \"WN\": 33}, \"low\": 15}",
   "top": "WN",
-  "top_gates": 33
+  "top_gates": 33,
+  "updated": "2026-10-05"
  },
  "LAX": {
   "flights_day": 1433,
@@ -57,7 +62,8 @@
   "short": "Los Angeles",
   "sig": "{\"common\": 29, \"gates\": 147, \"held\": {\"AA\": 21, \"AF\": 1, \"AS\": 11, \"B6\": 3, \"DL\": 25, \"F9\": 4, \"SY\": 1, \"UA\": 24, \"WN\": 10, \"Y4\": 1}, \"low\": 17}",
   "top": "DL",
-  "top_gates": 25
+  "top_gates": 25,
+  "updated": "2026-10-05"
  },
  "ORD": {
   "flights_day": 2621,
@@ -67,7 +73,8 @@
   "short": "O\u2019Hare",
   "sig": "{\"common\": 21, \"gates\": 194, \"held\": {\"AA\": 62, \"AS\": 2, \"DL\": 5, \"UA\": 91}, \"low\": 13}",
   "top": "UA",
-  "top_gates": 91
+  "top_gates": 91,
+  "updated": "2026-10-05"
  },
  "SAN": {
   "flights_day": 610,
@@ -77,6 +84,7 @@
   "short": "San Diego",
   "sig": "{\"common\": 4, \"gates\": 51, \"held\": {\"AA\": 5, \"AC\": 1, \"AS\": 12, \"B6\": 1, \"DL\": 5, \"F9\": 1, \"MX\": 1, \"UA\": 5, \"WN\": 15}, \"low\": 1}",
   "top": "WN",
-  "top_gates": 15
+  "top_gates": 15,
+  "updated": "2026-10-05"
  }
 }
