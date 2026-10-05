@@ -49,7 +49,7 @@
   .brand svg { width:40px; height:40px; }
   .brand span { font-size:26px; font-weight:800; letter-spacing:-0.8px; }
   nav a { color:var(--ink); text-decoration:none; font-weight:700; font-size:15px; margin-left:20px; }
-  nav a.cta { background:var(--navy); color:#fff; padding:9px 16px; border-radius:9px; }
+  nav a.cta { background:var(--navy); color:#fff; padding:9px 16px; border-radius:9px; white-space:nowrap; }
   .crumbs { font-size:14px; color:var(--muted); margin:8px 0 10px; }
   .crumbs a { color:var(--muted); }
   .kicker { display:inline-flex; align-items:center; gap:10px; font-size:13px; font-weight:700; letter-spacing:2px;
@@ -123,51 +123,142 @@
   <div class="crumbs"><a href="/">Chockwise</a> › Routes</div>
   <p class="kicker">Route finder</p>
   <h1>Nonstop routes from your airport</h1>
-  <p class="lead">Type an airport code to see every nonstop destination, with how many flights a day each airline flies.
+  <p class="lead">Type an airport to see every nonstop destination, with how many flights a day each airline flies.
      From real departures at the airports Chockwise maps.</p>
   <div class="finder">
-    <label>From <input id="from" list="airports" maxlength="3" autocomplete="off" spellcheck="false" placeholder="ORD"></label>
-    <datalist id="airports"><option value="ORD">O’Hare</option><option value="SAN">San Diego</option></datalist>
-    <label>Airline <select id="airline"><option value="">All airlines</option></select></label>
+    <div class="field"><label for="from">From</label>
+      <input id="from" type="text" role="combobox" aria-autocomplete="list" aria-expanded="false" aria-controls="from-list"
+             autocomplete="off" autocapitalize="off" spellcheck="false" placeholder="Airport code or city">
+      <ul class="pick" id="from-list" role="listbox" hidden></ul></div>
+    <div class="field"><label for="to">To</label>
+      <input id="to" type="text" role="combobox" aria-autocomplete="list" aria-expanded="false" aria-controls="to-list"
+             autocomplete="off" autocapitalize="off" spellcheck="false" placeholder="All destinations">
+      <button type="button" class="clear" id="to-clear" aria-label="All destinations" hidden>×</button>
+      <ul class="pick" id="to-list" role="listbox" hidden></ul></div>
+    <div class="field"><label for="airline">Airline</label><select id="airline"><option value="">All airlines</option></select></div>
   </div>
   <p id="summary" class="muted"></p>
   <div class="tablewrap" id="tablewrap"><table id="routes"></table></div>
   <p class="note" id="note"></p>
   <noscript><p>Airports: <a href="/airports/ord">ORD</a>, <a href="/airports/san">SAN</a></p></noscript>
 <style>
-  .finder { display:flex; flex-wrap:wrap; gap:14px 24px; margin:0 0 16px; }
-  .finder label { font-weight:700; display:flex; align-items:center; gap:10px; }
-  .finder input, .finder select { font:inherit; font-size:18px; padding:9px 12px; border:1px solid var(--line); border-radius:10px;
-                                  background:#fff; color:var(--ink); }
-  .finder input { width:6.5em; text-transform:uppercase; font-weight:800; letter-spacing:1px; }
+  .finder { display:grid; grid-template-columns:minmax(0, 1.2fr) minmax(0, 1.2fr) minmax(0, 1fr); gap:14px 18px; margin:0 0 16px; }
+  .field { position:relative; }
+  .field label { display:block; font-weight:700; font-size:14px; margin:0 0 6px; }
+  .finder input, .finder select { width:100%; font:inherit; font-size:18px; padding:10px 12px; border:1px solid var(--line);
+                                  border-radius:10px; background:#fff; color:var(--ink); }
+  .finder input:focus, .finder select:focus { outline:2px solid var(--chock); outline-offset:1px; }
+  .finder input::placeholder { color:#9AA1AE; }
+  #to { padding-right:40px; }
+  .clear { position:absolute; right:8px; bottom:9px; width:28px; height:28px; border:0; border-radius:50%; background:#EDEBE4;
+           color:var(--muted); font-size:18px; line-height:1; cursor:pointer; }
+  .pick { position:absolute; left:0; right:0; top:100%; z-index:20; margin:4px 0 0; padding:4px; list-style:none; background:#fff;
+          border:1px solid var(--line); border-radius:12px; box-shadow:0 12px 30px rgba(20,33,61,.16); max-height:320px; overflow-y:auto; }
+  .pick li { padding:10px 12px; border-radius:8px; cursor:pointer; display:flex; gap:10px; align-items:baseline; }
+  .pick li b { min-width:3.2ch; letter-spacing:.5px; }
+  .pick li span { color:var(--muted); }
+  .pick li.on { background:#F1EFE8; }
+  .pick li.none { color:var(--muted); cursor:default; }
   #routes .al { text-align:left; white-space:normal; }
   #routes .pill { display:inline-block; margin:2px 6px 2px 0; padding:2px 8px; border-radius:999px; background:#F1EFE8; font-size:14px; }
+  @media (max-width: 760px) { .finder { grid-template-columns:1fr; } }
 </style>
 <script>
 (function () {
-  var data = null, from = document.getElementById('from'), pick = document.getElementById('airline');
+  var data = null, state = {from: null, to: null};
+  var fromIn = document.getElementById('from'), toIn = document.getElementById('to'), pick = document.getElementById('airline');
+  var toClear = document.getElementById('to-clear');
   var table = document.getElementById('routes'), summary = document.getElementById('summary'), note = document.getElementById('note');
   function e(s) { return String(s).replace(/[&<>"]/g, function (c) { return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]; }); }
-  function fmt(v) { return v >= 9.5 ? Math.round(v) : (Math.round(v * 10) / 10); }
-  function freq(v, days) { return v >= 0.95 ? fmt(v) + ' a day' : Math.round(v * days) + ' in ' + days + ' days'; }
+  function fold(s) { return String(s).normalize('NFD').replace(/[\u0300-\u036f]/g, '').replace(/[’']/g, '').toLowerCase(); }
+  function freq(v) {   // whole flights only, like rate() in site_airlines.py: '12/day', '4-5/day', '2-3/week'
+    var unit = 'day';
+    if (v < 0.95) { v = v * 7; unit = 'week'; if (v < 0.95) return 'under 1/week'; }
+    if (v >= 9.5) return Math.round(v).toLocaleString('en-US') + '/' + unit;
+    var lo = Math.floor(v), hi = Math.ceil(v);
+    return (v - lo < 0.15 || hi - v < 0.15 ? String(Math.round(v)) : lo + '-' + hi) + '/' + unit;
+  }
   function months(s) { var d = new Date(s + 'T12:00:00'); return d.toLocaleDateString('en-US', {month: 'short', day: 'numeric', year: 'numeric'}); }
-  function show() {
-    var code = from.value.trim().toUpperCase(), ap = data && data.airports[code];
-    var params = new URLSearchParams(location.search);
-    if (!ap) {
-      table.innerHTML = ''; note.textContent = '';
-      summary.textContent = code.length === 3 ? 'No route data for ' + code + ' yet. Airports so far: ' +
-        Object.keys(data.airports).sort().join(', ') + '.' : 'Pick an airport.';
-      return;
+
+  // A search box with a list that narrows as you type: code first ('sfo'), then names ('san fran'). Enter takes the
+  // top (or highlighted) match; arrows move; Escape or leaving the box puts back what was picked.
+  function combo(input, list, items, picked, onPick, allowAll) {
+    var shown = [], at = 0;
+    function rank(q) {
+      var f = fold(q.trim()), out = [];
+      items().forEach(function (it) {
+        var code = it.code.toLowerCase(), name = fold(it.name), score = -1;
+        if (!f) score = 3;
+        else if (code === f) score = 0;
+        else if (code.indexOf(f) === 0) score = 1;
+        else if ((' ' + name).indexOf(' ' + f) >= 0) score = 2;
+        else if (name.indexOf(f) >= 0 || fold(it.more || '').indexOf(f) >= 0) score = 3;
+        if (score >= 0) out.push([score, it]);
+      });
+      out.sort(function (a, b) { return a[0] - b[0] || (b[1].w || 0) - (a[1].w || 0) || a[1].code.localeCompare(b[1].code); });
+      return out.map(function (x) { return x[1]; });
     }
+    function draw() {
+      list.innerHTML = shown.length ? shown.slice(0, 50).map(function (it, i) {
+        return '<li role="option" data-i="' + i + '"' + (i === at ? ' class="on" aria-selected="true"' : '') + '><b>' + e(it.code) +
+          '</b><span>' + e(it.name) + '</span></li>'; }).join('') : '<li class="none">No match</li>';
+      list.hidden = false; input.setAttribute('aria-expanded', 'true');
+      var on = list.querySelector('.on'); if (on) on.scrollIntoView({block: 'nearest'});
+    }
+    function close() { list.hidden = true; input.setAttribute('aria-expanded', 'false'); }
+    function restore() { var p = picked(); input.value = p ? p.code + ' – ' + p.name : ''; }
+    function take(it) { close(); onPick(it); restore(); }
+    input.addEventListener('focus', function () { input.select(); shown = rank(''); at = 0; draw(); });
+    input.addEventListener('input', function () { shown = rank(input.value); at = 0; draw(); });
+    input.addEventListener('keydown', function (ev) {
+      if (ev.key === 'ArrowDown' || ev.key === 'ArrowUp') {
+        if (list.hidden) { shown = rank(input.value); at = 0; draw(); return; }
+        at = Math.max(0, Math.min(shown.length - 1, at + (ev.key === 'ArrowDown' ? 1 : -1))); draw(); ev.preventDefault();
+      } else if (ev.key === 'Enter') {
+        ev.preventDefault();
+        if (!input.value.trim() && allowAll) take(null);
+        else if (shown[at]) { take(shown[at]); input.blur(); }
+      } else if (ev.key === 'Escape') { close(); restore(); input.blur(); }
+    });
+    list.addEventListener('mousedown', function (ev) {   // mousedown: before the box loses focus
+      var li = ev.target.closest('li[data-i]'); if (!li) return;
+      ev.preventDefault(); take(shown[+li.getAttribute('data-i')]); input.blur();
+    });
+    input.addEventListener('blur', function () {
+      setTimeout(function () { if (!list.hidden) { close(); if (!input.value.trim() && allowAll) take(null); else restore(); } }, 120);
+    });
+    return {restore: restore};
+  }
+
+  function airportItems() {
+    return Object.keys(data.airports).map(function (c) {
+      var a = data.airports[c];
+      return {code: c, name: a.short + (a.city && a.city !== a.short ? ', ' + a.city : ''), more: a.name, w: a.routes.length};
+    });
+  }
+  function destItems() {
+    var ap = data.airports[state.from]; if (!ap) return [];
+    return ap.routes.map(function (r) {
+      return {code: r[0], name: r[1], w: Object.keys(r[2]).reduce(function (s, b) { return s + r[2][b]; }, 0)};
+    });
+  }
+  var fromBox, toBox;
+
+  function show() {
+    var code = state.from, ap = data.airports[code];
+    if (!ap) { table.innerHTML = ''; note.textContent = ''; summary.textContent = 'Pick an airport.'; return; }
     var keep = pick.value, codes = {};
-    ap.routes.forEach(function (r) { Object.keys(r[2]).forEach(function (b) { codes[b] = (codes[b] || 0) + r[2][b]; }); });
+    ap.routes.forEach(function (r) {
+      if (state.to && r[0] !== state.to) return;
+      Object.keys(r[2]).forEach(function (b) { codes[b] = (codes[b] || 0) + r[2][b]; });
+    });
     var order = Object.keys(codes).sort(function (a, b) { return codes[b] - codes[a]; });
     pick.innerHTML = '<option value="">All airlines</option>' + order.map(function (b) {
       return '<option value="' + b + '">' + e(data.airlines[b].name) + '</option>'; }).join('');
     pick.value = codes[keep] ? keep : '';
     var al = pick.value, rows = [];
     ap.routes.forEach(function (r) {
+      if (state.to && r[0] !== state.to) return;
       var v = al ? (r[2][al] || 0) : Object.keys(r[2]).reduce(function (s, b) { return s + r[2][b]; }, 0);
       if (v > 0) rows.push([r, v]);
     });
@@ -177,26 +268,45 @@
       var r = x[0], pills = Object.keys(r[2]).sort(function (a, b) { return r[2][b] - r[2][a]; }).map(function (b) {
         var a = data.airlines[b];
         return '<a class="pill" href="/airports/' + code.toLowerCase() + '/' + a.slug + '"><span class="chip" style="background:' +
-          a.color + '"></span>' + e(a.name) + ' ' + freq(r[2][b], ap.days) + '</a>'; }).join('');
-      return '<tr><td class="al">' + e(r[1]) + '<span class="code">' + e(r[0]) + '</span></td><td>' + freq(x[1], ap.days) + '</td>' +
+          a.color + '"></span>' + e(a.name) + ' ' + freq(r[2][b]) + '</a>'; }).join('');
+      return '<tr><td class="al">' + e(r[1]) + '<span class="code">' + e(r[0]) + '</span></td><td>' + freq(x[1]) + '</td>' +
         (al ? '' : '<td class="al">' + pills + '</td>') + '</tr>';
     }).join('');
-    summary.innerHTML = '<b>' + rows.length + '</b> nonstop destinations from ' + e(ap.short) + ' (' + code + ')' +
-      (al ? ' on <a href="/airports/' + code.toLowerCase() + '/' + data.airlines[al].slug + '">' + e(data.airlines[al].name) + '</a>' : '') + '.';
+    var dest = state.to ? ap.routes.filter(function (r) { return r[0] === state.to; })[0] : null;
+    var on = al ? ' on <a href="/airports/' + code.toLowerCase() + '/' + data.airlines[al].slug + '">' + e(data.airlines[al].name) + '</a>' : '';
+    summary.innerHTML = dest ? 'Nonstop flights from ' + e(ap.short) + ' (' + code + ') to ' + e(dest[1]) + ' (' + e(dest[0]) + ')' + on + '.'
+      : '<b>' + rows.length + '</b> nonstop destinations from ' + e(ap.short) + ' (' + code + ')' + on + '.';
     note.textContent = 'Nonstop routes seen ' + months(ap.first) + ' – ' + months(ap.last) + ' (' + ap.days +
-      ' full days); flights a day are averages. A few days of data can miss weekly or seasonal routes.';
-    params.set('from', code); if (al) params.set('airline', al); else params.delete('airline');
+      ' full days); flights a day are averages, as whole flights. A few days of data can miss weekly or seasonal routes.';
+    toClear.hidden = !state.to;
+    var params = new URLSearchParams();
+    params.set('from', code); if (state.to) params.set('to', state.to); if (al) params.set('airline', al);
     history.replaceState(null, '', location.pathname + '?' + params.toString());
   }
+
   fetch('/routes.json').then(function (r) { return r.json(); }).then(function (d) {
     data = d;
-    var p = new URLSearchParams(location.search);
-    from.value = (p.get('from') || 'ORD').toUpperCase();
+    fromBox = combo(fromIn, document.getElementById('from-list'), airportItems,
+      function () { return state.from ? airportItems().filter(function (i) { return i.code === state.from; })[0] : null; },
+      function (it) {
+        if (!it) return;
+        state.from = it.code;
+        if (state.to && !destItems().some(function (i) { return i.code === state.to; })) { state.to = null; toBox.restore(); }
+        show();
+      }, false);
+    toBox = combo(toIn, document.getElementById('to-list'), destItems,
+      function () { return state.to ? destItems().filter(function (i) { return i.code === state.to; })[0] : null; },
+      function (it) { state.to = it ? it.code : null; show(); }, true);
+    var p = new URLSearchParams(location.search), f = (p.get('from') || 'ORD').toUpperCase();
+    state.from = data.airports[f] ? f : 'ORD';
+    var t = (p.get('to') || '').toUpperCase();
+    state.to = t && destItems().some(function (i) { return i.code === t; }) ? t : null;
+    fromBox.restore(); toBox.restore();
     show();
     if (p.get('airline')) { pick.value = p.get('airline').toUpperCase(); show(); }
   });
-  from.addEventListener('input', function () { if (from.value.trim().length === 3 || !from.value) show(); });
   pick.addEventListener('change', show);
+  toClear.addEventListener('click', function () { state.to = null; toBox.restore(); show(); });
 })();
 </script>
 </main>
