@@ -83,6 +83,18 @@
   "top_gates": 91,
   "updated": "2026-10-05"
  },
+ "PHX": {
+  "flights_day": 1148,
+  "gates": 111,
+  "name": "Phoenix Sky Harbor Intl",
+  "published": "2026-10-05",
+  "seats_day": 80012,
+  "short": "Phoenix",
+  "sig": "{\"common\": 5, \"gates\": 111, \"held\": {\"AA\": 52, \"AS\": 3, \"DL\": 4, \"F9\": 4, \"LF\": 1, \"UA\": 6, \"WN\": 31, \"WS\": 1}, \"low\": 4}",
+  "top": "AA",
+  "top_gates": 52,
+  "updated": "2026-10-05"
+ },
  "SAN": {
   "flights_day": 610,
   "gates": 51,
