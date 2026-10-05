@@ -1,0 +1,46 @@
+# Publishes chockwise.com. Runs on every push to main (site_publish.py on the server pushes after each data update).
+# The airport map images are not in main's history: they live on the "images" branch, which site_publish.py replaces
+# with a single commit each time. This step copies the latest ones into /airports/ before publishing, so pages show
+# them as chockwise.com/airports/<code>-gates.png.
+# Needs: Settings -> Pages -> Build and deployment -> Source: "GitHub Actions".
+name: Publish chockwise.com
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - name: Add the latest airport map images
+        run: |
+          if git ls-remote --exit-code --heads origin images >/dev/null; then
+            git fetch --depth 1 origin images
+            mkdir -p airports
+            git archive FETCH_HEAD | tar -x -C airports
+            ls airports/*.png
+          else
+            echo "No images branch yet"
+          fi
+          rm -rf .git .github
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: .
+      - id: deployment
+        uses: actions/deploy-pages@v4
