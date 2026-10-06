@@ -156,6 +156,28 @@
   .contact .button:hover { background: #FFD23F; border-color: #FFD23F; }
   .contact .button.ghost { background: transparent; border-color: #FFFFFF; color: #FFFFFF; }
   .contact .button.ghost:hover { background: #FFFFFF; color: var(--navy); }
+  /* request-access form */
+  .contact-grid { display: grid; grid-template-columns: 5fr 7fr; gap: 48px; align-items: start; }
+  .contact-side .alt { margin-top: 26px; font-size: 15px; color: #C9D0DD; }
+  .contact-side .alt a { color: #FFFFFF; }
+  .req { background: #FFFFFF; color: var(--ink); border-radius: 16px; padding: 26px 26px 22px; }
+  .req .row2 { display: grid; grid-template-columns: 1fr 1fr; gap: 14px; }
+  .req label { display: block; font-size: 13px; font-weight: 700; color: var(--muted); margin: 0 0 14px; }
+  .req label span.opt { font-weight: 400; }
+  .req input, .req select, .req textarea { display: block; width: 100%; margin-top: 6px; font: inherit; font-size: 16px; color: var(--ink);
+    border: 1.5px solid var(--line); border-radius: 10px; padding: 11px 12px; background: #FFFFFF; font-weight: 400; }
+  .req input::placeholder, .req textarea::placeholder { color: #9AA0AC; }
+  .req input:focus, .req select:focus, .req textarea:focus { outline: none; border-color: var(--navy); }
+  .req textarea { min-height: 96px; resize: vertical; }
+  .req .hp { position: absolute; left: -5000px; }
+  .req button { margin-top: 4px; width: 100%; border: 0; cursor: pointer; font: inherit; font-weight: 800; font-size: 16px;
+    background: var(--chock); color: var(--navy); padding: 14px 20px; border-radius: 10px; }
+  .req button:hover { background: #FFD23F; }
+  .req button[disabled] { opacity: .6; cursor: default; }
+  .req .note { font-size: 12px; color: #8A8F9C; margin: 10px 0 0; }
+  .req .msg { margin: 12px 0 0; font-size: 15px; font-weight: 700; }
+  .req .msg.ok { color: #15803D; } .req .msg.bad { color: #B42318; }
+  @media (max-width: 860px) { .contact-grid { grid-template-columns: 1fr; gap: 28px; } .req .row2 { grid-template-columns: 1fr; gap: 0; } }
 
   footer { padding: 24px 0 32px; color: var(--muted); font-size: 14px; }
   footer .wrap { display: flex; flex-wrap: wrap; justify-content: space-between; gap: 8px 24px; }
@@ -475,11 +497,40 @@
 
   <section class="contact" id="contact">
     <div class="wrap">
-      <h2>Ask what your competitor’s gates are really doing.</h2>
-      <p>We’re adding airports every week and opening the AI analyst to enterprise partners. If you plan the network, run the station, or handle the ground, get in touch.</p>
-      <div class="buttons">
-        <a class="button" href="mailto:info@chockwise.com">info@chockwise.com</a>
-        <a class="button ghost" href="https://x.com/chockwise">@chockwise on X</a>
+      <div class="contact-grid">
+        <div class="contact-side">
+          <h2>Ask what your competitor’s gates are really doing.</h2>
+          <p>We’re adding airports every week and opening the AI analyst to enterprise partners. If you plan the network, run the station, or handle the ground, request access and we’ll be in touch.</p>
+          <p class="alt">Or email <a href="mailto:info@chockwise.com">info@chockwise.com</a> · follow <a href="https://x.com/chockwise">@chockwise on X</a></p>
+        </div>
+        <form class="req" id="req" novalidate>
+          <div class="row2">
+            <label>Name<input name="name" autocomplete="name" required></label>
+            <label>Work email<input name="email" type="email" autocomplete="email" required></label>
+          </div>
+          <div class="row2">
+            <label>Company<input name="company" autocomplete="organization" required placeholder="Airline, airport…"></label>
+            <label>Title <span class="opt">(optional)</span><input name="title" autocomplete="organization-title"></label>
+          </div>
+          <label>What do you work on?
+            <select name="role" required>
+              <option value="">Choose one</option>
+              <option>Network planning</option>
+              <option>Station / airport operations</option>
+              <option>Ground handling</option>
+              <option>Airport authority or properties</option>
+              <option>Analytics / strategy</option>
+              <option>Investor</option>
+              <option>Media</option>
+              <option>Other</option>
+            </select></label>
+          <label>Airports you care about <span class="opt">(optional)</span><input name="airports" placeholder="e.g. ORD, DFW, LAX"></label>
+          <label>Anything else? <span class="opt">(optional)</span><textarea name="message"></textarea></label>
+          <input class="hp" type="checkbox" name="botcheck" tabindex="-1" autocomplete="off" aria-hidden="true">
+          <button type="submit">Request access</button>
+          <p class="msg" id="req-msg" role="status" aria-live="polite"></p>
+          <p class="note">We use your details only to reply to you.</p>
+        </form>
       </div>
     </div>
   </section>
@@ -493,6 +544,44 @@
 </footer>
 <script>
   document.getElementById('year').textContent = new Date().getFullYear();
+
+  // Request-access form: sent by Web3Forms (web3forms.com) to Todd's inbox. WEB3FORMS_KEY = the access key they email
+  // when you enter your address on their site (it's meant to be public). Empty: the form opens an email instead.
+  (function () {
+    var WEB3FORMS_KEY = '';
+    var form = document.getElementById('req'), msg = document.getElementById('req-msg');
+    if (!form) return;
+    function say(text, ok) { msg.textContent = text; msg.className = 'msg ' + (ok ? 'ok' : 'bad'); }
+    form.addEventListener('submit', function (ev) {
+      ev.preventDefault();
+      var f = form.elements, missing = ['name', 'email', 'company', 'role'].filter(function (k) { return !f[k].value.trim(); });
+      if (missing.length) { say('Please fill in your name, work email, company and what you work on.', false); f[missing[0]].focus(); return; }
+      if (!/^[^@\s]+@[^@\s]+\.[^@\s]+$/.test(f.email.value.trim())) { say('Please check your email address.', false); f.email.focus(); return; }
+      if (f.botcheck.checked) return;   // a bot filled the hidden box
+      var d = {};
+      ['name', 'email', 'company', 'title', 'role', 'airports', 'message'].forEach(function (k) { d[k] = f[k].value.trim(); });
+      var subject = 'Chockwise access request: ' + d.company + ' (' + d.role + ')';
+      if (window.gtag) gtag('event', 'generate_lead', { form: 'request_access', role: d.role });
+      if (!WEB3FORMS_KEY) {
+        var body = ['Name: ' + d.name, 'Email: ' + d.email, 'Company: ' + d.company, 'Title: ' + d.title, 'Works on: ' + d.role,
+                    'Airports: ' + d.airports, '', d.message].join('\n');
+        location.href = 'mailto:info@chockwise.com?subject=' + encodeURIComponent(subject) + '&body=' + encodeURIComponent(body);
+        say('Your email app should open with your request filled in; just press send.', true);
+        return;
+      }
+      var btn = form.querySelector('button'); btn.disabled = true; btn.textContent = 'Sending…';
+      fetch('https://api.web3forms.com/submit', {
+        method: 'POST', headers: { 'Content-Type': 'application/json', Accept: 'application/json' },
+        body: JSON.stringify(Object.assign({ access_key: WEB3FORMS_KEY, subject: subject, from_name: 'chockwise.com',
+                                             replyto: d.email, botcheck: false }, d))
+      }).then(function (r) { return r.json(); }).then(function (j) {
+        if (j && j.success) { form.reset(); say('Thanks, ' + d.name.split(' ')[0] + '. We’ll be in touch shortly.', true); }
+        else throw new Error((j && j.message) || 'failed');
+      }).catch(function () {
+        say('That didn’t go through. Please email info@chockwise.com instead.', false);
+      }).finally(function () { btn.disabled = false; btn.textContent = 'Request access'; });
+    });
+  })();
   var still = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
 
   // Running counts: the numbers in the page are a fallback; stats.json (python3 site_stats.py) has the latest
