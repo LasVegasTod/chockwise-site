@@ -4,7 +4,7 @@
   "gates": 201,
   "name": "Hartsfield-Jackson Intl, Atlanta",
   "published": "2026-10-05",
-  "seats_day": 170359,
+  "seats_day": 170428,
   "short": "Atlanta",
   "sig": "{\"common\": 11, \"gates\": 201, \"held\": {\"AA\": 5, \"DL\": 146, \"F9\": 8, \"UA\": 4, \"WN\": 8}, \"low\": 19}",
   "top": "DL",
@@ -16,7 +16,7 @@
   "gates": 110,
   "name": "Boston Logan Intl",
   "published": "2026-10-05",
-  "seats_day": 64554,
+  "seats_day": 64599,
   "short": "Boston",
   "sig": "{\"common\": 14, \"gates\": 110, \"held\": {\"4B\": 1, \"9K\": 1, \"AA\": 16, \"AC\": 3, \"AS\": 2, \"B6\": 25, \"DL\": 23, \"UA\": 9, \"WN\": 5}, \"low\": 11}",
   "top": "B6",
@@ -40,11 +40,11 @@
   "gates": 123,
   "name": "Charlotte/Douglas Intl",
   "published": "2026-10-06",
-  "seats_day": 74734,
+  "seats_day": 81273,
   "short": "CLT",
-  "sig": "{\"common\": 10, \"gates\": 123, \"held\": {\"AA\": 75, \"AC\": 1, \"B6\": 1, \"DL\": 7, \"F9\": 2, \"PT\": 16, \"UA\": 4, \"WN\": 2}, \"low\": 5}",
+  "sig": "{\"common\": 2, \"gates\": 123, \"held\": {\"AA\": 99, \"AC\": 1, \"B6\": 1, \"DL\": 7, \"F9\": 2, \"UA\": 4, \"WN\": 2}, \"low\": 5}",
   "top": "AA",
-  "top_gates": 75,
+  "top_gates": 99,
   "updated": "2026-10-06"
  },
  "COS": {
@@ -81,6 +81,18 @@
   "sig": "{\"common\": 11, \"gates\": 176, \"held\": {\"AA\": 118, \"AS\": 1, \"DL\": 5, \"F9\": 4, \"JL\": 1, \"LF\": 1, \"UA\": 5}, \"low\": 30}",
   "top": "AA",
   "top_gates": 118,
+  "updated": "2026-10-06"
+ },
+ "DTW": {
+  "flights_day": 863,
+  "gates": 133,
+  "name": "Detroit Metro Wayne Co",
+  "published": "2026-10-06",
+  "seats_day": 53250,
+  "short": "DTW",
+  "sig": "{\"common\": 2, \"gates\": 133, \"held\": {\"AA\": 9, \"AC\": 1, \"B6\": 3, \"DL\": 78, \"F9\": 3, \"UA\": 8, \"WN\": 3}, \"low\": 26}",
+  "top": "DL",
+  "top_gates": 78,
   "updated": "2026-10-06"
  },
  "EWR": {
@@ -165,6 +177,18 @@
   "sig": "{\"common\": 18, \"gates\": 144, \"held\": {\"AA\": 70, \"AM\": 1, \"AR\": 1, \"BA\": 1, \"CM\": 1, \"DL\": 6, \"DM\": 1, \"F9\": 3, \"KX\": 1, \"LP\": 1, \"UA\": 5, \"UP\": 1, \"WN\": 3}, \"low\": 31}",
   "top": "AA",
   "top_gates": 70,
+  "updated": "2026-10-06"
+ },
+ "MSP": {
+  "flights_day": 863,
+  "gates": 121,
+  "name": "Minneapolis/St Paul Intl",
+  "published": "2026-10-06",
+  "seats_day": 53456,
+  "short": "MSP",
+  "sig": "{\"common\": 1, \"gates\": 121, \"held\": {\"AA\": 6, \"AC\": 1, \"AS\": 1, \"DL\": 71, \"F9\": 1, \"SY\": 7, \"UA\": 5, \"WN\": 4, \"WS\": 1}, \"low\": 23}",
+  "top": "DL",
+  "top_gates": 71,
   "updated": "2026-10-06"
  },
  "ORD": {
