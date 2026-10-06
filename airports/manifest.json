@@ -35,6 +35,18 @@
   "top_gates": 6,
   "updated": "2026-10-06"
  },
+ "CLT": {
+  "flights_day": 1394,
+  "gates": 123,
+  "name": "Charlotte/Douglas Intl",
+  "published": "2026-10-06",
+  "seats_day": 74734,
+  "short": "CLT",
+  "sig": "{\"common\": 10, \"gates\": 123, \"held\": {\"AA\": 75, \"AC\": 1, \"B6\": 1, \"DL\": 7, \"F9\": 2, \"PT\": 16, \"UA\": 4, \"WN\": 2}, \"low\": 5}",
+  "top": "AA",
+  "top_gates": 75,
+  "updated": "2026-10-06"
+ },
  "COS": {
   "flights_day": 83,
   "gates": 16,
@@ -57,6 +69,18 @@
   "sig": "{\"common\": 8, \"gates\": 176, \"held\": {\"AA\": 5, \"AS\": 2, \"DL\": 6, \"F9\": 14, \"UA\": 80, \"WN\": 39}, \"low\": 22}",
   "top": "UA",
   "top_gates": 80,
+  "updated": "2026-10-06"
+ },
+ "DFW": {
+  "flights_day": 1868,
+  "gates": 176,
+  "name": "Dallas-Fort Worth Intl",
+  "published": "2026-10-06",
+  "seats_day": 120130,
+  "short": "Dallas/Fort Worth",
+  "sig": "{\"common\": 11, \"gates\": 176, \"held\": {\"AA\": 118, \"AS\": 1, \"DL\": 5, \"F9\": 4, \"JL\": 1, \"LF\": 1, \"UA\": 5}, \"low\": 30}",
+  "top": "AA",
+  "top_gates": 118,
   "updated": "2026-10-06"
  },
  "EWR": {
