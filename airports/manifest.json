@@ -11,6 +11,30 @@
   "top_gates": 146,
   "updated": "2026-10-06"
  },
+ "AUS": {
+  "flights_day": 556,
+  "gates": 40,
+  "name": "Austin-Bergstrom Intl",
+  "published": "2026-10-06",
+  "seats_day": 40713,
+  "short": "AUS",
+  "sig": "{\"common\": 6, \"gates\": 40, \"held\": {\"AA\": 4, \"AS\": 1, \"DL\": 10, \"UA\": 5, \"WN\": 10}, \"low\": 4}",
+  "top": "WN",
+  "top_gates": 10,
+  "updated": "2026-10-06"
+ },
+ "BNA": {
+  "flights_day": 725,
+  "gates": 62,
+  "name": "Nashville Intl",
+  "published": "2026-10-06",
+  "seats_day": 51760,
+  "short": "BNA",
+  "sig": "{\"common\": 7, \"gates\": 62, \"held\": {\"AA\": 8, \"B6\": 1, \"DL\": 7, \"G4\": 2, \"UA\": 4, \"WN\": 22}, \"low\": 11}",
+  "top": "WN",
+  "top_gates": 22,
+  "updated": "2026-10-06"
+ },
  "BOI": {
   "flights_day": 170,
   "gates": 24,
@@ -85,14 +109,14 @@
  },
  "DCA": {
   "flights_day": 798,
-  "gates": 60,
+  "gates": 61,
   "name": "Reagan National, Washington",
   "published": "2026-10-06",
   "seats_day": 42408,
   "short": "Washington National",
-  "sig": "{\"common\": 0, \"gates\": 60, \"held\": {\"AA\": 35, \"AC\": 1, \"AS\": 1, \"B6\": 3, \"DL\": 7, \"F9\": 1, \"UA\": 4, \"WN\": 7}, \"low\": 1}",
+  "sig": "{\"common\": 0, \"gates\": 61, \"held\": {\"AA\": 36, \"AC\": 1, \"AS\": 1, \"B6\": 3, \"DL\": 7, \"F9\": 1, \"UA\": 4, \"WN\": 7}, \"low\": 1}",
   "top": "AA",
-  "top_gates": 35,
+  "top_gates": 36,
   "updated": "2026-10-06"
  },
  "DEN": {
