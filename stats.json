@@ -1,13 +1,13 @@
 {
-  "airports": 39,
-  "gates": 3015,
-  "flights": 109095,
-  "turns": 48615,
-  "tows": 5903,
-  "gate_hours": 124553,
-  "idle_gaps": 45134,
-  "seats": 13679435,
-  "ownership": 3199,
-  "insights": 196796,
+  "airports": 58,
+  "gates": 3193,
+  "flights": 124677,
+  "turns": 54974,
+  "tows": 6557,
+  "gate_hours": 142914,
+  "idle_gaps": 51136,
+  "seats": 15411834,
+  "ownership": 3725,
+  "insights": 222093,
   "updated": "2026-10-06"
 }
