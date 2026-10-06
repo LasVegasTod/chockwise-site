@@ -130,7 +130,7 @@
   <div class="finder">
     <div class="field"><label for="from">From</label>
       <input id="from" type="text" role="combobox" aria-autocomplete="list" aria-expanded="false" aria-controls="from-list"
-             autocomplete="off" autocapitalize="off" spellcheck="false" placeholder="Airport code or city">
+             autocomplete="off" autocapitalize="off" spellcheck="false" placeholder="Airport">
       <ul class="pick" id="from-list" role="listbox" hidden></ul></div>
     <div class="field"><label for="to">To</label>
       <input id="to" type="text" role="combobox" aria-autocomplete="list" aria-expanded="false" aria-controls="to-list"
@@ -151,6 +151,7 @@
                                   border-radius:10px; background:#fff; color:var(--ink); }
   .finder input:focus, .finder select:focus { outline:2px solid var(--chock); outline-offset:1px; }
   .finder input::placeholder { color:#9AA1AE; }
+  .finder input:disabled, .finder select:disabled { background:#F1EFE8; color:#9AA1AE; cursor:not-allowed; }
   #to { padding-right:40px; }
   .clear { position:absolute; right:8px; bottom:9px; width:28px; height:28px; border:0; border-radius:50%; background:#EDEBE4;
            color:var(--muted); font-size:18px; line-height:1; cursor:pointer; }
@@ -248,7 +249,14 @@
 
   function show() {
     var code = state.from, ap = data.airports[code];
-    if (!ap) { table.innerHTML = ''; note.textContent = ''; summary.textContent = 'Pick an airport.'; return; }
+    toIn.disabled = pick.disabled = !ap;   // To and Airline wait for an airport
+    document.getElementById('tablewrap').hidden = !ap;
+    if (!ap) {
+      table.innerHTML = ''; note.textContent = ''; toClear.hidden = true;
+      summary.textContent = 'Type an airport code or city in From, e.g. ' + Object.keys(data.airports).sort().slice(0, 3).join(', ') + '.';
+      history.replaceState(null, '', location.pathname);
+      return;
+    }
     var keep = pick.value, codes = {};
     ap.routes.forEach(function (r) {
       if (state.to && r[0] !== state.to) return;
@@ -299,8 +307,9 @@
     toBox = combo(toIn, document.getElementById('to-list'), destItems,
       function () { return state.to ? destItems().filter(function (i) { return i.code === state.to; })[0] : null; },
       function (it) { state.to = it ? it.code : null; show(); }, true);
-    var p = new URLSearchParams(location.search), f = (p.get('from') || 'ORD').toUpperCase();
-    state.from = data.airports[f] ? f : 'ORD';
+    // no airport until the visitor picks one (a link like /routes?from=ORD still opens on it)
+    var p = new URLSearchParams(location.search), f = (p.get('from') || '').toUpperCase();
+    state.from = data.airports[f] ? f : null;
     var t = (p.get('to') || '').toUpperCase();
     state.to = t && destItems().some(function (i) { return i.code === t; }) ? t : null;
     fromBox.restore(); toBox.restore();
