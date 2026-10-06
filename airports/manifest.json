@@ -71,6 +71,18 @@
   "top_gates": 26,
   "updated": "2026-10-06"
  },
+ "JFK": {
+  "flights_day": 1128,
+  "gates": 119,
+  "name": "John F Kennedy Intl, New York",
+  "published": "2026-10-06",
+  "seats_day": 66554,
+  "short": "New York JFK",
+  "sig": "{\"common\": 19, \"gates\": 119, \"held\": {\"AA\": 12, \"AS\": 1, \"B6\": 29, \"BA\": 1, \"CM\": 1, \"DL\": 37, \"VS\": 1}, \"low\": 18}",
+  "top": "DL",
+  "top_gates": 37,
+  "updated": "2026-10-06"
+ },
  "LAS": {
   "flights_day": 1127,
   "gates": 110,
@@ -93,6 +105,18 @@
   "sig": "{\"common\": 29, \"gates\": 147, \"held\": {\"AA\": 21, \"AF\": 1, \"AS\": 11, \"B6\": 3, \"DL\": 25, \"F9\": 4, \"SY\": 1, \"UA\": 24, \"WN\": 10, \"Y4\": 1}, \"low\": 17}",
   "top": "DL",
   "top_gates": 25,
+  "updated": "2026-10-06"
+ },
+ "MIA": {
+  "flights_day": 989,
+  "gates": 144,
+  "name": "Miami Intl",
+  "published": "2026-10-06",
+  "seats_day": 56376,
+  "short": "MIA",
+  "sig": "{\"common\": 18, \"gates\": 144, \"held\": {\"AA\": 70, \"AM\": 1, \"AR\": 1, \"BA\": 1, \"CM\": 1, \"DL\": 6, \"DM\": 1, \"F9\": 3, \"KX\": 1, \"LP\": 1, \"UA\": 5, \"UP\": 1, \"WN\": 3}, \"low\": 31}",
+  "top": "AA",
+  "top_gates": 70,
   "updated": "2026-10-06"
  },
  "ORD": {
