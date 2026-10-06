@@ -11,6 +11,18 @@
   "top_gates": 146,
   "updated": "2026-10-06"
  },
+ "BOI": {
+  "flights_day": 170,
+  "gates": 23,
+  "name": "Gowen Field, Boise",
+  "published": "2026-10-06",
+  "seats_day": 9908,
+  "short": "BOI",
+  "sig": "{\"common\": 3, \"gates\": 23, \"held\": {\"AA\": 1, \"AS\": 5, \"DL\": 3, \"UA\": 2, \"WN\": 2}, \"low\": 7}",
+  "top": "AS",
+  "top_gates": 5,
+  "updated": "2026-10-06"
+ },
  "BOS": {
   "flights_day": 1077,
   "gates": 110,
@@ -239,12 +251,24 @@
   "top_gates": 71,
   "updated": "2026-10-06"
  },
+ "OMA": {
+  "flights_day": 162,
+  "gates": 19,
+  "name": "Eppley Airfield, Omaha",
+  "published": "2026-10-06",
+  "seats_day": 9551,
+  "short": "OMA",
+  "sig": "{\"common\": 1, \"gates\": 19, \"held\": {\"AA\": 4, \"DL\": 4, \"UA\": 4, \"WN\": 3}, \"low\": 3}",
+  "top": "UA",
+  "top_gates": 4,
+  "updated": "2026-10-06"
+ },
  "ORD": {
   "flights_day": 2621,
   "gates": 194,
   "name": "Chicago O'Hare Intl",
   "published": "2026-10-05",
-  "seats_day": 145802,
+  "seats_day": 145804,
   "short": "O\u2019Hare",
   "sig": "{\"common\": 21, \"gates\": 194, \"held\": {\"AA\": 62, \"AS\": 2, \"DL\": 5, \"UA\": 91}, \"low\": 13}",
   "top": "UA",
