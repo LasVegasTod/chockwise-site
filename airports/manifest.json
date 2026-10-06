@@ -83,6 +83,18 @@
   "top_gates": 4,
   "updated": "2026-10-06"
  },
+ "DCA": {
+  "flights_day": 798,
+  "gates": 60,
+  "name": "Reagan National, Washington",
+  "published": "2026-10-06",
+  "seats_day": 42408,
+  "short": "Washington National",
+  "sig": "{\"common\": 0, \"gates\": 60, \"held\": {\"AA\": 35, \"AC\": 1, \"AS\": 1, \"B6\": 3, \"DL\": 7, \"F9\": 1, \"UA\": 4, \"WN\": 7}, \"low\": 1}",
+  "top": "AA",
+  "top_gates": 35,
+  "updated": "2026-10-06"
+ },
  "DEN": {
   "flights_day": 1976,
   "gates": 176,
@@ -181,14 +193,14 @@
  },
  "JFK": {
   "flights_day": 1128,
-  "gates": 119,
+  "gates": 120,
   "name": "John F Kennedy Intl, New York",
   "published": "2026-10-06",
   "seats_day": 66554,
   "short": "New York JFK",
-  "sig": "{\"common\": 19, \"gates\": 119, \"held\": {\"AA\": 12, \"AS\": 1, \"B6\": 29, \"BA\": 1, \"CM\": 1, \"DL\": 37, \"VS\": 1}, \"low\": 18}",
+  "sig": "{\"common\": 19, \"gates\": 120, \"held\": {\"AA\": 12, \"AS\": 1, \"B6\": 29, \"BA\": 1, \"CM\": 1, \"DL\": 38, \"VS\": 1}, \"low\": 18}",
   "top": "DL",
-  "top_gates": 37,
+  "top_gates": 38,
   "updated": "2026-10-06"
  },
  "LAS": {
