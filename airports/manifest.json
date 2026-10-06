@@ -35,6 +35,18 @@
   "top_gates": 6,
   "updated": "2026-10-06"
  },
+ "BWI": {
+  "flights_day": 559,
+  "gates": 77,
+  "name": "Baltimore/Washington Intl",
+  "published": "2026-10-06",
+  "seats_day": 43299,
+  "short": "BWI",
+  "sig": "{\"common\": 2, \"gates\": 77, \"held\": {\"AA\": 4, \"AS\": 1, \"B6\": 1, \"BA\": 1, \"DL\": 6, \"F9\": 3, \"UA\": 4, \"WN\": 36}, \"low\": 19}",
+  "top": "WN",
+  "top_gates": 36,
+  "updated": "2026-10-06"
+ },
  "CLT": {
   "flights_day": 1394,
   "gates": 123,
@@ -167,6 +179,18 @@
   "top_gates": 25,
   "updated": "2026-10-06"
  },
+ "LGA": {
+  "flights_day": 902,
+  "gates": 80,
+  "name": "LaGuardia, New York",
+  "published": "2026-10-06",
+  "seats_day": 48061,
+  "short": "New York LaGuardia",
+  "sig": "{\"common\": 3, \"gates\": 80, \"held\": {\"AA\": 17, \"AC\": 3, \"B6\": 2, \"DL\": 38, \"F9\": 1, \"UA\": 5, \"WN\": 4}, \"low\": 7}",
+  "top": "DL",
+  "top_gates": 38,
+  "updated": "2026-10-06"
+ },
  "MIA": {
   "flights_day": 989,
   "gates": 144,
@@ -201,6 +225,18 @@
   "sig": "{\"common\": 21, \"gates\": 194, \"held\": {\"AA\": 62, \"AS\": 2, \"DL\": 5, \"UA\": 91}, \"low\": 13}",
   "top": "UA",
   "top_gates": 91,
+  "updated": "2026-10-06"
+ },
+ "PHL": {
+  "flights_day": 871,
+  "gates": 127,
+  "name": "Philadelphia Intl",
+  "published": "2026-10-06",
+  "seats_day": 50500,
+  "short": "PHL",
+  "sig": "{\"common\": 3, \"gates\": 127, \"held\": {\"AA\": 83, \"AC\": 1, \"AS\": 1, \"B6\": 1, \"DL\": 6, \"F9\": 10, \"UA\": 5, \"WN\": 4}, \"low\": 13}",
+  "top": "AA",
+  "top_gates": 83,
   "updated": "2026-10-06"
  },
  "PHX": {
@@ -249,6 +285,18 @@
   "sig": "{\"common\": 22, \"gates\": 108, \"held\": {\"AA\": 6, \"AC\": 1, \"AS\": 9, \"B6\": 2, \"DL\": 7, \"F9\": 2, \"TA\": 1, \"UA\": 48, \"WN\": 4}, \"low\": 6}",
   "top": "UA",
   "top_gates": 48,
+  "updated": "2026-10-06"
+ },
+ "SLC": {
+  "flights_day": 692,
+  "gates": 87,
+  "name": "Salt Lake City Intl",
+  "published": "2026-10-06",
+  "seats_day": 45272,
+  "short": "SLC",
+  "sig": "{\"common\": 3, \"gates\": 87, \"held\": {\"AA\": 4, \"AS\": 3, \"DL\": 57, \"F9\": 1, \"UA\": 5, \"WN\": 8}, \"low\": 6}",
+  "top": "DL",
+  "top_gates": 57,
   "updated": "2026-10-06"
  }
 }
