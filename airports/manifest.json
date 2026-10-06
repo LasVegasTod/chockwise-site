@@ -13,14 +13,14 @@
  },
  "BOI": {
   "flights_day": 170,
-  "gates": 23,
+  "gates": 24,
   "name": "Gowen Field, Boise",
   "published": "2026-10-06",
   "seats_day": 9908,
   "short": "BOI",
-  "sig": "{\"common\": 3, \"gates\": 23, \"held\": {\"AA\": 1, \"AS\": 5, \"DL\": 3, \"UA\": 2, \"WN\": 2}, \"low\": 7}",
+  "sig": "{\"common\": 3, \"gates\": 24, \"held\": {\"AA\": 1, \"AS\": 6, \"DL\": 3, \"UA\": 2, \"WN\": 2}, \"low\": 7}",
   "top": "AS",
-  "top_gates": 5,
+  "top_gates": 6,
   "updated": "2026-10-06"
  },
  "BOS": {
@@ -141,6 +141,18 @@
   "sig": "{\"common\": 9, \"gates\": 67, \"held\": {\"AA\": 4, \"B6\": 26, \"DL\": 8, \"F9\": 2, \"G4\": 3, \"MX\": 2, \"UA\": 5, \"WN\": 6}, \"low\": 2}",
   "top": "B6",
   "top_gates": 26,
+  "updated": "2026-10-06"
+ },
+ "HNL": {
+  "flights_day": 418,
+  "gates": 58,
+  "name": "Daniel K Inouye Intl, Honolulu",
+  "published": "2026-10-06",
+  "seats_day": 12630,
+  "short": "HNL",
+  "sig": "{\"common\": 10, \"gates\": 58, \"held\": {\"AS\": 22, \"DL\": 2, \"UA\": 4, \"WN\": 6}, \"low\": 14}",
+  "top": "AS",
+  "top_gates": 22,
   "updated": "2026-10-06"
  },
  "IAD": {
@@ -273,6 +285,18 @@
   "sig": "{\"common\": 21, \"gates\": 194, \"held\": {\"AA\": 62, \"AS\": 2, \"DL\": 5, \"UA\": 91}, \"low\": 13}",
   "top": "UA",
   "top_gates": 91,
+  "updated": "2026-10-06"
+ },
+ "PDX": {
+  "flights_day": 517,
+  "gates": 49,
+  "name": "Portland Intl",
+  "published": "2026-10-06",
+  "seats_day": 33722,
+  "short": "PDX",
+  "sig": "{\"common\": 6, \"gates\": 49, \"held\": {\"AA\": 3, \"AC\": 1, \"AS\": 22, \"DL\": 5, \"UA\": 4, \"WN\": 5}, \"low\": 3}",
+  "top": "AS",
+  "top_gates": 22,
   "updated": "2026-10-06"
  },
  "PHL": {
