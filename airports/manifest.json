@@ -119,6 +119,18 @@
   "top_gates": 15,
   "updated": "2026-10-06"
  },
+ "SEA": {
+  "flights_day": 1204,
+  "gates": 97,
+  "name": "Seattle-Tacoma Intl",
+  "published": "2026-10-06",
+  "seats_day": 75716,
+  "short": "Seattle",
+  "sig": "{\"common\": 19, \"gates\": 97, \"held\": {\"AA\": 3, \"AS\": 40, \"DL\": 20, \"UA\": 4, \"WN\": 3}, \"low\": 8}",
+  "top": "AS",
+  "top_gates": 40,
+  "updated": "2026-10-06"
+ },
  "SFO": {
   "flights_day": 1136,
   "gates": 108,
