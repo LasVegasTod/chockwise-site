@@ -59,6 +59,18 @@
   "top_gates": 74,
   "updated": "2026-10-06"
  },
+ "FLL": {
+  "flights_day": 559,
+  "gates": 67,
+  "name": "Fort Lauderdale Intl",
+  "published": "2026-10-06",
+  "seats_day": 38930,
+  "short": "FLL",
+  "sig": "{\"common\": 9, \"gates\": 67, \"held\": {\"AA\": 4, \"B6\": 26, \"DL\": 8, \"F9\": 2, \"G4\": 3, \"MX\": 2, \"UA\": 5, \"WN\": 6}, \"low\": 2}",
+  "top": "B6",
+  "top_gates": 26,
+  "updated": "2026-10-06"
+ },
  "LAS": {
   "flights_day": 1127,
   "gates": 110,
