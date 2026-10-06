@@ -12,7 +12,7 @@
    "short": "Aerom\u00e9xico Connect",
    "sig": "",
    "slug": "aeromexico-connect",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "air-canada": {
    "airport_short": "Atlanta",
@@ -26,7 +26,7 @@
    "short": "Air Canada",
    "sig": "{\"focus\": [\"F9\", \"F14\"], \"held\": [], \"held_n\": 0, \"main\": [\"F9\", \"F14\"]}",
    "slug": "air-canada",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "air-france": {
    "airport_short": "Atlanta",
@@ -40,7 +40,7 @@
    "short": "Air France",
    "sig": "{\"focus\": [\"F5\", \"F6\"], \"held\": [], \"held_n\": 0, \"main\": [\"F5\", \"F6\"]}",
    "slug": "air-france",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "alaska": {
    "airport_short": "Atlanta",
@@ -54,7 +54,7 @@
    "short": "Alaska",
    "sig": "{\"focus\": [\"C5\"], \"held\": [], \"held_n\": 0, \"main\": [\"C5\"]}",
    "slug": "alaska",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "american": {
    "airport_short": "Atlanta",
@@ -68,7 +68,7 @@
    "short": "American",
    "sig": "{\"focus\": [\"T9\", \"T10\", \"T11\", \"T12\", \"T13\", \"T14\", \"T15\"], \"held\": [\"T9\", \"T10\", \"T11\", \"T12\", \"T13\"], \"held_n\": 5, \"main\": [\"T9\", \"T10\", \"T11\", \"T12\", \"T13\", \"T14\", \"T15\", \"E33\"]}",
    "slug": "american",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "avelo": {
    "airport_short": "Atlanta",
@@ -82,7 +82,7 @@
    "short": "Avelo",
    "sig": "{\"focus\": [\"T17\"], \"held\": [], \"held_n\": 0, \"main\": [\"T17\"]}",
    "slug": "avelo",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "british-airways": {
    "airport_short": "Atlanta",
@@ -96,7 +96,7 @@
    "short": "British Airways",
    "sig": "",
    "slug": "british-airways",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "copa": {
    "airport_short": "Atlanta",
@@ -110,7 +110,7 @@
    "short": "Copa",
    "sig": "{\"focus\": [\"F14\"], \"held\": [], \"held_n\": 0, \"main\": [\"F14\"]}",
    "slug": "copa",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "delta": {
    "airport_short": "Atlanta",
@@ -124,7 +124,7 @@
    "short": "Delta",
    "sig": "{\"focus\": [\"A1\", \"B1\", \"C1\", \"D1\", \"D1A\", \"E1\", \"F1\", \"T1\", \"A2\", \"B2\", \"C2\", \"D2\", \"F2\", \"T2\", \"A3\", \"B3\", \"C3\", \"D3\", \"E3\", \"T3\", \"A4\", \"B4\", \"C4\", \"D4\", \"F4\", \"T4\", \"A5\", \"B5\", \"D5\", \"E5\", \"T5\", \"A6\", \"B6\", \"C6\", \"D6\", \"E6\", \"F6\", \"T6\", \"A7\", \"B7\", \"D7\", \"E7\", \"F7\", \"T7\", \"D8\", \"D8A\", \"F8\", \"T8\", \"A9\", \"B9\", \"E9\", \"A10\", \"B10\", \"E10\", \"F10\", \"A11\", \"B11\", \"E11\", \"A12\", \"B12\", \"E12\", \"F12\", \"B13\", \"B14\", \"E14\", \"A15\", \"D15\", \"E15\", \"A16\", \"B16\", \"D16\", \"E16\", \"A17\", \"B17\", \"D17\", \"E17\", \"A18\", \"B18\", \"D18\", \"E18\", \"A19\", \"B19\", \"A20\", \"B20\", \"A21\", \"B21\", \"D21\", \"D23\", \"A24\", \"B24\", \"A25\", \"B25\", \"D25\", \"A26\", \"B26\", \"D26\", \"E26\", \"A27\", \"B27\", \"D27\", \"A28\", \"B28\", \"D28\", \"E28\", \"A29\", \"B29\", \"D29\", \"E29\", \"A30\", \"C30\", \"D30\", \"E30\", \"A31\", \"B31\", \"D31\", \"E31\", \"A32\", \"B32\", \"D32\", \"E32\", \"A33\", \"B33\", \"C33\", \"E33\", \"A34\", \"B34\", \"C34\", \"D34\", \"E34\", \"C35\", \"D35\", \"E35\", \"B36\", \"C36\", \"D36\", \"E36\", \"C37\", \"E37\", \"C40\", \"C41\", \"C42\", \"C43\", \"C46\", \"C47\", \"C49\", \"C50\", \"C52\", \"C55\"], \"held\": [\"A1\", \"B1\", \"C1\", \"D1\", \"D1A\", \"E1\", \"F1\", \"T1\", \"A2\", \"B2\", \"C2\", \"D2\", \"F2\", \"T2\", \"A3\", \"B3\", \"C3\", \"D3\", \"E3\", \"T3\", \"A4\", \"B4\", \"C4\", \"D4\", \"F4\", \"T4\", \"A5\", \"B5\", \"D5\", \"E5\", \"T5\", \"A6\", \"B6\", \"C6\", \"D6\", \"E6\", \"F6\", \"T6\", \"A7\", \"B7\", \"D7\", \"E7\", \"F7\", \"T7\", \"D8\", \"D8A\", \"F8\", \"T8\", \"A9\", \"B9\", \"E9\", \"A10\", \"B10\", \"E10\", \"F10\", \"A11\", \"B11\", \"E11\", \"A12\", \"B12\", \"E12\", \"F12\", \"B13\", \"B14\", \"E14\", \"A15\", \"D15\", \"E15\", \"A16\", \"B16\", \"D16\", \"E16\", \"A17\", \"B17\", \"E17\", \"A18\", \"B18\", \"E18\", \"A19\", \"B19\", \"A20\", \"B20\", \"A21\", \"B21\", \"D21\", \"D23\", \"A24\", \"B24\", \"A25\", \"B25\", \"D25\", \"A26\", \"B26\", \"D26\", \"E26\", \"A27\", \"B27\", \"D27\", \"A28\", \"B28\", \"D28\", \"E28\", \"A29\", \"B29\", \"D29\", \"E29\", \"A30\", \"C30\", \"D30\", \"E30\", \"A31\", \"B31\", \"D31\", \"E31\", \"A32\", \"B32\", \"D32\", \"E32\", \"A33\", \"B33\", \"C33\", \"E33\", \"A34\", \"B34\", \"C34\", \"D34\", \"E34\", \"C35\", \"D35\", \"E35\", \"B36\", \"C36\", \"D36\", \"E36\", \"C37\", \"E37\", \"C40\", \"C41\", \"C42\", \"C43\", \"C46\", \"C47\", \"C49\", \"C50\", \"C52\", \"C55\"], \"held_n\": 148, \"main\": [\"A1\", \"B1\", \"C1\", \"D1\", \"D1A\", \"E1\", \"F1\", \"T1\", \"A2\", \"B2\", \"C2\", \"D2\", \"E2\", \"F2\", \"T2\", \"A3\", \"B3\", \"C3\", \"D3\", \"E3\", \"T3\", \"A4\", \"B4\", \"C4\", \"D4\", \"E4\", \"F4\", \"T4\", \"A5\", \"B5\", \"D5\", \"E5\", \"F5\", \"T5\", \"A6\", \"B6\", \"C6\", \"D6\", \"E6\", \"F6\", \"T6\", \"A7\", \"B7\", \"D7\", \"E7\", \"F7\", \"T7\", \"D8\", \"D8A\", \"F8\", \"T8\", \"A9\", \"B9\", \"E9\", \"F9\", \"A10\", \"B10\", \"E10\", \"F10\", \"A11\", \"B11\", \"E11\", \"A12\", \"B12\", \"E12\", \"F12\", \"B13\", \"B14\", \"E14\", \"F14\", \"A15\", \"D15\", \"E15\", \"A16\", \"B16\", \"D16\", \"E16\", \"A17\", \"B17\", \"D17\", \"E17\", \"A18\", \"B18\", \"D18\", \"E18\", \"A19\", \"B19\", \"A20\", \"B20\", \"A21\", \"B21\", \"D21\", \"D23\", \"A24\", \"B24\", \"A25\", \"B25\", \"D25\", \"A26\", \"B26\", \"D26\", \"E26\", \"A27\", \"B27\", \"D27\", \"E27\", \"A28\", \"B28\", \"D28\", \"E28\", \"A29\", \"B29\", \"D29\", \"E29\", \"A30\", \"C30\", \"D30\", \"E30\", \"A31\", \"B31\", \"D31\", \"E31\", \"A32\", \"B32\", \"D32\", \"E32\", \"A33\", \"B33\", \"C33\", \"E33\", \"A34\", \"B34\", \"C34\", \"D34\", \"E34\", \"C35\", \"D35\", \"E35\", \"B36\", \"C36\", \"D36\", \"E36\", \"C37\", \"E37\", \"C40\", \"C41\", \"C42\", \"C43\", \"C46\", \"C47\", \"C49\", \"C50\", \"C52\", \"C55\", \"TBA\"]}",
    "slug": "delta",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "etihad": {
    "airport_short": "Atlanta",
@@ -138,7 +138,7 @@
    "short": "Etihad",
    "sig": "",
    "slug": "etihad",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "frontier": {
    "airport_short": "Atlanta",
@@ -152,7 +152,7 @@
    "short": "Frontier",
    "sig": "{\"focus\": [\"E2\", \"E4\", \"C5\", \"E6\", \"C7\", \"C9\", \"C10\", \"C12\", \"T14\", \"T15\", \"E40\", \"E41\", \"E42\"], \"held\": [\"E2\", \"C7\", \"C9\", \"C10\", \"C12\", \"E40\", \"E41\", \"E42\"], \"held_n\": 8, \"main\": [\"E1\", \"E2\", \"E3\", \"E4\", \"C5\", \"E5\", \"E6\", \"C7\", \"E7\", \"C9\", \"E9\", \"C10\", \"C12\", \"T14\", \"T15\", \"T16\", \"T17\", \"E40\", \"E41\", \"E42\"]}",
    "slug": "frontier",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "jetblue": {
    "airport_short": "Atlanta",
@@ -166,7 +166,7 @@
    "short": "JetBlue",
    "sig": "{\"focus\": [\"T14\", \"T15\", \"T16\", \"T17\", \"E32\", \"E34\", \"E36\"], \"held\": [], \"held_n\": 0, \"main\": [\"T14\", \"T15\", \"T16\", \"T17\", \"E32\", \"E34\", \"E36\"]}",
    "slug": "jetblue",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "klm": {
    "airport_short": "Atlanta",
@@ -180,7 +180,7 @@
    "short": "KLM",
    "sig": "{\"focus\": [\"F3\"], \"held\": [], \"held_n\": 0, \"main\": [\"F3\"]}",
    "slug": "klm",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "korean-air": {
    "airport_short": "Atlanta",
@@ -194,7 +194,7 @@
    "short": "Korean Air",
    "sig": "",
    "slug": "korean-air",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "latam-peru": {
    "airport_short": "Atlanta",
@@ -208,7 +208,7 @@
    "short": "LATAM Per\u00fa",
    "sig": "",
    "slug": "latam-peru",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "lufthansa": {
    "airport_short": "Atlanta",
@@ -222,7 +222,7 @@
    "short": "Lufthansa",
    "sig": "{\"focus\": [\"F3\"], \"held\": [], \"held_n\": 0, \"main\": [\"F3\"]}",
    "slug": "lufthansa",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "sas": {
    "airport_short": "Atlanta",
@@ -236,7 +236,7 @@
    "short": "SAS",
    "sig": "",
    "slug": "sas",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "southwest": {
    "airport_short": "Atlanta",
@@ -250,7 +250,7 @@
    "short": "Southwest",
    "sig": "{\"focus\": [\"C12\", \"C13\", \"C14\", \"C15\", \"C16\", \"C17\", \"C20\", \"C21\", \"C22\"], \"held\": [\"C13\", \"C14\", \"C15\", \"C16\", \"C17\", \"C20\", \"C21\", \"C22\"], \"held_n\": 8, \"main\": [\"C9\", \"C10\", \"C12\", \"C13\", \"C14\", \"C15\", \"C16\", \"C17\", \"C20\", \"C21\", \"C22\"]}",
    "slug": "southwest",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "turkish-airlines": {
    "airport_short": "Atlanta",
@@ -264,7 +264,7 @@
    "short": "Turkish Airlines",
    "sig": "",
    "slug": "turkish-airlines",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "united": {
    "airport_short": "Atlanta",
@@ -278,7 +278,7 @@
    "short": "United",
    "sig": "{\"focus\": [\"T16\", \"T17\", \"T18\", \"T19\", \"T20\", \"T21\", \"E35\"], \"held\": [\"T18\", \"T19\", \"T20\", \"T21\"], \"held_n\": 4, \"main\": [\"E16\", \"T16\", \"T17\", \"T18\", \"T19\", \"T20\", \"T21\", \"E29\", \"E35\"]}",
    "slug": "united",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "virgin-atlantic": {
    "airport_short": "Atlanta",
@@ -292,7 +292,7 @@
    "short": "Virgin Atlantic",
    "sig": "{\"focus\": [\"F4\", \"E27\"], \"held\": [], \"held_n\": 0, \"main\": [\"F4\", \"E27\"]}",
    "slug": "virgin-atlantic",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "westjet": {
    "airport_short": "Atlanta",
@@ -306,7 +306,7 @@
    "short": "WestJet",
    "sig": "{\"focus\": [\"F5\", \"F12\", \"C40\", \"C42\"], \"held\": [], \"held_n\": 0, \"main\": [\"F5\", \"F12\", \"C40\", \"C42\"]}",
    "slug": "westjet",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   }
  },
  "BOS": {
@@ -322,7 +322,7 @@
    "short": "Aer Lingus",
    "sig": "{\"focus\": [\"C20\", \"C21\"], \"held\": [], \"held_n\": 0, \"main\": [\"C20\", \"C21\"]}",
    "slug": "aer-lingus",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "aeromexico": {
    "airport_short": "Boston",
@@ -336,7 +336,7 @@
    "short": "Aerom\u00e9xico",
    "sig": "{\"focus\": [\"E14\", \"E16\"], \"held\": [], \"held_n\": 0, \"main\": [\"E14\", \"E16\"]}",
    "slug": "aeromexico",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "air-canada": {
    "airport_short": "Boston",
@@ -350,7 +350,7 @@
    "short": "Air Canada",
    "sig": "{\"focus\": [\"B1\", \"B2\", \"B3\"], \"held\": [\"B1\", \"B2\", \"B3\"], \"held_n\": 3, \"main\": [\"B1\", \"B2\", \"B3\"]}",
    "slug": "air-canada",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "air-france": {
    "airport_short": "Boston",
@@ -364,7 +364,7 @@
    "short": "Air France",
    "sig": "{\"focus\": [\"E5\", \"E6\"], \"held\": [], \"held_n\": 0, \"main\": [\"E5\", \"E6\"]}",
    "slug": "air-france",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "alaska": {
    "airport_short": "Boston",
@@ -378,7 +378,7 @@
    "short": "Alaska",
    "sig": "{\"focus\": [\"B4\", \"B6\"], \"held\": [\"B4\", \"B6\"], \"held_n\": 2, \"main\": [\"B4\", \"B6\"]}",
    "slug": "alaska",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "allegiant": {
    "airport_short": "Boston",
@@ -392,7 +392,7 @@
    "short": "Allegiant",
    "sig": "{\"focus\": [\"E4\", \"E5\"], \"held\": [], \"held_n\": 0, \"main\": [\"E4\", \"E5\"]}",
    "slug": "allegiant",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "american": {
    "airport_short": "Boston",
@@ -406,7 +406,7 @@
    "short": "American",
    "sig": "{\"focus\": [\"B5\", \"B7\", \"B8\", \"B9\", \"B10\", \"B11\", \"B12\", \"B14\", \"B15\", \"B16\", \"B17\", \"B18\", \"B19\", \"B20\", \"B21\", \"B22\"], \"held\": [\"B5\", \"B7\", \"B8\", \"B9\", \"B10\", \"B11\", \"B12\", \"B14\", \"B15\", \"B16\", \"B17\", \"B18\", \"B19\", \"B20\", \"B21\", \"B22\"], \"held_n\": 16, \"main\": [\"B5\", \"B6\", \"B7\", \"B8\", \"B9\", \"E9\", \"B10\", \"B11\", \"B12\", \"B14\", \"B15\", \"B16\", \"B17\", \"B18\", \"B19\", \"B20\", \"B21\", \"B22\"]}",
    "slug": "american",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "arajet": {
    "airport_short": "Boston",
@@ -420,7 +420,7 @@
    "short": "Arajet",
    "sig": "{\"focus\": [\"E10\", \"E14\"], \"held\": [], \"held_n\": 0, \"main\": [\"E10\", \"E14\"]}",
    "slug": "arajet",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "austrian": {
    "airport_short": "Boston",
@@ -434,7 +434,7 @@
    "short": "Austrian",
    "sig": "{\"focus\": [\"E13\"], \"held\": [], \"held_n\": 0, \"main\": [\"E13\"]}",
    "slug": "austrian",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "avianca": {
    "airport_short": "Boston",
@@ -448,7 +448,7 @@
    "short": "Avianca",
    "sig": "{\"focus\": [\"E7\", \"E11\"], \"held\": [], \"held_n\": 0, \"main\": [\"E7\", \"E11\"]}",
    "slug": "avianca",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "azores-airlines": {
    "airport_short": "Boston",
@@ -462,7 +462,7 @@
    "short": "Azores Airlines",
    "sig": "{\"focus\": [\"E4\", \"E5\", \"E15\"], \"held\": [], \"held_n\": 0, \"main\": [\"E4\", \"E5\", \"E15\"]}",
    "slug": "azores-airlines",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "boutique-air": {
    "airport_short": "Boston",
@@ -476,7 +476,7 @@
    "short": "Boutique Air",
    "sig": "{\"focus\": [\"B35A\"], \"held\": [\"B35A\"], \"held_n\": 1, \"main\": [\"B35A\"]}",
    "slug": "boutique-air",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "british-airways": {
    "airport_short": "Boston",
@@ -490,7 +490,7 @@
    "short": "British Airways",
    "sig": "{\"focus\": [\"E9\", \"E10\", \"E12\"], \"held\": [], \"held_n\": 0, \"main\": [\"E9\", \"E10\", \"E12\"]}",
    "slug": "british-airways",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "cape-air": {
    "airport_short": "Boston",
@@ -504,7 +504,7 @@
    "short": "Cape Air",
    "sig": "{\"focus\": [\"C27\"], \"held\": [\"C27\"], \"held_n\": 1, \"main\": [\"C27\"]}",
    "slug": "cape-air",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "cathay-pacific": {
    "airport_short": "Boston",
@@ -518,7 +518,7 @@
    "short": "Cathay Pacific",
    "sig": "{\"focus\": [\"E9\", \"E12\", \"E13\"], \"held\": [], \"held_n\": 0, \"main\": [\"E9\", \"E12\", \"E13\"]}",
    "slug": "cathay-pacific",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "copa": {
    "airport_short": "Boston",
@@ -532,7 +532,7 @@
    "short": "Copa",
    "sig": "{\"focus\": [\"E6\", \"E15\"], \"held\": [], \"held_n\": 0, \"main\": [\"E6\", \"E15\"]}",
    "slug": "copa",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "delta": {
    "airport_short": "Boston",
@@ -546,7 +546,7 @@
    "short": "Delta",
    "sig": "{\"focus\": [\"A1\", \"A2\", \"A3\", \"A4\", \"A5\", \"A6\", \"A7\", \"A8\", \"A9\", \"A10\", \"A11\", \"A13\", \"A14\", \"A15\", \"E15\", \"A16\", \"E16\", \"A17\", \"A18\", \"A19\", \"A20\", \"A21\", \"A22\"], \"held\": [\"A1\", \"A2\", \"A3\", \"A4\", \"A5\", \"A6\", \"A7\", \"A8\", \"A9\", \"A10\", \"A11\", \"A13\", \"A14\", \"A15\", \"E15\", \"A16\", \"E16\", \"A17\", \"A18\", \"A19\", \"A20\", \"A21\", \"A22\"], \"held_n\": 23, \"main\": [\"A1\", \"A2\", \"A3\", \"E3\", \"A4\", \"E4\", \"A5\", \"A6\", \"E6\", \"A7\", \"E7\", \"A8\", \"E8\", \"A9\", \"E9\", \"A10\", \"E10\", \"A11\", \"E11\", \"E12\", \"A13\", \"E13\", \"A14\", \"E14\", \"A15\", \"E15\", \"A16\", \"E16\", \"A17\", \"A18\", \"A19\", \"A20\", \"A21\", \"A22\"]}",
    "slug": "delta",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "emirates": {
    "airport_short": "Boston",
@@ -560,7 +560,7 @@
    "short": "Emirates",
    "sig": "{\"focus\": [\"E11\"], \"held\": [], \"held_n\": 0, \"main\": [\"E11\"]}",
    "slug": "emirates",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "etihad": {
    "airport_short": "Boston",
@@ -574,7 +574,7 @@
    "short": "Etihad",
    "sig": "{\"focus\": [\"C17\"], \"held\": [], \"held_n\": 0, \"main\": [\"C17\"]}",
    "slug": "etihad",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "frontier": {
    "airport_short": "Boston",
@@ -588,7 +588,7 @@
    "short": "Frontier",
    "sig": "{\"focus\": [\"E13\"], \"held\": [], \"held_n\": 0, \"main\": [\"E13\"]}",
    "slug": "frontier",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "hainan-airlines": {
    "airport_short": "Boston",
@@ -602,7 +602,7 @@
    "short": "Hainan Airlines",
    "sig": "{\"focus\": [\"E7\"], \"held\": [], \"held_n\": 0, \"main\": [\"E7\"]}",
    "slug": "hainan-airlines",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "iberia": {
    "airport_short": "Boston",
@@ -616,7 +616,7 @@
    "short": "Iberia",
    "sig": "{\"focus\": [\"3\", \"E3\", \"E11\"], \"held\": [], \"held_n\": 0, \"main\": [\"3\", \"E3\", \"E11\"]}",
    "slug": "iberia",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "icelandair": {
    "airport_short": "Boston",
@@ -630,7 +630,7 @@
    "short": "Icelandair",
    "sig": "{\"focus\": [\"E5\", \"E7\", \"E8\"], \"held\": [], \"held_n\": 0, \"main\": [\"E5\", \"E7\", \"E8\"]}",
    "slug": "icelandair",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "ita-airways": {
    "airport_short": "Boston",
@@ -644,7 +644,7 @@
    "short": "ITA Airways",
    "sig": "{\"focus\": [\"E4\", \"E8\"], \"held\": [], \"held_n\": 0, \"main\": [\"E4\", \"E8\"]}",
    "slug": "ita-airways",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "japan-airlines": {
    "airport_short": "Boston",
@@ -658,7 +658,7 @@
    "short": "Japan Airlines",
    "sig": "{\"focus\": [\"E8\"], \"held\": [], \"held_n\": 0, \"main\": [\"E8\"]}",
    "slug": "japan-airlines",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "jetblue": {
    "airport_short": "Boston",
@@ -672,7 +672,7 @@
    "short": "JetBlue",
    "sig": "{\"focus\": [\"C5\", \"C7\", \"C8\", \"C9\", \"C12\", \"C14\", \"C15\", \"C16\", \"C17\", \"C19\", \"C20\", \"C22\", \"C23\", \"C23A\", \"C23B\", \"C24\", \"C25\", \"C26\", \"C28\", \"C29\", \"C30\", \"C31\", \"C32\", \"C33\", \"C34\", \"C36\"], \"held\": [\"C7\", \"C8\", \"C9\", \"C12\", \"C14\", \"C15\", \"C16\", \"C17\", \"C19\", \"C20\", \"C22\", \"C23\", \"C23A\", \"C23B\", \"C24\", \"C25\", \"C26\", \"C28\", \"C29\", \"C30\", \"C31\", \"C32\", \"C33\", \"C34\", \"C36\"], \"held_n\": 26, \"main\": [\"E3\", \"C5\", \"E5\", \"E6\", \"C7\", \"C8\", \"C9\", \"C12\", \"C14\", \"C15\", \"C16\", \"C17\", \"C18\", \"C19\", \"C20\", \"C21\", \"C22\", \"C23\", \"C23A\", \"C23B\", \"C24\", \"C25\", \"C26\", \"C27\", \"C28\", \"C29\", \"C30\", \"C31\", \"C32\", \"C33\", \"C34\", \"C36\"]}",
    "slug": "jetblue",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "klm": {
    "airport_short": "Boston",
@@ -686,7 +686,7 @@
    "short": "KLM",
    "sig": "{\"focus\": [\"E4\", \"E5\"], \"held\": [], \"held_n\": 0, \"main\": [\"E4\", \"E5\"]}",
    "slug": "klm",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "korean-air": {
    "airport_short": "Boston",
@@ -700,7 +700,7 @@
    "short": "Korean Air",
    "sig": "{\"focus\": [\"E11\", \"E12\"], \"held\": [], \"held_n\": 0, \"main\": [\"E11\", \"E12\"]}",
    "slug": "korean-air",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "latam-brasil": {
    "airport_short": "Boston",
@@ -714,7 +714,7 @@
    "short": "LATAM Brasil",
    "sig": "{\"focus\": [\"E9\", \"E10\"], \"held\": [], \"held_n\": 0, \"main\": [\"E9\", \"E10\"]}",
    "slug": "latam-brasil",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "lufthansa": {
    "airport_short": "Boston",
@@ -728,7 +728,7 @@
    "short": "Lufthansa",
    "sig": "{\"focus\": [\"E9\", \"E10\", \"E11\"], \"held\": [], \"held_n\": 0, \"main\": [\"E9\", \"E10\", \"E11\"]}",
    "slug": "lufthansa",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "pal-airlines": {
    "airport_short": "Boston",
@@ -742,7 +742,7 @@
    "short": "PAL Airlines",
    "sig": "",
    "slug": "pal-airlines",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "porter": {
    "airport_short": "Boston",
@@ -756,7 +756,7 @@
    "short": "Porter",
    "sig": "{\"focus\": [\"E3\", \"E7\"], \"held\": [], \"held_n\": 0, \"main\": [\"E3\", \"E7\"]}",
    "slug": "porter",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "sas": {
    "airport_short": "Boston",
@@ -770,7 +770,7 @@
    "short": "SAS",
    "sig": "{\"focus\": [\"E6\", \"E9\", \"E13\"], \"held\": [], \"held_n\": 0, \"main\": [\"E6\", \"E9\", \"E13\"]}",
    "slug": "sas",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "southwest": {
    "airport_short": "Boston",
@@ -784,7 +784,7 @@
    "short": "Southwest",
    "sig": "{\"focus\": [\"B31A\", \"B32\", \"B33\", \"B34\", \"B35\"], \"held\": [\"B31A\", \"B32\", \"B33\", \"B34\", \"B35\"], \"held_n\": 5, \"main\": [\"B31A\", \"B32\", \"B33\", \"B34\", \"B35\", \"B35A\"]}",
    "slug": "southwest",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "sun-country": {
    "airport_short": "Boston",
@@ -798,7 +798,7 @@
    "short": "Sun Country",
    "sig": "{\"focus\": [\"E6\"], \"held\": [], \"held_n\": 0, \"main\": [\"E6\"]}",
    "slug": "sun-country",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "swiss": {
    "airport_short": "Boston",
@@ -812,7 +812,7 @@
    "short": "SWISS",
    "sig": "{\"focus\": [\"E9\", \"E10\"], \"held\": [], \"held_n\": 0, \"main\": [\"E9\", \"E10\"]}",
    "slug": "swiss",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "tap": {
    "airport_short": "Boston",
@@ -826,7 +826,7 @@
    "short": "TAP",
    "sig": "{\"focus\": [\"C18\", \"47A\"], \"held\": [], \"held_n\": 0, \"main\": [\"C18\", \"47A\"]}",
    "slug": "tap",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "turkish-airlines": {
    "airport_short": "Boston",
@@ -840,7 +840,7 @@
    "short": "Turkish Airlines",
    "sig": "{\"focus\": [\"E11\", \"E13\"], \"held\": [], \"held_n\": 0, \"main\": [\"E11\", \"E13\"]}",
    "slug": "turkish-airlines",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "united": {
    "airport_short": "Boston",
@@ -854,7 +854,7 @@
    "short": "United",
    "sig": "{\"focus\": [\"B23\", \"B24\", \"B25\", \"B26\", \"B27\", \"B28\", \"B29\", \"B30\", \"B31\"], \"held\": [\"B23\", \"B24\", \"B25\", \"B26\", \"B27\", \"B28\", \"B29\", \"B30\", \"B31\"], \"held_n\": 9, \"main\": [\"B23\", \"B24\", \"B25\", \"B26\", \"B27\", \"B28\", \"B29\", \"B30\", \"B31\"]}",
    "slug": "united",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "virgin-atlantic": {
    "airport_short": "Boston",
@@ -868,7 +868,7 @@
    "short": "Virgin Atlantic",
    "sig": "{\"focus\": [\"E13\", \"E14\", \"E15\"], \"held\": [], \"held_n\": 0, \"main\": [\"E13\", \"E14\", \"E15\"]}",
    "slug": "virgin-atlantic",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "westjet": {
    "airport_short": "Boston",
@@ -882,7 +882,7 @@
    "short": "WestJet",
    "sig": "{\"focus\": [\"E5\", \"E7\", \"E8\"], \"held\": [], \"held_n\": 0, \"main\": [\"E5\", \"E7\", \"E8\"]}",
    "slug": "westjet",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   }
  },
  "BUR": {
@@ -898,7 +898,7 @@
    "short": "Alaska",
    "sig": "{\"focus\": [\"B3\", \"B4\", \"B5\"], \"held\": [\"B3\", \"B4\", \"B5\"], \"held_n\": 3, \"main\": [\"B3\", \"B4\", \"B5\"]}",
    "slug": "alaska",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "american": {
    "airport_short": "Burbank",
@@ -912,7 +912,7 @@
    "short": "American",
    "sig": "{\"focus\": [\"A8\"], \"held\": [\"A8\"], \"held_n\": 1, \"main\": [\"A8\"]}",
    "slug": "american",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "breeze": {
    "airport_short": "Burbank",
@@ -926,7 +926,7 @@
    "short": "Breeze",
    "sig": "{\"focus\": [\"A7\", \"A9\"], \"held\": [], \"held_n\": 0, \"main\": [\"A7\", \"A9\"]}",
    "slug": "breeze",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "delta": {
    "airport_short": "Burbank",
@@ -940,7 +940,7 @@
    "short": "Delta",
    "sig": "{\"focus\": [\"A7\"], \"held\": [\"A7\"], \"held_n\": 1, \"main\": [\"A7\"]}",
    "slug": "delta",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "frontier": {
    "airport_short": "Burbank",
@@ -954,7 +954,7 @@
    "short": "Frontier",
    "sig": "{\"focus\": [\"A8\", \"A9\"], \"held\": [], \"held_n\": 0, \"main\": [\"A8\", \"A9\"]}",
    "slug": "frontier",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "jetblue": {
    "airport_short": "Burbank",
@@ -968,7 +968,7 @@
    "short": "JetBlue",
    "sig": "{\"focus\": [\"B1\"], \"held\": [], \"held_n\": 0, \"main\": [\"B1\"]}",
    "slug": "jetblue",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "southwest": {
    "airport_short": "Burbank",
@@ -982,7 +982,7 @@
    "short": "Southwest",
    "sig": "{\"focus\": [\"A1\", \"A2\", \"A3\", \"A4\", \"A5\", \"A6\", \"A9\"], \"held\": [\"A1\", \"A2\", \"A3\", \"A4\", \"A5\", \"A6\"], \"held_n\": 6, \"main\": [\"A1\", \"A2\", \"A3\", \"A4\", \"A5\", \"A6\", \"A9\"]}",
    "slug": "southwest",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "united": {
    "airport_short": "Burbank",
@@ -996,7 +996,7 @@
    "short": "United",
    "sig": "{\"focus\": [\"B1\", \"B2\"], \"held\": [\"B1\", \"B2\"], \"held_n\": 2, \"main\": [\"B1\", \"B2\"]}",
    "slug": "united",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   }
  },
  "DEN": {
@@ -1012,7 +1012,7 @@
    "short": "Air Canada",
    "sig": "{\"focus\": [\"A35\", \"A39\", \"A41\", \"A42\", \"A43\", \"A47\"], \"held\": [], \"held_n\": 0, \"main\": [\"A35\", \"A39\", \"A41\", \"A42\", \"A43\", \"A47\"]}",
    "slug": "air-canada",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "air-canada-rouge": {
    "airport_short": "Denver",
@@ -1026,7 +1026,7 @@
    "short": "Air Canada Rouge",
    "sig": "{\"focus\": [\"A33\", \"A43\"], \"held\": [], \"held_n\": 0, \"main\": [\"A33\", \"A43\"]}",
    "slug": "air-canada-rouge",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "alaska": {
    "airport_short": "Denver",
@@ -1040,7 +1040,7 @@
    "short": "Alaska",
    "sig": "{\"focus\": [\"A42\", \"A44\", \"A46\"], \"held\": [\"A44\", \"A46\"], \"held_n\": 2, \"main\": [\"A42\", \"A44\", \"A46\"]}",
    "slug": "alaska",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "allegiant": {
    "airport_short": "Denver",
@@ -1054,7 +1054,7 @@
    "short": "Allegiant",
    "sig": "{\"focus\": [\"A37\", \"A39\", \"A42\", \"A43\"], \"held\": [], \"held_n\": 0, \"main\": [\"A37\", \"A39\", \"A42\", \"A43\"]}",
    "slug": "allegiant",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "american": {
    "airport_short": "Denver",
@@ -1068,7 +1068,7 @@
    "short": "American",
    "sig": "{\"focus\": [\"C30\", \"C32\", \"C34\", \"C36\", \"C38\"], \"held\": [\"C30\", \"C32\", \"C34\", \"C36\", \"C38\"], \"held_n\": 5, \"main\": [\"C30\", \"C32\", \"C34\", \"C36\", \"C38\"]}",
    "slug": "american",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "copa": {
    "airport_short": "Denver",
@@ -1082,7 +1082,7 @@
    "short": "Copa",
    "sig": "{\"focus\": [\"A42\", \"A43\"], \"held\": [], \"held_n\": 0, \"main\": [\"A42\", \"A43\"]}",
    "slug": "copa",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "delta": {
    "airport_short": "Denver",
@@ -1096,7 +1096,7 @@
    "short": "Delta",
    "sig": "{\"focus\": [\"A39\", \"A43\", \"A45\", \"A47\", \"A48\", \"A49\", \"A50\", \"A51\", \"A52\", \"A53\"], \"held\": [\"A48\", \"A49\", \"A50\", \"A51\", \"A52\", \"A53\"], \"held_n\": 6, \"main\": [\"A33\", \"A35\", \"A37\", \"A39\", \"A41\", \"A42\", \"A43\", \"A45\", \"A47\", \"A48\", \"A49\", \"A50\", \"A51\", \"A52\", \"A53\"]}",
    "slug": "delta",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "frontier": {
    "airport_short": "Denver",
@@ -1110,7 +1110,7 @@
    "short": "Frontier",
    "sig": "{\"focus\": [\"A54\", \"A56\", \"A71\", \"A73\", \"A75\", \"A76\", \"A77\", \"A78\", \"A79\", \"A80\", \"A81\", \"A82\", \"A83\", \"A84\"], \"held\": [\"A54\", \"A56\", \"A71\", \"A73\", \"A75\", \"A76\", \"A77\", \"A78\", \"A79\", \"A80\", \"A81\", \"A82\", \"A83\", \"A84\"], \"held_n\": 14, \"main\": [\"A33\", \"A35\", \"A54\", \"A56\", \"A71\", \"A73\", \"A75\", \"A76\", \"A77\", \"A78\", \"A79\", \"A80\", \"A81\", \"A82\", \"A83\", \"A84\"]}",
    "slug": "frontier",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "jetblue": {
    "airport_short": "Denver",
@@ -1124,7 +1124,7 @@
    "short": "JetBlue",
    "sig": "{\"focus\": [\"A33\"], \"held\": [], \"held_n\": 0, \"main\": [\"A33\"]}",
    "slug": "jetblue",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "lufthansa": {
    "airport_short": "Denver",
@@ -1138,7 +1138,7 @@
    "short": "Lufthansa",
    "sig": "{\"focus\": [\"A41\", \"A45\"], \"held\": [], \"held_n\": 0, \"main\": [\"A41\", \"A45\"]}",
    "slug": "lufthansa",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "southwest": {
    "airport_short": "Denver",
@@ -1152,7 +1152,7 @@
    "short": "Southwest",
    "sig": "{\"focus\": [\"C23\", \"C24\", \"C25\", \"C26\", \"C27\", \"C28\", \"C29\", \"C31\", \"C33\", \"C35\", \"C37\", \"C39\", \"C40\", \"C41\", \"C42\", \"C43\", \"C44\", \"C45\", \"C46\", \"C47\", \"C48\", \"C49\", \"C50\", \"C51\", \"C52\", \"C54\", \"C55\", \"C56\", \"C57\", \"C58\", \"C59\", \"C60\", \"C61\", \"C62\", \"C63\", \"C64\", \"C65\", \"C66\", \"C67\"], \"held\": [\"C23\", \"C24\", \"C25\", \"C26\", \"C27\", \"C28\", \"C29\", \"C31\", \"C33\", \"C35\", \"C37\", \"C39\", \"C40\", \"C41\", \"C42\", \"C43\", \"C44\", \"C45\", \"C46\", \"C47\", \"C48\", \"C49\", \"C50\", \"C51\", \"C52\", \"C54\", \"C55\", \"C56\", \"C57\", \"C58\", \"C59\", \"C60\", \"C61\", \"C62\", \"C63\", \"C64\", \"C65\", \"C66\", \"C67\"], \"held_n\": 39, \"main\": [\"C23\", \"C24\", \"C25\", \"C26\", \"C27\", \"C28\", \"C29\", \"C31\", \"C33\", \"C35\", \"C37\", \"C39\", \"C40\", \"A41\", \"C41\", \"C42\", \"C43\", \"C44\", \"C45\", \"C46\", \"C47\", \"C48\", \"C49\", \"C50\", \"C51\", \"C52\", \"C54\", \"C55\", \"C56\", \"C57\", \"C58\", \"C59\", \"C60\", \"C61\", \"C62\", \"C63\", \"C64\", \"C65\", \"C66\", \"C67\"]}",
    "slug": "southwest",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "united": {
    "airport_short": "Denver",
@@ -1166,7 +1166,7 @@
    "short": "United",
    "sig": "{\"focus\": [\"B7\", \"B8\", \"B9\", \"B10\", \"B11\", \"B12\", \"A14\", \"A15\", \"B15\", \"A16\", \"B16\", \"A17\", \"B17\", \"A18\", \"B18\", \"A19\", \"B19\", \"A20\", \"B20\", \"A21\", \"B21\", \"A22\", \"B22\", \"A23\", \"B23\", \"A24\", \"B24\", \"A25\", \"B25\", \"A26\", \"B26\", \"A27\", \"B27\", \"A28\", \"B28\", \"A29\", \"B29\", \"A30\", \"A31\", \"B31\", \"A32\", \"B32\", \"A34\", \"B35\", \"A36\", \"B36\", \"B37\", \"A38\", \"B38\", \"B39\", \"A40\", \"B41\", \"B42\", \"B43\", \"B44\", \"B45\", \"B46\", \"B47\", \"B48\", \"B49\", \"B50\", \"B51\", \"B52\", \"B53\", \"B54\", \"B55\", \"B56\", \"B58\", \"B59\", \"B61\", \"B62\", \"B63\", \"B64\", \"B65\", \"B66\", \"B67\", \"B68\", \"B69\", \"B70\", \"B71\", \"B86\", \"B88\", \"B90\", \"B92\"], \"held\": [\"B7\", \"B8\", \"B9\", \"B10\", \"B11\", \"B12\", \"A14\", \"A15\", \"B15\", \"A16\", \"B16\", \"B17\", \"A18\", \"B18\", \"A19\", \"B19\", \"A20\", \"B20\", \"B21\", \"A22\", \"B22\", \"A23\", \"B23\", \"A24\", \"B24\", \"B25\", \"A26\", \"B26\", \"B27\", \"A28\", \"B28\", \"A29\", \"B29\", \"A30\", \"A31\", \"B31\", \"A32\", \"B32\", \"A34\", \"B35\", \"A36\", \"B36\", \"B37\", \"A38\", \"B38\", \"B39\", \"A40\", \"B41\", \"B42\", \"B43\", \"B44\", \"B45\", \"B46\", \"B47\", \"B48\", \"B49\", \"B50\", \"B51\", \"B52\", \"B53\", \"B54\", \"B55\", \"B56\", \"B58\", \"B59\", \"B61\", \"B62\", \"B63\", \"B64\", \"B65\", \"B66\", \"B67\", \"B68\", \"B69\", \"B70\", \"B71\", \"B86\", \"B88\", \"B90\", \"B92\"], \"held_n\": 84, \"main\": [\"B7\", \"B8\", \"B9\", \"B10\", \"B11\", \"B12\", \"A14\", \"A15\", \"B15\", \"A16\", \"B16\", \"A17\", \"B17\", \"A18\", \"B18\", \"A19\", \"B19\", \"A20\", \"B20\", \"A21\", \"B21\", \"A22\", \"B22\", \"A23\", \"B23\", \"A24\", \"B24\", \"A25\", \"B25\", \"A26\", \"B26\", \"A27\", \"B27\", \"A28\", \"B28\", \"A29\", \"B29\", \"A30\", \"A31\", \"B31\", \"A32\", \"B32\", \"A33\", \"A34\", \"A35\", \"B35\", \"A36\", \"B36\", \"B37\", \"A38\", \"B38\", \"B39\", \"A40\", \"B41\", \"A42\", \"B42\", \"B43\", \"B44\", \"B45\", \"B46\", \"B47\", \"B48\", \"B49\", \"B50\", \"B51\", \"B52\", \"B53\", \"B54\", \"B55\", \"B56\", \"B58\", \"B59\", \"B61\", \"B62\", \"B63\", \"B64\", \"B65\", \"B66\", \"B67\", \"B68\", \"B69\", \"B70\", \"B71\", \"B86\", \"B88\", \"B90\", \"B92\", \"SIG\"]}",
    "slug": "united",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "volaris": {
    "airport_short": "Denver",
@@ -1180,7 +1180,471 @@
    "short": "Volaris",
    "sig": "{\"focus\": [\"A45\", \"A47\"], \"held\": [], \"held_n\": 0, \"main\": [\"A45\", \"A47\"]}",
    "slug": "volaris",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
+  }
+ },
+ "EWR": {
+  "aer-lingus": {
+   "airport_short": "Newark",
+   "code": "EI",
+   "deps_day": 1.0,
+   "gone": false,
+   "last_seen": "2026-10-03",
+   "last_seen_str": "Oct 3, 2026",
+   "name": "Aer Lingus",
+   "published": "2026-10-06",
+   "short": "Aer Lingus",
+   "sig": "",
+   "slug": "aer-lingus",
+   "updated": "2026-10-06"
+  },
+  "aeromexico": {
+   "airport_short": "Newark",
+   "code": "AM",
+   "deps_day": 1.0,
+   "gone": false,
+   "last_seen": "2026-10-03",
+   "last_seen_str": "Oct 3, 2026",
+   "name": "Aerom\u00e9xico",
+   "published": "2026-10-06",
+   "short": "Aerom\u00e9xico",
+   "sig": "",
+   "slug": "aeromexico",
+   "updated": "2026-10-06"
+  },
+  "air-canada": {
+   "airport_short": "Newark",
+   "code": "AC",
+   "deps_day": 12.0,
+   "gone": false,
+   "last_seen": "2026-10-03",
+   "last_seen_str": "Oct 3, 2026",
+   "name": "Air Canada",
+   "published": "2026-10-06",
+   "short": "Air Canada",
+   "sig": "{\"focus\": [\"A1\", \"A7\", \"A8A\"], \"held\": [\"A1\"], \"held_n\": 2, \"main\": [\"A1\", \"A7\", \"A8A\"]}",
+   "slug": "air-canada",
+   "updated": "2026-10-06"
+  },
+  "air-france": {
+   "airport_short": "Newark",
+   "code": "AF",
+   "deps_day": 1.3,
+   "gone": false,
+   "last_seen": "2026-10-03",
+   "last_seen_str": "Oct 3, 2026",
+   "name": "Air France",
+   "published": "2026-10-06",
+   "short": "Air France",
+   "sig": "{\"focus\": [\"B53\", \"B63\", \"B66\", \"B68\"], \"held\": [], \"held_n\": 0, \"main\": [\"B53\", \"B63\", \"B66\", \"B68\"]}",
+   "slug": "air-france",
+   "updated": "2026-10-06"
+  },
+  "air-india": {
+   "airport_short": "Newark",
+   "code": "AI",
+   "deps_day": 1.0,
+   "gone": false,
+   "last_seen": "2026-10-03",
+   "last_seen_str": "Oct 3, 2026",
+   "name": "Air India",
+   "published": "2026-10-06",
+   "short": "Air India",
+   "sig": "",
+   "slug": "air-india",
+   "updated": "2026-10-06"
+  },
+  "air-premia": {
+   "airport_short": "Newark",
+   "code": "YP",
+   "deps_day": 1.0,
+   "gone": false,
+   "last_seen": "2026-10-03",
+   "last_seen_str": "Oct 3, 2026",
+   "name": "Air Premia",
+   "published": "2026-10-06",
+   "short": "Air Premia",
+   "sig": "",
+   "slug": "air-premia",
+   "updated": "2026-10-06"
+  },
+  "alaska": {
+   "airport_short": "Newark",
+   "code": "AS",
+   "deps_day": 6.7,
+   "gone": false,
+   "last_seen": "2026-10-03",
+   "last_seen_str": "Oct 3, 2026",
+   "name": "Alaska Airlines",
+   "published": "2026-10-06",
+   "short": "Alaska",
+   "sig": "{\"focus\": [\"B41\", \"B42\", \"B44\", \"B46\"], \"held\": [\"B41\", \"B44\"], \"held_n\": 2, \"main\": [\"B41\", \"B42\", \"B44\", \"B46\"]}",
+   "slug": "alaska",
+   "updated": "2026-10-06"
+  },
+  "allegiant": {
+   "airport_short": "Newark",
+   "code": "G4",
+   "deps_day": 2.0,
+   "gone": false,
+   "last_seen": "2026-10-03",
+   "last_seen_str": "Oct 3, 2026",
+   "name": "Allegiant Air",
+   "published": "2026-10-06",
+   "short": "Allegiant",
+   "sig": "{\"focus\": [\"B42\", \"B46\", \"B47\"], \"held\": [\"B47\"], \"held_n\": 1, \"main\": [\"B42\", \"B46\", \"B47\"]}",
+   "slug": "allegiant",
+   "updated": "2026-10-06"
+  },
+  "american": {
+   "airport_short": "Newark",
+   "code": "AA",
+   "deps_day": 20.7,
+   "gone": false,
+   "last_seen": "2026-10-03",
+   "last_seen_str": "Oct 3, 2026",
+   "name": "American Airlines",
+   "published": "2026-10-06",
+   "short": "American",
+   "sig": "{\"focus\": [\"A7\", \"A9\", \"A10\", \"A11\"], \"held\": [\"A9\", \"A10\", \"A11\"], \"held_n\": 3, \"main\": [\"A7\", \"A9\", \"A10\", \"A11\"]}",
+   "slug": "american",
+   "updated": "2026-10-06"
+  },
+  "austrian": {
+   "airport_short": "Newark",
+   "code": "OS",
+   "deps_day": 1.0,
+   "gone": false,
+   "last_seen": "2026-10-03",
+   "last_seen_str": "Oct 3, 2026",
+   "name": "Austrian Airlines",
+   "published": "2026-10-06",
+   "short": "Austrian",
+   "sig": "{\"focus\": [\"B63\", \"B65\", \"B68\"], \"held\": [], \"held_n\": 0, \"main\": [\"B63\", \"B65\", \"B68\"]}",
+   "slug": "austrian",
+   "updated": "2026-10-06"
+  },
+  "b0": {
+   "airport_short": "Newark",
+   "code": "B0",
+   "deps_day": 2.0,
+   "gone": false,
+   "last_seen": "2026-10-03",
+   "last_seen_str": "Oct 3, 2026",
+   "name": "B0",
+   "published": "2026-10-06",
+   "short": "B0",
+   "sig": "",
+   "slug": "b0",
+   "updated": "2026-10-06"
+  },
+  "bf": {
+   "airport_short": "Newark",
+   "code": "BF",
+   "deps_day": 0.7,
+   "gone": false,
+   "last_seen": "2026-10-03",
+   "last_seen_str": "Oct 3, 2026",
+   "name": "BF",
+   "published": "2026-10-06",
+   "short": "BF",
+   "sig": "",
+   "slug": "bf",
+   "updated": "2026-10-06"
+  },
+  "british-airways": {
+   "airport_short": "Newark",
+   "code": "BA",
+   "deps_day": 2.0,
+   "gone": false,
+   "last_seen": "2026-10-03",
+   "last_seen_str": "Oct 3, 2026",
+   "name": "British Airways",
+   "published": "2026-10-06",
+   "short": "British Airways",
+   "sig": "",
+   "slug": "british-airways",
+   "updated": "2026-10-06"
+  },
+  "delta": {
+   "airport_short": "Newark",
+   "code": "DL",
+   "deps_day": 25.7,
+   "gone": false,
+   "last_seen": "2026-10-03",
+   "last_seen_str": "Oct 3, 2026",
+   "name": "Delta Air Lines",
+   "published": "2026-10-06",
+   "short": "Delta",
+   "sig": "{\"focus\": [\"A3\", \"A5\", \"A7\"], \"held\": [\"A3\", \"A5\"], \"held_n\": 2, \"main\": [\"A3\", \"A5\", \"A7\", \"TBA\"]}",
+   "slug": "delta",
+   "updated": "2026-10-06"
+  },
+  "emirates": {
+   "airport_short": "Newark",
+   "code": "EK",
+   "deps_day": 0.7,
+   "gone": false,
+   "last_seen": "2026-10-03",
+   "last_seen_str": "Oct 3, 2026",
+   "name": "Emirates",
+   "published": "2026-10-06",
+   "short": "Emirates",
+   "sig": "",
+   "slug": "emirates",
+   "updated": "2026-10-06"
+  },
+  "ethiopian": {
+   "airport_short": "Newark",
+   "code": "ET",
+   "deps_day": 0.7,
+   "gone": false,
+   "last_seen": "2026-10-03",
+   "last_seen_str": "Oct 3, 2026",
+   "name": "Ethiopian Airlines",
+   "published": "2026-10-06",
+   "short": "Ethiopian",
+   "sig": "{\"focus\": [\"B54\", \"B55\"], \"held\": [], \"held_n\": 0, \"main\": [\"B54\", \"B55\"]}",
+   "slug": "ethiopian",
+   "updated": "2026-10-06"
+  },
+  "frontier": {
+   "airport_short": "Newark",
+   "code": "F9",
+   "deps_day": 4.0,
+   "gone": false,
+   "last_seen": "2026-10-03",
+   "last_seen_str": "Oct 3, 2026",
+   "name": "Frontier Airlines",
+   "published": "2026-10-06",
+   "short": "Frontier",
+   "sig": "",
+   "slug": "frontier",
+   "updated": "2026-10-06"
+  },
+  "iberia": {
+   "airport_short": "Newark",
+   "code": "IB",
+   "deps_day": 1.0,
+   "gone": false,
+   "last_seen": "2026-10-03",
+   "last_seen_str": "Oct 3, 2026",
+   "name": "Iberia",
+   "published": "2026-10-06",
+   "short": "Iberia",
+   "sig": "{\"focus\": [\"B56\"], \"held\": [], \"held_n\": 0, \"main\": [\"B56\"]}",
+   "slug": "iberia",
+   "updated": "2026-10-06"
+  },
+  "icelandair": {
+   "airport_short": "Newark",
+   "code": "FI",
+   "deps_day": 1.0,
+   "gone": false,
+   "last_seen": "2026-10-03",
+   "last_seen_str": "Oct 3, 2026",
+   "name": "Icelandair",
+   "published": "2026-10-06",
+   "short": "Icelandair",
+   "sig": "",
+   "slug": "icelandair",
+   "updated": "2026-10-06"
+  },
+  "jetblue": {
+   "airport_short": "Newark",
+   "code": "B6",
+   "deps_day": 11.7,
+   "gone": false,
+   "last_seen": "2026-10-03",
+   "last_seen_str": "Oct 3, 2026",
+   "name": "JetBlue",
+   "published": "2026-10-06",
+   "short": "JetBlue",
+   "sig": "{\"focus\": [\"A31\", \"A33\", \"56\"], \"held\": [\"A31\", \"A33\"], \"held_n\": 2, \"main\": [\"A31\", \"A33\", \"56\"]}",
+   "slug": "jetblue",
+   "updated": "2026-10-06"
+  },
+  "lot": {
+   "airport_short": "Newark",
+   "code": "LO",
+   "deps_day": 1.0,
+   "gone": false,
+   "last_seen": "2026-10-03",
+   "last_seen_str": "Oct 3, 2026",
+   "name": "LOT Polish Airlines",
+   "published": "2026-10-06",
+   "short": "LOT",
+   "sig": "",
+   "slug": "lot",
+   "updated": "2026-10-06"
+  },
+  "lufthansa": {
+   "airport_short": "Newark",
+   "code": "LH",
+   "deps_day": 2.0,
+   "gone": false,
+   "last_seen": "2026-10-03",
+   "last_seen_str": "Oct 3, 2026",
+   "name": "Lufthansa",
+   "published": "2026-10-06",
+   "short": "Lufthansa",
+   "sig": "{\"focus\": [\"B62\"], \"held\": [], \"held_n\": 0, \"main\": [\"B62\"]}",
+   "slug": "lufthansa",
+   "updated": "2026-10-06"
+  },
+  "n3": {
+   "airport_short": "Newark",
+   "code": "N3",
+   "deps_day": 0.7,
+   "gone": false,
+   "last_seen": "2026-10-03",
+   "last_seen_str": "Oct 3, 2026",
+   "name": "N3",
+   "published": "2026-10-06",
+   "short": "N3",
+   "sig": "",
+   "slug": "n3",
+   "updated": "2026-10-06"
+  },
+  "pal-airlines": {
+   "airport_short": "Newark",
+   "code": "PB",
+   "deps_day": 1.0,
+   "gone": false,
+   "last_seen": "2026-10-03",
+   "last_seen_str": "Oct 3, 2026",
+   "name": "PAL Airlines",
+   "published": "2026-10-06",
+   "short": "PAL Airlines",
+   "sig": "",
+   "slug": "pal-airlines",
+   "updated": "2026-10-06"
+  },
+  "porter": {
+   "airport_short": "Newark",
+   "code": "PD",
+   "deps_day": 7.7,
+   "gone": false,
+   "last_seen": "2026-10-03",
+   "last_seen_str": "Oct 3, 2026",
+   "name": "Porter Airlines",
+   "published": "2026-10-06",
+   "short": "Porter",
+   "sig": "",
+   "slug": "porter",
+   "updated": "2026-10-06"
+  },
+  "sas": {
+   "airport_short": "Newark",
+   "code": "SK",
+   "deps_day": 2.7,
+   "gone": false,
+   "last_seen": "2026-10-03",
+   "last_seen_str": "Oct 3, 2026",
+   "name": "SAS Scandinavian Airlines",
+   "published": "2026-10-06",
+   "short": "SAS",
+   "sig": "",
+   "slug": "sas",
+   "updated": "2026-10-06"
+  },
+  "singapore-airlines": {
+   "airport_short": "Newark",
+   "code": "SQ",
+   "deps_day": 1.0,
+   "gone": false,
+   "last_seen": "2026-10-03",
+   "last_seen_str": "Oct 3, 2026",
+   "name": "Singapore Airlines",
+   "published": "2026-10-06",
+   "short": "Singapore Airlines",
+   "sig": "",
+   "slug": "singapore-airlines",
+   "updated": "2026-10-06"
+  },
+  "sun-country": {
+   "airport_short": "Newark",
+   "code": "SY",
+   "deps_day": 0.7,
+   "gone": false,
+   "last_seen": "2026-10-02",
+   "last_seen_str": "Oct 2, 2026",
+   "name": "Sun Country Airlines",
+   "published": "2026-10-06",
+   "short": "Sun Country",
+   "sig": "{\"focus\": [\"B42\", \"B47\"], \"held\": [], \"held_n\": 0, \"main\": [\"B42\", \"B47\"]}",
+   "slug": "sun-country",
+   "updated": "2026-10-06"
+  },
+  "swiss": {
+   "airport_short": "Newark",
+   "code": "LX",
+   "deps_day": 0.7,
+   "gone": false,
+   "last_seen": "2026-10-03",
+   "last_seen_str": "Oct 3, 2026",
+   "name": "SWISS",
+   "published": "2026-10-06",
+   "short": "SWISS",
+   "sig": "{\"focus\": [\"B62\", \"B65\"], \"held\": [], \"held_n\": 0, \"main\": [\"B62\", \"B65\"]}",
+   "slug": "swiss",
+   "updated": "2026-10-06"
+  },
+  "tap": {
+   "airport_short": "Newark",
+   "code": "TP",
+   "deps_day": 3.0,
+   "gone": false,
+   "last_seen": "2026-10-03",
+   "last_seen_str": "Oct 3, 2026",
+   "name": "TAP Air Portugal",
+   "published": "2026-10-06",
+   "short": "TAP",
+   "sig": "",
+   "slug": "tap",
+   "updated": "2026-10-06"
+  },
+  "turkish-airlines": {
+   "airport_short": "Newark",
+   "code": "TK",
+   "deps_day": 0.7,
+   "gone": false,
+   "last_seen": "2026-10-03",
+   "last_seen_str": "Oct 3, 2026",
+   "name": "Turkish Airlines",
+   "published": "2026-10-06",
+   "short": "Turkish Airlines",
+   "sig": "",
+   "slug": "turkish-airlines",
+   "updated": "2026-10-06"
+  },
+  "united": {
+   "airport_short": "Newark",
+   "code": "UA",
+   "deps_day": 387.7,
+   "gone": false,
+   "last_seen": "2026-10-03",
+   "last_seen_str": "Oct 3, 2026",
+   "name": "United Airlines",
+   "published": "2026-10-06",
+   "short": "United",
+   "sig": "{\"focus\": [\"A12\", \"A14\", \"A15\", \"A16\", \"A17\", \"A18\", \"A19\", \"A20\", \"A21\", \"A22\", \"A23\", \"A24\", \"A25\", \"A26\", \"A27\", \"A29\", \"B54\", \"B55\", \"B56\", \"B57\", \"B60\", \"B62\", \"B64\", \"B65\", \"C70\", \"C71\", \"C72\", \"C73\", \"C74\", \"C75\", \"C80\", \"C81\", \"C82\", \"C83\", \"C84\", \"C85\", \"C86\", \"C87\", \"C88\", \"C90\", \"C92\", \"C94\", \"C95\", \"C96\", \"C97\", \"C98\", \"C99\", \"C101\", \"C102\", \"C103\", \"C105\", \"C107\", \"C108\", \"C109\", \"C110\", \"C111\", \"C112\", \"C113\", \"C114\", \"C115\", \"C120\", \"C121\", \"C123\", \"C125\", \"C126\", \"C128\", \"C130\", \"C131\", \"C132\", \"C133\", \"C134\", \"C135\", \"C136\", \"C138\"], \"held\": [\"A12\", \"A14\", \"A15\", \"A16\", \"A17\", \"A18\", \"A19\", \"A20\", \"A21\", \"A22\", \"A23\", \"A24\", \"A25\", \"A26\", \"A27\", \"A29\", \"B54\", \"B55\", \"B56\", \"B57\", \"B60\", \"B62\", \"B64\", \"B65\", \"C70\", \"C71\", \"C72\", \"C73\", \"C74\", \"C75\", \"C80\", \"C81\", \"C82\", \"C83\", \"C84\", \"C85\", \"C86\", \"C87\", \"C88\", \"C90\", \"C92\", \"C94\", \"C95\", \"C96\", \"C97\", \"C98\", \"C99\", \"C101\", \"C102\", \"C103\", \"C105\", \"C107\", \"C108\", \"C109\", \"C110\", \"C111\", \"C112\", \"C113\", \"C114\", \"C115\", \"C120\", \"C121\", \"C123\", \"C125\", \"C126\", \"C128\", \"C130\", \"C131\", \"C132\", \"C133\", \"C134\", \"C135\", \"C136\", \"C138\"], \"held_n\": 74, \"main\": [\"A7\", \"UP9\", \"A12\", \"A14\", \"A15\", \"A16\", \"A17\", \"A18\", \"A19\", \"A20\", \"A21\", \"A22\", \"A23\", \"A24\", \"A25\", \"A26\", \"A27\", \"A29\", \"A31\", \"B51\", \"B53\", \"B54\", \"B55\", \"B56\", \"B57\", \"B60\", \"B61\", \"B62\", \"B63\", \"B64\", \"B65\", \"B66\", \"B67\", \"C70\", \"C71\", \"C72\", \"C73\", \"C74\", \"C75\", \"C80\", \"C81\", \"C82\", \"C83\", \"C84\", \"C85\", \"C86\", \"C87\", \"C88\", \"C90\", \"C92\", \"C94\", \"C95\", \"C96\", \"C97\", \"C98\", \"C99\", \"C101\", \"C102\", \"C103\", \"C105\", \"C107\", \"C108\", \"C109\", \"C110\", \"C111\", \"C112\", \"C113\", \"C114\", \"C115\", \"C120\", \"C121\", \"C123\", \"C125\", \"C126\", \"C128\", \"C130\", \"C131\", \"C132\", \"C133\", \"C134\", \"C135\", \"C136\", \"C138\"]}",
+   "slug": "united",
+   "updated": "2026-10-06"
+  },
+  "volaris": {
+   "airport_short": "Newark",
+   "code": "Y4",
+   "deps_day": 1.3,
+   "gone": false,
+   "last_seen": "2026-10-03",
+   "last_seen_str": "Oct 3, 2026",
+   "name": "Volaris",
+   "published": "2026-10-06",
+   "short": "Volaris",
+   "sig": "{\"focus\": [\"B61\"], \"held\": [], \"held_n\": 0, \"main\": [\"B61\"]}",
+   "slug": "volaris",
+   "updated": "2026-10-06"
   }
  },
  "LAS": {
@@ -1196,7 +1660,7 @@
    "short": "Aerom\u00e9xico",
    "sig": "",
    "slug": "aeromexico",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "air-canada-rouge": {
    "airport_short": "Las Vegas",
@@ -1210,7 +1674,7 @@
    "short": "Air Canada Rouge",
    "sig": "{\"focus\": [\"E3\", \"E4\", \"E6\", \"E7\"], \"held\": [], \"held_n\": 0, \"main\": [\"E3\", \"E4\", \"E6\", \"E7\"]}",
    "slug": "air-canada-rouge",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "alaska": {
    "airport_short": "Las Vegas",
@@ -1224,7 +1688,7 @@
    "short": "Alaska",
    "sig": "{\"focus\": [\"E11\", \"E12\", \"E14\", \"E15\", \"D33\", \"D35\"], \"held\": [\"E11\", \"E12\", \"E14\", \"E15\", \"D35\"], \"held_n\": 5, \"main\": [\"E7\", \"E11\", \"E12\", \"E14\", \"E15\", \"D33\", \"D35\"]}",
    "slug": "alaska",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "allegiant": {
    "airport_short": "Las Vegas",
@@ -1238,7 +1702,7 @@
    "short": "Allegiant",
    "sig": "{\"focus\": [\"B1\", \"A3\", \"A5\", \"A7\", \"A17\", \"A18\", \"A19\", \"A20\", \"A21\", \"A22\", \"A23\"], \"held\": [\"A18\", \"A19\", \"A20\", \"A21\", \"A22\", \"A23\"], \"held_n\": 6, \"main\": [\"B1\", \"A3\", \"A5\", \"A7\", \"A8\", \"A17\", \"A18\", \"A19\", \"A20\", \"A21\", \"A22\", \"A23\"]}",
    "slug": "allegiant",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "american": {
    "airport_short": "Las Vegas",
@@ -1252,7 +1716,7 @@
    "short": "American",
    "sig": "{\"focus\": [\"D4\", \"D5\", \"D6\", \"D7\", \"D8\", \"D9\", \"D10\", \"D11\", \"D12\", \"D14\"], \"held\": [\"D5\", \"D6\", \"D7\", \"D8\", \"D9\", \"D10\", \"D11\", \"D12\", \"D14\"], \"held_n\": 9, \"main\": [\"D4\", \"D5\", \"D6\", \"D7\", \"D8\", \"D9\", \"D10\", \"D11\", \"D12\", \"D14\"]}",
    "slug": "american",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "breeze": {
    "airport_short": "Las Vegas",
@@ -1266,7 +1730,7 @@
    "short": "Breeze",
    "sig": "{\"focus\": [\"D32\", \"D33\", \"D35\"], \"held\": [\"D32\"], \"held_n\": 1, \"main\": [\"D32\", \"D33\", \"D35\"]}",
    "slug": "breeze",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "british-airways": {
    "airport_short": "Las Vegas",
@@ -1280,7 +1744,7 @@
    "short": "British Airways",
    "sig": "",
    "slug": "british-airways",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "contour": {
    "airport_short": "Las Vegas",
@@ -1294,7 +1758,7 @@
    "short": "Contour",
    "sig": "",
    "slug": "contour",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "copa": {
    "airport_short": "Las Vegas",
@@ -1308,7 +1772,7 @@
    "short": "Copa",
    "sig": "{\"focus\": [\"E4\", \"E6\"], \"held\": [], \"held_n\": 0, \"main\": [\"E4\", \"E6\"]}",
    "slug": "copa",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "delta": {
    "airport_short": "Las Vegas",
@@ -1322,7 +1786,7 @@
    "short": "Delta",
    "sig": "{\"focus\": [\"D34\", \"D36\", \"D37\", \"D38\", \"D39\", \"D40\", \"D41\", \"D42\", \"D43\", \"TBA\"], \"held\": [\"D34\", \"D36\", \"D37\", \"D38\", \"D39\", \"D40\", \"D41\", \"D42\", \"D43\"], \"held_n\": 10, \"main\": [\"D32\", \"D33\", \"D34\", \"D36\", \"D37\", \"D38\", \"D39\", \"D40\", \"D41\", \"D42\", \"D43\", \"TBA\"]}",
    "slug": "delta",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "frontier": {
    "airport_short": "Las Vegas",
@@ -1336,7 +1800,7 @@
    "short": "Frontier",
    "sig": "{\"focus\": [\"E8\", \"E9\", \"E10\", \"D16\", \"D17\", \"D18\", \"D19\", \"D20\", \"D21\", \"D22\", \"D24\", \"D25\", \"D26\"], \"held\": [\"E8\", \"E9\", \"E10\", \"D16\", \"D17\", \"D18\", \"D21\", \"D22\", \"D24\", \"D25\", \"D26\"], \"held_n\": 11, \"main\": [\"E3\", \"E7\", \"E8\", \"E9\", \"E10\", \"D16\", \"D17\", \"D18\", \"D19\", \"D20\", \"D20X\", \"D21\", \"D22\", \"D24\", \"D25\", \"D26\"]}",
    "slug": "frontier",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "jetblue": {
    "airport_short": "Las Vegas",
@@ -1350,7 +1814,7 @@
    "short": "JetBlue",
    "sig": "{\"focus\": [\"D1\", \"D3\", \"D4\"], \"held\": [\"D1\", \"D3\"], \"held_n\": 2, \"main\": [\"D1\", \"D3\", \"D4\"]}",
    "slug": "jetblue",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "klm": {
    "airport_short": "Las Vegas",
@@ -1364,7 +1828,7 @@
    "short": "KLM",
    "sig": "{\"focus\": [\"D24\"], \"held\": [], \"held_n\": 0, \"main\": [\"D24\"]}",
    "slug": "klm",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "korean-air": {
    "airport_short": "Las Vegas",
@@ -1378,7 +1842,7 @@
    "short": "Korean Air",
    "sig": "",
    "slug": "korean-air",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "porter": {
    "airport_short": "Las Vegas",
@@ -1392,7 +1856,7 @@
    "short": "Porter",
    "sig": "{\"focus\": [\"D19\"], \"held\": [], \"held_n\": 0, \"main\": [\"D19\"]}",
    "slug": "porter",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "southwest": {
    "airport_short": "Las Vegas",
@@ -1406,7 +1870,7 @@
    "short": "Southwest",
    "sig": "{\"focus\": [\"C1\", \"C2\", \"C3\", \"C4\", \"C5\", \"B6\", \"C7\", \"C8\", \"B9\", \"C9\", \"B10\", \"B11\", \"C11\", \"B12\", \"C12\", \"B14\", \"C14\", \"B15\", \"C16\", \"B17\", \"B19\", \"C19\", \"B20\", \"B21\", \"C21\", \"B22\", \"C22\", \"B23\", \"C23\", \"B24\", \"C24\", \"B25\", \"C25\"], \"held\": [\"C1\", \"C2\", \"C3\", \"C4\", \"C5\", \"B6\", \"C7\", \"C8\", \"B9\", \"C9\", \"B10\", \"B11\", \"C11\", \"B12\", \"C12\", \"B14\", \"C14\", \"B15\", \"C16\", \"B17\", \"B19\", \"C19\", \"B20\", \"B21\", \"C21\", \"B22\", \"C22\", \"B23\", \"C23\", \"B24\", \"C24\", \"B25\", \"C25\"], \"held_n\": 33, \"main\": [\"C1\", \"C2\", \"C3\", \"C4\", \"C5\", \"B6\", \"E6\", \"C7\", \"C8\", \"B9\", \"C9\", \"B10\", \"B11\", \"C11\", \"B12\", \"C12\", \"B14\", \"C14\", \"B15\", \"C16\", \"B17\", \"B19\", \"C19\", \"B20\", \"B21\", \"C21\", \"B22\", \"C22\", \"B23\", \"C23\", \"B24\", \"C24\", \"B25\", \"C25\"]}",
    "slug": "southwest",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "sun-country": {
    "airport_short": "Las Vegas",
@@ -1420,7 +1884,7 @@
    "short": "Sun Country",
    "sig": "{\"focus\": [\"A17\", \"A18\"], \"held\": [], \"held_n\": 0, \"main\": [\"A17\", \"A18\"]}",
    "slug": "sun-country",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "united": {
    "airport_short": "Las Vegas",
@@ -1434,7 +1898,7 @@
    "short": "United",
    "sig": "{\"focus\": [\"D50\", \"D51\", \"D52\", \"D53\", \"D54\", \"D55\", \"D56\", \"D57\", \"D58\"], \"held\": [\"D50\", \"D51\", \"D52\", \"D53\", \"D54\", \"D55\", \"D56\", \"D57\", \"D58\"], \"held_n\": 9, \"main\": [\"D50\", \"D51\", \"D52\", \"D53\", \"D54\", \"D55\", \"D56\", \"D57\", \"D58\", \"FBO\"]}",
    "slug": "united",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "virgin-atlantic": {
    "airport_short": "Las Vegas",
@@ -1448,7 +1912,7 @@
    "short": "Virgin Atlantic",
    "sig": "{\"focus\": [\"E3\"], \"held\": [], \"held_n\": 0, \"main\": [\"E3\"]}",
    "slug": "virgin-atlantic",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "viva-aerobus": {
    "airport_short": "Las Vegas",
@@ -1462,7 +1926,7 @@
    "short": "Viva Aerobus",
    "sig": "{\"focus\": [\"E3\", \"E4\", \"E5\", \"E6\", \"E7\"], \"held\": [], \"held_n\": 0, \"main\": [\"E3\", \"E4\", \"E5\", \"E6\", \"E7\"]}",
    "slug": "viva-aerobus",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "volaris": {
    "airport_short": "Las Vegas",
@@ -1476,7 +1940,7 @@
    "short": "Volaris",
    "sig": "{\"focus\": [\"E2\", \"E4\", \"E5\"], \"held\": [], \"held_n\": 0, \"main\": [\"E2\", \"E4\", \"E5\"]}",
    "slug": "volaris",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "westjet": {
    "airport_short": "Las Vegas",
@@ -1490,7 +1954,7 @@
    "short": "WestJet",
    "sig": "{\"focus\": [\"E3\", \"E4\", \"E6\", \"D19\", \"D20\", \"D21\"], \"held\": [], \"held_n\": 0, \"main\": [\"E3\", \"E4\", \"E6\", \"D19\", \"D20\", \"D21\"]}",
    "slug": "westjet",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   }
  },
  "LAX": {
@@ -1506,7 +1970,7 @@
    "short": "Aer Lingus",
    "sig": "{\"focus\": [\"156\", \"157\"], \"held\": [], \"held_n\": 0, \"main\": [\"156\", \"157\"]}",
    "slug": "aer-lingus",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "aeromexico": {
    "airport_short": "Los Angeles",
@@ -1520,7 +1984,7 @@
    "short": "Aerom\u00e9xico",
    "sig": "{\"focus\": [\"134\", \"135\", \"137\", \"139\", \"141\", \"209B\"], \"held\": [], \"held_n\": 0, \"main\": [\"134\", \"135\", \"137\", \"139\", \"141\", \"209B\"]}",
    "slug": "aeromexico",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "air-canada": {
    "airport_short": "Los Angeles",
@@ -1534,7 +1998,7 @@
    "short": "Air Canada",
    "sig": "{\"focus\": [\"62\", \"65A\", \"67\", \"69A\"], \"held\": [], \"held_n\": 0, \"main\": [\"62\", \"65A\", \"67\", \"69A\"]}",
    "slug": "air-canada",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "air-canada-rouge": {
    "airport_short": "Los Angeles",
@@ -1548,7 +2012,7 @@
    "short": "Air Canada Rouge",
    "sig": "{\"focus\": [\"62\", \"64B\", \"65A\"], \"held\": [], \"held_n\": 0, \"main\": [\"62\", \"64B\", \"65A\"]}",
    "slug": "air-canada-rouge",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "air-china": {
    "airport_short": "Los Angeles",
@@ -1562,7 +2026,7 @@
    "short": "Air China",
    "sig": "{\"focus\": [\"134\", \"225\"], \"held\": [], \"held_n\": 0, \"main\": [\"134\", \"225\"]}",
    "slug": "air-china",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "air-france": {
    "airport_short": "Los Angeles",
@@ -1576,7 +2040,7 @@
    "short": "Air France",
    "sig": "{\"focus\": [\"202\", \"204\"], \"held\": [\"202\"], \"held_n\": 1, \"main\": [\"202\", \"204\"]}",
    "slug": "air-france",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "air-new-zealand": {
    "airport_short": "Los Angeles",
@@ -1590,7 +2054,7 @@
    "short": "Air New Zealand",
    "sig": "{\"focus\": [\"132\", \"152\"], \"held\": [], \"held_n\": 0, \"main\": [\"132\", \"152\"]}",
    "slug": "air-new-zealand",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "air-premia": {
    "airport_short": "Los Angeles",
@@ -1604,7 +2068,7 @@
    "short": "Air Premia",
    "sig": "{\"focus\": [\"130\", \"152\", \"207\", \"208\"], \"held\": [], \"held_n\": 0, \"main\": [\"130\", \"152\", \"207\", \"208\"]}",
    "slug": "air-premia",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "air-tahiti-nui": {
    "airport_short": "Los Angeles",
@@ -1618,7 +2082,7 @@
    "short": "Air Tahiti Nui",
    "sig": "{\"focus\": [\"204\", \"221\", \"225\"], \"held\": [], \"held_n\": 0, \"main\": [\"204\", \"221\", \"225\"]}",
    "slug": "air-tahiti-nui",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "alaska": {
    "airport_short": "Los Angeles",
@@ -1632,7 +2096,7 @@
    "short": "Alaska",
    "sig": "{\"focus\": [\"60\", \"61\", \"63A\", \"63B\", \"64A\", \"65B\", \"66\", \"67\", \"68A\", \"69A\", \"69B\"], \"held\": [\"60\", \"61\", \"63A\", \"63B\", \"64A\", \"65B\", \"66\", \"67\", \"68A\", \"69A\", \"69B\"], \"held_n\": 11, \"main\": [\"60\", \"61\", \"63A\", \"63B\", \"64A\", \"65A\", \"65B\", \"66\", \"67\", \"68A\", \"68B\", \"69A\", \"69B\"]}",
    "slug": "alaska",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "american": {
    "airport_short": "Los Angeles",
@@ -1646,7 +2110,7 @@
    "short": "American",
    "sig": "{\"focus\": [\"41\", \"43\", \"46B\", \"46C\", \"48A\", \"48B\", \"48C\", \"49A\", \"49B\", \"52A\", \"52B\", \"52C\", \"52D\", \"52E\", \"52G\", \"52H\", \"52I\", \"151\", \"153\", \"155\", \"159\"], \"held\": [\"41\", \"43\", \"46B\", \"46C\", \"48A\", \"48B\", \"48C\", \"49A\", \"49B\", \"52A\", \"52B\", \"52C\", \"52D\", \"52E\", \"52G\", \"52H\", \"52I\", \"151\", \"153\", \"155\", \"159\"], \"held_n\": 21, \"main\": [\"41\", \"43\", \"46B\", \"46C\", \"48A\", \"48B\", \"48C\", \"49A\", \"49B\", \"52A\", \"52B\", \"52C\", \"52D\", \"52E\", \"52G\", \"52H\", \"52I\", \"130\", \"135\", \"137\", \"139\", \"141\", \"151\", \"152\", \"153\", \"155\", \"157\", \"159\", \"207\", \"208\"]}",
    "slug": "american",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "ana": {
    "airport_short": "Los Angeles",
@@ -1660,7 +2124,7 @@
    "short": "ANA",
    "sig": "{\"focus\": [\"131\", \"132\", \"134\", \"150\", \"154\", \"156\"], \"held\": [], \"held_n\": 0, \"main\": [\"131\", \"132\", \"134\", \"150\", \"154\", \"156\"]}",
    "slug": "ana",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "asiana": {
    "airport_short": "Los Angeles",
@@ -1674,7 +2138,7 @@
    "short": "Asiana",
    "sig": "{\"focus\": [\"150\", \"154\", \"156\"], \"held\": [], \"held_n\": 0, \"main\": [\"150\", \"154\", \"156\"]}",
    "slug": "asiana",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "avianca-costa-rica": {
    "airport_short": "Los Angeles",
@@ -1688,7 +2152,7 @@
    "short": "Avianca Costa Rica",
    "sig": "{\"focus\": [\"135\", \"141\"], \"held\": [], \"held_n\": 0, \"main\": [\"135\", \"141\"]}",
    "slug": "avianca-costa-rica",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "avianca-el-salvador": {
    "airport_short": "Los Angeles",
@@ -1702,7 +2166,7 @@
    "short": "Avianca El Salvador",
    "sig": "{\"focus\": [\"139\", \"141\", \"201A\", \"201B\"], \"held\": [], \"held_n\": 0, \"main\": [\"139\", \"141\", \"201A\", \"201B\"]}",
    "slug": "avianca-el-salvador",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "breeze": {
    "airport_short": "Los Angeles",
@@ -1716,7 +2180,7 @@
    "short": "Breeze",
    "sig": "{\"focus\": [\"64A\"], \"held\": [], \"held_n\": 0, \"main\": [\"64A\"]}",
    "slug": "breeze",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "british-airways": {
    "airport_short": "Los Angeles",
@@ -1730,7 +2194,7 @@
    "short": "British Airways",
    "sig": "{\"focus\": [\"150\", \"153\", \"154\", \"155\", \"156\", \"157\"], \"held\": [], \"held_n\": 0, \"main\": [\"150\", \"153\", \"154\", \"155\", \"156\", \"157\"]}",
    "slug": "british-airways",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "cathay-pacific": {
    "airport_short": "Los Angeles",
@@ -1744,7 +2208,7 @@
    "short": "Cathay Pacific",
    "sig": "{\"focus\": [\"132\", \"150\", \"203\", \"205\"], \"held\": [], \"held_n\": 0, \"main\": [\"132\", \"150\", \"203\", \"205\"]}",
    "slug": "cathay-pacific",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "china-airlines": {
    "airport_short": "Los Angeles",
@@ -1758,7 +2222,7 @@
    "short": "China Airlines",
    "sig": "{\"focus\": [\"131\", \"132\"], \"held\": [], \"held_n\": 0, \"main\": [\"131\", \"132\"]}",
    "slug": "china-airlines",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "china-eastern": {
    "airport_short": "Los Angeles",
@@ -1772,7 +2236,7 @@
    "short": "China Eastern",
    "sig": "{\"focus\": [\"130\"], \"held\": [], \"held_n\": 0, \"main\": [\"130\"]}",
    "slug": "china-eastern",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "condor": {
    "airport_short": "Los Angeles",
@@ -1786,7 +2250,7 @@
    "short": "Condor",
    "sig": "{\"focus\": [\"203\", \"207\"], \"held\": [], \"held_n\": 0, \"main\": [\"203\", \"207\"]}",
    "slug": "condor",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "contour": {
    "airport_short": "Los Angeles",
@@ -1800,7 +2264,7 @@
    "short": "Contour",
    "sig": "{\"focus\": [\"52B\"], \"held\": [], \"held_n\": 0, \"main\": [\"52B\"]}",
    "slug": "contour",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "copa": {
    "airport_short": "Los Angeles",
@@ -1814,7 +2278,7 @@
    "short": "Copa",
    "sig": "{\"focus\": [\"137\", \"141\", \"227\"], \"held\": [], \"held_n\": 0, \"main\": [\"137\", \"141\", \"227\"]}",
    "slug": "copa",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "delta": {
    "airport_short": "Los Angeles",
@@ -1828,7 +2292,7 @@
    "short": "Delta",
    "sig": "{\"focus\": [\"20\", \"21B\", \"22\", \"23A\", \"23B\", \"24\", \"25A\", \"25B\", \"26A\", \"26B\", \"27\", \"28\", \"30A\", \"30B\", \"31A\", \"31B\", \"32A\", \"32B\", \"33\", \"34A\", \"34B\", \"35\", \"36\", \"37A\", \"37B\", \"38\"], \"held\": [\"20\", \"21B\", \"22\", \"23A\", \"23B\", \"24\", \"25A\", \"25B\", \"26A\", \"26B\", \"27\", \"30A\", \"30B\", \"31A\", \"31B\", \"32A\", \"32B\", \"33\", \"34A\", \"34B\", \"35\", \"36\", \"37A\", \"37B\", \"38\"], \"held_n\": 25, \"main\": [\"20\", \"21B\", \"22\", \"23A\", \"23B\", \"24\", \"25A\", \"25B\", \"26A\", \"26B\", \"27\", \"28\", \"30A\", \"30B\", \"31A\", \"31B\", \"32A\", \"32B\", \"33\", \"34A\", \"34B\", \"35\", \"36\", \"37A\", \"37B\", \"38\", \"131\", \"133\", \"135\", \"137\", \"141\", \"146\", \"TBA\"]}",
    "slug": "delta",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "egyptair": {
    "airport_short": "Los Angeles",
@@ -1842,7 +2306,7 @@
    "short": "EgyptAir",
    "sig": "{\"focus\": [\"205\", \"207\"], \"held\": [], \"held_n\": 0, \"main\": [\"205\", \"207\"]}",
    "slug": "egyptair",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "emirates": {
    "airport_short": "Los Angeles",
@@ -1856,7 +2320,7 @@
    "short": "Emirates",
    "sig": "{\"focus\": [\"150\", \"154\"], \"held\": [], \"held_n\": 0, \"main\": [\"150\", \"154\"]}",
    "slug": "emirates",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "eva-air": {
    "airport_short": "Los Angeles",
@@ -1870,7 +2334,7 @@
    "short": "EVA Air",
    "sig": "{\"focus\": [\"148\", \"154\", \"156\"], \"held\": [], \"held_n\": 0, \"main\": [\"148\", \"154\", \"156\"]}",
    "slug": "eva-air",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "frontier": {
    "airport_short": "Los Angeles",
@@ -1884,7 +2348,7 @@
    "short": "Frontier",
    "sig": "{\"focus\": [\"227\", \"229\", \"231\", \"233\", \"234\", \"235\"], \"held\": [\"227\", \"229\", \"231\", \"233\"], \"held_n\": 4, \"main\": [\"227\", \"229\", \"231\", \"233\", \"234\", \"235\"]}",
    "slug": "frontier",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "ita-airways": {
    "airport_short": "Los Angeles",
@@ -1898,7 +2362,7 @@
    "short": "ITA Airways",
    "sig": "{\"focus\": [\"131\", \"133\", \"134\"], \"held\": [], \"held_n\": 0, \"main\": [\"131\", \"133\", \"134\"]}",
    "slug": "ita-airways",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "japan-airlines": {
    "airport_short": "Los Angeles",
@@ -1912,7 +2376,7 @@
    "short": "Japan Airlines",
    "sig": "{\"focus\": [\"134\", \"153\", \"155\", \"157\"], \"held\": [], \"held_n\": 0, \"main\": [\"134\", \"153\", \"155\", \"157\"]}",
    "slug": "japan-airlines",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "jetblue": {
    "airport_short": "Los Angeles",
@@ -1926,7 +2390,7 @@
    "short": "JetBlue",
    "sig": "{\"focus\": [\"12A\", \"12B\", \"14\", \"18A\", \"21A\"], \"held\": [\"12A\", \"12B\", \"21A\"], \"held_n\": 3, \"main\": [\"12A\", \"12B\", \"14\", \"18A\", \"21A\", \"234\"]}",
    "slug": "jetblue",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "klm": {
    "airport_short": "Los Angeles",
@@ -1940,7 +2404,7 @@
    "short": "KLM",
    "sig": "{\"focus\": [\"206\"], \"held\": [], \"held_n\": 0, \"main\": [\"206\"]}",
    "slug": "klm",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "korean-air": {
    "airport_short": "Los Angeles",
@@ -1954,7 +2418,7 @@
    "short": "Korean Air",
    "sig": "{\"focus\": [\"150\", \"152\"], \"held\": [], \"held_n\": 0, \"main\": [\"150\", \"152\"]}",
    "slug": "korean-air",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "latam": {
    "airport_short": "Los Angeles",
@@ -1968,7 +2432,7 @@
    "short": "LATAM",
    "sig": "{\"focus\": [\"135\", \"150\"], \"held\": [], \"held_n\": 0, \"main\": [\"135\", \"150\"]}",
    "slug": "latam",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "latam-brasil": {
    "airport_short": "Los Angeles",
@@ -1982,7 +2446,7 @@
    "short": "LATAM Brasil",
    "sig": "{\"focus\": [\"131\", \"132\", \"207\"], \"held\": [], \"held_n\": 0, \"main\": [\"131\", \"132\", \"207\"]}",
    "slug": "latam-brasil",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "latam-peru": {
    "airport_short": "Los Angeles",
@@ -1996,7 +2460,7 @@
    "short": "LATAM Per\u00fa",
    "sig": "{\"focus\": [\"132\", \"148\"], \"held\": [], \"held_n\": 0, \"main\": [\"132\", \"148\"]}",
    "slug": "latam-peru",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "level": {
    "airport_short": "Los Angeles",
@@ -2010,7 +2474,7 @@
    "short": "LEVEL",
    "sig": "",
    "slug": "level",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "lufthansa": {
    "airport_short": "Los Angeles",
@@ -2024,7 +2488,7 @@
    "short": "Lufthansa",
    "sig": "{\"focus\": [\"134\", \"150\", \"152\", \"154\"], \"held\": [], \"held_n\": 0, \"main\": [\"134\", \"150\", \"152\", \"154\"]}",
    "slug": "lufthansa",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "philippine-airlines": {
    "airport_short": "Los Angeles",
@@ -2038,7 +2502,7 @@
    "short": "Philippine Airlines",
    "sig": "{\"focus\": [\"130\", \"131\", \"132\", \"203\", \"205\"], \"held\": [], \"held_n\": 0, \"main\": [\"130\", \"131\", \"132\", \"203\", \"205\"]}",
    "slug": "philippine-airlines",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "porter": {
    "airport_short": "Los Angeles",
@@ -2052,7 +2516,7 @@
    "short": "Porter",
    "sig": "{\"focus\": [\"65B\", \"67\"], \"held\": [], \"held_n\": 0, \"main\": [\"65B\", \"67\"]}",
    "slug": "porter",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "qantas": {
    "airport_short": "Los Angeles",
@@ -2066,7 +2530,7 @@
    "short": "Qantas",
    "sig": "{\"focus\": [\"4\", \"150\", \"156\", \"221\", \"225\"], \"held\": [], \"held_n\": 0, \"main\": [\"4\", \"150\", \"156\", \"221\", \"225\"]}",
    "slug": "qantas",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "qatar-airways": {
    "airport_short": "Los Angeles",
@@ -2080,7 +2544,7 @@
    "short": "Qatar Airways",
    "sig": "{\"focus\": [\"132\", \"134\"], \"held\": [], \"held_n\": 0, \"main\": [\"132\", \"134\"]}",
    "slug": "qatar-airways",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "sas": {
    "airport_short": "Los Angeles",
@@ -2094,7 +2558,7 @@
    "short": "SAS",
    "sig": "{\"focus\": [\"131\", \"157\"], \"held\": [], \"held_n\": 0, \"main\": [\"131\", \"157\"]}",
    "slug": "sas",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "singapore-airlines": {
    "airport_short": "Los Angeles",
@@ -2108,7 +2572,7 @@
    "short": "Singapore Airlines",
    "sig": "{\"focus\": [\"130\", \"132\", \"134\", \"148\", \"157\"], \"held\": [], \"held_n\": 0, \"main\": [\"130\", \"132\", \"134\", \"148\", \"157\"]}",
    "slug": "singapore-airlines",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "southern-airways-express": {
    "airport_short": "Los Angeles",
@@ -2122,7 +2586,7 @@
    "short": "Southern Airways Express",
    "sig": "",
    "slug": "southern-airways-express",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "southwest": {
    "airport_short": "Los Angeles",
@@ -2136,7 +2600,7 @@
    "short": "Southwest",
    "sig": "{\"focus\": [\"9\", \"11A\", \"11B\", \"13\", \"14\", \"15\", \"17A\", \"17B\", \"18A\", \"18B\"], \"held\": [\"9\", \"11A\", \"11B\", \"13\", \"14\", \"15\", \"17A\", \"17B\", \"18A\", \"18B\"], \"held_n\": 10, \"main\": [\"9\", \"11A\", \"11B\", \"13\", \"14\", \"15\", \"17A\", \"17B\", \"18A\", \"18B\"]}",
    "slug": "southwest",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "starlux": {
    "airport_short": "Los Angeles",
@@ -2150,7 +2614,7 @@
    "short": "STARLUX",
    "sig": "{\"focus\": [\"204\", \"206\"], \"held\": [], \"held_n\": 0, \"main\": [\"204\", \"206\"]}",
    "slug": "starlux",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "sun-country": {
    "airport_short": "Los Angeles",
@@ -2164,7 +2628,7 @@
    "short": "Sun Country",
    "sig": "{\"focus\": [\"232\"], \"held\": [\"232\"], \"held_n\": 1, \"main\": [\"232\"]}",
    "slug": "sun-country",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "swiss": {
    "airport_short": "Los Angeles",
@@ -2178,7 +2642,7 @@
    "short": "SWISS",
    "sig": "{\"focus\": [\"130\", \"132\", \"148\"], \"held\": [], \"held_n\": 0, \"main\": [\"130\", \"132\", \"148\"]}",
    "slug": "swiss",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "tap": {
    "airport_short": "Los Angeles",
@@ -2192,7 +2656,7 @@
    "short": "TAP",
    "sig": "{\"focus\": [\"42A\", \"45A\", \"203\", \"225\"], \"held\": [], \"held_n\": 0, \"main\": [\"42A\", \"45A\", \"203\", \"225\"]}",
    "slug": "tap",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "turkish-airlines": {
    "airport_short": "Los Angeles",
@@ -2206,7 +2670,7 @@
    "short": "Turkish Airlines",
    "sig": "{\"focus\": [\"130\", \"131\", \"150\", \"154\"], \"held\": [], \"held_n\": 0, \"main\": [\"130\", \"131\", \"150\", \"154\"]}",
    "slug": "turkish-airlines",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "united": {
    "airport_short": "Los Angeles",
@@ -2220,7 +2684,7 @@
    "short": "United",
    "sig": "{\"focus\": [\"62\", \"64B\", \"65A\", \"68B\", \"70A\", \"70B\", \"71A\", \"71B\", \"72A\", \"72B\", \"73\", \"74\", \"75A\", \"75B\", \"76A\", \"76B\", \"77\", \"80\", \"81\", \"82\", \"83\", \"84\", \"85\", \"86\"], \"held\": [\"62\", \"64B\", \"65A\", \"68B\", \"70A\", \"70B\", \"71A\", \"71B\", \"72A\", \"72B\", \"73\", \"74\", \"75A\", \"75B\", \"76A\", \"76B\", \"77\", \"80\", \"81\", \"82\", \"83\", \"84\", \"85\", \"86\"], \"held_n\": 24, \"main\": [\"62\", \"64B\", \"65A\", \"68B\", \"70A\", \"70B\", \"71A\", \"71B\", \"72A\", \"72B\", \"73\", \"74\", \"75A\", \"75B\", \"76A\", \"76B\", \"77\", \"80\", \"81\", \"82\", \"83\", \"84\", \"85\", \"86\", \"134\"]}",
    "slug": "united",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "virgin-atlantic": {
    "airport_short": "Los Angeles",
@@ -2234,7 +2698,7 @@
    "short": "Virgin Atlantic",
    "sig": "{\"focus\": [\"131\", \"132\", \"133\", \"134\"], \"held\": [], \"held_n\": 0, \"main\": [\"131\", \"132\", \"133\", \"134\"]}",
    "slug": "virgin-atlantic",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "viva-aerobus": {
    "airport_short": "Los Angeles",
@@ -2248,7 +2712,7 @@
    "short": "Viva Aerobus",
    "sig": "{\"focus\": [\"201A\", \"201B\", \"202\", \"208\", \"209A\", \"209B\"], \"held\": [], \"held_n\": 0, \"main\": [\"201A\", \"201B\", \"202\", \"208\", \"209A\", \"209B\"]}",
    "slug": "viva-aerobus",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "volaris": {
    "airport_short": "Los Angeles",
@@ -2262,7 +2726,7 @@
    "short": "Volaris",
    "sig": "{\"focus\": [\"139\", \"141\", \"201A\", \"201B\", \"204\", \"207\", \"208\", \"209A\", \"209B\", \"210A\", \"221\", \"225\"], \"held\": [\"209A\"], \"held_n\": 1, \"main\": [\"139\", \"141\", \"201A\", \"201B\", \"204\", \"207\", \"208\", \"209A\", \"209B\", \"210A\", \"221\", \"225\"]}",
    "slug": "volaris",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "volaris-costa-rica": {
    "airport_short": "Los Angeles",
@@ -2276,7 +2740,7 @@
    "short": "Volaris Costa Rica",
    "sig": "{\"focus\": [\"235\"], \"held\": [], \"held_n\": 0, \"main\": [\"235\"]}",
    "slug": "volaris-costa-rica",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "westjet": {
    "airport_short": "Los Angeles",
@@ -2290,7 +2754,7 @@
    "short": "WestJet",
    "sig": "{\"focus\": [\"27\", \"28\"], \"held\": [], \"held_n\": 0, \"main\": [\"27\", \"28\"]}",
    "slug": "westjet",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "zipair": {
    "airport_short": "Los Angeles",
@@ -2304,7 +2768,7 @@
    "short": "ZIPAIR",
    "sig": "{\"focus\": [\"130\", \"133\"], \"held\": [], \"held_n\": 0, \"main\": [\"130\", \"133\"]}",
    "slug": "zipair",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   }
  },
  "ORD": {
@@ -2320,7 +2784,7 @@
    "short": "Aer Lingus",
    "sig": "",
    "slug": "aer-lingus",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "aeromexico": {
    "airport_short": "O\u2019Hare",
@@ -2334,7 +2798,7 @@
    "short": "Aerom\u00e9xico",
    "sig": "",
    "slug": "aeromexico",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "air-canada": {
    "airport_short": "O\u2019Hare",
@@ -2348,7 +2812,7 @@
    "short": "Air Canada",
    "sig": "{\"focus\": [\"E2\", \"E3\", \"E4\", \"E6\"], \"held\": [], \"held_n\": 0, \"main\": [\"E2\", \"E3\", \"E4\", \"E6\"]}",
    "slug": "air-canada",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "air-canada-rouge": {
    "airport_short": "O\u2019Hare",
@@ -2362,7 +2826,7 @@
    "short": "Air Canada Rouge",
    "sig": "{\"focus\": [\"E3\", \"E6\"], \"held\": [], \"held_n\": 0, \"main\": [\"E3\", \"E6\"]}",
    "slug": "air-canada-rouge",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "air-france": {
    "airport_short": "O\u2019Hare",
@@ -2376,7 +2840,7 @@
    "short": "Air France",
    "sig": "{\"focus\": [\"M14\", \"M19\", \"M25\"], \"held\": [], \"held_n\": 0, \"main\": [\"M14\", \"M19\", \"M25\"]}",
    "slug": "air-france",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "alaska": {
    "airport_short": "O\u2019Hare",
@@ -2390,7 +2854,7 @@
    "short": "Alaska",
    "sig": "{\"focus\": [\"G8\", \"G10\"], \"held\": [\"G8\", \"G10\"], \"held_n\": 2, \"main\": [\"G8\", \"G10\"]}",
    "slug": "alaska",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "american": {
    "airport_short": "O\u2019Hare",
@@ -2404,7 +2868,7 @@
    "short": "American",
    "sig": "{\"focus\": [\"G1A\", \"G1B\", \"H1A\", \"K1\", \"H2\", \"K2\", \"L2A\", \"L2C\", \"H3A\", \"K3\", \"L3\", \"H4\", \"K4\", \"L4\", \"G5\", \"H5\", \"K5\", \"L5\", \"H6\", \"K6\", \"L6A\", \"L6B\", \"G7\", \"L7\", \"H8\", \"K8\", \"H9\", \"K9\", \"L9\", \"H10\", \"K10\", \"L10A\", \"L10B\", \"L10C\", \"G11\", \"H11A\", \"H11B\", \"L11\", \"H12\", \"K12\", \"L12\", \"K13\", \"H14\", \"H15\", \"K15\", \"H16\", \"K16\", \"H17\", \"H18\", \"K18\", \"K19\", \"G20\", \"K20\", \"L20\", \"G21\", \"L21\", \"L22\", \"L23\", \"L24\", \"L25\", \"L26\", \"L27\"], \"held\": [\"G1A\", \"G1B\", \"H1A\", \"K1\", \"H2\", \"K2\", \"L2A\", \"L2C\", \"H3A\", \"K3\", \"L3\", \"H4\", \"K4\", \"L4\", \"G5\", \"H5\", \"K5\", \"L5\", \"H6\", \"K6\", \"L6A\", \"L6B\", \"G7\", \"L7\", \"H8\", \"K8\", \"H9\", \"K9\", \"L9\", \"H10\", \"K10\", \"L10A\", \"L10B\", \"L10C\", \"G11\", \"H11A\", \"H11B\", \"L11\", \"H12\", \"K12\", \"L12\", \"K13\", \"H14\", \"H15\", \"K15\", \"H16\", \"K16\", \"H17\", \"H18\", \"K18\", \"K19\", \"G20\", \"K20\", \"L20\", \"G21\", \"L21\", \"L22\", \"L23\", \"L24\", \"L25\", \"L26\", \"L27\"], \"held_n\": 62, \"main\": [\"G1A\", \"G1B\", \"H1A\", \"K1\", \"H2\", \"K2\", \"L2A\", \"L2C\", \"H3A\", \"K3\", \"L3\", \"H4\", \"K4\", \"L4\", \"G5\", \"H5\", \"K5\", \"L5\", \"H6\", \"K6\", \"L6A\", \"L6B\", \"G7\", \"L7\", \"H8\", \"K8\", \"H9\", \"K9\", \"L9\", \"H10\", \"K10\", \"L10A\", \"L10B\", \"L10C\", \"G11\", \"H11A\", \"H11B\", \"L11\", \"H12\", \"K12\", \"L12\", \"K13\", \"G14\", \"H14\", \"M14\", \"H15\", \"K15\", \"M15\", \"H16\", \"K16\", \"G17\", \"H17\", \"H18\", \"K18\", \"K19\", \"G20\", \"K20\", \"L20\", \"M20\", \"G21\", \"L21\", \"M21\", \"L22\", \"L23\", \"L24\", \"L25\", \"L26\", \"L27\", \"M27W\", \"M28\", \"M32\", \"M33W\", \"M34\", \"M36\", \"M38\"]}",
    "slug": "american",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "ana": {
    "airport_short": "O\u2019Hare",
@@ -2418,7 +2882,7 @@
    "short": "ANA",
    "sig": "",
    "slug": "ana",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "austrian": {
    "airport_short": "O\u2019Hare",
@@ -2432,7 +2896,7 @@
    "short": "Austrian",
    "sig": "{\"focus\": [\"M15\", \"M16\", \"M20\"], \"held\": [], \"held_n\": 0, \"main\": [\"M15\", \"M16\", \"M20\"]}",
    "slug": "austrian",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "avelo": {
    "airport_short": "O\u2019Hare",
@@ -2446,7 +2910,7 @@
    "short": "Avelo",
    "sig": "{\"focus\": [\"M28\"], \"held\": [], \"held_n\": 0, \"main\": [\"M28\"]}",
    "slug": "avelo",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "avianca": {
    "airport_short": "O\u2019Hare",
@@ -2460,7 +2924,7 @@
    "short": "Avianca",
    "sig": "",
    "slug": "avianca",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "british-airways": {
    "airport_short": "O\u2019Hare",
@@ -2474,7 +2938,7 @@
    "short": "British Airways",
    "sig": "",
    "slug": "british-airways",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "cathay-pacific": {
    "airport_short": "O\u2019Hare",
@@ -2488,7 +2952,7 @@
    "short": "Cathay Pacific",
    "sig": "",
    "slug": "cathay-pacific",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "contour": {
    "airport_short": "O\u2019Hare",
@@ -2502,7 +2966,7 @@
    "short": "Contour",
    "sig": "{\"focus\": [\"G1A\", \"G5\", \"G17\", \"G20\", \"G21\"], \"held\": [], \"held_n\": 0, \"main\": [\"G1A\", \"G5\", \"G17\", \"G20\", \"G21\"]}",
    "slug": "contour",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "copa": {
    "airport_short": "O\u2019Hare",
@@ -2516,7 +2980,7 @@
    "short": "Copa",
    "sig": "{\"focus\": [\"M14\", \"M15\", \"M16\", \"M26\"], \"held\": [], \"held_n\": 0, \"main\": [\"M14\", \"M15\", \"M16\", \"M26\"]}",
    "slug": "copa",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "delta": {
    "airport_short": "O\u2019Hare",
@@ -2530,7 +2994,7 @@
    "short": "Delta",
    "sig": "{\"focus\": [\"M6\", \"M7\", \"M8\", \"M9\", \"M10\", \"M30\", \"M32\", \"M36\"], \"held\": [\"M6\", \"M7\", \"M8\", \"M9\", \"M10\"], \"held_n\": 5, \"main\": [\"M6\", \"M7\", \"M8\", \"M9\", \"M10\", \"M14\", \"M15\", \"M25\", \"M26\", \"M27\", \"M30\", \"M32\", \"M34\", \"M35\", \"M36\", \"M38\"]}",
    "slug": "delta",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "denver-air-connection": {
    "airport_short": "O\u2019Hare",
@@ -2544,7 +3008,7 @@
    "short": "Denver Air Connection",
    "sig": "",
    "slug": "denver-air-connection",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "emirates": {
    "airport_short": "O\u2019Hare",
@@ -2558,7 +3022,7 @@
    "short": "Emirates",
    "sig": "",
    "slug": "emirates",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "ethiopian": {
    "airport_short": "O\u2019Hare",
@@ -2572,7 +3036,7 @@
    "short": "Ethiopian",
    "sig": "{\"focus\": [\"M15\", \"M20\"], \"held\": [], \"held_n\": 0, \"main\": [\"M15\", \"M20\"]}",
    "slug": "ethiopian",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "etihad": {
    "airport_short": "O\u2019Hare",
@@ -2586,7 +3050,7 @@
    "short": "Etihad",
    "sig": "",
    "slug": "etihad",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "eva-air": {
    "airport_short": "O\u2019Hare",
@@ -2600,7 +3064,7 @@
    "short": "EVA Air",
    "sig": "",
    "slug": "eva-air",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "finnair": {
    "airport_short": "O\u2019Hare",
@@ -2614,7 +3078,7 @@
    "short": "Finnair",
    "sig": "",
    "slug": "finnair",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "frontier": {
    "airport_short": "O\u2019Hare",
@@ -2628,7 +3092,7 @@
    "short": "Frontier",
    "sig": "{\"focus\": [\"M25\", \"M27\", \"M28\", \"M35\", \"M36\", \"M38\", \"M40\"], \"held\": [], \"held_n\": 0, \"main\": [\"M25\", \"M27\", \"M28\", \"M35\", \"M36\", \"M38\", \"M40\"]}",
    "slug": "frontier",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "iberia": {
    "airport_short": "O\u2019Hare",
@@ -2642,7 +3106,7 @@
    "short": "Iberia",
    "sig": "{\"focus\": [\"K16\"], \"held\": [], \"held_n\": 0, \"main\": [\"K16\"]}",
    "slug": "iberia",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "icelandair": {
    "airport_short": "O\u2019Hare",
@@ -2656,7 +3120,7 @@
    "short": "Icelandair",
    "sig": "",
    "slug": "icelandair",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "japan-airlines": {
    "airport_short": "O\u2019Hare",
@@ -2670,7 +3134,7 @@
    "short": "Japan Airlines",
    "sig": "{\"focus\": [\"K19\"], \"held\": [], \"held_n\": 0, \"main\": [\"K19\"]}",
    "slug": "japan-airlines",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "jetblue": {
    "airport_short": "O\u2019Hare",
@@ -2684,7 +3148,7 @@
    "short": "JetBlue",
    "sig": "{\"focus\": [\"G4\", \"G6\", \"G8\"], \"held\": [], \"held_n\": 0, \"main\": [\"G4\", \"G6\", \"G8\"]}",
    "slug": "jetblue",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "klm": {
    "airport_short": "O\u2019Hare",
@@ -2698,7 +3162,7 @@
    "short": "KLM",
    "sig": "{\"focus\": [\"M19\", \"M32\"], \"held\": [], \"held_n\": 0, \"main\": [\"M19\", \"M32\"]}",
    "slug": "klm",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "korean-air": {
    "airport_short": "O\u2019Hare",
@@ -2712,7 +3176,7 @@
    "short": "Korean Air",
    "sig": "",
    "slug": "korean-air",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "lot": {
    "airport_short": "O\u2019Hare",
@@ -2726,7 +3190,7 @@
    "short": "LOT",
    "sig": "",
    "slug": "lot",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "lufthansa": {
    "airport_short": "O\u2019Hare",
@@ -2740,7 +3204,7 @@
    "short": "Lufthansa",
    "sig": "{\"focus\": [\"B16\", \"B17\", \"M21\"], \"held\": [], \"held_n\": 0, \"main\": [\"B16\", \"B17\", \"M21\"]}",
    "slug": "lufthansa",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "qatar-airways": {
    "airport_short": "O\u2019Hare",
@@ -2754,7 +3218,7 @@
    "short": "Qatar Airways",
    "sig": "{\"focus\": [\"M16\", \"M20\", \"M30\"], \"held\": [], \"held_n\": 0, \"main\": [\"M16\", \"M20\", \"M30\"]}",
    "slug": "qatar-airways",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "royal-jordanian": {
    "airport_short": "O\u2019Hare",
@@ -2768,7 +3232,7 @@
    "short": "Royal Jordanian",
    "sig": "",
    "slug": "royal-jordanian",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "sas": {
    "airport_short": "O\u2019Hare",
@@ -2782,7 +3246,7 @@
    "short": "SAS",
    "sig": "",
    "slug": "sas",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "swiss": {
    "airport_short": "O\u2019Hare",
@@ -2796,7 +3260,7 @@
    "short": "SWISS",
    "sig": "{\"focus\": [\"M14\", \"M15\", \"M16\", \"M24\", \"M30\"], \"held\": [], \"held_n\": 0, \"main\": [\"M14\", \"M15\", \"M16\", \"M24\", \"M30\"]}",
    "slug": "swiss",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "tap": {
    "airport_short": "O\u2019Hare",
@@ -2810,7 +3274,7 @@
    "short": "TAP",
    "sig": "",
    "slug": "tap",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "turkish-airlines": {
    "airport_short": "O\u2019Hare",
@@ -2824,7 +3288,7 @@
    "short": "Turkish Airlines",
    "sig": "",
    "slug": "turkish-airlines",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "united": {
    "airport_short": "O\u2019Hare",
@@ -2838,7 +3302,7 @@
    "short": "United",
    "sig": "{\"focus\": [\"B1\", \"E1\", \"F1\", \"B2\", \"E2\", \"G2\", \"B3\", \"E3\", \"F3\", \"B4\", \"C4\", \"E4\", \"F4\", \"G4\", \"B5\", \"E5\", \"F5\", \"B6\", \"C6\", \"E6\", \"F6\", \"B7\", \"E7\", \"F7\", \"B8\", \"C8\", \"E8\", \"B9\", \"C9\", \"E9\", \"F9\", \"B10\", \"C10\", \"C10A\", \"E10\", \"F10\", \"B11\", \"C11\", \"E11\", \"F11\", \"B12\", \"E12\", \"F12\", \"G12\", \"B14\", \"E14\", \"F14\", \"G14\", \"C15\", \"E15\", \"F15\", \"B16\", \"C16\", \"E16\", \"F16\", \"B17\", \"C17\", \"E17\", \"F17\", \"B18\", \"C18\", \"C18A\", \"F18\", \"M18\", \"B19\", \"C19\", \"F19\", \"B20\", \"C20\", \"F20\", \"B21\", \"C21\", \"F21\", \"B22\", \"C22\", \"F22\", \"B23\", \"C23\", \"F23\", \"B24\", \"C24\", \"F24\", \"C25\", \"F25\", \"C26\", \"F26\", \"C27\", \"F27\", \"C28\", \"F28\", \"C29\", \"C30\", \"C31\"], \"held\": [\"B1\", \"E1\", \"F1\", \"B2\", \"E2\", \"G2\", \"B3\", \"E3\", \"F3\", \"B4\", \"C4\", \"E4\", \"F4\", \"G4\", \"B5\", \"E5\", \"F5\", \"B6\", \"C6\", \"E6\", \"F6\", \"B7\", \"E7\", \"F7\", \"B8\", \"C8\", \"E8\", \"B9\", \"C9\", \"E9\", \"F9\", \"B10\", \"C10\", \"E10\", \"F10\", \"B11\", \"C11\", \"E11\", \"F11\", \"B12\", \"E12\", \"F12\", \"G12\", \"B14\", \"E14\", \"F14\", \"G14\", \"C15\", \"E15\", \"F15\", \"B16\", \"C16\", \"E16\", \"F16\", \"B17\", \"C17\", \"E17\", \"F17\", \"B18\", \"C18\", \"F18\", \"M18\", \"B19\", \"C19\", \"F19\", \"B20\", \"C20\", \"F20\", \"B21\", \"C21\", \"F21\", \"B22\", \"C22\", \"F22\", \"B23\", \"C23\", \"F23\", \"B24\", \"C24\", \"F24\", \"C25\", \"F25\", \"C26\", \"F26\", \"C27\", \"F27\", \"C28\", \"F28\", \"C29\", \"C30\", \"C31\"], \"held_n\": 93, \"main\": [\"B1\", \"E1\", \"F1\", \"B2\", \"E2\", \"G2\", \"B3\", \"E3\", \"F3\", \"B4\", \"C4\", \"E4\", \"F4\", \"G4\", \"B5\", \"E5\", \"F5\", \"B6\", \"C6\", \"E6\", \"F6\", \"G6\", \"B7\", \"E7\", \"F7\", \"B8\", \"C8\", \"E8\", \"B9\", \"C9\", \"E9\", \"F9\", \"B10\", \"C10\", \"C10A\", \"E10\", \"F10\", \"B11\", \"C11\", \"E11\", \"F11\", \"B12\", \"E12\", \"F12\", \"G12\", \"SR12\", \"B14\", \"E14\", \"F14\", \"G14\", \"M14\", \"C15\", \"E15\", \"F15\", \"B16\", \"C16\", \"E16\", \"F16\", \"M16\", \"B17\", \"C17\", \"E17\", \"F17\", \"B18\", \"C18\", \"C18A\", \"F18\", \"M18\", \"B19\", \"C19\", \"F19\", \"M19\", \"B20\", \"C20\", \"F20\", \"B21\", \"C21\", \"F21\", \"M21\", \"B22\", \"C22\", \"F22\", \"B23\", \"C23\", \"F23\", \"B24\", \"C24\", \"F24\", \"M24\", \"C25\", \"F25\", \"M25\", \"C26\", \"F26\", \"M26\", \"C27\", \"F27\", \"M27\", \"C28\", \"F28\", \"M28\", \"C29\", \"C30\", \"M30\", \"C31\", \"M32\", \"M35\", \"M36\", \"M38\", \"M40\", \"CHTR\", \"SIG\"]}",
    "slug": "united",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "viva-aerobus": {
    "airport_short": "O\u2019Hare",
@@ -2852,7 +3316,7 @@
    "short": "Viva Aerobus",
    "sig": "{\"focus\": [\"M25\", \"M30\"], \"held\": [], \"held_n\": 0, \"main\": [\"M25\", \"M30\"]}",
    "slug": "viva-aerobus",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "volaris": {
    "airport_short": "O\u2019Hare",
@@ -2866,7 +3330,7 @@
    "short": "Volaris",
    "sig": "{\"focus\": [\"M16\", \"M17\", \"M18\", \"M19\", \"M28\"], \"held\": [], \"held_n\": 0, \"main\": [\"M16\", \"M17\", \"M18\", \"M19\", \"M28\"]}",
    "slug": "volaris",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "westjet": {
    "airport_short": "O\u2019Hare",
@@ -2880,7 +3344,7 @@
    "short": "WestJet",
    "sig": "{\"focus\": [\"M28\"], \"held\": [], \"held_n\": 0, \"main\": [\"M28\"]}",
    "slug": "westjet",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   }
  },
  "PHX": {
@@ -2896,7 +3360,7 @@
    "short": "Aerom\u00e9xico",
    "sig": "",
    "slug": "aeromexico",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "air-canada-rouge": {
    "airport_short": "Phoenix",
@@ -2910,7 +3374,7 @@
    "short": "Air Canada Rouge",
    "sig": "{\"focus\": [\"E6\", \"E8\", \"E10\"], \"held\": [], \"held_n\": 0, \"main\": [\"E6\", \"E8\", \"E10\"]}",
    "slug": "air-canada-rouge",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "air-france": {
    "airport_short": "Phoenix",
@@ -2924,7 +3388,7 @@
    "short": "Air France",
    "sig": "{\"focus\": [\"B25\"], \"held\": [], \"held_n\": 0, \"main\": [\"B25\"]}",
    "slug": "air-france",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "alaska": {
    "airport_short": "Phoenix",
@@ -2938,7 +3402,7 @@
    "short": "Alaska",
    "sig": "{\"focus\": [\"E2\", \"E4\", \"E6\", \"E8\"], \"held\": [\"E2\", \"E4\", \"E6\"], \"held_n\": 3, \"main\": [\"E2\", \"E4\", \"E6\", \"E8\"]}",
    "slug": "alaska",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "allegiant": {
    "airport_short": "Phoenix",
@@ -2952,7 +3416,7 @@
    "short": "Allegiant",
    "sig": "{\"focus\": [\"F4\", \"F5\", \"F6\"], \"held\": [], \"held_n\": 0, \"main\": [\"F4\", \"F5\", \"F6\"]}",
    "slug": "allegiant",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "american": {
    "airport_short": "Phoenix",
@@ -2966,7 +3430,7 @@
    "short": "American",
    "sig": "{\"focus\": [\"A1\", \"B1\", \"B1A\", \"A2\", \"B2\", \"A3\", \"B3\", \"A4\", \"B4\", \"A5\", \"B5\", \"A6\", \"B6\", \"B7\", \"A8\", \"B8\", \"A9\", \"B9\", \"A10\", \"B10\", \"A11\", \"B11\", \"A12\", \"B12\", \"A13\", \"B13\", \"A14\", \"B14\", \"B15B\", \"B16\", \"A17\", \"B17\", \"A18\", \"B18\", \"A19\", \"B19\", \"A20\", \"A21\", \"B21\", \"A22\", \"B22\", \"A23\", \"B23\", \"A24\", \"B24\", \"A25\", \"A26\", \"B26\", \"A27\", \"A28\", \"A29\", \"A30\"], \"held\": [\"A1\", \"B1\", \"B1A\", \"A2\", \"B2\", \"A3\", \"B3\", \"A4\", \"B4\", \"A5\", \"B5\", \"A6\", \"B6\", \"B7\", \"A8\", \"B8\", \"A9\", \"B9\", \"A10\", \"B10\", \"A11\", \"B11\", \"A12\", \"B12\", \"A13\", \"B13\", \"A14\", \"B14\", \"B15B\", \"B16\", \"A17\", \"B17\", \"A18\", \"B18\", \"A19\", \"B19\", \"A20\", \"A21\", \"B21\", \"A22\", \"B22\", \"A23\", \"B23\", \"A24\", \"B24\", \"A25\", \"A26\", \"B26\", \"A27\", \"A28\", \"A29\", \"A30\"], \"held_n\": 52, \"main\": [\"A1\", \"B1\", \"B1A\", \"A2\", \"B2\", \"A3\", \"B3\", \"A4\", \"B4\", \"A5\", \"B5\", \"A6\", \"B6\", \"B7\", \"A8\", \"B8\", \"A9\", \"B9\", \"A10\", \"B10\", \"A11\", \"B11\", \"A12\", \"B12\", \"A13\", \"B13\", \"A14\", \"B14\", \"B15B\", \"B16\", \"A17\", \"B17\", \"A18\", \"B18\", \"A19\", \"B19\", \"A20\", \"B20\", \"A21\", \"B21\", \"A22\", \"B22\", \"A23\", \"B23\", \"A24\", \"B24\", \"A25\", \"B25\", \"A26\", \"B26\", \"A27\", \"B27\", \"A28\", \"B28\", \"A29\", \"A30\"]}",
    "slug": "american",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "breeze": {
    "airport_short": "Phoenix",
@@ -2980,7 +3444,7 @@
    "short": "Breeze",
    "sig": "{\"focus\": [\"F4\", \"F6\"], \"held\": [], \"held_n\": 0, \"main\": [\"F4\", \"F6\"]}",
    "slug": "breeze",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "british-airways": {
    "airport_short": "Phoenix",
@@ -2994,7 +3458,7 @@
    "short": "British Airways",
    "sig": "",
    "slug": "british-airways",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "contour": {
    "airport_short": "Phoenix",
@@ -3008,7 +3472,7 @@
    "short": "Contour",
    "sig": "{\"focus\": [\"B15A\", \"B15B\"], \"held\": [\"B15A\"], \"held_n\": 1, \"main\": [\"B15A\", \"B15B\"]}",
    "slug": "contour",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "delta": {
    "airport_short": "Phoenix",
@@ -3022,7 +3486,7 @@
    "short": "Delta",
    "sig": "{\"focus\": [\"F6\", \"F7\", \"F8\", \"F9\", \"F10\", \"F11\", \"F12\"], \"held\": [\"F7\", \"F8\", \"F9\", \"F10\"], \"held_n\": 6, \"main\": [\"F5\", \"F6\", \"F7\", \"F8\", \"F9\", \"F10\", \"F11\", \"F12\"]}",
    "slug": "delta",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "denver-air-connection": {
    "airport_short": "Phoenix",
@@ -3036,7 +3500,7 @@
    "short": "Denver Air Connection",
    "sig": "",
    "slug": "denver-air-connection",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "frontier": {
    "airport_short": "Phoenix",
@@ -3050,7 +3514,7 @@
    "short": "Frontier",
    "sig": "{\"focus\": [\"F1\", \"F2\", \"F3\", \"F4\", \"F7\", \"F8\"], \"held\": [\"F1\", \"F2\", \"F3\", \"F4\"], \"held_n\": 4, \"main\": [\"F1\", \"F2\", \"F3\", \"F4\", \"F7\", \"F8\"]}",
    "slug": "frontier",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "jetblue": {
    "airport_short": "Phoenix",
@@ -3064,7 +3528,7 @@
    "short": "JetBlue",
    "sig": "{\"focus\": [\"F5\"], \"held\": [], \"held_n\": 0, \"main\": [\"F5\"]}",
    "slug": "jetblue",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "porter": {
    "airport_short": "Phoenix",
@@ -3078,7 +3542,7 @@
    "short": "Porter",
    "sig": "{\"focus\": [\"E8\"], \"held\": [], \"held_n\": 0, \"main\": [\"E8\"]}",
    "slug": "porter",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "southern-airways-express": {
    "airport_short": "Phoenix",
@@ -3092,7 +3556,7 @@
    "short": "Southern Airways Express",
    "sig": "",
    "slug": "southern-airways-express",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "southwest": {
    "airport_short": "Phoenix",
@@ -3106,7 +3570,7 @@
    "short": "Southwest",
    "sig": "{\"focus\": [\"C1\", \"D1\", \"C2\", \"D2\", \"C3\", \"D3\", \"C4\", \"D4\", \"D5\", \"C6\", \"D6\", \"C7\", \"D7\", \"C8\", \"D8\", \"C9\", \"C11\", \"D11\", \"C12\", \"D12\", \"C13\", \"D13\", \"C14\", \"D14\", \"D15\", \"C16\", \"D16\", \"C17\", \"D17\", \"C18\", \"D18\", \"C19\"], \"held\": [\"C1\", \"D1\", \"C2\", \"D2\", \"C3\", \"D3\", \"C4\", \"D4\", \"D5\", \"C6\", \"D6\", \"C7\", \"D7\", \"C8\", \"D8\", \"C9\", \"C11\", \"D11\", \"C12\", \"D12\", \"C13\", \"D13\", \"C14\", \"D14\", \"D15\", \"C16\", \"D16\", \"D17\", \"C18\", \"D18\", \"C19\"], \"held_n\": 32, \"main\": [\"C1\", \"D1\", \"C2\", \"D2\", \"C3\", \"D3\", \"C4\", \"D4\", \"D5\", \"C6\", \"D6\", \"C7\", \"D7\", \"C8\", \"D8\", \"C9\", \"C11\", \"D11\", \"C12\", \"D12\", \"C13\", \"D13\", \"C14\", \"D14\", \"D15\", \"C16\", \"D16\", \"C17\", \"D17\", \"C18\", \"D18\", \"C19\", \"B25\", \"B27\"]}",
    "slug": "southwest",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "starlux": {
    "airport_short": "Phoenix",
@@ -3120,7 +3584,7 @@
    "short": "STARLUX",
    "sig": "{\"focus\": [\"B23\"], \"held\": [], \"held_n\": 0, \"main\": [\"B23\"]}",
    "slug": "starlux",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "sun-country": {
    "airport_short": "Phoenix",
@@ -3134,7 +3598,7 @@
    "short": "Sun Country",
    "sig": "{\"focus\": [\"F5\"], \"held\": [], \"held_n\": 0, \"main\": [\"F5\"]}",
    "slug": "sun-country",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "united": {
    "airport_short": "Phoenix",
@@ -3148,7 +3612,7 @@
    "short": "United",
    "sig": "{\"focus\": [\"E1\", \"E3\", \"E5\", \"E7\", \"E8\", \"E9\", \"E10\"], \"held\": [\"E1\", \"E3\", \"E5\", \"E7\", \"E9\", \"E10\"], \"held_n\": 6, \"main\": [\"E1\", \"E3\", \"E5\", \"E7\", \"E8\", \"E9\", \"E10\"]}",
    "slug": "united",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "volaris": {
    "airport_short": "Phoenix",
@@ -3162,7 +3626,7 @@
    "short": "Volaris",
    "sig": "{\"focus\": [\"B26\", \"B28\"], \"held\": [], \"held_n\": 0, \"main\": [\"B26\", \"B28\"]}",
    "slug": "volaris",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "westjet": {
    "airport_short": "Phoenix",
@@ -3176,7 +3640,7 @@
    "short": "WestJet",
    "sig": "{\"focus\": [\"B27\", \"B28\"], \"held\": [\"B28\"], \"held_n\": 1, \"main\": [\"B27\", \"B28\"]}",
    "slug": "westjet",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   }
  },
  "SAN": {
@@ -3192,7 +3656,7 @@
    "short": "Air Canada",
    "sig": "{\"focus\": [\"117\", \"118\", \"119\"], \"held\": [\"118\"], \"held_n\": 1, \"main\": [\"117\", \"118\", \"119\"]}",
    "slug": "air-canada",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "air-canada-rouge": {
    "airport_short": "San Diego",
@@ -3206,7 +3670,7 @@
    "short": "Air Canada Rouge",
    "sig": "{\"focus\": [\"117\"], \"held\": [], \"held_n\": 0, \"main\": [\"117\"]}",
    "slug": "air-canada-rouge",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "alaska": {
    "airport_short": "San Diego",
@@ -3220,7 +3684,7 @@
    "short": "Alaska",
    "sig": "{\"focus\": [\"22\", \"24\", \"26\", \"28\", \"29\", \"30\", \"31\", \"32\", \"35\", \"42\", \"48\", \"49\", \"50\", \"51\"], \"held\": [\"22\", \"24\", \"26\", \"28\", \"29\", \"30\", \"31\", \"32\", \"35\", \"42\", \"49\", \"51\"], \"held_n\": 12, \"main\": [\"22\", \"24\", \"26\", \"28\", \"29\", \"30\", \"31\", \"32\", \"35\", \"39\", \"42\", \"47\", \"48\", \"49\", \"50\", \"51\"]}",
    "slug": "alaska",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "american": {
    "airport_short": "San Diego",
@@ -3234,7 +3698,7 @@
    "short": "American",
    "sig": "{\"focus\": [\"23\", \"25\", \"27\", \"32\", \"33\", \"34\", \"35\"], \"held\": [\"23\", \"25\", \"27\", \"33\", \"34\"], \"held_n\": 5, \"main\": [\"23\", \"25\", \"27\", \"32\", \"33\", \"34\", \"35\", \"36\", \"50\"]}",
    "slug": "american",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "breeze": {
    "airport_short": "San Diego",
@@ -3248,7 +3712,7 @@
    "short": "Breeze",
    "sig": "{\"focus\": [\"116\"], \"held\": [\"116\"], \"held_n\": 1, \"main\": [\"116\"]}",
    "slug": "breeze",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "british-airways": {
    "airport_short": "San Diego",
@@ -3262,7 +3726,7 @@
    "short": "British Airways",
    "sig": "",
    "slug": "british-airways",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "delta": {
    "airport_short": "San Diego",
@@ -3276,7 +3740,7 @@
    "short": "Delta",
    "sig": "{\"focus\": [\"36\", \"37\", \"38\", \"42\", \"46\", \"47\", \"48\", \"49\"], \"held\": [\"36\", \"37\", \"38\", \"46\", \"47\"], \"held_n\": 5, \"main\": [\"36\", \"37\", \"38\", \"42\", \"46\", \"47\", \"48\", \"49\", \"117\"]}",
    "slug": "delta",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "frontier": {
    "airport_short": "San Diego",
@@ -3290,7 +3754,7 @@
    "short": "Frontier",
    "sig": "{\"focus\": [\"119\", \"120\"], \"held\": [\"119\"], \"held_n\": 1, \"main\": [\"119\", \"120\"]}",
    "slug": "frontier",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "japan-airlines": {
    "airport_short": "San Diego",
@@ -3304,7 +3768,7 @@
    "short": "Japan Airlines",
    "sig": "{\"focus\": [\"48\"], \"held\": [], \"held_n\": 0, \"main\": [\"48\"]}",
    "slug": "japan-airlines",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "jetblue": {
    "airport_short": "San Diego",
@@ -3318,7 +3782,7 @@
    "short": "JetBlue",
    "sig": "{\"focus\": [\"120\", \"121\"], \"held\": [\"121\"], \"held_n\": 1, \"main\": [\"120\", \"121\"]}",
    "slug": "jetblue",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "klm": {
    "airport_short": "San Diego",
@@ -3332,7 +3796,7 @@
    "short": "KLM",
    "sig": "{\"focus\": [\"51\"], \"held\": [], \"held_n\": 0, \"main\": [\"51\"]}",
    "slug": "klm",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "lufthansa": {
    "airport_short": "San Diego",
@@ -3346,7 +3810,7 @@
    "short": "Lufthansa",
    "sig": "{\"focus\": [\"48\"], \"held\": [], \"held_n\": 0, \"main\": [\"48\"]}",
    "slug": "lufthansa",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "southwest": {
    "airport_short": "San Diego",
@@ -3360,7 +3824,7 @@
    "short": "Southwest",
    "sig": "{\"focus\": [\"101\", \"102\", \"103\", \"104\", \"105\", \"106\", \"107\", \"108\", \"109\", \"110\", \"111\", \"112\", \"113\", \"114\", \"115\"], \"held\": [\"101\", \"102\", \"103\", \"104\", \"105\", \"106\", \"107\", \"108\", \"109\", \"110\", \"111\", \"112\", \"113\", \"114\", \"115\"], \"held_n\": 15, \"main\": [\"50\", \"101\", \"102\", \"103\", \"104\", \"105\", \"106\", \"107\", \"108\", \"109\", \"110\", \"111\", \"112\", \"113\", \"114\", \"115\", \"116\", \"117\", \"120\", \"121\"]}",
    "slug": "southwest",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "united": {
    "airport_short": "San Diego",
@@ -3374,7 +3838,7 @@
    "short": "United",
    "sig": "{\"focus\": [\"39\", \"40\", \"41\", \"44\", \"45\", \"50\"], \"held\": [\"39\", \"40\", \"41\", \"44\", \"45\"], \"held_n\": 5, \"main\": [\"N3\", \"N11\", \"39\", \"40\", \"41\", \"44\", \"45\", \"48\", \"50\", \"51\"]}",
    "slug": "united",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
   },
   "westjet": {
    "airport_short": "San Diego",
@@ -3388,7 +3852,653 @@
    "short": "WestJet",
    "sig": "{\"focus\": [\"117\"], \"held\": [], \"held_n\": 0, \"main\": [\"117\"]}",
    "slug": "westjet",
-   "updated": "2026-10-05"
+   "updated": "2026-10-06"
+  }
+ },
+ "SFO": {
+  "aer-lingus": {
+   "airport_short": "San Francisco",
+   "code": "EI",
+   "deps_day": 1.0,
+   "gone": false,
+   "last_seen": "2026-10-03",
+   "last_seen_str": "Oct 3, 2026",
+   "name": "Aer Lingus",
+   "published": "2026-10-06",
+   "short": "Aer Lingus",
+   "sig": "{\"focus\": [\"B5\"], \"held\": [], \"held_n\": 0, \"main\": [\"B5\"]}",
+   "slug": "aer-lingus",
+   "updated": "2026-10-06"
+  },
+  "aeromexico": {
+   "airport_short": "San Francisco",
+   "code": "AM",
+   "deps_day": 1.7,
+   "gone": false,
+   "last_seen": "2026-10-03",
+   "last_seen_str": "Oct 3, 2026",
+   "name": "Aerom\u00e9xico",
+   "published": "2026-10-06",
+   "short": "Aerom\u00e9xico",
+   "sig": "{\"focus\": [\"A4\"], \"held\": [], \"held_n\": 0, \"main\": [\"A4\"]}",
+   "slug": "aeromexico",
+   "updated": "2026-10-06"
+  },
+  "air-canada": {
+   "airport_short": "San Francisco",
+   "code": "AC",
+   "deps_day": 8.7,
+   "gone": false,
+   "last_seen": "2026-10-03",
+   "last_seen_str": "Oct 3, 2026",
+   "name": "Air Canada",
+   "published": "2026-10-06",
+   "short": "Air Canada",
+   "sig": "{\"focus\": [\"C4\", \"D5\", \"C10\", \"D10\", \"D11\"], \"held\": [\"D11\"], \"held_n\": 1, \"main\": [\"C4\", \"D5\", \"C10\", \"D10\", \"D11\"]}",
+   "slug": "air-canada",
+   "updated": "2026-10-06"
+  },
+  "air-canada-rouge": {
+   "airport_short": "San Francisco",
+   "code": "RV",
+   "deps_day": 1.0,
+   "gone": false,
+   "last_seen": "2026-10-03",
+   "last_seen_str": "Oct 3, 2026",
+   "name": "Air Canada Rouge",
+   "published": "2026-10-06",
+   "short": "Air Canada Rouge",
+   "sig": "{\"focus\": [\"D11\"], \"held\": [], \"held_n\": 0, \"main\": [\"D11\"]}",
+   "slug": "air-canada-rouge",
+   "updated": "2026-10-06"
+  },
+  "air-france": {
+   "airport_short": "San Francisco",
+   "code": "AF",
+   "deps_day": 1.7,
+   "gone": false,
+   "last_seen": "2026-10-03",
+   "last_seen_str": "Oct 3, 2026",
+   "name": "Air France",
+   "published": "2026-10-06",
+   "short": "Air France",
+   "sig": "{\"focus\": [\"A1\", \"A2\", \"A8\", \"A13\"], \"held\": [], \"held_n\": 0, \"main\": [\"A1\", \"A2\", \"A8\", \"A13\"]}",
+   "slug": "air-france",
+   "updated": "2026-10-06"
+  },
+  "air-india": {
+   "airport_short": "San Francisco",
+   "code": "AI",
+   "deps_day": 1.0,
+   "gone": false,
+   "last_seen": "2026-10-03",
+   "last_seen_str": "Oct 3, 2026",
+   "name": "Air India",
+   "published": "2026-10-06",
+   "short": "Air India",
+   "sig": "{\"focus\": [\"A1\"], \"held\": [], \"held_n\": 0, \"main\": [\"A1\"]}",
+   "slug": "air-india",
+   "updated": "2026-10-06"
+  },
+  "air-premia": {
+   "airport_short": "San Francisco",
+   "code": "YP",
+   "deps_day": 0.7,
+   "gone": false,
+   "last_seen": "2026-10-03",
+   "last_seen_str": "Oct 3, 2026",
+   "name": "Air Premia",
+   "published": "2026-10-06",
+   "short": "Air Premia",
+   "sig": "{\"focus\": [\"A10\"], \"held\": [], \"held_n\": 0, \"main\": [\"A10\"]}",
+   "slug": "air-premia",
+   "updated": "2026-10-06"
+  },
+  "alaska": {
+   "airport_short": "San Francisco",
+   "code": "AS",
+   "deps_day": 54.0,
+   "gone": false,
+   "last_seen": "2026-10-03",
+   "last_seen_str": "Oct 3, 2026",
+   "name": "Alaska Airlines",
+   "published": "2026-10-06",
+   "short": "Alaska",
+   "sig": "{\"focus\": [\"C1\", \"B2\", \"B3\", \"B6\", \"B7\", \"B8\", \"B9\", \"B11\", \"B12\", \"B13\", \"B15\"], \"held\": [\"C1\", \"B3\", \"B6\", \"B7\", \"B8\", \"B9\", \"B12\", \"B13\", \"B15\"], \"held_n\": 9, \"main\": [\"C1\", \"B2\", \"B3\", \"B4\", \"B6\", \"B7\", \"B8\", \"B9\", \"B11\", \"B12\", \"B13\", \"B15\", \"B16\", \"B19\"]}",
+   "slug": "alaska",
+   "updated": "2026-10-06"
+  },
+  "american": {
+   "airport_short": "San Francisco",
+   "code": "AA",
+   "deps_day": 43.7,
+   "gone": false,
+   "last_seen": "2026-10-04",
+   "last_seen_str": "Oct 4, 2026",
+   "name": "American Airlines",
+   "published": "2026-10-06",
+   "short": "American",
+   "sig": "{\"focus\": [\"B16\", \"B19\", \"B20\", \"B22\", \"B23\", \"B24\", \"B25\", \"B26\", \"B27\"], \"held\": [\"B22\", \"B23\", \"B24\", \"B25\", \"B26\", \"B27\"], \"held_n\": 6, \"main\": [\"B2\", \"B5\", \"B16\", \"B19\", \"B20\", \"B22\", \"B23\", \"B24\", \"B25\", \"B26\", \"B27\"]}",
+   "slug": "american",
+   "updated": "2026-10-06"
+  },
+  "ana": {
+   "airport_short": "San Francisco",
+   "code": "NH",
+   "deps_day": 2.0,
+   "gone": false,
+   "last_seen": "2026-10-03",
+   "last_seen_str": "Oct 3, 2026",
+   "name": "All Nippon Airways (ANA)",
+   "published": "2026-10-06",
+   "short": "ANA",
+   "sig": "{\"focus\": [\"G9\", \"G13\"], \"held\": [], \"held_n\": 0, \"main\": [\"G9\", \"G13\"]}",
+   "slug": "ana",
+   "updated": "2026-10-06"
+  },
+  "asiana": {
+   "airport_short": "San Francisco",
+   "code": "OZ",
+   "deps_day": 1.0,
+   "gone": false,
+   "last_seen": "2026-10-03",
+   "last_seen_str": "Oct 3, 2026",
+   "name": "Asiana Airlines",
+   "published": "2026-10-06",
+   "short": "Asiana",
+   "sig": "{\"focus\": [\"A5\", \"A9\"], \"held\": [], \"held_n\": 0, \"main\": [\"A5\", \"A9\"]}",
+   "slug": "asiana",
+   "updated": "2026-10-06"
+  },
+  "avianca-el-salvador": {
+   "airport_short": "San Francisco",
+   "code": "TA",
+   "deps_day": 2.0,
+   "gone": false,
+   "last_seen": "2026-10-03",
+   "last_seen_str": "Oct 3, 2026",
+   "name": "Avianca El Salvador",
+   "published": "2026-10-06",
+   "short": "Avianca El Salvador",
+   "sig": "{\"focus\": [\"A15\"], \"held\": [\"A15\"], \"held_n\": 1, \"main\": [\"A15\"]}",
+   "slug": "avianca-el-salvador",
+   "updated": "2026-10-06"
+  },
+  "bf": {
+   "airport_short": "San Francisco",
+   "code": "BF",
+   "deps_day": 1.0,
+   "gone": false,
+   "last_seen": "2026-10-03",
+   "last_seen_str": "Oct 3, 2026",
+   "name": "BF",
+   "published": "2026-10-06",
+   "short": "BF",
+   "sig": "{\"focus\": [\"A10\"], \"held\": [], \"held_n\": 0, \"main\": [\"A10\"]}",
+   "slug": "bf",
+   "updated": "2026-10-06"
+  },
+  "breeze": {
+   "airport_short": "San Francisco",
+   "code": "MX",
+   "deps_day": 2.0,
+   "gone": false,
+   "last_seen": "2026-10-03",
+   "last_seen_str": "Oct 3, 2026",
+   "name": "Breeze Airways",
+   "published": "2026-10-06",
+   "short": "Breeze",
+   "sig": "{\"focus\": [\"D5\", \"C10\", \"D10\"], \"held\": [], \"held_n\": 0, \"main\": [\"D5\", \"C10\", \"D10\"]}",
+   "slug": "breeze",
+   "updated": "2026-10-06"
+  },
+  "british-airways": {
+   "airport_short": "San Francisco",
+   "code": "BA",
+   "deps_day": 2.0,
+   "gone": false,
+   "last_seen": "2026-10-03",
+   "last_seen_str": "Oct 3, 2026",
+   "name": "British Airways",
+   "published": "2026-10-06",
+   "short": "British Airways",
+   "sig": "{\"focus\": [\"A5\", \"A11\"], \"held\": [], \"held_n\": 0, \"main\": [\"A5\", \"A11\"]}",
+   "slug": "british-airways",
+   "updated": "2026-10-06"
+  },
+  "cathay-pacific": {
+   "airport_short": "San Francisco",
+   "code": "CX",
+   "deps_day": 2.0,
+   "gone": false,
+   "last_seen": "2026-10-03",
+   "last_seen_str": "Oct 3, 2026",
+   "name": "Cathay Pacific",
+   "published": "2026-10-06",
+   "short": "Cathay Pacific",
+   "sig": "{\"focus\": [\"A1\", \"A6\", \"A8\", \"A13\"], \"held\": [], \"held_n\": 0, \"main\": [\"A1\", \"A6\", \"A8\", \"A13\"]}",
+   "slug": "cathay-pacific",
+   "updated": "2026-10-06"
+  },
+  "china-airlines": {
+   "airport_short": "San Francisco",
+   "code": "CI",
+   "deps_day": 1.0,
+   "gone": false,
+   "last_seen": "2026-10-03",
+   "last_seen_str": "Oct 3, 2026",
+   "name": "China Airlines",
+   "published": "2026-10-06",
+   "short": "China Airlines",
+   "sig": "{\"focus\": [\"A1\", \"A8\"], \"held\": [], \"held_n\": 0, \"main\": [\"A1\", \"A8\"]}",
+   "slug": "china-airlines",
+   "updated": "2026-10-06"
+  },
+  "china-eastern": {
+   "airport_short": "San Francisco",
+   "code": "MU",
+   "deps_day": 0.7,
+   "gone": false,
+   "last_seen": "2026-10-03",
+   "last_seen_str": "Oct 3, 2026",
+   "name": "China Eastern",
+   "published": "2026-10-06",
+   "short": "China Eastern",
+   "sig": "{\"focus\": [\"A2\", \"A6\"], \"held\": [], \"held_n\": 0, \"main\": [\"A2\", \"A6\"]}",
+   "slug": "china-eastern",
+   "updated": "2026-10-06"
+  },
+  "condor": {
+   "airport_short": "San Francisco",
+   "code": "DE",
+   "deps_day": 1.0,
+   "gone": false,
+   "last_seen": "2026-10-03",
+   "last_seen_str": "Oct 3, 2026",
+   "name": "Condor",
+   "published": "2026-10-06",
+   "short": "Condor",
+   "sig": "{\"focus\": [\"A10\", \"B11\"], \"held\": [], \"held_n\": 0, \"main\": [\"A10\", \"B11\"]}",
+   "slug": "condor",
+   "updated": "2026-10-06"
+  },
+  "copa": {
+   "airport_short": "San Francisco",
+   "code": "CM",
+   "deps_day": 1.3,
+   "gone": false,
+   "last_seen": "2026-10-03",
+   "last_seen_str": "Oct 3, 2026",
+   "name": "Copa Airlines",
+   "published": "2026-10-06",
+   "short": "Copa",
+   "sig": "{\"focus\": [\"A2\", \"A4\", \"A5\", \"B10\"], \"held\": [], \"held_n\": 0, \"main\": [\"A2\", \"A4\", \"A5\", \"B10\"]}",
+   "slug": "copa",
+   "updated": "2026-10-06"
+  },
+  "delta": {
+   "airport_short": "San Francisco",
+   "code": "DL",
+   "deps_day": 44.3,
+   "gone": false,
+   "last_seen": "2026-10-03",
+   "last_seen_str": "Oct 3, 2026",
+   "name": "Delta Air Lines",
+   "published": "2026-10-06",
+   "short": "Delta",
+   "sig": "{\"focus\": [\"C3\", \"C5\", \"C6\", \"C7\", \"C8\", \"C9\", \"C11\", \"B16\"], \"held\": [\"C3\", \"C5\", \"C6\", \"C7\", \"C8\", \"C9\", \"C11\"], \"held_n\": 7, \"main\": [\"C3\", \"B4\", \"C4\", \"C5\", \"D5\", \"C6\", \"C7\", \"C8\", \"C9\", \"B10\", \"C10\", \"B11\", \"C11\", \"B16\", \"B20\"]}",
+   "slug": "delta",
+   "updated": "2026-10-06"
+  },
+  "emirates": {
+   "airport_short": "San Francisco",
+   "code": "EK",
+   "deps_day": 1.0,
+   "gone": false,
+   "last_seen": "2026-10-03",
+   "last_seen_str": "Oct 3, 2026",
+   "name": "Emirates",
+   "published": "2026-10-06",
+   "short": "Emirates",
+   "sig": "{\"focus\": [\"A6\"], \"held\": [], \"held_n\": 0, \"main\": [\"A6\"]}",
+   "slug": "emirates",
+   "updated": "2026-10-06"
+  },
+  "eva-air": {
+   "airport_short": "San Francisco",
+   "code": "BR",
+   "deps_day": 3.7,
+   "gone": false,
+   "last_seen": "2026-10-03",
+   "last_seen_str": "Oct 3, 2026",
+   "name": "EVA Air",
+   "published": "2026-10-06",
+   "short": "EVA Air",
+   "sig": "{\"focus\": [\"A1\", \"A2\", \"A6\", \"A8\", \"A9\", \"A11\"], \"held\": [], \"held_n\": 0, \"main\": [\"A1\", \"A2\", \"A6\", \"A8\", \"A9\", \"A11\"]}",
+   "slug": "eva-air",
+   "updated": "2026-10-06"
+  },
+  "frontier": {
+   "airport_short": "San Francisco",
+   "code": "F9",
+   "deps_day": 12.7,
+   "gone": false,
+   "last_seen": "2026-10-03",
+   "last_seen_str": "Oct 3, 2026",
+   "name": "Frontier Airlines",
+   "published": "2026-10-06",
+   "short": "Frontier",
+   "sig": "{\"focus\": [\"B14\", \"B17\", \"B19\", \"B20\"], \"held\": [\"B14\", \"B17\"], \"held_n\": 2, \"main\": [\"B14\", \"B17\", \"B19\", \"B20\"]}",
+   "slug": "frontier",
+   "updated": "2026-10-06"
+  },
+  "ita-airways": {
+   "airport_short": "San Francisco",
+   "code": "AZ",
+   "deps_day": 0.7,
+   "gone": false,
+   "last_seen": "2026-10-03",
+   "last_seen_str": "Oct 3, 2026",
+   "name": "ITA Airways",
+   "published": "2026-10-06",
+   "short": "ITA Airways",
+   "sig": "{\"focus\": [\"A1\", \"A2\"], \"held\": [], \"held_n\": 0, \"main\": [\"A1\", \"A2\"]}",
+   "slug": "ita-airways",
+   "updated": "2026-10-06"
+  },
+  "japan-airlines": {
+   "airport_short": "San Francisco",
+   "code": "JL",
+   "deps_day": 2.0,
+   "gone": false,
+   "last_seen": "2026-10-03",
+   "last_seen_str": "Oct 3, 2026",
+   "name": "Japan Airlines",
+   "published": "2026-10-06",
+   "short": "Japan Airlines",
+   "sig": "{\"focus\": [\"A8\", \"A10\", \"A12\", \"A13\"], \"held\": [], \"held_n\": 0, \"main\": [\"A8\", \"A10\", \"A12\", \"A13\"]}",
+   "slug": "japan-airlines",
+   "updated": "2026-10-06"
+  },
+  "jetblue": {
+   "airport_short": "San Francisco",
+   "code": "B6",
+   "deps_day": 12.3,
+   "gone": false,
+   "last_seen": "2026-10-03",
+   "last_seen_str": "Oct 3, 2026",
+   "name": "JetBlue",
+   "published": "2026-10-06",
+   "short": "JetBlue",
+   "sig": "{\"focus\": [\"B2\", \"B10\", \"B16\", \"B18\", \"B19\", \"B20\", \"B21\"], \"held\": [\"B18\", \"B21\"], \"held_n\": 2, \"main\": [\"B2\", \"B10\", \"B16\", \"B18\", \"B19\", \"B20\", \"B21\"]}",
+   "slug": "jetblue",
+   "updated": "2026-10-06"
+  },
+  "klm": {
+   "airport_short": "San Francisco",
+   "code": "KL",
+   "deps_day": 0.7,
+   "gone": false,
+   "last_seen": "2026-10-03",
+   "last_seen_str": "Oct 3, 2026",
+   "name": "KLM",
+   "published": "2026-10-06",
+   "short": "KLM",
+   "sig": "{\"focus\": [\"A1\", \"A2\"], \"held\": [], \"held_n\": 0, \"main\": [\"A1\", \"A2\"]}",
+   "slug": "klm",
+   "updated": "2026-10-06"
+  },
+  "korean-air": {
+   "airport_short": "San Francisco",
+   "code": "KE",
+   "deps_day": 1.0,
+   "gone": false,
+   "last_seen": "2026-10-03",
+   "last_seen_str": "Oct 3, 2026",
+   "name": "Korean Air",
+   "published": "2026-10-06",
+   "short": "Korean Air",
+   "sig": "{\"focus\": [\"A11\"], \"held\": [], \"held_n\": 0, \"main\": [\"A11\"]}",
+   "slug": "korean-air",
+   "updated": "2026-10-06"
+  },
+  "lufthansa": {
+   "airport_short": "San Francisco",
+   "code": "LH",
+   "deps_day": 2.0,
+   "gone": false,
+   "last_seen": "2026-10-03",
+   "last_seen_str": "Oct 3, 2026",
+   "name": "Lufthansa",
+   "published": "2026-10-06",
+   "short": "Lufthansa",
+   "sig": "{\"focus\": [\"G6\", \"G9\", \"G13\"], \"held\": [], \"held_n\": 0, \"main\": [\"G6\", \"G9\", \"G13\"]}",
+   "slug": "lufthansa",
+   "updated": "2026-10-06"
+  },
+  "philippine-airlines": {
+   "airport_short": "San Francisco",
+   "code": "PR",
+   "deps_day": 1.0,
+   "gone": false,
+   "last_seen": "2026-10-03",
+   "last_seen_str": "Oct 3, 2026",
+   "name": "Philippine Airlines",
+   "published": "2026-10-06",
+   "short": "Philippine Airlines",
+   "sig": "{\"focus\": [\"A2\", \"A6\"], \"held\": [], \"held_n\": 0, \"main\": [\"A2\", \"A6\"]}",
+   "slug": "philippine-airlines",
+   "updated": "2026-10-06"
+  },
+  "porter": {
+   "airport_short": "San Francisco",
+   "code": "PD",
+   "deps_day": 1.0,
+   "gone": false,
+   "last_seen": "2026-10-03",
+   "last_seen_str": "Oct 3, 2026",
+   "name": "Porter Airlines",
+   "published": "2026-10-06",
+   "short": "Porter",
+   "sig": "{\"focus\": [\"B2\", \"B19\"], \"held\": [], \"held_n\": 0, \"main\": [\"B2\", \"B19\"]}",
+   "slug": "porter",
+   "updated": "2026-10-06"
+  },
+  "qatar-airways": {
+   "airport_short": "San Francisco",
+   "code": "QR",
+   "deps_day": 0.7,
+   "gone": false,
+   "last_seen": "2026-10-03",
+   "last_seen_str": "Oct 3, 2026",
+   "name": "Qatar Airways",
+   "published": "2026-10-06",
+   "short": "Qatar Airways",
+   "sig": "{\"focus\": [\"A8\", \"A13\"], \"held\": [], \"held_n\": 0, \"main\": [\"A8\", \"A13\"]}",
+   "slug": "qatar-airways",
+   "updated": "2026-10-06"
+  },
+  "sas": {
+   "airport_short": "San Francisco",
+   "code": "SK",
+   "deps_day": 1.0,
+   "gone": false,
+   "last_seen": "2026-10-03",
+   "last_seen_str": "Oct 3, 2026",
+   "name": "SAS Scandinavian Airlines",
+   "published": "2026-10-06",
+   "short": "SAS",
+   "sig": "{\"focus\": [\"A2\", \"A5\"], \"held\": [], \"held_n\": 0, \"main\": [\"A2\", \"A5\"]}",
+   "slug": "sas",
+   "updated": "2026-10-06"
+  },
+  "singapore-airlines": {
+   "airport_short": "San Francisco",
+   "code": "SQ",
+   "deps_day": 2.0,
+   "gone": false,
+   "last_seen": "2026-10-03",
+   "last_seen_str": "Oct 3, 2026",
+   "name": "Singapore Airlines",
+   "published": "2026-10-06",
+   "short": "Singapore Airlines",
+   "sig": "{\"focus\": [\"A1\", \"A5\", \"A8\"], \"held\": [], \"held_n\": 0, \"main\": [\"A1\", \"A5\", \"A8\"]}",
+   "slug": "singapore-airlines",
+   "updated": "2026-10-06"
+  },
+  "southwest": {
+   "airport_short": "San Francisco",
+   "code": "WN",
+   "deps_day": 32.0,
+   "gone": false,
+   "last_seen": "2026-10-03",
+   "last_seen_str": "Oct 3, 2026",
+   "name": "Southwest Airlines",
+   "published": "2026-10-06",
+   "short": "Southwest",
+   "sig": "{\"focus\": [\"D1\", \"D3\", \"D4\", \"D5\", \"D6\", \"D10\"], \"held\": [\"D1\", \"D3\", \"D4\", \"D6\"], \"held_n\": 4, \"main\": [\"D1\", \"D3\", \"D4\", \"D5\", \"D6\", \"D10\"]}",
+   "slug": "southwest",
+   "updated": "2026-10-06"
+  },
+  "starlux": {
+   "airport_short": "San Francisco",
+   "code": "JX",
+   "deps_day": 1.0,
+   "gone": false,
+   "last_seen": "2026-10-03",
+   "last_seen_str": "Oct 3, 2026",
+   "name": "STARLUX Airlines",
+   "published": "2026-10-06",
+   "short": "STARLUX",
+   "sig": "{\"focus\": [\"B5\"], \"held\": [], \"held_n\": 0, \"main\": [\"B5\"]}",
+   "slug": "starlux",
+   "updated": "2026-10-06"
+  },
+  "sun-country": {
+   "airport_short": "San Francisco",
+   "code": "SY",
+   "deps_day": 1.0,
+   "gone": false,
+   "last_seen": "2026-10-03",
+   "last_seen_str": "Oct 3, 2026",
+   "name": "Sun Country Airlines",
+   "published": "2026-10-06",
+   "short": "Sun Country",
+   "sig": "{\"focus\": [\"B2\", \"B20\"], \"held\": [], \"held_n\": 0, \"main\": [\"B2\", \"B20\"]}",
+   "slug": "sun-country",
+   "updated": "2026-10-06"
+  },
+  "swiss": {
+   "airport_short": "San Francisco",
+   "code": "LX",
+   "deps_day": 1.0,
+   "gone": false,
+   "last_seen": "2026-10-03",
+   "last_seen_str": "Oct 3, 2026",
+   "name": "SWISS",
+   "published": "2026-10-06",
+   "short": "SWISS",
+   "sig": "{\"focus\": [\"G6\", \"G13\"], \"held\": [], \"held_n\": 0, \"main\": [\"G6\", \"G13\"]}",
+   "slug": "swiss",
+   "updated": "2026-10-06"
+  },
+  "tap": {
+   "airport_short": "San Francisco",
+   "code": "TP",
+   "deps_day": 0.7,
+   "gone": false,
+   "last_seen": "2026-10-03",
+   "last_seen_str": "Oct 3, 2026",
+   "name": "TAP Air Portugal",
+   "published": "2026-10-06",
+   "short": "TAP",
+   "sig": "{\"focus\": [\"B11\", \"A13\", \"41A\", \"42\"], \"held\": [], \"held_n\": 0, \"main\": [\"B11\", \"A13\", \"41A\", \"42\"]}",
+   "slug": "tap",
+   "updated": "2026-10-06"
+  },
+  "turkish-airlines": {
+   "airport_short": "San Francisco",
+   "code": "TK",
+   "deps_day": 1.3,
+   "gone": false,
+   "last_seen": "2026-10-03",
+   "last_seen_str": "Oct 3, 2026",
+   "name": "Turkish Airlines",
+   "published": "2026-10-06",
+   "short": "Turkish Airlines",
+   "sig": "{\"focus\": [\"A1\", \"A2\", \"A5\", \"A8\"], \"held\": [], \"held_n\": 0, \"main\": [\"A1\", \"A2\", \"A5\", \"A8\"]}",
+   "slug": "turkish-airlines",
+   "updated": "2026-10-06"
+  },
+  "united": {
+   "airport_short": "San Francisco",
+   "code": "UA",
+   "deps_day": 302.0,
+   "gone": false,
+   "last_seen": "2026-10-03",
+   "last_seen_str": "Oct 3, 2026",
+   "name": "United Airlines",
+   "published": "2026-10-06",
+   "short": "United",
+   "sig": "{\"focus\": [\"G1\", \"E2\", \"G2\", \"E3\", \"G3\", \"E4\", \"G4\", \"D5\", \"E5\", \"F5\", \"G5\", \"E6\", \"F6\", \"G6\", \"D7\", \"E7\", \"F7\", \"G7\", \"D8\", \"E8\", \"F8\", \"G8\", \"D9\", \"E9\", \"F9\", \"G9\", \"D10\", \"E10\", \"F10\", \"G10\", \"E11\", \"F11\", \"D12\", \"E12\", \"E13\", \"F13\", \"D14\", \"F14\", \"D15\", \"F15\", \"D16\", \"F16\", \"F17\", \"F18\", \"F19\", \"F20\", \"F21\", \"F22\"], \"held\": [\"G1\", \"E2\", \"G2\", \"E3\", \"G3\", \"E4\", \"G4\", \"D5\", \"E5\", \"F5\", \"G5\", \"E6\", \"F6\", \"G6\", \"D7\", \"E7\", \"F7\", \"G7\", \"D8\", \"E8\", \"F8\", \"G8\", \"D9\", \"E9\", \"F9\", \"G9\", \"D10\", \"E10\", \"F10\", \"G10\", \"E11\", \"F11\", \"D12\", \"E12\", \"E13\", \"F13\", \"D14\", \"F14\", \"D15\", \"F15\", \"D16\", \"F16\", \"F17\", \"F18\", \"F19\", \"F20\", \"F21\", \"F22\"], \"held_n\": 48, \"main\": [\"G1\", \"A2\", \"B2\", \"E2\", \"G2\", \"E3\", \"G3\", \"A4\", \"E4\", \"G4\", \"B5\", \"D5\", \"E5\", \"F5\", \"G5\", \"D6\", \"E6\", \"F6\", \"G6\", \"D7\", \"E7\", \"F7\", \"G7\", \"D8\", \"E8\", \"F8\", \"G8\", \"D9\", \"E9\", \"F9\", \"G9\", \"B10\", \"D10\", \"E10\", \"F10\", \"G10\", \"B11\", \"E11\", \"F11\", \"D12\", \"E12\", \"E13\", \"F13\", \"G13\", \"D14\", \"F14\", \"A15\", \"D15\", \"F15\", \"D16\", \"F16\", \"F17\", \"F18\", \"F19\", \"F20\", \"F21\", \"F22\", \"SBAY\"]}",
+   "slug": "united",
+   "updated": "2026-10-06"
+  },
+  "virgin-atlantic": {
+   "airport_short": "San Francisco",
+   "code": "VS",
+   "deps_day": 1.0,
+   "gone": false,
+   "last_seen": "2026-10-03",
+   "last_seen_str": "Oct 3, 2026",
+   "name": "Virgin Atlantic",
+   "published": "2026-10-06",
+   "short": "Virgin Atlantic",
+   "sig": "{\"focus\": [\"A8\", \"A9\", \"A13\"], \"held\": [], \"held_n\": 0, \"main\": [\"A8\", \"A9\", \"A13\"]}",
+   "slug": "virgin-atlantic",
+   "updated": "2026-10-06"
+  },
+  "vn": {
+   "airport_short": "San Francisco",
+   "code": "VN",
+   "deps_day": 0.7,
+   "gone": false,
+   "last_seen": "2026-10-03",
+   "last_seen_str": "Oct 3, 2026",
+   "name": "VN",
+   "published": "2026-10-06",
+   "short": "VN",
+   "sig": "{\"focus\": [\"A2\", \"A6\"], \"held\": [], \"held_n\": 0, \"main\": [\"A2\", \"A6\"]}",
+   "slug": "vn",
+   "updated": "2026-10-06"
+  },
+  "westjet": {
+   "airport_short": "San Francisco",
+   "code": "WS",
+   "deps_day": 2.0,
+   "gone": false,
+   "last_seen": "2026-10-03",
+   "last_seen_str": "Oct 3, 2026",
+   "name": "WestJet",
+   "published": "2026-10-06",
+   "short": "WestJet",
+   "sig": "{\"focus\": [\"C4\"], \"held\": [], \"held_n\": 0, \"main\": [\"C4\"]}",
+   "slug": "westjet",
+   "updated": "2026-10-06"
+  },
+  "zipair": {
+   "airport_short": "San Francisco",
+   "code": "ZG",
+   "deps_day": 1.0,
+   "gone": false,
+   "last_seen": "2026-10-03",
+   "last_seen_str": "Oct 3, 2026",
+   "name": "ZIPAIR",
+   "published": "2026-10-06",
+   "short": "ZIPAIR",
+   "sig": "{\"focus\": [\"A12\"], \"held\": [], \"held_n\": 0, \"main\": [\"A12\"]}",
+   "slug": "zipair",
+   "updated": "2026-10-06"
   }
  }
 }
