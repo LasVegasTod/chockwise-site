@@ -289,14 +289,14 @@
  },
  "PDX": {
   "flights_day": 517,
-  "gates": 49,
+  "gates": 55,
   "name": "Portland Intl",
   "published": "2026-10-06",
   "seats_day": 33722,
   "short": "PDX",
-  "sig": "{\"common\": 6, \"gates\": 49, \"held\": {\"AA\": 3, \"AC\": 1, \"AS\": 22, \"DL\": 5, \"UA\": 4, \"WN\": 5}, \"low\": 3}",
+  "sig": "{\"common\": 6, \"gates\": 55, \"held\": {\"AA\": 3, \"AC\": 1, \"AS\": 28, \"DL\": 5, \"UA\": 4, \"WN\": 5}, \"low\": 3}",
   "top": "AS",
-  "top_gates": 22,
+  "top_gates": 28,
   "updated": "2026-10-06"
  },
  "PHL": {
