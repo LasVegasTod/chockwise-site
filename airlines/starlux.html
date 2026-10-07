@@ -23,15 +23,13 @@
 <meta name="twitter:image" content="https://chockwise.com/images/og-card.png">
 <meta name="twitter:image:alt" content="Chockwise: AI-enabled airport gate intelligence">
 <script type="application/ld+json">{"@context": "https://schema.org", "@graph": [{"@type": "WebPage", "@id": "https://chockwise.com/airlines/starlux", "url": "https://chockwise.com/airlines/starlux", "name": "STARLUX’s gates at 4 airports: terminals and nonstop routes | Chockwise", "description": "STARLUX Airlines at 4 airports Chockwise maps (Los Angeles, Seattle, San Francisco and Phoenix): Each airport’s page has its terminals, gates, nonstop routes and schedule.", "about": {"@type": "Airline", "name": "STARLUX Airlines", "iataCode": "JX"}, "publisher": {"@type": "Organization", "name": "Chockwise", "url": "https://chockwise.com/"}}, {"@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Chockwise", "item": "https://chockwise.com/"}, {"@type": "ListItem", "position": 2, "name": "Airlines", "item": "https://chockwise.com/airlines/"}, {"@type": "ListItem", "position": 3, "name": "STARLUX Airlines", "item": "https://chockwise.com/airlines/starlux"}]}]}</script>
+<!-- Google Analytics (GA4): the same tag as the home page -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-M9YTYY1NMV"></script>
 <script>
-  var GA_ID = '';   // the same Measurement ID as the home page (G-...); empty = off
-  if (GA_ID) {
-    var ga = document.createElement('script'); ga.async = true; ga.src = 'https://www.googletagmanager.com/gtag/js?id=' + GA_ID;
-    document.head.appendChild(ga);
-    window.dataLayer = window.dataLayer || [];
-    window.gtag = function () { dataLayer.push(arguments); };
-    gtag('js', new Date()); gtag('config', GA_ID);
-  }
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-M9YTYY1NMV');
 </script>
 <link rel="icon" href="/favicon.svg" type="image/svg+xml">
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -132,7 +130,7 @@
 </main>
 <footer><div class="wrap">
   <span>© <span id="year">2026</span> Chockwise · <a href="/" style="color:inherit">chockwise.com</a></span>
-  <span>Flight data: FlightAware · Seats: each airline’s seat map per aircraft type · Map © OpenStreetMap contributors · Updated Oct 6, 2026</span>
+  <span>Flight data: FlightAware · Seats: each airline’s seat map per aircraft type · Map © OpenStreetMap contributors · Updated Oct 7, 2026</span>
 </div></footer>
 <script>document.getElementById('year').textContent = new Date().getFullYear();</script>
 </body>
