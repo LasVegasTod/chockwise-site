@@ -1,7 +1,7 @@
 {
  "ABQ": {
   "alaska": {
-   "airport_short": "ABQ",
+   "airport_short": "Albuquerque",
    "code": "AS",
    "deps_day": 3.0,
    "gone": false,
@@ -15,7 +15,7 @@
    "updated": "2026-10-07"
   },
   "american": {
-   "airport_short": "ABQ",
+   "airport_short": "Albuquerque",
    "code": "AA",
    "deps_day": 16.3,
    "gone": false,
@@ -29,7 +29,7 @@
    "updated": "2026-10-07"
   },
   "delta": {
-   "airport_short": "ABQ",
+   "airport_short": "Albuquerque",
    "code": "DL",
    "deps_day": 13.0,
    "gone": false,
@@ -43,7 +43,7 @@
    "updated": "2026-10-07"
   },
   "jetblue": {
-   "airport_short": "ABQ",
+   "airport_short": "Albuquerque",
    "code": "B6",
    "deps_day": 1.0,
    "gone": false,
@@ -57,7 +57,7 @@
    "updated": "2026-10-07"
   },
   "southwest": {
-   "airport_short": "ABQ",
+   "airport_short": "Albuquerque",
    "code": "WN",
    "deps_day": 38.3,
    "gone": false,
@@ -71,7 +71,7 @@
    "updated": "2026-10-07"
   },
   "united": {
-   "airport_short": "ABQ",
+   "airport_short": "Albuquerque",
    "code": "UA",
    "deps_day": 14.7,
    "gone": false,
@@ -567,7 +567,7 @@
  },
  "BHM": {
   "american": {
-   "airport_short": "BHM",
+   "airport_short": "Birmingham",
    "code": "AA",
    "deps_day": 21.7,
    "gone": false,
@@ -581,7 +581,7 @@
    "updated": "2026-10-07"
   },
   "delta": {
-   "airport_short": "BHM",
+   "airport_short": "Birmingham",
    "code": "DL",
    "deps_day": 15.0,
    "gone": false,
@@ -595,7 +595,7 @@
    "updated": "2026-10-07"
   },
   "southwest": {
-   "airport_short": "BHM",
+   "airport_short": "Birmingham",
    "code": "WN",
    "deps_day": 15.7,
    "gone": false,
@@ -609,7 +609,7 @@
    "updated": "2026-10-07"
   },
   "united": {
-   "airport_short": "BHM",
+   "airport_short": "Birmingham",
    "code": "UA",
    "deps_day": 10.0,
    "gone": false,
@@ -1513,7 +1513,7 @@
  },
  "BUF": {
   "american": {
-   "airport_short": "BUF",
+   "airport_short": "Buffalo",
    "code": "AA",
    "deps_day": 23.0,
    "gone": false,
@@ -1527,7 +1527,7 @@
    "updated": "2026-10-07"
   },
   "delta": {
-   "airport_short": "BUF",
+   "airport_short": "Buffalo",
    "code": "DL",
    "deps_day": 17.0,
    "gone": false,
@@ -1541,7 +1541,7 @@
    "updated": "2026-10-07"
   },
   "frontier": {
-   "airport_short": "BUF",
+   "airport_short": "Buffalo",
    "code": "F9",
    "deps_day": 1.0,
    "gone": false,
@@ -1555,7 +1555,7 @@
    "updated": "2026-10-07"
   },
   "jetblue": {
-   "airport_short": "BUF",
+   "airport_short": "Buffalo",
    "code": "B6",
    "deps_day": 9.7,
    "gone": false,
@@ -1569,7 +1569,7 @@
    "updated": "2026-10-07"
   },
   "southwest": {
-   "airport_short": "BUF",
+   "airport_short": "Buffalo",
    "code": "WN",
    "deps_day": 17.3,
    "gone": false,
@@ -1583,7 +1583,7 @@
    "updated": "2026-10-07"
   },
   "united": {
-   "airport_short": "BUF",
+   "airport_short": "Buffalo",
    "code": "UA",
    "deps_day": 12.0,
    "gone": false,
@@ -1869,7 +1869,7 @@
  },
  "CHS": {
   "alaska": {
-   "airport_short": "CHS",
+   "airport_short": "Charleston",
    "code": "AS",
    "deps_day": 1.0,
    "gone": false,
@@ -1883,7 +1883,7 @@
    "updated": "2026-10-07"
   },
   "american": {
-   "airport_short": "CHS",
+   "airport_short": "Charleston",
    "code": "AA",
    "deps_day": 26.0,
    "gone": false,
@@ -1897,7 +1897,7 @@
    "updated": "2026-10-07"
   },
   "breeze": {
-   "airport_short": "CHS",
+   "airport_short": "Charleston",
    "code": "MX",
    "deps_day": 14.7,
    "gone": false,
@@ -1911,7 +1911,7 @@
    "updated": "2026-10-07"
   },
   "delta": {
-   "airport_short": "CHS",
+   "airport_short": "Charleston",
    "code": "DL",
    "deps_day": 21.7,
    "gone": false,
@@ -1925,7 +1925,7 @@
    "updated": "2026-10-07"
   },
   "jetblue": {
-   "airport_short": "CHS",
+   "airport_short": "Charleston",
    "code": "B6",
    "deps_day": 4.0,
    "gone": false,
@@ -1939,7 +1939,7 @@
    "updated": "2026-10-07"
   },
   "southwest": {
-   "airport_short": "CHS",
+   "airport_short": "Charleston",
    "code": "WN",
    "deps_day": 11.0,
    "gone": false,
@@ -1953,7 +1953,7 @@
    "updated": "2026-10-07"
   },
   "united": {
-   "airport_short": "CHS",
+   "airport_short": "Charleston",
    "code": "UA",
    "deps_day": 15.3,
    "gone": false,
@@ -1969,7 +1969,7 @@
  },
  "CLE": {
   "air-canada": {
-   "airport_short": "CLE",
+   "airport_short": "Cleveland",
    "code": "AC",
    "deps_day": 2.7,
    "gone": false,
@@ -1983,7 +1983,7 @@
    "updated": "2026-10-07"
   },
   "alaska": {
-   "airport_short": "CLE",
+   "airport_short": "Cleveland",
    "code": "AS",
    "deps_day": 1.0,
    "gone": false,
@@ -1997,7 +1997,7 @@
    "updated": "2026-10-07"
   },
   "american": {
-   "airport_short": "CLE",
+   "airport_short": "Cleveland",
    "code": "AA",
    "deps_day": 32.0,
    "gone": false,
@@ -2011,7 +2011,7 @@
    "updated": "2026-10-07"
   },
   "delta": {
-   "airport_short": "CLE",
+   "airport_short": "Cleveland",
    "code": "DL",
    "deps_day": 27.7,
    "gone": false,
@@ -2025,7 +2025,7 @@
    "updated": "2026-10-07"
   },
   "frontier": {
-   "airport_short": "CLE",
+   "airport_short": "Cleveland",
    "code": "F9",
    "deps_day": 13.7,
    "gone": false,
@@ -2039,7 +2039,7 @@
    "updated": "2026-10-07"
   },
   "jetblue": {
-   "airport_short": "CLE",
+   "airport_short": "Cleveland",
    "code": "B6",
    "deps_day": 4.7,
    "gone": false,
@@ -2053,7 +2053,7 @@
    "updated": "2026-10-07"
   },
   "southwest": {
-   "airport_short": "CLE",
+   "airport_short": "Cleveland",
    "code": "WN",
    "deps_day": 16.0,
    "gone": false,
@@ -2067,7 +2067,7 @@
    "updated": "2026-10-07"
   },
   "united": {
-   "airport_short": "CLE",
+   "airport_short": "Cleveland",
    "code": "UA",
    "deps_day": 34.0,
    "gone": false,
@@ -2226,7 +2226,7 @@
  },
  "CMH": {
   "air-canada": {
-   "airport_short": "CMH",
+   "airport_short": "Columbus",
    "code": "AC",
    "deps_day": 3.0,
    "gone": false,
@@ -2240,7 +2240,7 @@
    "updated": "2026-10-07"
   },
   "alaska": {
-   "airport_short": "CMH",
+   "airport_short": "Columbus",
    "code": "AS",
    "deps_day": 1.0,
    "gone": false,
@@ -2254,7 +2254,7 @@
    "updated": "2026-10-07"
   },
   "american": {
-   "airport_short": "CMH",
+   "airport_short": "Columbus",
    "code": "AA",
    "deps_day": 39.7,
    "gone": false,
@@ -2268,7 +2268,7 @@
    "updated": "2026-10-07"
   },
   "breeze": {
-   "airport_short": "CMH",
+   "airport_short": "Columbus",
    "code": "MX",
    "deps_day": 5.3,
    "gone": false,
@@ -2282,7 +2282,7 @@
    "updated": "2026-10-07"
   },
   "delta": {
-   "airport_short": "CMH",
+   "airport_short": "Columbus",
    "code": "DL",
    "deps_day": 28.3,
    "gone": false,
@@ -2296,7 +2296,7 @@
    "updated": "2026-10-07"
   },
   "frontier": {
-   "airport_short": "CMH",
+   "airport_short": "Columbus",
    "code": "F9",
    "deps_day": 1.7,
    "gone": false,
@@ -2310,7 +2310,7 @@
    "updated": "2026-10-07"
   },
   "southwest": {
-   "airport_short": "CMH",
+   "airport_short": "Columbus",
    "code": "WN",
    "deps_day": 36.3,
    "gone": false,
@@ -2324,7 +2324,7 @@
    "updated": "2026-10-07"
   },
   "united": {
-   "airport_short": "CMH",
+   "airport_short": "Columbus",
    "code": "UA",
    "deps_day": 25.7,
    "gone": false,
@@ -2412,7 +2412,7 @@
  },
  "CVG": {
   "air-canada": {
-   "airport_short": "CVG",
+   "airport_short": "Cincinnati",
    "code": "AC",
    "deps_day": 2.7,
    "gone": false,
@@ -2426,7 +2426,7 @@
    "updated": "2026-10-07"
   },
   "alaska": {
-   "airport_short": "CVG",
+   "airport_short": "Cincinnati",
    "code": "AS",
    "deps_day": 1.0,
    "gone": false,
@@ -2440,7 +2440,7 @@
    "updated": "2026-10-07"
   },
   "allegiant": {
-   "airport_short": "CVG",
+   "airport_short": "Cincinnati",
    "code": "G4",
    "deps_day": 12.0,
    "gone": false,
@@ -2454,7 +2454,7 @@
    "updated": "2026-10-07"
   },
   "american": {
-   "airport_short": "CVG",
+   "airport_short": "Cincinnati",
    "code": "AA",
    "deps_day": 32.0,
    "gone": false,
@@ -2468,7 +2468,7 @@
    "updated": "2026-10-07"
   },
   "breeze": {
-   "airport_short": "CVG",
+   "airport_short": "Cincinnati",
    "code": "MX",
    "deps_day": 2.0,
    "gone": false,
@@ -2482,7 +2482,7 @@
    "updated": "2026-10-07"
   },
   "delta": {
-   "airport_short": "CVG",
+   "airport_short": "Cincinnati",
    "code": "DL",
    "deps_day": 44.7,
    "gone": false,
@@ -2496,7 +2496,7 @@
    "updated": "2026-10-07"
   },
   "frontier": {
-   "airport_short": "CVG",
+   "airport_short": "Cincinnati",
    "code": "F9",
    "deps_day": 7.3,
    "gone": false,
@@ -2510,7 +2510,7 @@
    "updated": "2026-10-07"
   },
   "southwest": {
-   "airport_short": "CVG",
+   "airport_short": "Cincinnati",
    "code": "WN",
    "deps_day": 9.0,
    "gone": false,
@@ -2524,7 +2524,7 @@
    "updated": "2026-10-07"
   },
   "united": {
-   "airport_short": "CVG",
+   "airport_short": "Cincinnati",
    "code": "UA",
    "deps_day": 20.7,
    "gone": false,
@@ -3460,7 +3460,7 @@
  },
  "ELP": {
   "alaska": {
-   "airport_short": "ELP",
+   "airport_short": "El Paso",
    "code": "AS",
    "deps_day": 1.0,
    "gone": false,
@@ -3474,7 +3474,7 @@
    "updated": "2026-10-07"
   },
   "american": {
-   "airport_short": "ELP",
+   "airport_short": "El Paso",
    "code": "AA",
    "deps_day": 15.3,
    "gone": false,
@@ -3488,7 +3488,7 @@
    "updated": "2026-10-07"
   },
   "delta": {
-   "airport_short": "ELP",
+   "airport_short": "El Paso",
    "code": "DL",
    "deps_day": 2.0,
    "gone": false,
@@ -3502,7 +3502,7 @@
    "updated": "2026-10-07"
   },
   "frontier": {
-   "airport_short": "ELP",
+   "airport_short": "El Paso",
    "code": "F9",
    "deps_day": 2.0,
    "gone": false,
@@ -3516,7 +3516,7 @@
    "updated": "2026-10-07"
   },
   "southwest": {
-   "airport_short": "ELP",
+   "airport_short": "El Paso",
    "code": "WN",
    "deps_day": 27.0,
    "gone": false,
@@ -3530,7 +3530,7 @@
    "updated": "2026-10-07"
   },
   "united": {
-   "airport_short": "ELP",
+   "airport_short": "El Paso",
    "code": "UA",
    "deps_day": 8.7,
    "gone": false,
@@ -4397,7 +4397,7 @@
  },
  "GEG": {
   "alaska": {
-   "airport_short": "GEG",
+   "airport_short": "Spokane",
    "code": "AS",
    "deps_day": 22.3,
    "gone": false,
@@ -4411,7 +4411,7 @@
    "updated": "2026-10-07"
   },
   "allegiant": {
-   "airport_short": "GEG",
+   "airport_short": "Spokane",
    "code": "G4",
    "deps_day": 0.7,
    "gone": false,
@@ -4425,7 +4425,7 @@
    "updated": "2026-10-07"
   },
   "american": {
-   "airport_short": "GEG",
+   "airport_short": "Spokane",
    "code": "AA",
    "deps_day": 4.7,
    "gone": false,
@@ -4439,7 +4439,7 @@
    "updated": "2026-10-07"
   },
   "delta": {
-   "airport_short": "GEG",
+   "airport_short": "Spokane",
    "code": "DL",
    "deps_day": 17.3,
    "gone": false,
@@ -4453,7 +4453,7 @@
    "updated": "2026-10-07"
   },
   "southwest": {
-   "airport_short": "GEG",
+   "airport_short": "Spokane",
    "code": "WN",
    "deps_day": 9.7,
    "gone": false,
@@ -4467,7 +4467,7 @@
    "updated": "2026-10-07"
   },
   "united": {
-   "airport_short": "GEG",
+   "airport_short": "Spokane",
    "code": "UA",
    "deps_day": 5.7,
    "gone": false,
@@ -4477,6 +4477,92 @@
    "published": "2026-10-07",
    "short": "United",
    "sig": "{\"drawing\": \"dda48c791da2\", \"focus\": [\"B1\", \"B3\"], \"held\": [\"B1\", \"B3\"], \"held_n\": 2, \"main\": [\"B1\", \"B3\"]}",
+   "slug": "united",
+   "updated": "2026-10-07"
+  }
+ },
+ "GRR": {
+  "allegiant": {
+   "airport_short": "Grand Rapids",
+   "code": "G4",
+   "deps_day": 7.3,
+   "gone": false,
+   "last_seen": "2026-10-05",
+   "last_seen_str": "Oct 5, 2026",
+   "name": "Allegiant Air",
+   "published": "2026-10-07",
+   "short": "Allegiant",
+   "sig": "{\"drawing\": \"63888575312f\", \"focus\": [\"B5\", \"B6\", \"B7\", \"B8\"], \"held\": [\"B5\", \"B7\", \"B8\"], \"held_n\": 3, \"main\": [\"B5\", \"B6\", \"B7\", \"B8\"]}",
+   "slug": "allegiant",
+   "updated": "2026-10-07"
+  },
+  "american": {
+   "airport_short": "Grand Rapids",
+   "code": "AA",
+   "deps_day": 15.7,
+   "gone": false,
+   "last_seen": "2026-10-05",
+   "last_seen_str": "Oct 5, 2026",
+   "name": "American Airlines",
+   "published": "2026-10-07",
+   "short": "American",
+   "sig": "{\"drawing\": \"63888575312f\", \"focus\": [\"B4\", \"A5\", \"A7\", \"A9\", \"A11\", \"A15\"], \"held\": [\"A7\", \"A9\", \"A11\", \"A15\"], \"held_n\": 4, \"main\": [\"B4\", \"A5\", \"A7\", \"A9\", \"A11\", \"A15\"]}",
+   "slug": "american",
+   "updated": "2026-10-07"
+  },
+  "delta": {
+   "airport_short": "Grand Rapids",
+   "code": "DL",
+   "deps_day": 16.0,
+   "gone": false,
+   "last_seen": "2026-10-05",
+   "last_seen_str": "Oct 5, 2026",
+   "name": "Delta Air Lines",
+   "published": "2026-10-07",
+   "short": "Delta",
+   "sig": "{\"drawing\": \"63888575312f\", \"focus\": [\"A8\", \"A10\", \"A12\", \"A14\", \"A16\"], \"held\": [\"A8\", \"A10\", \"A12\", \"A14\", \"A16\"], \"held_n\": 5, \"main\": [\"A8\", \"A10\", \"A12\", \"A14\", \"A16\"]}",
+   "slug": "delta",
+   "updated": "2026-10-07"
+  },
+  "frontier": {
+   "airport_short": "Grand Rapids",
+   "code": "F9",
+   "deps_day": 1.3,
+   "gone": false,
+   "last_seen": "2026-10-05",
+   "last_seen_str": "Oct 5, 2026",
+   "name": "Frontier Airlines",
+   "published": "2026-10-07",
+   "short": "Frontier",
+   "sig": "{\"drawing\": \"63888575312f\", \"focus\": [\"B6\"], \"held\": [], \"held_n\": 0, \"main\": [\"B6\"]}",
+   "slug": "frontier",
+   "updated": "2026-10-07"
+  },
+  "southwest": {
+   "airport_short": "Grand Rapids",
+   "code": "WN",
+   "deps_day": 7.3,
+   "gone": false,
+   "last_seen": "2026-10-05",
+   "last_seen_str": "Oct 5, 2026",
+   "name": "Southwest Airlines",
+   "published": "2026-10-07",
+   "short": "Southwest",
+   "sig": "{\"drawing\": \"63888575312f\", \"focus\": [\"B1\", \"B3\"], \"held\": [\"B1\", \"B3\"], \"held_n\": 2, \"main\": [\"B1\", \"B3\"]}",
+   "slug": "southwest",
+   "updated": "2026-10-07"
+  },
+  "united": {
+   "airport_short": "Grand Rapids",
+   "code": "UA",
+   "deps_day": 14.7,
+   "gone": false,
+   "last_seen": "2026-10-05",
+   "last_seen_str": "Oct 5, 2026",
+   "name": "United Airlines",
+   "published": "2026-10-07",
+   "short": "United",
+   "sig": "{\"drawing\": \"63888575312f\", \"focus\": [\"A1\", \"B2\", \"A3\", \"A6\"], \"held\": [\"A1\", \"B2\", \"A3\", \"A6\"], \"held_n\": 4, \"main\": [\"A1\", \"B2\", \"A3\", \"A6\"]}",
    "slug": "united",
    "updated": "2026-10-07"
   }
@@ -5711,7 +5797,7 @@
  },
  "IND": {
   "aer-lingus": {
-   "airport_short": "IND",
+   "airport_short": "Indianapolis",
    "code": "EI",
    "deps_day": 0.7,
    "gone": false,
@@ -5725,7 +5811,7 @@
    "updated": "2026-10-07"
   },
   "air-canada": {
-   "airport_short": "IND",
+   "airport_short": "Indianapolis",
    "code": "AC",
    "deps_day": 1.7,
    "gone": false,
@@ -5739,7 +5825,7 @@
    "updated": "2026-10-07"
   },
   "alaska": {
-   "airport_short": "IND",
+   "airport_short": "Indianapolis",
    "code": "AS",
    "deps_day": 2.0,
    "gone": false,
@@ -5753,7 +5839,7 @@
    "updated": "2026-10-07"
   },
   "allegiant": {
-   "airport_short": "IND",
+   "airport_short": "Indianapolis",
    "code": "G4",
    "deps_day": 7.0,
    "gone": false,
@@ -5767,7 +5853,7 @@
    "updated": "2026-10-07"
   },
   "american": {
-   "airport_short": "IND",
+   "airport_short": "Indianapolis",
    "code": "AA",
    "deps_day": 41.7,
    "gone": false,
@@ -5781,7 +5867,7 @@
    "updated": "2026-10-07"
   },
   "delta": {
-   "airport_short": "IND",
+   "airport_short": "Indianapolis",
    "code": "DL",
    "deps_day": 32.7,
    "gone": false,
@@ -5795,7 +5881,7 @@
    "updated": "2026-10-07"
   },
   "frontier": {
-   "airport_short": "IND",
+   "airport_short": "Indianapolis",
    "code": "F9",
    "deps_day": 4.0,
    "gone": false,
@@ -5809,7 +5895,7 @@
    "updated": "2026-10-07"
   },
   "southwest": {
-   "airport_short": "IND",
+   "airport_short": "Indianapolis",
    "code": "WN",
    "deps_day": 44.3,
    "gone": false,
@@ -5823,7 +5909,7 @@
    "updated": "2026-10-07"
   },
   "united": {
-   "airport_short": "IND",
+   "airport_short": "Indianapolis",
    "code": "UA",
    "deps_day": 26.0,
    "gone": false,
@@ -5839,7 +5925,7 @@
  },
  "JAX": {
   "allegiant": {
-   "airport_short": "JAX",
+   "airport_short": "Jacksonville",
    "code": "G4",
    "deps_day": 1.7,
    "gone": false,
@@ -5853,7 +5939,7 @@
    "updated": "2026-10-07"
   },
   "american": {
-   "airport_short": "JAX",
+   "airport_short": "Jacksonville",
    "code": "AA",
    "deps_day": 25.3,
    "gone": false,
@@ -5867,7 +5953,7 @@
    "updated": "2026-10-07"
   },
   "breeze": {
-   "airport_short": "JAX",
+   "airport_short": "Jacksonville",
    "code": "MX",
    "deps_day": 6.0,
    "gone": false,
@@ -5881,7 +5967,7 @@
    "updated": "2026-10-07"
   },
   "delta": {
-   "airport_short": "JAX",
+   "airport_short": "Jacksonville",
    "code": "DL",
    "deps_day": 22.7,
    "gone": false,
@@ -5895,7 +5981,7 @@
    "updated": "2026-10-07"
   },
   "frontier": {
-   "airport_short": "JAX",
+   "airport_short": "Jacksonville",
    "code": "F9",
    "deps_day": 2.0,
    "gone": false,
@@ -5909,7 +5995,7 @@
    "updated": "2026-10-07"
   },
   "jetblue": {
-   "airport_short": "JAX",
+   "airport_short": "Jacksonville",
    "code": "B6",
    "deps_day": 6.7,
    "gone": false,
@@ -5923,7 +6009,7 @@
    "updated": "2026-10-07"
   },
   "southwest": {
-   "airport_short": "JAX",
+   "airport_short": "Jacksonville",
    "code": "WN",
    "deps_day": 14.0,
    "gone": false,
@@ -5937,7 +6023,7 @@
    "updated": "2026-10-07"
   },
   "united": {
-   "airport_short": "JAX",
+   "airport_short": "Jacksonville",
    "code": "UA",
    "deps_day": 14.7,
    "gone": false,
@@ -8209,7 +8295,7 @@
  },
  "MCI": {
   "alaska": {
-   "airport_short": "MCI",
+   "airport_short": "Kansas City",
    "code": "AS",
    "deps_day": 3.0,
    "gone": false,
@@ -8223,7 +8309,7 @@
    "updated": "2026-10-07"
   },
   "allegiant": {
-   "airport_short": "MCI",
+   "airport_short": "Kansas City",
    "code": "G4",
    "deps_day": 1.0,
    "gone": false,
@@ -8237,7 +8323,7 @@
    "updated": "2026-10-07"
   },
   "american": {
-   "airport_short": "MCI",
+   "airport_short": "Kansas City",
    "code": "AA",
    "deps_day": 26.3,
    "gone": false,
@@ -8251,7 +8337,7 @@
    "updated": "2026-10-07"
   },
   "delta": {
-   "airport_short": "MCI",
+   "airport_short": "Kansas City",
    "code": "DL",
    "deps_day": 30.0,
    "gone": false,
@@ -8265,7 +8351,7 @@
    "updated": "2026-10-07"
   },
   "frontier": {
-   "airport_short": "MCI",
+   "airport_short": "Kansas City",
    "code": "F9",
    "deps_day": 2.0,
    "gone": false,
@@ -8279,7 +8365,7 @@
    "updated": "2026-10-07"
   },
   "southwest": {
-   "airport_short": "MCI",
+   "airport_short": "Kansas City",
    "code": "WN",
    "deps_day": 72.7,
    "gone": false,
@@ -8293,7 +8379,7 @@
    "updated": "2026-10-07"
   },
   "united": {
-   "airport_short": "MCI",
+   "airport_short": "Kansas City",
    "code": "UA",
    "deps_day": 22.7,
    "gone": false,
@@ -9916,7 +10002,7 @@
  },
  "MSY": {
   "alaska": {
-   "airport_short": "MSY",
+   "airport_short": "New Orleans",
    "code": "AS",
    "deps_day": 1.0,
    "gone": false,
@@ -9930,7 +10016,7 @@
    "updated": "2026-10-07"
   },
   "american": {
-   "airport_short": "MSY",
+   "airport_short": "New Orleans",
    "code": "AA",
    "deps_day": 23.3,
    "gone": false,
@@ -9944,7 +10030,7 @@
    "updated": "2026-10-07"
   },
   "breeze": {
-   "airport_short": "MSY",
+   "airport_short": "New Orleans",
    "code": "MX",
    "deps_day": 9.0,
    "gone": false,
@@ -9958,7 +10044,7 @@
    "updated": "2026-10-07"
   },
   "delta": {
-   "airport_short": "MSY",
+   "airport_short": "New Orleans",
    "code": "DL",
    "deps_day": 19.3,
    "gone": false,
@@ -9972,7 +10058,7 @@
    "updated": "2026-10-07"
   },
   "frontier": {
-   "airport_short": "MSY",
+   "airport_short": "New Orleans",
    "code": "F9",
    "deps_day": 4.3,
    "gone": false,
@@ -9986,7 +10072,7 @@
    "updated": "2026-10-07"
   },
   "jetblue": {
-   "airport_short": "MSY",
+   "airport_short": "New Orleans",
    "code": "B6",
    "deps_day": 4.0,
    "gone": false,
@@ -10000,7 +10086,7 @@
    "updated": "2026-10-07"
   },
   "southwest": {
-   "airport_short": "MSY",
+   "airport_short": "New Orleans",
    "code": "WN",
    "deps_day": 55.3,
    "gone": false,
@@ -10014,7 +10100,7 @@
    "updated": "2026-10-07"
   },
   "sun-country": {
-   "airport_short": "MSY",
+   "airport_short": "New Orleans",
    "code": "SY",
    "deps_day": 0.7,
    "gone": false,
@@ -10028,7 +10114,7 @@
    "updated": "2026-10-07"
   },
   "united": {
-   "airport_short": "MSY",
+   "airport_short": "New Orleans",
    "code": "UA",
    "deps_day": 21.0,
    "gone": false,
@@ -10044,7 +10130,7 @@
  },
  "OAK": {
   "alaska": {
-   "airport_short": "OAK",
+   "airport_short": "Oakland",
    "code": "AS",
    "deps_day": 12.7,
    "gone": false,
@@ -10058,7 +10144,7 @@
    "updated": "2026-10-07"
   },
   "delta": {
-   "airport_short": "OAK",
+   "airport_short": "Oakland",
    "code": "DL",
    "deps_day": 3.0,
    "gone": false,
@@ -10072,7 +10158,7 @@
    "updated": "2026-10-07"
   },
   "frontier": {
-   "airport_short": "OAK",
+   "airport_short": "Oakland",
    "code": "F9",
    "deps_day": 1.7,
    "gone": false,
@@ -10086,7 +10172,7 @@
    "updated": "2026-10-07"
   },
   "southwest": {
-   "airport_short": "OAK",
+   "airport_short": "Oakland",
    "code": "WN",
    "deps_day": 71.7,
    "gone": false,
@@ -10100,7 +10186,7 @@
    "updated": "2026-10-07"
   },
   "volaris": {
-   "airport_short": "OAK",
+   "airport_short": "Oakland",
    "code": "Y4",
    "deps_day": 5.0,
    "gone": false,
@@ -10116,7 +10202,7 @@
  },
  "OGG": {
   "alaska": {
-   "airport_short": "OGG",
+   "airport_short": "Kahului (Maui)",
    "code": "AS",
    "deps_day": 40.7,
    "gone": false,
@@ -10130,7 +10216,7 @@
    "updated": "2026-10-07"
   },
   "american": {
-   "airport_short": "OGG",
+   "airport_short": "Kahului (Maui)",
    "code": "AA",
    "deps_day": 3.0,
    "gone": false,
@@ -10144,7 +10230,7 @@
    "updated": "2026-10-07"
   },
   "delta": {
-   "airport_short": "OGG",
+   "airport_short": "Kahului (Maui)",
    "code": "DL",
    "deps_day": 3.0,
    "gone": false,
@@ -10158,7 +10244,7 @@
    "updated": "2026-10-07"
   },
   "southwest": {
-   "airport_short": "OGG",
+   "airport_short": "Kahului (Maui)",
    "code": "WN",
    "deps_day": 13.7,
    "gone": false,
@@ -10172,7 +10258,7 @@
    "updated": "2026-10-07"
   },
   "united": {
-   "airport_short": "OGG",
+   "airport_short": "Kahului (Maui)",
    "code": "UA",
    "deps_day": 6.3,
    "gone": false,
@@ -10186,7 +10272,7 @@
    "updated": "2026-10-07"
   },
   "westjet": {
-   "airport_short": "OGG",
+   "airport_short": "Kahului (Maui)",
    "code": "WS",
    "deps_day": 0.7,
    "gone": false,
@@ -10202,7 +10288,7 @@
  },
  "OKC": {
   "alaska": {
-   "airport_short": "OKC",
+   "airport_short": "Oklahoma City",
    "code": "AS",
    "deps_day": 1.0,
    "gone": false,
@@ -10216,7 +10302,7 @@
    "updated": "2026-10-07"
   },
   "allegiant": {
-   "airport_short": "OKC",
+   "airport_short": "Oklahoma City",
    "code": "G4",
    "deps_day": 0.7,
    "gone": false,
@@ -10230,7 +10316,7 @@
    "updated": "2026-10-07"
   },
   "american": {
-   "airport_short": "OKC",
+   "airport_short": "Oklahoma City",
    "code": "AA",
    "deps_day": 23.0,
    "gone": false,
@@ -10244,7 +10330,7 @@
    "updated": "2026-10-07"
   },
   "delta": {
-   "airport_short": "OKC",
+   "airport_short": "Oklahoma City",
    "code": "DL",
    "deps_day": 10.3,
    "gone": false,
@@ -10258,7 +10344,7 @@
    "updated": "2026-10-07"
   },
   "frontier": {
-   "airport_short": "OKC",
+   "airport_short": "Oklahoma City",
    "code": "F9",
    "deps_day": 2.0,
    "gone": false,
@@ -10272,7 +10358,7 @@
    "updated": "2026-10-07"
   },
   "southwest": {
-   "airport_short": "OKC",
+   "airport_short": "Oklahoma City",
    "code": "WN",
    "deps_day": 21.3,
    "gone": false,
@@ -10286,7 +10372,7 @@
    "updated": "2026-10-07"
   },
   "united": {
-   "airport_short": "OKC",
+   "airport_short": "Oklahoma City",
    "code": "UA",
    "deps_day": 15.7,
    "gone": false,
@@ -10402,7 +10488,7 @@
  },
  "ONT": {
   "alaska": {
-   "airport_short": "ONT",
+   "airport_short": "Ontario",
    "code": "AS",
    "deps_day": 9.3,
    "gone": false,
@@ -10416,7 +10502,7 @@
    "updated": "2026-10-07"
   },
   "american": {
-   "airport_short": "ONT",
+   "airport_short": "Ontario",
    "code": "AA",
    "deps_day": 9.0,
    "gone": false,
@@ -10430,7 +10516,7 @@
    "updated": "2026-10-07"
   },
   "china-airlines": {
-   "airport_short": "ONT",
+   "airport_short": "Ontario",
    "code": "CI",
    "deps_day": 1.0,
    "gone": false,
@@ -10444,7 +10530,7 @@
    "updated": "2026-10-07"
   },
   "delta": {
-   "airport_short": "ONT",
+   "airport_short": "Ontario",
    "code": "DL",
    "deps_day": 8.7,
    "gone": false,
@@ -10458,7 +10544,7 @@
    "updated": "2026-10-07"
   },
   "frontier": {
-   "airport_short": "ONT",
+   "airport_short": "Ontario",
    "code": "F9",
    "deps_day": 8.0,
    "gone": false,
@@ -10472,7 +10558,7 @@
    "updated": "2026-10-07"
   },
   "jetblue": {
-   "airport_short": "ONT",
+   "airport_short": "Ontario",
    "code": "B6",
    "deps_day": 1.0,
    "gone": false,
@@ -10486,7 +10572,7 @@
    "updated": "2026-10-07"
   },
   "southwest": {
-   "airport_short": "ONT",
+   "airport_short": "Ontario",
    "code": "WN",
    "deps_day": 30.3,
    "gone": false,
@@ -10500,7 +10586,7 @@
    "updated": "2026-10-07"
   },
   "starlux": {
-   "airport_short": "ONT",
+   "airport_short": "Ontario",
    "code": "JX",
    "deps_day": 0.7,
    "gone": false,
@@ -10514,7 +10600,7 @@
    "updated": "2026-10-07"
   },
   "united": {
-   "airport_short": "ONT",
+   "airport_short": "Ontario",
    "code": "UA",
    "deps_day": 7.3,
    "gone": false,
@@ -10528,7 +10614,7 @@
    "updated": "2026-10-07"
   },
   "volaris": {
-   "airport_short": "ONT",
+   "airport_short": "Ontario",
    "code": "Y4",
    "deps_day": 2.7,
    "gone": false,
@@ -11120,7 +11206,7 @@
  },
  "ORF": {
   "american": {
-   "airport_short": "ORF",
+   "airport_short": "Norfolk",
    "code": "AA",
    "deps_day": 26.3,
    "gone": false,
@@ -11134,7 +11220,7 @@
    "updated": "2026-10-07"
   },
   "breeze": {
-   "airport_short": "ORF",
+   "airport_short": "Norfolk",
    "code": "MX",
    "deps_day": 7.7,
    "gone": false,
@@ -11148,7 +11234,7 @@
    "updated": "2026-10-07"
   },
   "delta": {
-   "airport_short": "ORF",
+   "airport_short": "Norfolk",
    "code": "DL",
    "deps_day": 19.0,
    "gone": false,
@@ -11162,7 +11248,7 @@
    "updated": "2026-10-07"
   },
   "frontier": {
-   "airport_short": "ORF",
+   "airport_short": "Norfolk",
    "code": "F9",
    "deps_day": 1.7,
    "gone": false,
@@ -11176,7 +11262,7 @@
    "updated": "2026-10-07"
   },
   "jetblue": {
-   "airport_short": "ORF",
+   "airport_short": "Norfolk",
    "code": "B6",
    "deps_day": 2.0,
    "gone": false,
@@ -11190,7 +11276,7 @@
    "updated": "2026-10-07"
   },
   "southwest": {
-   "airport_short": "ORF",
+   "airport_short": "Norfolk",
    "code": "WN",
    "deps_day": 9.7,
    "gone": false,
@@ -11204,7 +11290,7 @@
    "updated": "2026-10-07"
   },
   "united": {
-   "airport_short": "ORF",
+   "airport_short": "Norfolk",
    "code": "UA",
    "deps_day": 11.3,
    "gone": false,
@@ -11842,7 +11928,7 @@
  },
  "PIT": {
   "air-canada": {
-   "airport_short": "PIT",
+   "airport_short": "Pittsburgh",
    "code": "AC",
    "deps_day": 2.3,
    "gone": false,
@@ -11856,7 +11942,7 @@
    "updated": "2026-10-07"
   },
   "alaska": {
-   "airport_short": "PIT",
+   "airport_short": "Pittsburgh",
    "code": "AS",
    "deps_day": 1.0,
    "gone": false,
@@ -11870,7 +11956,7 @@
    "updated": "2026-10-07"
   },
   "allegiant": {
-   "airport_short": "PIT",
+   "airport_short": "Pittsburgh",
    "code": "G4",
    "deps_day": 4.3,
    "gone": false,
@@ -11884,7 +11970,7 @@
    "updated": "2026-10-07"
   },
   "american": {
-   "airport_short": "PIT",
+   "airport_short": "Pittsburgh",
    "code": "AA",
    "deps_day": 34.3,
    "gone": false,
@@ -11898,7 +11984,7 @@
    "updated": "2026-10-07"
   },
   "breeze": {
-   "airport_short": "PIT",
+   "airport_short": "Pittsburgh",
    "code": "MX",
    "deps_day": 5.0,
    "gone": false,
@@ -11912,7 +11998,7 @@
    "updated": "2026-10-07"
   },
   "delta": {
-   "airport_short": "PIT",
+   "airport_short": "Pittsburgh",
    "code": "DL",
    "deps_day": 27.3,
    "gone": false,
@@ -11926,7 +12012,7 @@
    "updated": "2026-10-07"
   },
   "frontier": {
-   "airport_short": "PIT",
+   "airport_short": "Pittsburgh",
    "code": "F9",
    "deps_day": 0.7,
    "gone": false,
@@ -11940,7 +12026,7 @@
    "updated": "2026-10-07"
   },
   "jetblue": {
-   "airport_short": "PIT",
+   "airport_short": "Pittsburgh",
    "code": "B6",
    "deps_day": 5.3,
    "gone": false,
@@ -11954,7 +12040,7 @@
    "updated": "2026-10-07"
   },
   "southwest": {
-   "airport_short": "PIT",
+   "airport_short": "Pittsburgh",
    "code": "WN",
    "deps_day": 31.3,
    "gone": false,
@@ -11968,7 +12054,7 @@
    "updated": "2026-10-07"
   },
   "united": {
-   "airport_short": "PIT",
+   "airport_short": "Pittsburgh",
    "code": "UA",
    "deps_day": 26.7,
    "gone": false,
@@ -11984,7 +12070,7 @@
  },
  "PVD": {
   "american": {
-   "airport_short": "PVD",
+   "airport_short": "Providence",
    "code": "AA",
    "deps_day": 16.7,
    "gone": false,
@@ -11998,7 +12084,7 @@
    "updated": "2026-10-07"
   },
   "breeze": {
-   "airport_short": "PVD",
+   "airport_short": "Providence",
    "code": "MX",
    "deps_day": 12.0,
    "gone": false,
@@ -12012,7 +12098,7 @@
    "updated": "2026-10-07"
   },
   "delta": {
-   "airport_short": "PVD",
+   "airport_short": "Providence",
    "code": "DL",
    "deps_day": 7.3,
    "gone": false,
@@ -12026,7 +12112,7 @@
    "updated": "2026-10-07"
   },
   "jetblue": {
-   "airport_short": "PVD",
+   "airport_short": "Providence",
    "code": "B6",
    "deps_day": 4.0,
    "gone": false,
@@ -12040,7 +12126,7 @@
    "updated": "2026-10-07"
   },
   "southwest": {
-   "airport_short": "PVD",
+   "airport_short": "Providence",
    "code": "WN",
    "deps_day": 16.3,
    "gone": false,
@@ -12054,7 +12140,7 @@
    "updated": "2026-10-07"
   },
   "united": {
-   "airport_short": "PVD",
+   "airport_short": "Providence",
    "code": "UA",
    "deps_day": 6.7,
    "gone": false,
@@ -12070,7 +12156,7 @@
  },
  "RDU": {
   "aer-lingus": {
-   "airport_short": "RDU",
+   "airport_short": "Raleigh/Durham",
    "code": "EI",
    "deps_day": 0.7,
    "gone": false,
@@ -12084,7 +12170,7 @@
    "updated": "2026-10-07"
   },
   "aeromexico-connect": {
-   "airport_short": "RDU",
+   "airport_short": "Raleigh/Durham",
    "code": "5D",
    "deps_day": 1.0,
    "gone": false,
@@ -12098,7 +12184,7 @@
    "updated": "2026-10-07"
   },
   "air-canada": {
-   "airport_short": "RDU",
+   "airport_short": "Raleigh/Durham",
    "code": "AC",
    "deps_day": 3.0,
    "gone": false,
@@ -12112,7 +12198,7 @@
    "updated": "2026-10-07"
   },
   "air-france": {
-   "airport_short": "RDU",
+   "airport_short": "Raleigh/Durham",
    "code": "AF",
    "deps_day": 1.0,
    "gone": false,
@@ -12126,7 +12212,7 @@
    "updated": "2026-10-07"
   },
   "alaska": {
-   "airport_short": "RDU",
+   "airport_short": "Raleigh/Durham",
    "code": "AS",
    "deps_day": 2.0,
    "gone": false,
@@ -12140,7 +12226,7 @@
    "updated": "2026-10-07"
   },
   "american": {
-   "airport_short": "RDU",
+   "airport_short": "Raleigh/Durham",
    "code": "AA",
    "deps_day": 51.0,
    "gone": false,
@@ -12154,7 +12240,7 @@
    "updated": "2026-10-07"
   },
   "avelo": {
-   "airport_short": "RDU",
+   "airport_short": "Raleigh/Durham",
    "code": "XP",
    "deps_day": 1.0,
    "gone": false,
@@ -12168,7 +12254,7 @@
    "updated": "2026-10-07"
   },
   "breeze": {
-   "airport_short": "RDU",
+   "airport_short": "Raleigh/Durham",
    "code": "MX",
    "deps_day": 23.7,
    "gone": false,
@@ -12182,7 +12268,7 @@
    "updated": "2026-10-07"
   },
   "copa": {
-   "airport_short": "RDU",
+   "airport_short": "Raleigh/Durham",
    "code": "CM",
    "deps_day": 0.7,
    "gone": false,
@@ -12196,7 +12282,7 @@
    "updated": "2026-10-07"
   },
   "delta": {
-   "airport_short": "RDU",
+   "airport_short": "Raleigh/Durham",
    "code": "DL",
    "deps_day": 54.0,
    "gone": false,
@@ -12210,7 +12296,7 @@
    "updated": "2026-10-07"
   },
   "frontier": {
-   "airport_short": "RDU",
+   "airport_short": "Raleigh/Durham",
    "code": "F9",
    "deps_day": 12.0,
    "gone": false,
@@ -12224,7 +12310,7 @@
    "updated": "2026-10-07"
   },
   "icelandair": {
-   "airport_short": "RDU",
+   "airport_short": "Raleigh/Durham",
    "code": "FI",
    "deps_day": 1.0,
    "gone": false,
@@ -12238,7 +12324,7 @@
    "updated": "2026-10-07"
   },
   "jetblue": {
-   "airport_short": "RDU",
+   "airport_short": "Raleigh/Durham",
    "code": "B6",
    "deps_day": 9.0,
    "gone": false,
@@ -12252,7 +12338,7 @@
    "updated": "2026-10-07"
   },
   "lufthansa": {
-   "airport_short": "RDU",
+   "airport_short": "Raleigh/Durham",
    "code": "LH",
    "deps_day": 1.0,
    "gone": false,
@@ -12266,7 +12352,7 @@
    "updated": "2026-10-07"
   },
   "southwest": {
-   "airport_short": "RDU",
+   "airport_short": "Raleigh/Durham",
    "code": "WN",
    "deps_day": 25.0,
    "gone": false,
@@ -12280,7 +12366,7 @@
    "updated": "2026-10-07"
   },
   "united": {
-   "airport_short": "RDU",
+   "airport_short": "Raleigh/Durham",
    "code": "UA",
    "deps_day": 23.0,
    "gone": false,
@@ -12296,7 +12382,7 @@
  },
  "RIC": {
   "american": {
-   "airport_short": "RIC",
+   "airport_short": "Richmond",
    "code": "AA",
    "deps_day": 24.0,
    "gone": false,
@@ -12310,7 +12396,7 @@
    "updated": "2026-10-07"
   },
   "breeze": {
-   "airport_short": "RIC",
+   "airport_short": "Richmond",
    "code": "MX",
    "deps_day": 5.7,
    "gone": false,
@@ -12324,7 +12410,7 @@
    "updated": "2026-10-07"
   },
   "delta": {
-   "airport_short": "RIC",
+   "airport_short": "Richmond",
    "code": "DL",
    "deps_day": 21.0,
    "gone": false,
@@ -12338,7 +12424,7 @@
    "updated": "2026-10-07"
   },
   "jetblue": {
-   "airport_short": "RIC",
+   "airport_short": "Richmond",
    "code": "B6",
    "deps_day": 4.7,
    "gone": false,
@@ -12352,7 +12438,7 @@
    "updated": "2026-10-07"
   },
   "southwest": {
-   "airport_short": "RIC",
+   "airport_short": "Richmond",
    "code": "WN",
    "deps_day": 7.0,
    "gone": false,
@@ -12366,7 +12452,7 @@
    "updated": "2026-10-07"
   },
   "united": {
-   "airport_short": "RIC",
+   "airport_short": "Richmond",
    "code": "UA",
    "deps_day": 16.7,
    "gone": false,
@@ -12382,7 +12468,7 @@
  },
  "RNO": {
   "alaska": {
-   "airport_short": "RNO",
+   "airport_short": "Reno",
    "code": "AS",
    "deps_day": 7.0,
    "gone": false,
@@ -12396,7 +12482,7 @@
    "updated": "2026-10-07"
   },
   "american": {
-   "airport_short": "RNO",
+   "airport_short": "Reno",
    "code": "AA",
    "deps_day": 8.0,
    "gone": false,
@@ -12410,7 +12496,7 @@
    "updated": "2026-10-07"
   },
   "delta": {
-   "airport_short": "RNO",
+   "airport_short": "Reno",
    "code": "DL",
    "deps_day": 8.3,
    "gone": false,
@@ -12424,7 +12510,7 @@
    "updated": "2026-10-07"
   },
   "frontier": {
-   "airport_short": "RNO",
+   "airport_short": "Reno",
    "code": "F9",
    "deps_day": 1.7,
    "gone": false,
@@ -12438,7 +12524,7 @@
    "updated": "2026-10-07"
   },
   "southwest": {
-   "airport_short": "RNO",
+   "airport_short": "Reno",
    "code": "WN",
    "deps_day": 25.0,
    "gone": false,
@@ -12452,7 +12538,7 @@
    "updated": "2026-10-07"
   },
   "united": {
-   "airport_short": "RNO",
+   "airport_short": "Reno",
    "code": "UA",
    "deps_day": 13.0,
    "gone": false,
@@ -12468,7 +12554,7 @@
  },
  "RSW": {
   "air-canada-rouge": {
-   "airport_short": "RSW",
+   "airport_short": "Fort Myers",
    "code": "RV",
    "deps_day": 0.7,
    "gone": false,
@@ -12482,7 +12568,7 @@
    "updated": "2026-10-07"
   },
   "allegiant": {
-   "airport_short": "RSW",
+   "airport_short": "Fort Myers",
    "code": "G4",
    "deps_day": 1.0,
    "gone": false,
@@ -12496,7 +12582,7 @@
    "updated": "2026-10-07"
   },
   "american": {
-   "airport_short": "RSW",
+   "airport_short": "Fort Myers",
    "code": "AA",
    "deps_day": 13.7,
    "gone": false,
@@ -12510,7 +12596,7 @@
    "updated": "2026-10-07"
   },
   "avelo": {
-   "airport_short": "RSW",
+   "airport_short": "Fort Myers",
    "code": "XP",
    "deps_day": 1.3,
    "gone": false,
@@ -12524,7 +12610,7 @@
    "updated": "2026-10-07"
   },
   "breeze": {
-   "airport_short": "RSW",
+   "airport_short": "Fort Myers",
    "code": "MX",
    "deps_day": 9.7,
    "gone": false,
@@ -12538,7 +12624,7 @@
    "updated": "2026-10-07"
   },
   "delta": {
-   "airport_short": "RSW",
+   "airport_short": "Fort Myers",
    "code": "DL",
    "deps_day": 14.7,
    "gone": false,
@@ -12552,7 +12638,7 @@
    "updated": "2026-10-07"
   },
   "frontier": {
-   "airport_short": "RSW",
+   "airport_short": "Fort Myers",
    "code": "F9",
    "deps_day": 1.7,
    "gone": false,
@@ -12566,7 +12652,7 @@
    "updated": "2026-10-07"
   },
   "jetblue": {
-   "airport_short": "RSW",
+   "airport_short": "Fort Myers",
    "code": "B6",
    "deps_day": 5.3,
    "gone": false,
@@ -12580,7 +12666,7 @@
    "updated": "2026-10-07"
   },
   "southwest": {
-   "airport_short": "RSW",
+   "airport_short": "Fort Myers",
    "code": "WN",
    "deps_day": 22.3,
    "gone": false,
@@ -12594,7 +12680,7 @@
    "updated": "2026-10-07"
   },
   "sun-country": {
-   "airport_short": "RSW",
+   "airport_short": "Fort Myers",
    "code": "SY",
    "deps_day": 1.0,
    "gone": false,
@@ -12608,7 +12694,7 @@
    "updated": "2026-10-07"
   },
   "united": {
-   "airport_short": "RSW",
+   "airport_short": "Fort Myers",
    "code": "UA",
    "deps_day": 13.0,
    "gone": false,
@@ -12836,7 +12922,7 @@
  },
  "SAT": {
   "aeromexico": {
-   "airport_short": "SAT",
+   "airport_short": "San Antonio",
    "code": "AM",
    "deps_day": 1.0,
    "gone": false,
@@ -12850,7 +12936,7 @@
    "updated": "2026-10-07"
   },
   "alaska": {
-   "airport_short": "SAT",
+   "airport_short": "San Antonio",
    "code": "AS",
    "deps_day": 1.0,
    "gone": false,
@@ -12864,7 +12950,7 @@
    "updated": "2026-10-07"
   },
   "american": {
-   "airport_short": "SAT",
+   "airport_short": "San Antonio",
    "code": "AA",
    "deps_day": 26.7,
    "gone": false,
@@ -12878,7 +12964,7 @@
    "updated": "2026-10-07"
   },
   "breeze": {
-   "airport_short": "SAT",
+   "airport_short": "San Antonio",
    "code": "MX",
    "deps_day": 0.7,
    "gone": false,
@@ -12892,7 +12978,7 @@
    "updated": "2026-10-07"
   },
   "delta": {
-   "airport_short": "SAT",
+   "airport_short": "San Antonio",
    "code": "DL",
    "deps_day": 18.3,
    "gone": false,
@@ -12906,7 +12992,7 @@
    "updated": "2026-10-07"
   },
   "frontier": {
-   "airport_short": "SAT",
+   "airport_short": "San Antonio",
    "code": "F9",
    "deps_day": 3.0,
    "gone": false,
@@ -12920,7 +13006,7 @@
    "updated": "2026-10-07"
   },
   "southwest": {
-   "airport_short": "SAT",
+   "airport_short": "San Antonio",
    "code": "WN",
    "deps_day": 42.3,
    "gone": false,
@@ -12934,7 +13020,7 @@
    "updated": "2026-10-07"
   },
   "united": {
-   "airport_short": "SAT",
+   "airport_short": "San Antonio",
    "code": "UA",
    "deps_day": 20.3,
    "gone": false,
@@ -12948,7 +13034,7 @@
    "updated": "2026-10-07"
   },
   "viva-aerobus": {
-   "airport_short": "SAT",
+   "airport_short": "San Antonio",
    "code": "VB",
    "deps_day": 2.3,
    "gone": false,
@@ -12962,7 +13048,7 @@
    "updated": "2026-10-07"
   },
   "volaris": {
-   "airport_short": "SAT",
+   "airport_short": "San Antonio",
    "code": "Y4",
    "deps_day": 3.0,
    "gone": false,
@@ -12978,7 +13064,7 @@
  },
  "SAV": {
   "allegiant": {
-   "airport_short": "SAV",
+   "airport_short": "Savannah",
    "code": "G4",
    "deps_day": 2.3,
    "gone": false,
@@ -12992,7 +13078,7 @@
    "updated": "2026-10-07"
   },
   "american": {
-   "airport_short": "SAV",
+   "airport_short": "Savannah",
    "code": "AA",
    "deps_day": 20.0,
    "gone": false,
@@ -13006,7 +13092,7 @@
    "updated": "2026-10-07"
   },
   "breeze": {
-   "airport_short": "SAV",
+   "airport_short": "Savannah",
    "code": "MX",
    "deps_day": 1.7,
    "gone": false,
@@ -13020,7 +13106,7 @@
    "updated": "2026-10-07"
   },
   "delta": {
-   "airport_short": "SAV",
+   "airport_short": "Savannah",
    "code": "DL",
    "deps_day": 18.7,
    "gone": false,
@@ -13034,7 +13120,7 @@
    "updated": "2026-10-07"
   },
   "southwest": {
-   "airport_short": "SAV",
+   "airport_short": "Savannah",
    "code": "WN",
    "deps_day": 8.3,
    "gone": false,
@@ -13048,7 +13134,7 @@
    "updated": "2026-10-07"
   },
   "united": {
-   "airport_short": "SAV",
+   "airport_short": "Savannah",
    "code": "UA",
    "deps_day": 11.7,
    "gone": false,
@@ -13064,7 +13150,7 @@
  },
  "SDF": {
   "allegiant": {
-   "airport_short": "SDF",
+   "airport_short": "Louisville",
    "code": "G4",
    "deps_day": 5.3,
    "gone": false,
@@ -13078,7 +13164,7 @@
    "updated": "2026-10-07"
   },
   "american": {
-   "airport_short": "SDF",
+   "airport_short": "Louisville",
    "code": "AA",
    "deps_day": 24.7,
    "gone": false,
@@ -13092,7 +13178,7 @@
    "updated": "2026-10-07"
   },
   "breeze": {
-   "airport_short": "SDF",
+   "airport_short": "Louisville",
    "code": "MX",
    "deps_day": 2.3,
    "gone": false,
@@ -13106,7 +13192,7 @@
    "updated": "2026-10-07"
   },
   "delta": {
-   "airport_short": "SDF",
+   "airport_short": "Louisville",
    "code": "DL",
    "deps_day": 20.0,
    "gone": false,
@@ -13120,7 +13206,7 @@
    "updated": "2026-10-07"
   },
   "southwest": {
-   "airport_short": "SDF",
+   "airport_short": "Louisville",
    "code": "WN",
    "deps_day": 18.3,
    "gone": false,
@@ -13134,7 +13220,7 @@
    "updated": "2026-10-07"
   },
   "united": {
-   "airport_short": "SDF",
+   "airport_short": "Louisville",
    "code": "UA",
    "deps_day": 17.7,
    "gone": false,
@@ -13159,7 +13245,7 @@
    "name": "Aer Lingus",
    "published": "2026-10-06",
    "short": "Aer Lingus",
-   "sig": "{\"drawing\": \"edada07ac845\", \"focus\": [\"S1\", \"S4\"], \"held\": [], \"held_n\": 0, \"main\": [\"S1\", \"S4\"]}",
+   "sig": "{\"drawing\": \"d09743051d0e\", \"focus\": [\"S1\", \"S4\"], \"held\": [], \"held_n\": 0, \"main\": [\"S1\", \"S4\"]}",
    "slug": "aer-lingus",
    "updated": "2026-10-07"
   },
@@ -13173,7 +13259,7 @@
    "name": "Aerom\u00e9xico",
    "published": "2026-10-06",
    "short": "Aerom\u00e9xico",
-   "sig": "{\"drawing\": \"edada07ac845\", \"focus\": [\"S5\", \"S6\"], \"held\": [], \"held_n\": 0, \"main\": [\"S5\", \"S6\"]}",
+   "sig": "{\"drawing\": \"d09743051d0e\", \"focus\": [\"S5\", \"S6\"], \"held\": [], \"held_n\": 0, \"main\": [\"S5\", \"S6\"]}",
    "slug": "aeromexico",
    "updated": "2026-10-07"
   },
@@ -13187,7 +13273,7 @@
    "name": "Air Canada",
    "published": "2026-10-06",
    "short": "Air Canada",
-   "sig": "{\"drawing\": \"edada07ac845\", \"focus\": [\"S1\", \"S1A\", \"S1B\", \"S2\", \"S3\", \"S5\", \"A6\", \"D23\"], \"held\": [], \"held_n\": 1, \"main\": [\"S1\", \"S1A\", \"S1B\", \"S2\", \"S3\", \"S5\", \"A6\", \"D23\"]}",
+   "sig": "{\"drawing\": \"d09743051d0e\", \"focus\": [\"S1\", \"S1A\", \"S1B\", \"S2\", \"S3\", \"S5\", \"A6\", \"D23\"], \"held\": [], \"held_n\": 1, \"main\": [\"S1\", \"S1A\", \"S1B\", \"S2\", \"S3\", \"S5\", \"A6\", \"D23\"]}",
    "slug": "air-canada",
    "updated": "2026-10-07"
   },
@@ -13201,7 +13287,7 @@
    "name": "Air France",
    "published": "2026-10-06",
    "short": "Air France",
-   "sig": "{\"drawing\": \"edada07ac845\", \"focus\": [\"S11\", \"A12\"], \"held\": [], \"held_n\": 0, \"main\": [\"S11\", \"A12\"]}",
+   "sig": "{\"drawing\": \"d09743051d0e\", \"focus\": [\"S11\", \"A12\"], \"held\": [], \"held_n\": 0, \"main\": [\"S11\", \"A12\"]}",
    "slug": "air-france",
    "updated": "2026-10-07"
   },
@@ -13215,7 +13301,7 @@
    "name": "Alaska Airlines",
    "published": "2026-10-06",
    "short": "Alaska",
-   "sig": "{\"drawing\": \"edada07ac845\", \"focus\": [\"D1\", \"N1\", \"C2\", \"D2\", \"N2\", \"C3\", \"D3\", \"N3\", \"D4\", \"N4\", \"N5\", \"D6\", \"N6\", \"D7\", \"N7\", \"D8\", \"N8\", \"C9\", \"N9\", \"C10\", \"C10C\", \"C10E\", \"N10\", \"C11\", \"N11\", \"N12\", \"N13\", \"N14\", \"C15\", \"N15\", \"C16\", \"C16C\", \"N16\", \"C17\", \"C18\", \"N18\", \"N19\", \"C20\", \"D20\", \"N20\", \"D21\"], \"held\": [\"D1\", \"N1\", \"C2\", \"D2\", \"N2\", \"C3\", \"D3\", \"N3\", \"D4\", \"N4\", \"N5\", \"D6\", \"N6\", \"D7\", \"N7\", \"D8\", \"N8\", \"C9\", \"N9\", \"C10\", \"C10C\", \"C10E\", \"N10\", \"C11\", \"N11\", \"N12\", \"N13\", \"N14\", \"C15\", \"N15\", \"C16\", \"N16\", \"C17\", \"C18\", \"N18\", \"N19\", \"C20\", \"D20\", \"N20\", \"D21\"], \"held_n\": 41, \"main\": [\"D1\", \"N1\", \"S1\", \"C2\", \"D2\", \"N2\", \"C3\", \"D3\", \"N3\", \"S3\", \"D4\", \"N4\", \"S4\", \"N5\", \"S5\", \"A6\", \"D6\", \"N6\", \"A7\", \"D7\", \"N7\", \"S7\", \"A8\", \"D8\", \"N8\", \"S8\", \"C9\", \"N9\", \"S9\", \"C10\", \"C10C\", \"C10E\", \"N10\", \"S10\", \"C11\", \"N11\", \"N12\", \"S12\", \"N13\", \"N14\", \"C15\", \"N15\", \"C16\", \"C16C\", \"N16\", \"C17\", \"C18\", \"N18\", \"N19\", \"C20\", \"D20\", \"N20\", \"D21\", \"D22\", \"D23\", \"D24\", \"D25\", \"D26\"]}",
+   "sig": "{\"drawing\": \"d09743051d0e\", \"focus\": [\"D1\", \"N1\", \"C2\", \"D2\", \"N2\", \"C3\", \"D3\", \"N3\", \"D4\", \"N4\", \"N5\", \"D6\", \"N6\", \"D7\", \"N7\", \"D8\", \"N8\", \"C9\", \"N9\", \"C10\", \"C10C\", \"C10E\", \"N10\", \"C11\", \"N11\", \"N12\", \"N13\", \"N14\", \"C15\", \"N15\", \"C16\", \"C16C\", \"N16\", \"C17\", \"C18\", \"N18\", \"N19\", \"C20\", \"D20\", \"N20\", \"D21\"], \"held\": [\"D1\", \"N1\", \"C2\", \"D2\", \"N2\", \"C3\", \"D3\", \"N3\", \"D4\", \"N4\", \"N5\", \"D6\", \"N6\", \"D7\", \"N7\", \"D8\", \"N8\", \"C9\", \"N9\", \"C10\", \"C10C\", \"C10E\", \"N10\", \"C11\", \"N11\", \"N12\", \"N13\", \"N14\", \"C15\", \"N15\", \"C16\", \"N16\", \"C17\", \"C18\", \"N18\", \"N19\", \"C20\", \"D20\", \"N20\", \"D21\"], \"held_n\": 41, \"main\": [\"D1\", \"N1\", \"S1\", \"C2\", \"D2\", \"N2\", \"C3\", \"D3\", \"N3\", \"S3\", \"D4\", \"N4\", \"S4\", \"N5\", \"S5\", \"A6\", \"D6\", \"N6\", \"A7\", \"D7\", \"N7\", \"S7\", \"A8\", \"D8\", \"N8\", \"S8\", \"C9\", \"N9\", \"S9\", \"C10\", \"C10C\", \"C10E\", \"N10\", \"S10\", \"C11\", \"N11\", \"N12\", \"S12\", \"N13\", \"N14\", \"C15\", \"N15\", \"C16\", \"C16C\", \"N16\", \"C17\", \"C18\", \"N18\", \"N19\", \"C20\", \"D20\", \"N20\", \"D21\", \"D22\", \"D23\", \"D24\", \"D25\", \"D26\"]}",
    "slug": "alaska",
    "updated": "2026-10-07"
   },
@@ -13229,7 +13315,7 @@
    "name": "American Airlines",
    "published": "2026-10-06",
    "short": "American",
-   "sig": "{\"drawing\": \"edada07ac845\", \"focus\": [\"S5\", \"D9\", \"D10\", \"D11\", \"D26\"], \"held\": [\"D9\", \"D10\", \"D11\"], \"held_n\": 3, \"main\": [\"S3A\", \"S5\", \"S6A\", \"A8A\", \"D9\", \"D10\", \"D11\", \"S15\", \"D26\", \"51\", \"52\", \"53\", \"55\"]}",
+   "sig": "{\"drawing\": \"d09743051d0e\", \"focus\": [\"S5\", \"D9\", \"D10\", \"D11\", \"D26\"], \"held\": [\"D9\", \"D10\", \"D11\"], \"held_n\": 3, \"main\": [\"S3A\", \"S5\", \"S6A\", \"A8A\", \"D9\", \"D10\", \"D11\", \"S15\", \"D26\", \"51\", \"52\", \"53\", \"55\"]}",
    "slug": "american",
    "updated": "2026-10-07"
   },
@@ -13243,7 +13329,7 @@
    "name": "All Nippon Airways (ANA)",
    "published": "2026-10-06",
    "short": "ANA",
-   "sig": "{\"drawing\": \"edada07ac845\", \"focus\": [\"S7\", \"S8\"], \"held\": [], \"held_n\": 0, \"main\": [\"S7\", \"S8\"]}",
+   "sig": "{\"drawing\": \"d09743051d0e\", \"focus\": [\"S7\", \"S8\"], \"held\": [], \"held_n\": 0, \"main\": [\"S7\", \"S8\"]}",
    "slug": "ana",
    "updated": "2026-10-07"
   },
@@ -13257,7 +13343,7 @@
    "name": "Asiana Airlines",
    "published": "2026-10-06",
    "short": "Asiana",
-   "sig": "{\"drawing\": \"edada07ac845\", \"focus\": [\"A8\", \"A10\"], \"held\": [], \"held_n\": 0, \"main\": [\"A8\", \"A10\"]}",
+   "sig": "{\"drawing\": \"d09743051d0e\", \"focus\": [\"A8\", \"A10\"], \"held\": [], \"held_n\": 0, \"main\": [\"A8\", \"A10\"]}",
    "slug": "asiana",
    "updated": "2026-10-07"
   },
@@ -13271,7 +13357,7 @@
    "name": "British Airways",
    "published": "2026-10-06",
    "short": "British Airways",
-   "sig": "{\"drawing\": \"edada07ac845\", \"focus\": [\"S9\", \"S10\", \"S11\", \"S12\"], \"held\": [], \"held_n\": 0, \"main\": [\"S9\", \"S10\", \"S11\", \"S12\"]}",
+   "sig": "{\"drawing\": \"d09743051d0e\", \"focus\": [\"S9\", \"S10\", \"S11\", \"S12\"], \"held\": [], \"held_n\": 0, \"main\": [\"S9\", \"S10\", \"S11\", \"S12\"]}",
    "slug": "british-airways",
    "updated": "2026-10-07"
   },
@@ -13285,7 +13371,7 @@
    "name": "Cathay Pacific",
    "published": "2026-10-06",
    "short": "Cathay Pacific",
-   "sig": "{\"drawing\": \"edada07ac845\", \"focus\": [\"S9\", \"S12\"], \"held\": [], \"held_n\": 0, \"main\": [\"S9\", \"S12\"]}",
+   "sig": "{\"drawing\": \"d09743051d0e\", \"focus\": [\"S9\", \"S12\"], \"held\": [], \"held_n\": 0, \"main\": [\"S9\", \"S12\"]}",
    "slug": "cathay-pacific",
    "updated": "2026-10-07"
   },
@@ -13299,7 +13385,7 @@
    "name": "Condor",
    "published": "2026-10-06",
    "short": "Condor",
-   "sig": "{\"drawing\": \"edada07ac845\", \"focus\": [\"S1\", \"S9\", \"A10\"], \"held\": [], \"held_n\": 0, \"main\": [\"S1\", \"S9\", \"A10\"]}",
+   "sig": "{\"drawing\": \"d09743051d0e\", \"focus\": [\"S1\", \"S9\", \"A10\"], \"held\": [], \"held_n\": 0, \"main\": [\"S1\", \"S9\", \"A10\"]}",
    "slug": "condor",
    "updated": "2026-10-07"
   },
@@ -13313,7 +13399,7 @@
    "name": "Delta Air Lines",
    "published": "2026-10-06",
    "short": "Delta",
-   "sig": "{\"drawing\": \"edada07ac845\", \"focus\": [\"A1\", \"B1\", \"A2\", \"A3\", \"B3\", \"A4\", \"B4\", \"A5\", \"B5\", \"B5A\", \"S5\", \"A6\", \"B6\", \"A7\", \"B7\", \"B8\", \"A9\", \"A10\", \"A11\", \"A12\", \"A13\", \"A14\"], \"held\": [\"A1\", \"B1\", \"A2\", \"A3\", \"B3\", \"A4\", \"B4\", \"A5\", \"B5\", \"B5A\", \"A6\", \"B6\", \"B7\", \"B8\", \"A9\", \"A10\", \"A11\", \"A12\", \"A13\", \"A14\"], \"held_n\": 20, \"main\": [\"A1\", \"B1\", \"S1\", \"A2\", \"S2\", \"A3\", \"B3\", \"S3\", \"A4\", \"A4A\", \"B4\", \"S4\", \"A5\", \"B5\", \"B5A\", \"S5\", \"A6\", \"B6\", \"A7\", \"B7\", \"B7B\", \"S7\", \"A8\", \"A8A\", \"B8\", \"S8\", \"A9\", \"S9\", \"A10\", \"S10\", \"A11\", \"A12\", \"S12\", \"A13\", \"A14\", \"S15\", \"S16\", \"TBA\"]}",
+   "sig": "{\"drawing\": \"d09743051d0e\", \"focus\": [\"A1\", \"B1\", \"A2\", \"A3\", \"B3\", \"A4\", \"B4\", \"A5\", \"B5\", \"B5A\", \"S5\", \"A6\", \"B6\", \"A7\", \"B7\", \"B8\", \"A9\", \"A10\", \"A11\", \"A12\", \"A13\", \"A14\"], \"held\": [\"A1\", \"B1\", \"A2\", \"A3\", \"B3\", \"A4\", \"B4\", \"A5\", \"B5\", \"B5A\", \"A6\", \"B6\", \"B7\", \"B8\", \"A9\", \"A10\", \"A11\", \"A12\", \"A13\", \"A14\"], \"held_n\": 20, \"main\": [\"A1\", \"B1\", \"S1\", \"A2\", \"S2\", \"A3\", \"B3\", \"S3\", \"A4\", \"A4A\", \"B4\", \"S4\", \"A5\", \"B5\", \"B5A\", \"S5\", \"A6\", \"B6\", \"A7\", \"B7\", \"B7B\", \"S7\", \"A8\", \"A8A\", \"B8\", \"S8\", \"A9\", \"S9\", \"A10\", \"S10\", \"A11\", \"A12\", \"S12\", \"A13\", \"A14\", \"S15\", \"S16\", \"TBA\"]}",
    "slug": "delta",
    "updated": "2026-10-07"
   },
@@ -13327,7 +13413,7 @@
    "name": "Emirates",
    "published": "2026-10-06",
    "short": "Emirates",
-   "sig": "{\"drawing\": \"edada07ac845\", \"focus\": [\"S16\"], \"held\": [], \"held_n\": 0, \"main\": [\"S16\"]}",
+   "sig": "{\"drawing\": \"d09743051d0e\", \"focus\": [\"S16\"], \"held\": [], \"held_n\": 0, \"main\": [\"S16\"]}",
    "slug": "emirates",
    "updated": "2026-10-07"
   },
@@ -13341,7 +13427,7 @@
    "name": "EVA Air",
    "published": "2026-10-06",
    "short": "EVA Air",
-   "sig": "{\"drawing\": \"edada07ac845\", \"focus\": [\"S11\", \"S16\"], \"held\": [], \"held_n\": 0, \"main\": [\"S11\", \"S16\"]}",
+   "sig": "{\"drawing\": \"d09743051d0e\", \"focus\": [\"S11\", \"S16\"], \"held\": [], \"held_n\": 0, \"main\": [\"S11\", \"S16\"]}",
    "slug": "eva-air",
    "updated": "2026-10-07"
   },
@@ -13355,7 +13441,7 @@
    "name": "Frontier Airlines",
    "published": "2026-10-06",
    "short": "Frontier",
-   "sig": "{\"drawing\": \"edada07ac845\", \"focus\": [\"S2\", \"S4\", \"S4A\", \"S9B\", \"S15\", \"N16\", \"D24\", \"C5L3\"], \"held\": [], \"held_n\": 0, \"main\": [\"S2\", \"S4\", \"S4A\", \"S9B\", \"S15\", \"N16\", \"D24\", \"C5L3\"]}",
+   "sig": "{\"drawing\": \"d09743051d0e\", \"focus\": [\"S2\", \"S4\", \"S4A\", \"S9B\", \"S15\", \"N16\", \"D24\", \"C5L3\"], \"held\": [], \"held_n\": 0, \"main\": [\"S2\", \"S4\", \"S4A\", \"S9B\", \"S15\", \"N16\", \"D24\", \"C5L3\"]}",
    "slug": "frontier",
    "updated": "2026-10-07"
   },
@@ -13369,7 +13455,7 @@
    "name": "Hainan Airlines",
    "published": "2026-10-06",
    "short": "Hainan Airlines",
-   "sig": "{\"drawing\": \"edada07ac845\", \"focus\": [\"S8\", \"S12\"], \"held\": [], \"held_n\": 0, \"main\": [\"S8\", \"S12\"]}",
+   "sig": "{\"drawing\": \"d09743051d0e\", \"focus\": [\"S8\", \"S12\"], \"held\": [], \"held_n\": 0, \"main\": [\"S8\", \"S12\"]}",
    "slug": "hainan-airlines",
    "updated": "2026-10-07"
   },
@@ -13383,7 +13469,7 @@
    "name": "Icelandair",
    "published": "2026-10-06",
    "short": "Icelandair",
-   "sig": "{\"drawing\": \"edada07ac845\", \"focus\": [\"S5\", \"S15\"], \"held\": [], \"held_n\": 0, \"main\": [\"S5\", \"S15\"]}",
+   "sig": "{\"drawing\": \"d09743051d0e\", \"focus\": [\"S5\", \"S15\"], \"held\": [], \"held_n\": 0, \"main\": [\"S5\", \"S15\"]}",
    "slug": "icelandair",
    "updated": "2026-10-07"
   },
@@ -13397,7 +13483,7 @@
    "name": "Japan Airlines",
    "published": "2026-10-06",
    "short": "Japan Airlines",
-   "sig": "{\"drawing\": \"edada07ac845\", \"focus\": [\"S1\", \"S7\", \"S8\"], \"held\": [], \"held_n\": 0, \"main\": [\"S1\", \"S7\", \"S8\"]}",
+   "sig": "{\"drawing\": \"d09743051d0e\", \"focus\": [\"S1\", \"S7\", \"S8\"], \"held\": [], \"held_n\": 0, \"main\": [\"S1\", \"S7\", \"S8\"]}",
    "slug": "japan-airlines",
    "updated": "2026-10-07"
   },
@@ -13411,7 +13497,7 @@
    "name": "JetBlue",
    "published": "2026-10-06",
    "short": "JetBlue",
-   "sig": "{\"drawing\": \"edada07ac845\", \"focus\": [\"S4\", \"S4A\", \"S5\"], \"held\": [], \"held_n\": 0, \"main\": [\"S4\", \"S4A\", \"S5\"]}",
+   "sig": "{\"drawing\": \"d09743051d0e\", \"focus\": [\"S4\", \"S4A\", \"S5\"], \"held\": [], \"held_n\": 0, \"main\": [\"S4\", \"S4A\", \"S5\"]}",
    "slug": "jetblue",
    "updated": "2026-10-07"
   },
@@ -13425,7 +13511,7 @@
    "name": "Korean Air",
    "published": "2026-10-06",
    "short": "Korean Air",
-   "sig": "{\"drawing\": \"edada07ac845\", \"focus\": [\"S10\", \"S11\", \"S12\"], \"held\": [], \"held_n\": 0, \"main\": [\"S10\", \"S11\", \"S12\"]}",
+   "sig": "{\"drawing\": \"d09743051d0e\", \"focus\": [\"S10\", \"S11\", \"S12\"], \"held\": [], \"held_n\": 0, \"main\": [\"S10\", \"S11\", \"S12\"]}",
    "slug": "korean-air",
    "updated": "2026-10-07"
   },
@@ -13439,7 +13525,7 @@
    "name": "Lufthansa",
    "published": "2026-10-06",
    "short": "Lufthansa",
-   "sig": "{\"drawing\": \"edada07ac845\", \"focus\": [\"A8\", \"S8\", \"S11\", \"S12\"], \"held\": [], \"held_n\": 0, \"main\": [\"A8\", \"S8\", \"S11\", \"S12\"]}",
+   "sig": "{\"drawing\": \"d09743051d0e\", \"focus\": [\"A8\", \"S8\", \"S11\", \"S12\"], \"held\": [], \"held_n\": 0, \"main\": [\"A8\", \"S8\", \"S11\", \"S12\"]}",
    "slug": "lufthansa",
    "updated": "2026-10-07"
   },
@@ -13453,7 +13539,7 @@
    "name": "Philippine Airlines",
    "published": "2026-10-06",
    "short": "Philippine Airlines",
-   "sig": "{\"drawing\": \"edada07ac845\", \"focus\": [\"S9\"], \"held\": [], \"held_n\": 0, \"main\": [\"S9\"]}",
+   "sig": "{\"drawing\": \"d09743051d0e\", \"focus\": [\"S9\"], \"held\": [], \"held_n\": 0, \"main\": [\"S9\"]}",
    "slug": "philippine-airlines",
    "updated": "2026-10-07"
   },
@@ -13467,7 +13553,7 @@
    "name": "Qatar Airways",
    "published": "2026-10-06",
    "short": "Qatar Airways",
-   "sig": "{\"drawing\": \"edada07ac845\", \"focus\": [\"A10\", \"S10\", \"S12\"], \"held\": [], \"held_n\": 0, \"main\": [\"A10\", \"S10\", \"S12\"]}",
+   "sig": "{\"drawing\": \"d09743051d0e\", \"focus\": [\"A10\", \"S10\", \"S12\"], \"held\": [], \"held_n\": 0, \"main\": [\"A10\", \"S10\", \"S12\"]}",
    "slug": "qatar-airways",
    "updated": "2026-10-07"
   },
@@ -13481,7 +13567,7 @@
    "name": "Singapore Airlines",
    "published": "2026-10-06",
    "short": "Singapore Airlines",
-   "sig": "{\"drawing\": \"edada07ac845\", \"focus\": [\"S9\", \"S11\"], \"held\": [], \"held_n\": 0, \"main\": [\"S9\", \"S11\"]}",
+   "sig": "{\"drawing\": \"d09743051d0e\", \"focus\": [\"S9\", \"S11\"], \"held\": [], \"held_n\": 0, \"main\": [\"S9\", \"S11\"]}",
    "slug": "singapore-airlines",
    "updated": "2026-10-07"
   },
@@ -13495,7 +13581,7 @@
    "name": "Southwest Airlines",
    "published": "2026-10-06",
    "short": "Southwest",
-   "sig": "{\"drawing\": \"edada07ac845\", \"focus\": [\"S3A\", \"B10\", \"B12\", \"B14\"], \"held\": [\"B10\", \"B12\", \"B14\"], \"held_n\": 3, \"main\": [\"S2\", \"S3A\", \"S4A\", \"B10\", \"B12\", \"B14\"]}",
+   "sig": "{\"drawing\": \"d09743051d0e\", \"focus\": [\"S3A\", \"B10\", \"B12\", \"B14\"], \"held\": [\"B10\", \"B12\", \"B14\"], \"held_n\": 3, \"main\": [\"S2\", \"S3A\", \"S4A\", \"B10\", \"B12\", \"B14\"]}",
    "slug": "southwest",
    "updated": "2026-10-07"
   },
@@ -13509,7 +13595,7 @@
    "name": "STARLUX Airlines",
    "published": "2026-10-06",
    "short": "STARLUX",
-   "sig": "{\"drawing\": \"edada07ac845\", \"focus\": [\"S10\", \"S11\"], \"held\": [], \"held_n\": 0, \"main\": [\"S10\", \"S11\"]}",
+   "sig": "{\"drawing\": \"d09743051d0e\", \"focus\": [\"S10\", \"S11\"], \"held\": [], \"held_n\": 0, \"main\": [\"S10\", \"S11\"]}",
    "slug": "starlux",
    "updated": "2026-10-07"
   },
@@ -13523,7 +13609,7 @@
    "name": "Sun Country Airlines",
    "published": "2026-10-06",
    "short": "Sun Country",
-   "sig": "{\"drawing\": \"edada07ac845\", \"focus\": [\"S3\"], \"held\": [], \"held_n\": 0, \"main\": [\"S3\"]}",
+   "sig": "{\"drawing\": \"d09743051d0e\", \"focus\": [\"S3\"], \"held\": [], \"held_n\": 0, \"main\": [\"S3\"]}",
    "slug": "sun-country",
    "updated": "2026-10-07"
   },
@@ -13537,7 +13623,7 @@
    "name": "Turkish Airlines",
    "published": "2026-10-06",
    "short": "Turkish Airlines",
-   "sig": "{\"drawing\": \"edada07ac845\", \"focus\": [\"S9\", \"S10\", \"S12\"], \"held\": [], \"held_n\": 0, \"main\": [\"S9\", \"S10\", \"S12\"]}",
+   "sig": "{\"drawing\": \"d09743051d0e\", \"focus\": [\"S9\", \"S10\", \"S12\"], \"held\": [], \"held_n\": 0, \"main\": [\"S9\", \"S10\", \"S12\"]}",
    "slug": "turkish-airlines",
    "updated": "2026-10-07"
   },
@@ -13551,7 +13637,7 @@
    "name": "United Airlines",
    "published": "2026-10-06",
    "short": "United",
-   "sig": "{\"drawing\": \"edada07ac845\", \"focus\": [\"A7\", \"B7A\", \"B9\", \"B11\", \"B15\"], \"held\": [\"B7A\", \"B9\", \"B11\", \"B15\"], \"held_n\": 4, \"main\": [\"S2\", \"S4\", \"S6\", \"A7\", \"B7A\", \"S7\", \"S8\", \"A9\", \"B9\", \"S9\", \"A10\", \"B11\", \"B15\"]}",
+   "sig": "{\"drawing\": \"d09743051d0e\", \"focus\": [\"A7\", \"B7A\", \"B9\", \"B11\", \"B15\"], \"held\": [\"B7A\", \"B9\", \"B11\", \"B15\"], \"held_n\": 4, \"main\": [\"S2\", \"S4\", \"S6\", \"A7\", \"B7A\", \"S7\", \"S8\", \"A9\", \"B9\", \"S9\", \"A10\", \"B11\", \"B15\"]}",
    "slug": "united",
    "updated": "2026-10-07"
   },
@@ -13565,7 +13651,7 @@
    "name": "Virgin Atlantic",
    "published": "2026-10-06",
    "short": "Virgin Atlantic",
-   "sig": "{\"drawing\": \"edada07ac845\", \"focus\": [\"S7\", \"S10\", \"S11\"], \"held\": [], \"held_n\": 0, \"main\": [\"S7\", \"S10\", \"S11\"]}",
+   "sig": "{\"drawing\": \"d09743051d0e\", \"focus\": [\"S7\", \"S10\", \"S11\"], \"held\": [], \"held_n\": 0, \"main\": [\"S7\", \"S10\", \"S11\"]}",
    "slug": "virgin-atlantic",
    "updated": "2026-10-07"
   },
@@ -13579,7 +13665,7 @@
    "name": "Volaris",
    "published": "2026-10-06",
    "short": "Volaris",
-   "sig": "{\"drawing\": \"edada07ac845\", \"focus\": [\"S2\", \"S3\", \"S4\"], \"held\": [], \"held_n\": 0, \"main\": [\"S2\", \"S3\", \"S4\"]}",
+   "sig": "{\"drawing\": \"d09743051d0e\", \"focus\": [\"S2\", \"S3\", \"S4\"], \"held\": [], \"held_n\": 0, \"main\": [\"S2\", \"S3\", \"S4\"]}",
    "slug": "volaris",
    "updated": "2026-10-07"
   },
@@ -13593,7 +13679,7 @@
    "name": "WestJet",
    "published": "2026-10-06",
    "short": "WestJet",
-   "sig": "{\"drawing\": \"edada07ac845\", \"focus\": [\"S2\", \"S3\", \"D22\", \"D26\"], \"held\": [], \"held_n\": 0, \"main\": [\"S2\", \"S3\", \"D22\", \"D26\"]}",
+   "sig": "{\"drawing\": \"d09743051d0e\", \"focus\": [\"S2\", \"S3\", \"D22\", \"D26\"], \"held\": [], \"held_n\": 0, \"main\": [\"S2\", \"S3\", \"D22\", \"D26\"]}",
    "slug": "westjet",
    "updated": "2026-10-07"
   }
@@ -14318,7 +14404,7 @@
  },
  "SJC": {
   "alaska": {
-   "airport_short": "SJC",
+   "airport_short": "San Jose",
    "code": "AS",
    "deps_day": 17.7,
    "gone": false,
@@ -14332,7 +14418,7 @@
    "updated": "2026-10-07"
   },
   "american": {
-   "airport_short": "SJC",
+   "airport_short": "San Jose",
    "code": "AA",
    "deps_day": 6.0,
    "gone": false,
@@ -14346,7 +14432,7 @@
    "updated": "2026-10-07"
   },
   "delta": {
-   "airport_short": "SJC",
+   "airport_short": "San Jose",
    "code": "DL",
    "deps_day": 20.3,
    "gone": false,
@@ -14360,7 +14446,7 @@
    "updated": "2026-10-07"
   },
   "frontier": {
-   "airport_short": "SJC",
+   "airport_short": "San Jose",
    "code": "F9",
    "deps_day": 1.7,
    "gone": false,
@@ -14374,7 +14460,7 @@
    "updated": "2026-10-07"
   },
   "southwest": {
-   "airport_short": "SJC",
+   "airport_short": "San Jose",
    "code": "WN",
    "deps_day": 75.0,
    "gone": false,
@@ -14388,7 +14474,7 @@
    "updated": "2026-10-07"
   },
   "united": {
-   "airport_short": "SJC",
+   "airport_short": "San Jose",
    "code": "UA",
    "deps_day": 4.7,
    "gone": false,
@@ -14402,7 +14488,7 @@
    "updated": "2026-10-07"
   },
   "volaris": {
-   "airport_short": "SJC",
+   "airport_short": "San Jose",
    "code": "Y4",
    "deps_day": 3.7,
    "gone": false,
@@ -14418,7 +14504,7 @@
  },
  "SJU": {
   "american": {
-   "airport_short": "SJU",
+   "airport_short": "San Juan",
    "code": "AA",
    "deps_day": 8.7,
    "gone": false,
@@ -14432,7 +14518,7 @@
    "updated": "2026-10-07"
   },
   "avelo": {
-   "airport_short": "SJU",
+   "airport_short": "San Juan",
    "code": "XP",
    "deps_day": 2.0,
    "gone": false,
@@ -14446,7 +14532,7 @@
    "updated": "2026-10-07"
   },
   "avianca": {
-   "airport_short": "SJU",
+   "airport_short": "San Juan",
    "code": "AV",
    "deps_day": 2.0,
    "gone": false,
@@ -14460,7 +14546,7 @@
    "updated": "2026-10-07"
   },
   "cape-air": {
-   "airport_short": "SJU",
+   "airport_short": "San Juan",
    "code": "9K",
    "deps_day": 14.7,
    "gone": false,
@@ -14474,7 +14560,7 @@
    "updated": "2026-10-07"
   },
   "copa": {
-   "airport_short": "SJU",
+   "airport_short": "San Juan",
    "code": "CM",
    "deps_day": 2.0,
    "gone": false,
@@ -14488,7 +14574,7 @@
    "updated": "2026-10-07"
   },
   "delta": {
-   "airport_short": "SJU",
+   "airport_short": "San Juan",
    "code": "DL",
    "deps_day": 7.3,
    "gone": false,
@@ -14502,7 +14588,7 @@
    "updated": "2026-10-07"
   },
   "frontier": {
-   "airport_short": "SJU",
+   "airport_short": "San Juan",
    "code": "F9",
    "deps_day": 14.3,
    "gone": false,
@@ -14516,7 +14602,7 @@
    "updated": "2026-10-07"
   },
   "iberia": {
-   "airport_short": "SJU",
+   "airport_short": "San Juan",
    "code": "IB",
    "deps_day": 1.3,
    "gone": false,
@@ -14530,7 +14616,7 @@
    "updated": "2026-10-07"
   },
   "jetblue": {
-   "airport_short": "SJU",
+   "airport_short": "San Juan",
    "code": "B6",
    "deps_day": 27.0,
    "gone": false,
@@ -14544,7 +14630,7 @@
    "updated": "2026-10-07"
   },
   "southwest": {
-   "airport_short": "SJU",
+   "airport_short": "San Juan",
    "code": "WN",
    "deps_day": 11.0,
    "gone": false,
@@ -14558,7 +14644,7 @@
    "updated": "2026-10-07"
   },
   "united": {
-   "airport_short": "SJU",
+   "airport_short": "San Juan",
    "code": "UA",
    "deps_day": 8.0,
    "gone": false,
@@ -14716,7 +14802,7 @@
  },
  "SMF": {
   "air-canada": {
-   "airport_short": "SMF",
+   "airport_short": "Sacramento",
    "code": "AC",
    "deps_day": 1.0,
    "gone": false,
@@ -14730,7 +14816,7 @@
    "updated": "2026-10-07"
   },
   "alaska": {
-   "airport_short": "SMF",
+   "airport_short": "Sacramento",
    "code": "AS",
    "deps_day": 18.0,
    "gone": false,
@@ -14744,7 +14830,7 @@
    "updated": "2026-10-07"
   },
   "american": {
-   "airport_short": "SMF",
+   "airport_short": "Sacramento",
    "code": "AA",
    "deps_day": 13.3,
    "gone": false,
@@ -14758,7 +14844,7 @@
    "updated": "2026-10-07"
   },
   "delta": {
-   "airport_short": "SMF",
+   "airport_short": "Sacramento",
    "code": "DL",
    "deps_day": 19.7,
    "gone": false,
@@ -14772,7 +14858,7 @@
    "updated": "2026-10-07"
   },
   "frontier": {
-   "airport_short": "SMF",
+   "airport_short": "Sacramento",
    "code": "F9",
    "deps_day": 3.3,
    "gone": false,
@@ -14786,7 +14872,7 @@
    "updated": "2026-10-07"
   },
   "jetblue": {
-   "airport_short": "SMF",
+   "airport_short": "Sacramento",
    "code": "B6",
    "deps_day": 1.0,
    "gone": false,
@@ -14800,7 +14886,7 @@
    "updated": "2026-10-07"
   },
   "southwest": {
-   "airport_short": "SMF",
+   "airport_short": "Sacramento",
    "code": "WN",
    "deps_day": 89.7,
    "gone": false,
@@ -14814,7 +14900,7 @@
    "updated": "2026-10-07"
   },
   "united": {
-   "airport_short": "SMF",
+   "airport_short": "Sacramento",
    "code": "UA",
    "deps_day": 19.7,
    "gone": false,
@@ -14828,7 +14914,7 @@
    "updated": "2026-10-07"
   },
   "volaris": {
-   "airport_short": "SMF",
+   "airport_short": "Sacramento",
    "code": "Y4",
    "deps_day": 3.3,
    "gone": false,
@@ -14844,7 +14930,7 @@
  },
  "SNA": {
   "air-canada": {
-   "airport_short": "SNA",
+   "airport_short": "Orange County",
    "code": "AC",
    "deps_day": 1.0,
    "gone": false,
@@ -14858,7 +14944,7 @@
    "updated": "2026-10-07"
   },
   "alaska": {
-   "airport_short": "SNA",
+   "airport_short": "Orange County",
    "code": "AS",
    "deps_day": 23.7,
    "gone": false,
@@ -14872,7 +14958,7 @@
    "updated": "2026-10-07"
   },
   "allegiant": {
-   "airport_short": "SNA",
+   "airport_short": "Orange County",
    "code": "G4",
    "deps_day": 2.7,
    "gone": false,
@@ -14886,7 +14972,7 @@
    "updated": "2026-10-07"
   },
   "american": {
-   "airport_short": "SNA",
+   "airport_short": "Orange County",
    "code": "AA",
    "deps_day": 18.7,
    "gone": false,
@@ -14900,7 +14986,7 @@
    "updated": "2026-10-07"
   },
   "breeze": {
-   "airport_short": "SNA",
+   "airport_short": "Orange County",
    "code": "MX",
    "deps_day": 3.3,
    "gone": false,
@@ -14914,7 +15000,7 @@
    "updated": "2026-10-07"
   },
   "delta": {
-   "airport_short": "SNA",
+   "airport_short": "Orange County",
    "code": "DL",
    "deps_day": 16.0,
    "gone": false,
@@ -14928,7 +15014,7 @@
    "updated": "2026-10-07"
   },
   "southwest": {
-   "airport_short": "SNA",
+   "airport_short": "Orange County",
    "code": "WN",
    "deps_day": 37.0,
    "gone": false,
@@ -14942,7 +15028,7 @@
    "updated": "2026-10-07"
   },
   "united": {
-   "airport_short": "SNA",
+   "airport_short": "Orange County",
    "code": "UA",
    "deps_day": 22.0,
    "gone": false,
@@ -14958,7 +15044,7 @@
  },
  "STL": {
   "air-canada": {
-   "airport_short": "STL",
+   "airport_short": "St. Louis",
    "code": "AC",
    "deps_day": 3.0,
    "gone": false,
@@ -14972,7 +15058,7 @@
    "updated": "2026-10-07"
   },
   "alaska": {
-   "airport_short": "STL",
+   "airport_short": "St. Louis",
    "code": "AS",
    "deps_day": 2.0,
    "gone": false,
@@ -14986,7 +15072,7 @@
    "updated": "2026-10-07"
   },
   "american": {
-   "airport_short": "STL",
+   "airport_short": "St. Louis",
    "code": "AA",
    "deps_day": 30.0,
    "gone": false,
@@ -15000,7 +15086,7 @@
    "updated": "2026-10-07"
   },
   "delta": {
-   "airport_short": "STL",
+   "airport_short": "St. Louis",
    "code": "DL",
    "deps_day": 20.7,
    "gone": false,
@@ -15014,7 +15100,7 @@
    "updated": "2026-10-07"
   },
   "frontier": {
-   "airport_short": "STL",
+   "airport_short": "St. Louis",
    "code": "F9",
    "deps_day": 3.0,
    "gone": false,
@@ -15028,7 +15114,7 @@
    "updated": "2026-10-07"
   },
   "lufthansa": {
-   "airport_short": "STL",
+   "airport_short": "St. Louis",
    "code": "LH",
    "deps_day": 0.7,
    "gone": false,
@@ -15042,7 +15128,7 @@
    "updated": "2026-10-07"
   },
   "southern-airways-express": {
-   "airport_short": "STL",
+   "airport_short": "St. Louis",
    "code": "9X",
    "deps_day": 0.7,
    "gone": false,
@@ -15056,7 +15142,7 @@
    "updated": "2026-10-07"
   },
   "southwest": {
-   "airport_short": "STL",
+   "airport_short": "St. Louis",
    "code": "WN",
    "deps_day": 105.0,
    "gone": false,
@@ -15070,7 +15156,7 @@
    "updated": "2026-10-07"
   },
   "united": {
-   "airport_short": "STL",
+   "airport_short": "St. Louis",
    "code": "UA",
    "deps_day": 22.3,
    "gone": false,
@@ -15308,6 +15394,78 @@
    "short": "WestJet",
    "sig": "{\"drawing\": \"cdc6c4eebf53\", \"focus\": [\"C45\"], \"held\": [], \"held_n\": 0, \"main\": [\"C45\"]}",
    "slug": "westjet",
+   "updated": "2026-10-07"
+  }
+ },
+ "TUL": {
+  "alaska": {
+   "airport_short": "Tulsa",
+   "code": "AS",
+   "deps_day": 2.0,
+   "gone": false,
+   "last_seen": "2026-10-05",
+   "last_seen_str": "Oct 5, 2026",
+   "name": "Alaska Airlines",
+   "published": "2026-10-07",
+   "short": "Alaska",
+   "sig": "{\"drawing\": \"93d31be75c6c\", \"focus\": [\"A3\"], \"held\": [], \"held_n\": 0, \"main\": [\"A3\"]}",
+   "slug": "alaska",
+   "updated": "2026-10-07"
+  },
+  "american": {
+   "airport_short": "Tulsa",
+   "code": "AA",
+   "deps_day": 18.7,
+   "gone": false,
+   "last_seen": "2026-10-06",
+   "last_seen_str": "Oct 6, 2026",
+   "name": "American Airlines",
+   "published": "2026-10-07",
+   "short": "American",
+   "sig": "{\"drawing\": \"93d31be75c6c\", \"focus\": [\"A3\", \"A5\", \"A7\", \"A9\", \"A10\"], \"held\": [\"A5\", \"A7\", \"A9\", \"A10\"], \"held_n\": 4, \"main\": [\"A3\", \"A5\", \"A7\", \"A9\", \"A10\"]}",
+   "slug": "american",
+   "updated": "2026-10-07"
+  },
+  "delta": {
+   "airport_short": "Tulsa",
+   "code": "DL",
+   "deps_day": 6.7,
+   "gone": false,
+   "last_seen": "2026-10-05",
+   "last_seen_str": "Oct 5, 2026",
+   "name": "Delta Air Lines",
+   "published": "2026-10-07",
+   "short": "Delta",
+   "sig": "{\"drawing\": \"93d31be75c6c\", \"focus\": [\"A2\", \"A3\", \"A4\", \"A6\"], \"held\": [\"A2\", \"A4\", \"A6\"], \"held_n\": 3, \"main\": [\"A2\", \"A3\", \"A4\", \"A6\"]}",
+   "slug": "delta",
+   "updated": "2026-10-07"
+  },
+  "southwest": {
+   "airport_short": "Tulsa",
+   "code": "WN",
+   "deps_day": 15.0,
+   "gone": false,
+   "last_seen": "2026-10-05",
+   "last_seen_str": "Oct 5, 2026",
+   "name": "Southwest Airlines",
+   "published": "2026-10-07",
+   "short": "Southwest",
+   "sig": "{\"drawing\": \"93d31be75c6c\", \"focus\": [\"B1\", \"B3\", \"B4\", \"B5\"], \"held\": [\"B1\", \"B3\", \"B4\", \"B5\"], \"held_n\": 4, \"main\": [\"B1\", \"B3\", \"B4\", \"B5\"]}",
+   "slug": "southwest",
+   "updated": "2026-10-07"
+  },
+  "united": {
+   "airport_short": "Tulsa",
+   "code": "UA",
+   "deps_day": 13.3,
+   "gone": false,
+   "last_seen": "2026-10-05",
+   "last_seen_str": "Oct 5, 2026",
+   "name": "United Airlines",
+   "published": "2026-10-07",
+   "short": "United",
+   "sig": "{\"drawing\": \"93d31be75c6c\", \"focus\": [\"B6\", \"B8\", \"B9\", \"B10\"], \"held\": [\"B6\", \"B8\", \"B9\", \"B10\"], \"held_n\": 4, \"main\": [\"B6\", \"B8\", \"B9\", \"B10\"]}",
+   "slug": "united",
    "updated": "2026-10-07"
   }
  }
