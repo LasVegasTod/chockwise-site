@@ -71,6 +71,18 @@
   "top_gates": 25,
   "updated": "2026-10-07"
  },
+ "BUF": {
+  "flights_day": 164,
+  "gates": 24,
+  "name": "Buffalo Niagara Intl",
+  "published": "2026-10-07",
+  "seats_day": 9734,
+  "short": "BUF",
+  "sig": "{\"common\": 1, \"drawing\": \"20d5e543d568\", \"gates\": 24, \"held\": {\"AA\": 4, \"B6\": 4, \"DL\": 4, \"UA\": 3, \"WN\": 4}, \"low\": 4}",
+  "top": "WN",
+  "top_gates": 4,
+  "updated": "2026-10-07"
+ },
  "BUR": {
   "flights_day": 193,
   "gates": 14,
@@ -561,6 +573,30 @@
   "sig": "{\"common\": 9, \"drawing\": \"5c43cde6c795\", \"gates\": 45, \"held\": {\"AA\": 8, \"B6\": 2, \"DL\": 8, \"F9\": 1, \"MX\": 4, \"UA\": 3, \"WN\": 4}, \"low\": 6}",
   "top": "DL",
   "top_gates": 8,
+  "updated": "2026-10-07"
+ },
+ "RIC": {
+  "flights_day": 164,
+  "gates": 28,
+  "name": "Richmond Intl",
+  "published": "2026-10-07",
+  "seats_day": 8206,
+  "short": "RIC",
+  "sig": "{\"common\": 1, \"drawing\": \"52a53e914852\", \"gates\": 28, \"held\": {\"AA\": 6, \"B6\": 2, \"DL\": 6, \"MX\": 1, \"UA\": 5, \"WN\": 2}, \"low\": 5}",
+  "top": "AA",
+  "top_gates": 6,
+  "updated": "2026-10-07"
+ },
+ "RSW": {
+  "flights_day": 172,
+  "gates": 28,
+  "name": "Southwest Florida Intl, Fort Myers",
+  "published": "2026-10-07",
+  "seats_day": 12499,
+  "short": "RSW",
+  "sig": "{\"common\": 6, \"drawing\": \"07bd123d07cf\", \"gates\": 28, \"held\": {\"AA\": 4, \"B6\": 1, \"DL\": 3, \"F9\": 1, \"MX\": 1, \"UA\": 3, \"WN\": 3}, \"low\": 6}",
+  "top": "AA",
+  "top_gates": 4,
   "updated": "2026-10-07"
  },
  "SAN": {
