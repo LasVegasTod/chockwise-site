@@ -384,15 +384,15 @@
   "updated": "2026-10-07"
  },
  "ORD": {
-  "flights_day": 2621,
+  "flights_day": 2616,
   "gates": 194,
   "name": "Chicago O'Hare Intl",
   "published": "2026-10-05",
-  "seats_day": 145804,
+  "seats_day": 145771,
   "short": "O\u2019Hare",
-  "sig": "{\"common\": 21, \"drawing\": \"cb3454ba2d54\", \"gates\": 194, \"held\": {\"AA\": 62, \"AS\": 2, \"DL\": 5, \"UA\": 91}, \"low\": 13}",
+  "sig": "{\"common\": 21, \"drawing\": \"cb3454ba2d54\", \"gates\": 194, \"held\": {\"AA\": 63, \"AS\": 2, \"DL\": 5, \"F9\": 1, \"UA\": 90}, \"low\": 12}",
   "top": "UA",
-  "top_gates": 91,
+  "top_gates": 90,
   "updated": "2026-10-07"
  },
  "PDX": {
