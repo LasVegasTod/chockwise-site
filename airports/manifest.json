@@ -1,4 +1,16 @@
 {
+ "ABQ": {
+  "flights_day": 183,
+  "gates": 22,
+  "name": "Albuquerque Intl Sunport",
+  "published": "2026-10-07",
+  "seats_day": 12261,
+  "short": "ABQ",
+  "sig": "{\"common\": 1, \"drawing\": \"24581d9e486d\", \"gates\": 22, \"held\": {\"AA\": 3, \"AS\": 1, \"DL\": 3, \"UA\": 5, \"WN\": 6}, \"low\": 3}",
+  "top": "WN",
+  "top_gates": 6,
+  "updated": "2026-10-07"
+ },
  "ATL": {
   "flights_day": 2174,
   "gates": 201,
@@ -81,6 +93,18 @@
   "sig": "{\"common\": 2, \"drawing\": \"12579499ce28\", \"gates\": 77, \"held\": {\"AA\": 4, \"AS\": 1, \"B6\": 1, \"BA\": 1, \"DL\": 6, \"F9\": 3, \"UA\": 4, \"WN\": 36}, \"low\": 19}",
   "top": "WN",
   "top_gates": 36,
+  "updated": "2026-10-07"
+ },
+ "CHS": {
+  "flights_day": 192,
+  "gates": 18,
+  "name": "Charleston Intl/AFB",
+  "published": "2026-10-07",
+  "seats_day": 10200,
+  "short": "CHS",
+  "sig": "{\"common\": 3, \"drawing\": \"6614f52fed78\", \"gates\": 18, \"held\": {\"AA\": 4, \"DL\": 3, \"MX\": 3, \"UA\": 2, \"WN\": 1}, \"low\": 2}",
+  "top": "AA",
+  "top_gates": 4,
   "updated": "2026-10-07"
  },
  "CLE": {
@@ -431,6 +455,18 @@
   "top_gates": 12,
   "updated": "2026-10-07"
  },
+ "OGG": {
+  "flights_day": 161,
+  "gates": 16,
+  "name": "Kahului",
+  "published": "2026-10-07",
+  "seats_day": 5579,
+  "short": "OGG",
+  "sig": "{\"common\": 3, \"drawing\": \"489b5e091b43\", \"gates\": 16, \"held\": {\"AS\": 7, \"DL\": 1, \"UA\": 2, \"WN\": 3}, \"low\": 0}",
+  "top": "AS",
+  "top_gates": 7,
+  "updated": "2026-10-07"
+ },
  "OMA": {
   "flights_day": 162,
   "gates": 19,
@@ -633,6 +669,18 @@
   "sig": "{\"common\": 2, \"drawing\": \"28581579699e\", \"gates\": 34, \"held\": {\"AA\": 3, \"AS\": 4, \"DL\": 4, \"F9\": 1, \"UA\": 5, \"WN\": 13}, \"low\": 2}",
   "top": "WN",
   "top_gates": 13,
+  "updated": "2026-10-07"
+ },
+ "SNA": {
+  "flights_day": 265,
+  "gates": 20,
+  "name": "John Wayne, Santa Ana",
+  "published": "2026-10-07",
+  "seats_day": 17281,
+  "short": "SNA",
+  "sig": "{\"common\": 3, \"drawing\": \"c0ed85e88c02\", \"gates\": 20, \"held\": {\"AA\": 3, \"AS\": 3, \"DL\": 2, \"G4\": 1, \"UA\": 3, \"WN\": 5}, \"low\": 0}",
+  "top": "WN",
+  "top_gates": 5,
   "updated": "2026-10-07"
  },
  "STL": {
