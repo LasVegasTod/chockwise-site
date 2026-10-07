@@ -863,6 +863,18 @@
   "top_gates": 5,
   "updated": "2026-10-07"
  },
+ "SRQ": {
+  "flights_day": 91,
+  "gates": 18,
+  "name": "Sarasota/Bradenton Intl",
+  "published": "2026-10-07",
+  "seats_day": 6961,
+  "short": "Sarasota",
+  "sig": "{\"common\": 1, \"drawing\": \"4a26324892e5\", \"gates\": 18, \"held\": {\"AA\": 2, \"B6\": 1, \"DL\": 2, \"G4\": 3, \"UA\": 1, \"WN\": 3}, \"low\": 5}",
+  "top": "WN",
+  "top_gates": 3,
+  "updated": "2026-10-07"
+ },
  "STL": {
   "flights_day": 384,
   "gates": 54,
