@@ -11,6 +11,18 @@
   "top_gates": 6,
   "updated": "2026-10-07"
  },
+ "ALB": {
+  "flights_day": 105,
+  "gates": 15,
+  "name": "Albany Intl",
+  "published": "2026-10-07",
+  "seats_day": 6279,
+  "short": "Albany",
+  "sig": "{\"common\": 1, \"drawing\": \"1d917d8fbc69\", \"gates\": 15, \"held\": {\"AA\": 3, \"B6\": 1, \"DL\": 3, \"G4\": 1, \"UA\": 4, \"WN\": 2}, \"low\": 0}",
+  "top": "UA",
+  "top_gates": 4,
+  "updated": "2026-10-07"
+ },
  "ATL": {
   "flights_day": 2174,
   "gates": 201,
@@ -393,6 +405,18 @@
   "sig": "{\"common\": 19, \"drawing\": \"85bfe364b8c4\", \"gates\": 120, \"held\": {\"AA\": 13, \"AS\": 1, \"B6\": 29, \"CM\": 1, \"DL\": 38, \"VS\": 1}, \"low\": 18}",
   "top": "DL",
   "top_gates": 38,
+  "updated": "2026-10-07"
+ },
+ "KOA": {
+  "flights_day": 94,
+  "gates": 12,
+  "name": "Ellison Onizuka Kona Intl At Keahole, Kailua-Kona",
+  "published": "2026-10-07",
+  "seats_day": 6706,
+  "short": "Kona",
+  "sig": "{\"common\": 1, \"drawing\": \"a77a9d7cf535\", \"gates\": 12, \"held\": {\"AA\": 1, \"AS\": 3, \"UA\": 2, \"WN\": 2}, \"low\": 3}",
+  "top": "AS",
+  "top_gates": 3,
   "updated": "2026-10-07"
  },
  "LAS": {
