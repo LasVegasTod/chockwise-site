@@ -455,6 +455,18 @@
   "top_gates": 38,
   "updated": "2026-10-07"
  },
+ "LIH": {
+  "flights_day": 91,
+  "gates": 9,
+  "name": "Lihue",
+  "published": "2026-10-07",
+  "seats_day": 6622,
+  "short": "Lihue (Kauai)",
+  "sig": "{\"common\": 2, \"drawing\": \"f534e8a0b341\", \"gates\": 9, \"held\": {\"AS\": 4, \"UA\": 1, \"WN\": 1}, \"low\": 1}",
+  "top": "AS",
+  "top_gates": 4,
+  "updated": "2026-10-07"
+ },
  "MCI": {
   "flights_day": 328,
   "gates": 40,
@@ -861,6 +873,18 @@
   "sig": "{\"common\": 1, \"drawing\": \"813ce1b3bec5\", \"gates\": 54, \"held\": {\"AA\": 7, \"AC\": 1, \"AS\": 1, \"DL\": 6, \"F9\": 1, \"UA\": 7, \"WN\": 17}, \"low\": 13}",
   "top": "WN",
   "top_gates": 17,
+  "updated": "2026-10-07"
+ },
+ "SYR": {
+  "flights_day": 97,
+  "gates": 20,
+  "name": "Syracuse Hancock Intl",
+  "published": "2026-10-07",
+  "seats_day": 5063,
+  "short": "Syracuse",
+  "sig": "{\"common\": 1, \"drawing\": \"c1bfae6c4aed\", \"gates\": 20, \"held\": {\"AA\": 5, \"B6\": 3, \"DL\": 5, \"UA\": 3}, \"low\": 3}",
+  "top": "AA",
+  "top_gates": 5,
   "updated": "2026-10-07"
  },
  "TPA": {
