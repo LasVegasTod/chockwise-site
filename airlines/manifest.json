@@ -15468,5 +15468,77 @@
    "slug": "united",
    "updated": "2026-10-07"
   }
+ },
+ "TUS": {
+  "alaska": {
+   "airport_short": "TUS",
+   "code": "AS",
+   "deps_day": 3.7,
+   "gone": false,
+   "last_seen": "2026-10-05",
+   "last_seen_str": "Oct 5, 2026",
+   "name": "Alaska Airlines",
+   "published": "2026-10-07",
+   "short": "Alaska",
+   "sig": "{\"drawing\": \"739453df6279\", \"focus\": [\"B3\", \"B4\"], \"held\": [\"B3\"], \"held_n\": 1, \"main\": [\"B3\", \"B4\"]}",
+   "slug": "alaska",
+   "updated": "2026-10-07"
+  },
+  "american": {
+   "airport_short": "TUS",
+   "code": "AA",
+   "deps_day": 17.7,
+   "gone": false,
+   "last_seen": "2026-10-05",
+   "last_seen_str": "Oct 5, 2026",
+   "name": "American Airlines",
+   "published": "2026-10-07",
+   "short": "American",
+   "sig": "{\"drawing\": \"739453df6279\", \"focus\": [\"B8\", \"B9\", \"B10\", \"B11\"], \"held\": [\"B8\", \"B9\", \"B10\", \"B11\"], \"held_n\": 4, \"main\": [\"B8\", \"B9\", \"B10\", \"B11\"]}",
+   "slug": "american",
+   "updated": "2026-10-07"
+  },
+  "delta": {
+   "airport_short": "TUS",
+   "code": "DL",
+   "deps_day": 8.7,
+   "gone": false,
+   "last_seen": "2026-10-05",
+   "last_seen_str": "Oct 5, 2026",
+   "name": "Delta Air Lines",
+   "published": "2026-10-07",
+   "short": "Delta",
+   "sig": "{\"drawing\": \"739453df6279\", \"focus\": [\"B1\", \"B2\"], \"held\": [\"B1\", \"B2\"], \"held_n\": 2, \"main\": [\"B1\", \"B2\"]}",
+   "slug": "delta",
+   "updated": "2026-10-07"
+  },
+  "southwest": {
+   "airport_short": "TUS",
+   "code": "WN",
+   "deps_day": 13.3,
+   "gone": false,
+   "last_seen": "2026-10-05",
+   "last_seen_str": "Oct 5, 2026",
+   "name": "Southwest Airlines",
+   "published": "2026-10-07",
+   "short": "Southwest",
+   "sig": "{\"drawing\": \"739453df6279\", \"focus\": [\"A2\", \"A3\", \"A4\", \"A6\"], \"held\": [\"A2\", \"A3\", \"A4\", \"A6\"], \"held_n\": 4, \"main\": [\"A2\", \"A3\", \"A4\", \"A6\"]}",
+   "slug": "southwest",
+   "updated": "2026-10-07"
+  },
+  "united": {
+   "airport_short": "TUS",
+   "code": "UA",
+   "deps_day": 9.0,
+   "gone": false,
+   "last_seen": "2026-10-05",
+   "last_seen_str": "Oct 5, 2026",
+   "name": "United Airlines",
+   "published": "2026-10-07",
+   "short": "United",
+   "sig": "{\"drawing\": \"739453df6279\", \"focus\": [\"A5\", \"A7\", \"A8\", \"A9\"], \"held\": [\"A5\", \"A7\"], \"held_n\": 2, \"main\": [\"A5\", \"A7\", \"A8\", \"A9\"]}",
+   "slug": "united",
+   "updated": "2026-10-07"
+  }
  }
 }
