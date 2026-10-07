@@ -479,6 +479,18 @@
   "top_gates": 7,
   "updated": "2026-10-07"
  },
+ "OKC": {
+  "flights_day": 153,
+  "gates": 21,
+  "name": "OKC Will Rogers Intl, Oklahoma City",
+  "published": "2026-10-07",
+  "seats_day": 9211,
+  "short": "OKC",
+  "sig": "{\"common\": 1, \"drawing\": \"0ab18313eeb0\", \"gates\": 21, \"held\": {\"AA\": 4, \"DL\": 3, \"F9\": 1, \"UA\": 4, \"WN\": 3}, \"low\": 5}",
+  "top": "AA",
+  "top_gates": 4,
+  "updated": "2026-10-07"
+ },
  "OMA": {
   "flights_day": 162,
   "gates": 19,
@@ -513,6 +525,18 @@
   "sig": "{\"common\": 21, \"drawing\": \"560211e694ee\", \"gates\": 194, \"held\": {\"AA\": 63, \"AS\": 2, \"DL\": 5, \"F9\": 1, \"UA\": 90}, \"low\": 12}",
   "top": "UA",
   "top_gates": 90,
+  "updated": "2026-10-07"
+ },
+ "ORF": {
+  "flights_day": 160,
+  "gates": 28,
+  "name": "Norfolk Intl",
+  "published": "2026-10-07",
+  "seats_day": 8120,
+  "short": "ORF",
+  "sig": "{\"common\": 2, \"drawing\": \"9e721959bbf2\", \"gates\": 28, \"held\": {\"AA\": 6, \"B6\": 1, \"DL\": 6, \"MX\": 2, \"UA\": 4, \"WN\": 2}, \"low\": 5}",
+  "top": "AA",
+  "top_gates": 6,
   "updated": "2026-10-07"
  },
  "PDX": {
@@ -585,6 +609,18 @@
   "sig": "{\"common\": 1, \"drawing\": \"52a53e914852\", \"gates\": 28, \"held\": {\"AA\": 6, \"B6\": 2, \"DL\": 6, \"MX\": 1, \"UA\": 5, \"WN\": 2}, \"low\": 5}",
   "top": "AA",
   "top_gates": 6,
+  "updated": "2026-10-07"
+ },
+ "RNO": {
+  "flights_day": 133,
+  "gates": 23,
+  "name": "Reno/Tahoe Intl",
+  "published": "2026-10-07",
+  "seats_day": 8941,
+  "short": "RNO",
+  "sig": "{\"common\": 2, \"drawing\": \"43cf80fbda91\", \"gates\": 23, \"held\": {\"AA\": 3, \"AS\": 2, \"DL\": 1, \"UA\": 4, \"WN\": 4}, \"low\": 7}",
+  "top": "WN",
+  "top_gates": 4,
   "updated": "2026-10-07"
  },
  "RSW": {
