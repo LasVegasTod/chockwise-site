@@ -3458,6 +3458,92 @@
    "updated": "2026-10-07"
   }
  },
+ "ELP": {
+  "alaska": {
+   "airport_short": "ELP",
+   "code": "AS",
+   "deps_day": 1.0,
+   "gone": false,
+   "last_seen": "2026-10-05",
+   "last_seen_str": "Oct 5, 2026",
+   "name": "Alaska Airlines",
+   "published": "2026-10-07",
+   "short": "Alaska",
+   "sig": "{\"drawing\": \"992cefb717a2\", \"focus\": [\"B10\"], \"held\": [], \"held_n\": 0, \"main\": [\"B10\"]}",
+   "slug": "alaska",
+   "updated": "2026-10-07"
+  },
+  "american": {
+   "airport_short": "ELP",
+   "code": "AA",
+   "deps_day": 15.3,
+   "gone": false,
+   "last_seen": "2026-10-06",
+   "last_seen_str": "Oct 6, 2026",
+   "name": "American Airlines",
+   "published": "2026-10-07",
+   "short": "American",
+   "sig": "{\"drawing\": \"992cefb717a2\", \"focus\": [\"A1\", \"A2\", \"A3\", \"A4\"], \"held\": [\"A1\", \"A2\", \"A3\", \"A4\"], \"held_n\": 4, \"main\": [\"A1\", \"A2\", \"A3\", \"A4\"]}",
+   "slug": "american",
+   "updated": "2026-10-07"
+  },
+  "delta": {
+   "airport_short": "ELP",
+   "code": "DL",
+   "deps_day": 2.0,
+   "gone": false,
+   "last_seen": "2026-10-05",
+   "last_seen_str": "Oct 5, 2026",
+   "name": "Delta Air Lines",
+   "published": "2026-10-07",
+   "short": "Delta",
+   "sig": "{\"drawing\": \"992cefb717a2\", \"focus\": [\"B1\"], \"held\": [\"B1\"], \"held_n\": 1, \"main\": [\"B1\"]}",
+   "slug": "delta",
+   "updated": "2026-10-07"
+  },
+  "frontier": {
+   "airport_short": "ELP",
+   "code": "F9",
+   "deps_day": 2.0,
+   "gone": false,
+   "last_seen": "2026-10-05",
+   "last_seen_str": "Oct 5, 2026",
+   "name": "Frontier Airlines",
+   "published": "2026-10-07",
+   "short": "Frontier",
+   "sig": "{\"drawing\": \"992cefb717a2\", \"focus\": [\"B11\"], \"held\": [\"B11\"], \"held_n\": 1, \"main\": [\"B11\"]}",
+   "slug": "frontier",
+   "updated": "2026-10-07"
+  },
+  "southwest": {
+   "airport_short": "ELP",
+   "code": "WN",
+   "deps_day": 27.0,
+   "gone": false,
+   "last_seen": "2026-10-06",
+   "last_seen_str": "Oct 6, 2026",
+   "name": "Southwest Airlines",
+   "published": "2026-10-07",
+   "short": "Southwest",
+   "sig": "{\"drawing\": \"992cefb717a2\", \"focus\": [\"B3\", \"B4\", \"B5\", \"B6\", \"B7\", \"B11\"], \"held\": [\"B3\", \"B4\", \"B5\", \"B6\", \"B7\"], \"held_n\": 5, \"main\": [\"B3\", \"B4\", \"B5\", \"B6\", \"B7\", \"B11\"]}",
+   "slug": "southwest",
+   "updated": "2026-10-07"
+  },
+  "united": {
+   "airport_short": "ELP",
+   "code": "UA",
+   "deps_day": 8.7,
+   "gone": false,
+   "last_seen": "2026-10-05",
+   "last_seen_str": "Oct 5, 2026",
+   "name": "United Airlines",
+   "published": "2026-10-07",
+   "short": "United",
+   "sig": "{\"drawing\": \"992cefb717a2\", \"focus\": [\"B2\", \"B8\", \"B9\", \"B10\"], \"held\": [\"B2\", \"B8\", \"B9\"], \"held_n\": 3, \"main\": [\"B2\", \"B8\", \"B9\", \"B10\"]}",
+   "slug": "united",
+   "updated": "2026-10-07"
+  }
+ },
  "EWR": {
   "aer-lingus": {
    "airport_short": "Newark",

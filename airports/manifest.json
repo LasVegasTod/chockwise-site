@@ -251,6 +251,18 @@
   "top_gates": 78,
   "updated": "2026-10-07"
  },
+ "ELP": {
+  "flights_day": 120,
+  "gates": 15,
+  "name": "El Paso Intl",
+  "published": "2026-10-07",
+  "seats_day": 7817,
+  "short": "ELP",
+  "sig": "{\"common\": 1, \"drawing\": \"992cefb717a2\", \"gates\": 15, \"held\": {\"AA\": 4, \"DL\": 1, \"F9\": 1, \"UA\": 3, \"WN\": 5}, \"low\": 0}",
+  "top": "WN",
+  "top_gates": 5,
+  "updated": "2026-10-07"
+ },
  "EWR": {
   "flights_day": 1040,
   "gates": 103,
