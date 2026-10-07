@@ -31,16 +31,13 @@
    "description": "AI-enabled airport gate intelligence: gate ownership, gate utilization, turn times, tows and seat capacity for every gate, with plain-English questions and written briefings for airline network planning and station operations."}
 ]}
 </script>
-<!-- Google Analytics (GA4): paste the Measurement ID (G-...) from analytics.google.com between the quotes. Empty = off. -->
+<!-- Google Analytics (GA4), Google's own tag as given in analytics.google.com (Measurement ID G-M9YTYY1NMV) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-M9YTYY1NMV"></script>
 <script>
-  var GA_ID = 'G-M9YTYY1NMV';
-  if (GA_ID) {
-    var ga = document.createElement('script'); ga.async = true; ga.src = 'https://www.googletagmanager.com/gtag/js?id=' + GA_ID;
-    document.head.appendChild(ga);
-    window.dataLayer = window.dataLayer || [];
-    window.gtag = function () { dataLayer.push(arguments); };
-    gtag('js', new Date()); gtag('config', GA_ID);
-  }
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-M9YTYY1NMV');
 </script>
 <link rel="icon" href="favicon.svg" type="image/svg+xml">
 <link rel="apple-touch-icon" href="brand/app-icon.png">
