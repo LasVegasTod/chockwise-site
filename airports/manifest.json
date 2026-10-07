@@ -35,6 +35,18 @@
   "top_gates": 10,
   "updated": "2026-10-07"
  },
+ "BHM": {
+  "flights_day": 126,
+  "gates": 19,
+  "name": "Birmingham-Shuttlesworth Intl",
+  "published": "2026-10-07",
+  "seats_day": 6368,
+  "short": "BHM",
+  "sig": "{\"common\": 1, \"drawing\": \"9a58719a1ccc\", \"gates\": 19, \"held\": {\"AA\": 5, \"DL\": 4, \"UA\": 3, \"WN\": 3}, \"low\": 3}",
+  "top": "AA",
+  "top_gates": 5,
+  "updated": "2026-10-07"
+ },
  "BNA": {
   "flights_day": 725,
   "gates": 62,
@@ -261,6 +273,18 @@
   "sig": "{\"common\": 9, \"drawing\": \"37466c56dcb0\", \"gates\": 67, \"held\": {\"AA\": 4, \"B6\": 26, \"DL\": 8, \"F9\": 2, \"G4\": 3, \"MX\": 2, \"UA\": 5, \"WN\": 6}, \"low\": 2}",
   "top": "B6",
   "top_gates": 26,
+  "updated": "2026-10-07"
+ },
+ "GEG": {
+  "flights_day": 129,
+  "gates": 21,
+  "name": "Spokane Intl",
+  "published": "2026-10-07",
+  "seats_day": 7261,
+  "short": "GEG",
+  "sig": "{\"common\": 1, \"drawing\": \"dda48c791da2\", \"gates\": 21, \"held\": {\"AA\": 2, \"AS\": 6, \"DL\": 4, \"UA\": 2, \"WN\": 4}, \"low\": 2}",
+  "top": "AS",
+  "top_gates": 6,
   "updated": "2026-10-07"
  },
  "HNL": {
@@ -587,6 +611,18 @@
   "top_gates": 9,
   "updated": "2026-10-07"
  },
+ "PVD": {
+  "flights_day": 130,
+  "gates": 24,
+  "name": "Rhode Island T. F. Green International Airport, Providence",
+  "published": "2026-10-07",
+  "seats_day": 6263,
+  "short": "PVD",
+  "sig": "{\"common\": 0, \"drawing\": \"114c8a6c1655\", \"gates\": 24, \"held\": {\"AA\": 3, \"B6\": 2, \"DL\": 2, \"MX\": 4, \"UA\": 2, \"WN\": 3}, \"low\": 8}",
+  "top": "MX",
+  "top_gates": 4,
+  "updated": "2026-10-07"
+ },
  "RDU": {
   "flights_day": 422,
   "gates": 45,
@@ -657,6 +693,18 @@
   "sig": "{\"common\": 4, \"drawing\": \"275e94485a9e\", \"gates\": 28, \"held\": {\"AA\": 5, \"DL\": 3, \"UA\": 4, \"WN\": 7}, \"low\": 5}",
   "top": "WN",
   "top_gates": 7,
+  "updated": "2026-10-07"
+ },
+ "SAV": {
+  "flights_day": 135,
+  "gates": 15,
+  "name": "Savannah/Hilton Head Intl",
+  "published": "2026-10-07",
+  "seats_day": 7309,
+  "short": "SAV",
+  "sig": "{\"common\": 1, \"drawing\": \"0fc7bc6fb4cd\", \"gates\": 15, \"held\": {\"AA\": 4, \"DL\": 4, \"G4\": 1, \"UA\": 2, \"WN\": 2}, \"low\": 1}",
+  "top": "DL",
+  "top_gates": 4,
   "updated": "2026-10-07"
  },
  "SDF": {
