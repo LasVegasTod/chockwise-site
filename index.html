@@ -216,8 +216,8 @@
 
   /* Running counts */
   .counts { background: var(--navy); color: #fff; padding: 40px 0 36px; }
-  .count-grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 24px; }
-  .count b { display: block; font-size: clamp(30px, 4.4vw, 48px); font-weight: 800; letter-spacing: -1.2px; line-height: 1; font-variant-numeric: tabular-nums; }
+  .count-grid { display: grid; grid-template-columns: repeat(5, 1fr); gap: 24px; }
+  .count b { display: block; font-size: clamp(28px, 3.3vw, 44px); font-weight: 800; letter-spacing: -1.2px; line-height: 1; font-variant-numeric: tabular-nums; }
   .count span { display: block; margin-top: 8px; color: #C9D0DD; font-size: 15px; }
   .count.insight b { color: var(--chock); }
   .count-sub { margin-top: 26px; padding-top: 18px; border-top: 1px solid rgba(255,255,255,.14); color: #C9D0DD; font-size: 15px;
@@ -258,6 +258,7 @@
 
   @media (max-width: 860px) {
     .count-grid { grid-template-columns: repeat(2, 1fr); }
+    .count-grid .insight { grid-column: span 2; }
     .ai-grid { grid-template-columns: 1fr; }
     /* phones: brand on top, then Airports and Routes beside the button (the in-page links stay desktop-only) */
     nav a.wide { display: none; }
@@ -339,6 +340,7 @@
       <div class="count-grid">
         <div class="count"><b data-k="airports">17</b><span>Airports</span></div>
         <div class="count"><b data-k="gates">1,524</b><span>Gates mapped</span></div>
+        <div class="count"><b data-k="airlines">249</b><span>Airlines</span></div>
         <div class="count"><b data-k="flights">64,226</b><span>Flights tracked</span></div>
         <div class="count insight"><b data-k="insights">115,136</b><span>Insights derived</span></div>
       </div>
