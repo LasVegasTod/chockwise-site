@@ -311,6 +311,18 @@
   "top_gates": 74,
   "updated": "2026-10-08"
  },
+ "FAT": {
+  "flights_day": 91,
+  "gates": 14,
+  "name": "Fresno Yosemite Intl",
+  "published": "2026-10-08",
+  "seats_day": 5154,
+  "short": "Fresno",
+  "sig": "{\"common\": 6, \"drawing\": \"0c79733449a9\", \"gates\": 14, \"held\": {\"AA\": 1, \"AS\": 1, \"UA\": 2, \"WN\": 1}, \"low\": 3}",
+  "top": "UA",
+  "top_gates": 2,
+  "updated": "2026-10-08"
+ },
  "FLL": {
   "flights_day": 559,
   "gates": 67,
@@ -345,6 +357,18 @@
   "sig": "{\"common\": 1, \"drawing\": \"63888575312f\", \"gates\": 23, \"held\": {\"AA\": 4, \"DL\": 5, \"G4\": 3, \"UA\": 4, \"WN\": 2}, \"low\": 4}",
   "top": "DL",
   "top_gates": 5,
+  "updated": "2026-10-08"
+ },
+ "GSO": {
+  "flights_day": 105,
+  "gates": 24,
+  "name": "Piedmont Triad Intl, Greensboro",
+  "published": "2026-10-08",
+  "seats_day": 4108,
+  "short": "Greensboro",
+  "sig": "{\"common\": 0, \"drawing\": \"4c31b280a9db\", \"gates\": 24, \"held\": {\"AA\": 7, \"DL\": 4, \"UA\": 4}, \"low\": 9}",
+  "top": "AA",
+  "top_gates": 7,
   "updated": "2026-10-08"
  },
  "HNL": {
@@ -789,6 +813,18 @@
   "sig": "{\"common\": 0, \"drawing\": \"c4e05f16c4cf\", \"gates\": 10, \"held\": {\"AA\": 3, \"DL\": 2, \"F9\": 1, \"MX\": 1, \"UA\": 2, \"WN\": 1}, \"low\": 0}",
   "top": "AA",
   "top_gates": 3,
+  "updated": "2026-10-08"
+ },
+ "PSP": {
+  "flights_day": 81,
+  "gates": 18,
+  "name": "Palm Springs Intl",
+  "published": "2026-10-08",
+  "seats_day": 4929,
+  "short": "Palm Springs",
+  "sig": "{\"common\": 3, \"drawing\": \"09cc253be95d\", \"gates\": 18, \"held\": {\"AA\": 2, \"AS\": 1, \"DL\": 1, \"UA\": 4, \"WN\": 1}, \"low\": 6}",
+  "top": "UA",
+  "top_gates": 4,
   "updated": "2026-10-08"
  },
  "PVD": {
