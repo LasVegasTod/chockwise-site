@@ -4,7 +4,7 @@
   "airlines": 263,
   "flights": 186652,
   "turns": 80915,
-  "tows": 15616,
+  "tows": 3587,
   "gate_hours": 215917,
   "idle_gaps": 74671,
   "seats": 23605724,
@@ -14,6 +14,6 @@
   "gate_returns": 233,
   "plane_changes": 28,
   "late_gate_hours": 17093,
-  "insights": 361328,
+  "insights": 349299,
   "updated": "2026-10-08"
 }
