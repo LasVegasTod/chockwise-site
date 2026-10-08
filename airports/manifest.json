@@ -779,6 +779,18 @@
   "top_gates": 6,
   "updated": "2026-10-08"
  },
+ "MFR": {
+  "flights_day": 48,
+  "gates": 6,
+  "name": "Rogue Valley Intl, Medford",
+  "published": "2026-10-08",
+  "seats_day": 1910,
+  "short": "Medford",
+  "sig": "{\"common\": 1, \"drawing\": \"5c8f1a1e8dbf\", \"gates\": 6, \"held\": {\"AS\": 2, \"DL\": 1, \"UA\": 1}, \"low\": 1}",
+  "top": "AS",
+  "top_gates": 2,
+  "updated": "2026-10-08"
+ },
  "MIA": {
   "flights_day": 989,
   "gates": 144,
@@ -1029,6 +1041,18 @@
   "sig": "{\"common\": 2, \"drawing\": \"a1a4a3d42ef8\", \"gates\": 23, \"held\": {\"AA\": 3, \"AS\": 2, \"DL\": 1, \"UA\": 4, \"WN\": 4}, \"low\": 7}",
   "top": "WN",
   "top_gates": 4,
+  "updated": "2026-10-08"
+ },
+ "ROA": {
+  "flights_day": 50,
+  "gates": 7,
+  "name": "Roanoke Rgnl",
+  "published": "2026-10-08",
+  "seats_day": 1549,
+  "short": "Roanoke",
+  "sig": "{\"common\": 0, \"drawing\": \"81b4bd4671c7\", \"gates\": 7, \"held\": {\"AA\": 3, \"DL\": 2, \"UA\": 1}, \"low\": 1}",
+  "top": "AA",
+  "top_gates": 3,
   "updated": "2026-10-08"
  },
  "ROC": {
