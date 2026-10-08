@@ -155,6 +155,18 @@
   "top_gates": 36,
   "updated": "2026-10-08"
  },
+ "CAE": {
+  "flights_day": 76,
+  "gates": 10,
+  "name": "Columbia Metro",
+  "published": "2026-10-08",
+  "seats_day": 2734,
+  "short": "Columbia",
+  "sig": "{\"common\": 1, \"drawing\": \"8ab9ae9d1e7e\", \"gates\": 10, \"held\": {\"AA\": 5, \"DL\": 3, \"UA\": 1}, \"low\": 0}",
+  "top": "AA",
+  "top_gates": 5,
+  "updated": "2026-10-08"
+ },
  "CHS": {
   "flights_day": 192,
   "gates": 18,
@@ -453,6 +465,18 @@
   "sig": "{\"common\": 2, \"drawing\": \"84cc90094565\", \"gates\": 11, \"held\": {\"AA\": 3, \"DL\": 2, \"UA\": 3, \"WN\": 1}, \"low\": 0}",
   "top": "UA",
   "top_gates": 3,
+  "updated": "2026-10-08"
+ },
+ "ILM": {
+  "flights_day": 81,
+  "gates": 9,
+  "name": "Wilmington Intl",
+  "published": "2026-10-08",
+  "seats_day": 3641,
+  "short": "Wilmington",
+  "sig": "{\"common\": 2, \"drawing\": \"59134cd2fddc\", \"gates\": 9, \"held\": {\"AA\": 4, \"DL\": 1, \"MX\": 1, \"UA\": 1}, \"low\": 0}",
+  "top": "AA",
+  "top_gates": 4,
   "updated": "2026-10-08"
  },
  "IND": {
@@ -969,6 +993,18 @@
   "sig": "{\"common\": 25, \"drawing\": \"2c1dfd589f32\", \"gates\": 108, \"held\": {\"AA\": 6, \"AC\": 1, \"AS\": 8, \"B6\": 2, \"DL\": 7, \"F9\": 2, \"UA\": 47, \"WN\": 4}, \"low\": 6}",
   "top": "UA",
   "top_gates": 47,
+  "updated": "2026-10-08"
+ },
+ "SGF": {
+  "flights_day": 76,
+  "gates": 11,
+  "name": "Springfield",
+  "published": "2026-10-08",
+  "seats_day": 2817,
+  "short": "Springfield",
+  "sig": "{\"common\": 1, \"drawing\": \"40b7f06f209c\", \"gates\": 11, \"held\": {\"AA\": 3, \"DL\": 1, \"G4\": 2, \"UA\": 2}, \"low\": 2}",
+  "top": "AA",
+  "top_gates": 3,
   "updated": "2026-10-08"
  },
  "SJC": {
