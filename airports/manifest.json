@@ -47,6 +47,18 @@
   "top_gates": 10,
   "updated": "2026-10-08"
  },
+ "AVL": {
+  "flights_day": 87,
+  "gates": 12,
+  "name": "Asheville Rgnl",
+  "published": "2026-10-08",
+  "seats_day": 4523,
+  "short": "Asheville",
+  "sig": "{\"common\": 4, \"drawing\": \"eee80cecf127\", \"gates\": 12, \"held\": {\"AA\": 3, \"G4\": 1}, \"low\": 4}",
+  "top": "AA",
+  "top_gates": 3,
+  "updated": "2026-10-08"
+ },
  "BDL": {
   "flights_day": 159,
   "gates": 25,
@@ -369,6 +381,18 @@
   "sig": "{\"common\": 2, \"drawing\": \"b6ec3f5f3965\", \"gates\": 6, \"held\": {\"B6\": 2}, \"low\": 2}",
   "top": "B6",
   "top_gates": 2,
+  "updated": "2026-10-08"
+ },
+ "HSV": {
+  "flights_day": 90,
+  "gates": 14,
+  "name": "Huntsville Intl",
+  "published": "2026-10-08",
+  "seats_day": 3493,
+  "short": "Huntsville",
+  "sig": "{\"common\": 2, \"drawing\": \"fb4477bef88e\", \"gates\": 14, \"held\": {\"AA\": 4, \"DL\": 3, \"UA\": 3}, \"low\": 2}",
+  "top": "AA",
+  "top_gates": 4,
   "updated": "2026-10-08"
  },
  "IAD": {
@@ -813,6 +837,18 @@
   "sig": "{\"common\": 2, \"drawing\": \"e8630ec0c732\", \"gates\": 23, \"held\": {\"AA\": 3, \"AS\": 2, \"DL\": 1, \"UA\": 4, \"WN\": 4}, \"low\": 7}",
   "top": "WN",
   "top_gates": 4,
+  "updated": "2026-10-08"
+ },
+ "ROC": {
+  "flights_day": 103,
+  "gates": 21,
+  "name": "Frederick Douglass/Greater Rochester Intl",
+  "published": "2026-10-08",
+  "seats_day": 4924,
+  "short": "Rochester",
+  "sig": "{\"common\": 0, \"drawing\": \"1839820bd7d0\", \"gates\": 21, \"held\": {\"AA\": 5, \"B6\": 1, \"DL\": 4, \"UA\": 3, \"WN\": 2}, \"low\": 6}",
+  "top": "AA",
+  "top_gates": 5,
   "updated": "2026-10-08"
  },
  "RSW": {
