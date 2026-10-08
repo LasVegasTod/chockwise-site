@@ -47,6 +47,18 @@
   "top_gates": 10,
   "updated": "2026-10-08"
  },
+ "BDL": {
+  "flights_day": 159,
+  "gates": 25,
+  "name": "Bradley Intl, Windsor Locks",
+  "published": "2026-10-08",
+  "seats_day": 11324,
+  "short": "Hartford",
+  "sig": "{\"common\": 1, \"drawing\": \"be097f259961\", \"gates\": 25, \"held\": {\"AA\": 5, \"B6\": 4, \"DL\": 4, \"MX\": 5, \"UA\": 3, \"WN\": 2}, \"low\": 1}",
+  "top": "AA",
+  "top_gates": 5,
+  "updated": "2026-10-08"
+ },
  "BHM": {
   "flights_day": 126,
   "gates": 19,
@@ -573,6 +585,18 @@
   "sig": "{\"common\": 18, \"drawing\": \"5dd6cbc1bc1b\", \"gates\": 144, \"held\": {\"AA\": 70, \"AM\": 1, \"AR\": 1, \"BA\": 1, \"CM\": 1, \"DL\": 6, \"DM\": 1, \"F9\": 3, \"KX\": 1, \"LP\": 1, \"UA\": 5, \"UP\": 1, \"WN\": 3}, \"low\": 31}",
   "top": "AA",
   "top_gates": 70,
+  "updated": "2026-10-08"
+ },
+ "MSN": {
+  "flights_day": 104,
+  "gates": 16,
+  "name": "Dane Co Rgnl, Madison",
+  "published": "2026-10-08",
+  "seats_day": 4936,
+  "short": "Madison",
+  "sig": "{\"common\": 1, \"drawing\": \"4649c6e4a62d\", \"gates\": 16, \"held\": {\"AA\": 7, \"DL\": 4, \"UA\": 4}, \"low\": 0}",
+  "top": "AA",
+  "top_gates": 7,
   "updated": "2026-10-08"
  },
  "MSP": {
