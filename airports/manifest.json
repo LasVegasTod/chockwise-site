@@ -563,6 +563,18 @@
   "top_gates": 10,
   "updated": "2026-10-08"
  },
+ "JAN": {
+  "flights_day": 53,
+  "gates": 8,
+  "name": "Jackson-Medgar Wiley Evers Intl",
+  "published": "2026-10-08",
+  "seats_day": 2179,
+  "short": "Jackson",
+  "sig": "{\"common\": 0, \"drawing\": \"a0057c512ba2\", \"gates\": 8, \"held\": {\"AA\": 2, \"DL\": 1, \"UA\": 1, \"WN\": 1}, \"low\": 3}",
+  "top": "AA",
+  "top_gates": 2,
+  "updated": "2026-10-08"
+ },
  "JAX": {
   "flights_day": 197,
   "gates": 20,
