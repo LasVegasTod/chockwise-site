@@ -155,6 +155,18 @@
   "top_gates": 36,
   "updated": "2026-10-08"
  },
+ "BZN": {
+  "flights_day": 63,
+  "gates": 12,
+  "name": "Bozeman Yellowstone Intl",
+  "published": "2026-10-08",
+  "seats_day": 4469,
+  "short": "Bozeman",
+  "sig": "{\"common\": 1, \"drawing\": \"48e904bddd56\", \"gates\": 12, \"held\": {\"AA\": 1, \"AS\": 1, \"DL\": 2, \"UA\": 2, \"WN\": 2}, \"low\": 3}",
+  "top": "UA",
+  "top_gates": 2,
+  "updated": "2026-10-08"
+ },
  "CAE": {
   "flights_day": 76,
   "gates": 10,
@@ -188,6 +200,18 @@
   "short": "Charleston",
   "sig": "{\"common\": 3, \"drawing\": \"93696702c13e\", \"gates\": 18, \"held\": {\"AA\": 4, \"DL\": 3, \"MX\": 3, \"UA\": 2, \"WN\": 1}, \"low\": 2}",
   "top": "AA",
+  "top_gates": 4,
+  "updated": "2026-10-08"
+ },
+ "CID": {
+  "flights_day": 61,
+  "gates": 13,
+  "name": "The Eastern Iowa, Cedar Rapids",
+  "published": "2026-10-08",
+  "seats_day": 2645,
+  "short": "Cedar Rapids",
+  "sig": "{\"common\": 0, \"drawing\": \"debe105d4cfd\", \"gates\": 13, \"held\": {\"AA\": 3, \"DL\": 2, \"G4\": 1, \"UA\": 4}, \"low\": 3}",
+  "top": "UA",
   "top_gates": 4,
   "updated": "2026-10-08"
  },
@@ -309,6 +333,18 @@
   "sig": "{\"common\": 2, \"drawing\": \"8dd4551045d7\", \"gates\": 133, \"held\": {\"AA\": 9, \"AC\": 1, \"B6\": 3, \"DL\": 78, \"F9\": 3, \"UA\": 8, \"WN\": 3}, \"low\": 26}",
   "top": "DL",
   "top_gates": 78,
+  "updated": "2026-10-08"
+ },
+ "ECP": {
+  "flights_day": 61,
+  "gates": 7,
+  "name": "Northwest Florida Beaches Intl, Panama City",
+  "published": "2026-10-08",
+  "seats_day": 3464,
+  "short": "Panama City Beach",
+  "sig": "{\"common\": 0, \"drawing\": \"d9f5f72136cd\", \"gates\": 7, \"held\": {\"AA\": 2, \"DL\": 2, \"UA\": 1, \"WN\": 2}, \"low\": 0}",
+  "top": "WN",
+  "top_gates": 2,
   "updated": "2026-10-08"
  },
  "ELP": {
@@ -633,6 +669,18 @@
   "sig": "{\"common\": 0, \"drawing\": \"f367bd350701\", \"gates\": 12, \"held\": {\"AA\": 4, \"DL\": 2, \"UA\": 4, \"WN\": 2}, \"low\": 0}",
   "top": "AA",
   "top_gates": 4,
+  "updated": "2026-10-08"
+ },
+ "MAF": {
+  "flights_day": 65,
+  "gates": 6,
+  "name": "Midland Intl Air and Space Port",
+  "published": "2026-10-08",
+  "seats_day": 3114,
+  "short": "Midland",
+  "sig": "{\"common\": 0, \"drawing\": \"3f1417b62be8\", \"gates\": 6, \"held\": {\"AA\": 2, \"UA\": 2, \"WN\": 2}, \"low\": 0}",
+  "top": "WN",
+  "top_gates": 2,
   "updated": "2026-10-08"
  },
  "MCI": {
@@ -1005,6 +1053,18 @@
   "sig": "{\"common\": 1, \"drawing\": \"9474e6ca7a65\", \"gates\": 15, \"held\": {\"AA\": 4, \"DL\": 4, \"G4\": 1, \"UA\": 2, \"WN\": 2}, \"low\": 1}",
   "top": "DL",
   "top_gates": 4,
+  "updated": "2026-10-08"
+ },
+ "SBA": {
+  "flights_day": 65,
+  "gates": 10,
+  "name": "Santa Barbara Muni",
+  "published": "2026-10-08",
+  "seats_day": 3531,
+  "short": "Santa Barbara",
+  "sig": "{\"common\": 1, \"drawing\": \"baba198ae9da\", \"gates\": 10, \"held\": {\"AA\": 1, \"AS\": 1, \"DL\": 1, \"UA\": 2, \"WN\": 1}, \"low\": 3}",
+  "top": "UA",
+  "top_gates": 2,
   "updated": "2026-10-08"
  },
  "SDF": {
