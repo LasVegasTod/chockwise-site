@@ -9,7 +9,7 @@
   "sig": "{\"common\": 1, \"drawing\": \"c6a5abf03de2\", \"gates\": 22, \"held\": {\"AA\": 3, \"AS\": 1, \"DL\": 3, \"UA\": 5, \"WN\": 6}, \"low\": 3}",
   "top": "WN",
   "top_gates": 6,
-  "updated": "2026-10-07"
+  "updated": "2026-10-08"
  },
  "ALB": {
   "flights_day": 105,
@@ -21,7 +21,7 @@
   "sig": "{\"common\": 1, \"drawing\": \"1d917d8fbc69\", \"gates\": 15, \"held\": {\"AA\": 3, \"B6\": 1, \"DL\": 3, \"G4\": 1, \"UA\": 4, \"WN\": 2}, \"low\": 0}",
   "top": "UA",
   "top_gates": 4,
-  "updated": "2026-10-07"
+  "updated": "2026-10-08"
  },
  "ATL": {
   "flights_day": 2174,
@@ -33,7 +33,7 @@
   "sig": "{\"common\": 10, \"drawing\": \"b26d02b48fb2\", \"gates\": 201, \"held\": {\"AA\": 5, \"DL\": 148, \"F9\": 8, \"UA\": 4, \"WN\": 8}, \"low\": 18}",
   "top": "DL",
   "top_gates": 148,
-  "updated": "2026-10-07"
+  "updated": "2026-10-08"
  },
  "AUS": {
   "flights_day": 556,
@@ -45,7 +45,7 @@
   "sig": "{\"common\": 6, \"drawing\": \"9546bf1065bb\", \"gates\": 40, \"held\": {\"AA\": 4, \"AS\": 1, \"DL\": 10, \"UA\": 5, \"WN\": 10}, \"low\": 4}",
   "top": "WN",
   "top_gates": 10,
-  "updated": "2026-10-07"
+  "updated": "2026-10-08"
  },
  "BHM": {
   "flights_day": 126,
@@ -57,7 +57,7 @@
   "sig": "{\"common\": 1, \"drawing\": \"9a58719a1ccc\", \"gates\": 19, \"held\": {\"AA\": 5, \"DL\": 4, \"UA\": 3, \"WN\": 3}, \"low\": 3}",
   "top": "AA",
   "top_gates": 5,
-  "updated": "2026-10-07"
+  "updated": "2026-10-08"
  },
  "BNA": {
   "flights_day": 725,
@@ -69,7 +69,7 @@
   "sig": "{\"common\": 7, \"drawing\": \"4b9abc869d30\", \"gates\": 62, \"held\": {\"AA\": 8, \"B6\": 1, \"DL\": 7, \"G4\": 2, \"UA\": 4, \"WN\": 22}, \"low\": 11}",
   "top": "WN",
   "top_gates": 22,
-  "updated": "2026-10-07"
+  "updated": "2026-10-08"
  },
  "BOI": {
   "flights_day": 170,
@@ -81,7 +81,7 @@
   "sig": "{\"common\": 3, \"drawing\": \"3dfe1c5f9cdc\", \"gates\": 24, \"held\": {\"AA\": 1, \"AS\": 6, \"DL\": 3, \"UA\": 2, \"WN\": 2}, \"low\": 7}",
   "top": "AS",
   "top_gates": 6,
-  "updated": "2026-10-07"
+  "updated": "2026-10-08"
  },
  "BOS": {
   "flights_day": 1077,
@@ -93,7 +93,7 @@
   "sig": "{\"common\": 14, \"drawing\": \"6d8fdd5417d6\", \"gates\": 110, \"held\": {\"4B\": 1, \"9K\": 1, \"AA\": 16, \"AC\": 3, \"AS\": 2, \"B6\": 25, \"DL\": 23, \"UA\": 9, \"WN\": 5}, \"low\": 11}",
   "top": "B6",
   "top_gates": 25,
-  "updated": "2026-10-07"
+  "updated": "2026-10-08"
  },
  "BUF": {
   "flights_day": 164,
@@ -105,7 +105,7 @@
   "sig": "{\"common\": 1, \"drawing\": \"ddca68cfdcda\", \"gates\": 24, \"held\": {\"AA\": 4, \"B6\": 4, \"DL\": 4, \"UA\": 3, \"WN\": 4}, \"low\": 4}",
   "top": "WN",
   "top_gates": 4,
-  "updated": "2026-10-07"
+  "updated": "2026-10-08"
  },
  "BUR": {
   "flights_day": 193,
@@ -117,7 +117,7 @@
   "sig": "{\"common\": 1, \"drawing\": \"886715f1a47d\", \"gates\": 14, \"held\": {\"AA\": 1, \"AS\": 3, \"DL\": 1, \"UA\": 2, \"WN\": 6}, \"low\": 0}",
   "top": "WN",
   "top_gates": 6,
-  "updated": "2026-10-07"
+  "updated": "2026-10-08"
  },
  "BWI": {
   "flights_day": 559,
@@ -129,7 +129,7 @@
   "sig": "{\"common\": 2, \"drawing\": \"cb0b72512d12\", \"gates\": 77, \"held\": {\"AA\": 4, \"AS\": 1, \"B6\": 1, \"BA\": 1, \"DL\": 6, \"F9\": 3, \"UA\": 4, \"WN\": 36}, \"low\": 19}",
   "top": "WN",
   "top_gates": 36,
-  "updated": "2026-10-07"
+  "updated": "2026-10-08"
  },
  "CHS": {
   "flights_day": 192,
@@ -141,7 +141,7 @@
   "sig": "{\"common\": 3, \"drawing\": \"144ce59959db\", \"gates\": 18, \"held\": {\"AA\": 4, \"DL\": 3, \"MX\": 3, \"UA\": 2, \"WN\": 1}, \"low\": 2}",
   "top": "AA",
   "top_gates": 4,
-  "updated": "2026-10-07"
+  "updated": "2026-10-08"
  },
  "CLE": {
   "flights_day": 270,
@@ -153,7 +153,7 @@
   "sig": "{\"common\": 2, \"drawing\": \"5374b144de1c\", \"gates\": 49, \"held\": {\"AA\": 9, \"AS\": 1, \"B6\": 2, \"DL\": 6, \"F9\": 4, \"UA\": 11, \"WN\": 4}, \"low\": 10}",
   "top": "UA",
   "top_gates": 11,
-  "updated": "2026-10-07"
+  "updated": "2026-10-08"
  },
  "CLT": {
   "flights_day": 1394,
@@ -165,7 +165,7 @@
   "sig": "{\"common\": 2, \"drawing\": \"1c1df1a7cc14\", \"gates\": 123, \"held\": {\"AA\": 99, \"AC\": 1, \"B6\": 1, \"DL\": 7, \"F9\": 2, \"UA\": 4, \"WN\": 2}, \"low\": 5}",
   "top": "AA",
   "top_gates": 99,
-  "updated": "2026-10-07"
+  "updated": "2026-10-08"
  },
  "CMH": {
   "flights_day": 286,
@@ -177,7 +177,7 @@
   "sig": "{\"common\": 2, \"drawing\": \"d536567e05e0\", \"gates\": 34, \"held\": {\"AA\": 9, \"DL\": 5, \"F9\": 1, \"MX\": 1, \"UA\": 6, \"WN\": 5}, \"low\": 5}",
   "top": "AA",
   "top_gates": 9,
-  "updated": "2026-10-07"
+  "updated": "2026-10-08"
  },
  "COS": {
   "flights_day": 83,
@@ -189,7 +189,7 @@
   "sig": "{\"common\": 0, \"drawing\": \"d1ff3e673cfb\", \"gates\": 16, \"held\": {\"AA\": 2, \"DL\": 1, \"UA\": 3, \"WN\": 4}, \"low\": 6}",
   "top": "WN",
   "top_gates": 4,
-  "updated": "2026-10-07"
+  "updated": "2026-10-08"
  },
  "CVG": {
   "flights_day": 332,
@@ -201,7 +201,7 @@
   "sig": "{\"common\": 3, \"drawing\": \"0ce9a01fc67c\", \"gates\": 49, \"held\": {\"AA\": 8, \"AS\": 1, \"DL\": 15, \"F9\": 3, \"G4\": 4, \"UA\": 6, \"WN\": 2}, \"low\": 7}",
   "top": "DL",
   "top_gates": 15,
-  "updated": "2026-10-07"
+  "updated": "2026-10-08"
  },
  "DAL": {
   "flights_day": 393,
@@ -213,7 +213,7 @@
   "sig": "{\"common\": 0, \"drawing\": \"42f97a6795f8\", \"gates\": 20, \"held\": {\"DL\": 1, \"WN\": 19}, \"low\": 0}",
   "top": "WN",
   "top_gates": 19,
-  "updated": "2026-10-07"
+  "updated": "2026-10-08"
  },
  "DCA": {
   "flights_day": 798,
@@ -225,7 +225,7 @@
   "sig": "{\"common\": 0, \"drawing\": \"9c6342ebdd7b\", \"gates\": 61, \"held\": {\"AA\": 36, \"AC\": 1, \"AS\": 1, \"B6\": 3, \"DL\": 7, \"F9\": 1, \"UA\": 4, \"WN\": 7}, \"low\": 1}",
   "top": "AA",
   "top_gates": 36,
-  "updated": "2026-10-07"
+  "updated": "2026-10-08"
  },
  "DEN": {
   "flights_day": 1948,
@@ -237,7 +237,7 @@
   "sig": "{\"common\": 8, \"drawing\": \"631cb320d145\", \"gates\": 176, \"held\": {\"AA\": 5, \"AS\": 2, \"DL\": 6, \"F9\": 14, \"UA\": 80, \"WN\": 39}, \"low\": 22}",
   "top": "UA",
   "top_gates": 80,
-  "updated": "2026-10-07"
+  "updated": "2026-10-08"
  },
  "DFW": {
   "flights_day": 1918,
@@ -249,7 +249,7 @@
   "sig": "{\"common\": 11, \"drawing\": \"1baea1e702ba\", \"gates\": 176, \"held\": {\"AA\": 121, \"AS\": 1, \"DL\": 5, \"F9\": 4, \"LF\": 1, \"QF\": 1, \"UA\": 5}, \"low\": 27}",
   "top": "AA",
   "top_gates": 121,
-  "updated": "2026-10-07"
+  "updated": "2026-10-08"
  },
  "DTW": {
   "flights_day": 863,
@@ -261,7 +261,7 @@
   "sig": "{\"common\": 2, \"drawing\": \"6a1f90360207\", \"gates\": 133, \"held\": {\"AA\": 9, \"AC\": 1, \"B6\": 3, \"DL\": 78, \"F9\": 3, \"UA\": 8, \"WN\": 3}, \"low\": 26}",
   "top": "DL",
   "top_gates": 78,
-  "updated": "2026-10-07"
+  "updated": "2026-10-08"
  },
  "ELP": {
   "flights_day": 120,
@@ -273,7 +273,7 @@
   "sig": "{\"common\": 1, \"drawing\": \"992cefb717a2\", \"gates\": 15, \"held\": {\"AA\": 4, \"DL\": 1, \"F9\": 1, \"UA\": 3, \"WN\": 5}, \"low\": 0}",
   "top": "WN",
   "top_gates": 5,
-  "updated": "2026-10-07"
+  "updated": "2026-10-08"
  },
  "EWR": {
   "flights_day": 1040,
@@ -285,7 +285,7 @@
   "sig": "{\"common\": 4, \"drawing\": \"12008d23a92f\", \"gates\": 103, \"held\": {\"AA\": 3, \"AC\": 1, \"AS\": 2, \"B6\": 2, \"DL\": 2, \"G4\": 1, \"UA\": 74}, \"low\": 14}",
   "top": "UA",
   "top_gates": 74,
-  "updated": "2026-10-07"
+  "updated": "2026-10-08"
  },
  "FLL": {
   "flights_day": 559,
@@ -297,7 +297,7 @@
   "sig": "{\"common\": 9, \"drawing\": \"37466c56dcb0\", \"gates\": 67, \"held\": {\"AA\": 4, \"B6\": 26, \"DL\": 8, \"F9\": 2, \"G4\": 3, \"MX\": 2, \"UA\": 5, \"WN\": 6}, \"low\": 2}",
   "top": "B6",
   "top_gates": 26,
-  "updated": "2026-10-07"
+  "updated": "2026-10-08"
  },
  "GEG": {
   "flights_day": 129,
@@ -309,7 +309,7 @@
   "sig": "{\"common\": 1, \"drawing\": \"dda48c791da2\", \"gates\": 21, \"held\": {\"AA\": 2, \"AS\": 6, \"DL\": 4, \"UA\": 2, \"WN\": 4}, \"low\": 2}",
   "top": "AS",
   "top_gates": 6,
-  "updated": "2026-10-07"
+  "updated": "2026-10-08"
  },
  "GRR": {
   "flights_day": 127,
@@ -321,7 +321,7 @@
   "sig": "{\"common\": 1, \"drawing\": \"63888575312f\", \"gates\": 23, \"held\": {\"AA\": 4, \"DL\": 5, \"G4\": 3, \"UA\": 4, \"WN\": 2}, \"low\": 4}",
   "top": "DL",
   "top_gates": 5,
-  "updated": "2026-10-07"
+  "updated": "2026-10-08"
  },
  "HNL": {
   "flights_day": 418,
@@ -333,7 +333,7 @@
   "sig": "{\"common\": 10, \"drawing\": \"561067c9d132\", \"gates\": 58, \"held\": {\"AS\": 22, \"DL\": 2, \"UA\": 4, \"WN\": 6}, \"low\": 14}",
   "top": "AS",
   "top_gates": 22,
-  "updated": "2026-10-07"
+  "updated": "2026-10-08"
  },
  "HOU": {
   "flights_day": 310,
@@ -345,7 +345,7 @@
   "sig": "{\"common\": 0, \"drawing\": \"65fcf397756a\", \"gates\": 30, \"held\": {\"AA\": 1, \"DL\": 1, \"WN\": 23}, \"low\": 5}",
   "top": "WN",
   "top_gates": 23,
-  "updated": "2026-10-07"
+  "updated": "2026-10-08"
  },
  "IAD": {
   "flights_day": 706,
@@ -357,7 +357,7 @@
   "sig": "{\"common\": 15, \"drawing\": \"67ca5779625b\", \"gates\": 122, \"held\": {\"AA\": 2, \"AC\": 1, \"AF\": 1, \"AS\": 2, \"BA\": 1, \"CM\": 1, \"DL\": 3, \"F9\": 1, \"LH\": 1, \"MX\": 1, \"TP\": 1, \"UA\": 80}, \"low\": 12}",
   "top": "UA",
   "top_gates": 80,
-  "updated": "2026-10-07"
+  "updated": "2026-10-08"
  },
  "IAH": {
   "flights_day": 1187,
@@ -369,7 +369,7 @@
   "sig": "{\"common\": 7, \"drawing\": \"fde7c82836d8\", \"gates\": 147, \"held\": {\"AA\": 5, \"AM\": 1, \"AS\": 1, \"B6\": 2, \"BA\": 1, \"DL\": 5, \"F9\": 3, \"NZ\": 1, \"UA\": 83, \"Y4\": 1}, \"low\": 37}",
   "top": "UA",
   "top_gates": 83,
-  "updated": "2026-10-07"
+  "updated": "2026-10-08"
  },
  "IND": {
   "flights_day": 337,
@@ -381,7 +381,7 @@
   "sig": "{\"common\": 1, \"drawing\": \"2afd09cbca76\", \"gates\": 40, \"held\": {\"AA\": 9, \"AC\": 1, \"AS\": 1, \"DL\": 10, \"F9\": 1, \"G4\": 2, \"UA\": 6, \"WN\": 7}, \"low\": 2}",
   "top": "DL",
   "top_gates": 10,
-  "updated": "2026-10-07"
+  "updated": "2026-10-08"
  },
  "JAX": {
   "flights_day": 197,
@@ -393,7 +393,7 @@
   "sig": "{\"common\": 3, \"drawing\": \"6696d09f6179\", \"gates\": 20, \"held\": {\"AA\": 4, \"B6\": 2, \"DL\": 4, \"MX\": 1, \"UA\": 3, \"WN\": 3}, \"low\": 0}",
   "top": "AA",
   "top_gates": 4,
-  "updated": "2026-10-07"
+  "updated": "2026-10-08"
  },
  "JFK": {
   "flights_day": 1115,
@@ -405,7 +405,7 @@
   "sig": "{\"common\": 19, \"drawing\": \"85bfe364b8c4\", \"gates\": 120, \"held\": {\"AA\": 13, \"AS\": 1, \"B6\": 29, \"CM\": 1, \"DL\": 38, \"VS\": 1}, \"low\": 18}",
   "top": "DL",
   "top_gates": 38,
-  "updated": "2026-10-07"
+  "updated": "2026-10-08"
  },
  "KOA": {
   "flights_day": 94,
@@ -417,7 +417,7 @@
   "sig": "{\"common\": 1, \"drawing\": \"a77a9d7cf535\", \"gates\": 12, \"held\": {\"AA\": 1, \"AS\": 3, \"UA\": 2, \"WN\": 2}, \"low\": 3}",
   "top": "AS",
   "top_gates": 3,
-  "updated": "2026-10-07"
+  "updated": "2026-10-08"
  },
  "LAS": {
   "flights_day": 1127,
@@ -429,7 +429,7 @@
   "sig": "{\"common\": 10, \"drawing\": \"b36cbf1bca61\", \"gates\": 110, \"held\": {\"AA\": 9, \"AS\": 5, \"B6\": 2, \"DL\": 9, \"F9\": 11, \"G4\": 6, \"MX\": 1, \"UA\": 9, \"WN\": 33}, \"low\": 15}",
   "top": "WN",
   "top_gates": 33,
-  "updated": "2026-10-07"
+  "updated": "2026-10-08"
  },
  "LAX": {
   "flights_day": 1408,
@@ -441,7 +441,7 @@
   "sig": "{\"common\": 29, \"drawing\": \"730a633c7b39\", \"gates\": 148, \"held\": {\"AA\": 22, \"AF\": 1, \"AS\": 11, \"B6\": 3, \"DL\": 26, \"F9\": 5, \"UA\": 24, \"WN\": 9, \"Y4\": 1}, \"low\": 17}",
   "top": "DL",
   "top_gates": 26,
-  "updated": "2026-10-07"
+  "updated": "2026-10-08"
  },
  "LGA": {
   "flights_day": 902,
@@ -453,7 +453,7 @@
   "sig": "{\"common\": 3, \"drawing\": \"66213287e099\", \"gates\": 80, \"held\": {\"AA\": 17, \"AC\": 3, \"B6\": 2, \"DL\": 38, \"F9\": 1, \"UA\": 5, \"WN\": 4}, \"low\": 7}",
   "top": "DL",
   "top_gates": 38,
-  "updated": "2026-10-07"
+  "updated": "2026-10-08"
  },
  "LIH": {
   "flights_day": 91,
@@ -465,7 +465,19 @@
   "sig": "{\"common\": 2, \"drawing\": \"f534e8a0b341\", \"gates\": 9, \"held\": {\"AS\": 4, \"UA\": 1, \"WN\": 1}, \"low\": 1}",
   "top": "AS",
   "top_gates": 4,
-  "updated": "2026-10-07"
+  "updated": "2026-10-08"
+ },
+ "LIT": {
+  "flights_day": 89,
+  "gates": 12,
+  "name": "Clinton National, Little Rock",
+  "published": "2026-10-08",
+  "seats_day": 4128,
+  "short": "Little Rock",
+  "sig": "{\"common\": 0, \"drawing\": \"a38a92c0611e\", \"gates\": 12, \"held\": {\"AA\": 4, \"DL\": 2, \"UA\": 4, \"WN\": 2}, \"low\": 0}",
+  "top": "AA",
+  "top_gates": 4,
+  "updated": "2026-10-08"
  },
  "MCI": {
   "flights_day": 328,
@@ -477,7 +489,7 @@
   "sig": "{\"common\": 2, \"drawing\": \"4c82860195d2\", \"gates\": 40, \"held\": {\"AA\": 8, \"AS\": 1, \"DL\": 6, \"UA\": 6, \"WN\": 13}, \"low\": 4}",
   "top": "WN",
   "top_gates": 13,
-  "updated": "2026-10-07"
+  "updated": "2026-10-08"
  },
  "MCO": {
   "flights_day": 1038,
@@ -489,7 +501,7 @@
   "sig": "{\"common\": 17, \"drawing\": \"1fc9108f2820\", \"gates\": 116, \"held\": {\"AA\": 10, \"AS\": 1, \"B6\": 9, \"CM\": 1, \"DL\": 11, \"F9\": 15, \"MX\": 6, \"RV\": 1, \"UA\": 10, \"WN\": 23, \"WS\": 1}, \"low\": 11}",
   "top": "WN",
   "top_gates": 23,
-  "updated": "2026-10-07"
+  "updated": "2026-10-08"
  },
  "MDW": {
   "flights_day": 448,
@@ -501,7 +513,7 @@
   "sig": "{\"common\": 3, \"drawing\": \"f6f70291522a\", \"gates\": 43, \"held\": {\"DL\": 2, \"F9\": 1, \"WN\": 32}, \"low\": 5}",
   "top": "WN",
   "top_gates": 32,
-  "updated": "2026-10-07"
+  "updated": "2026-10-08"
  },
  "MIA": {
   "flights_day": 989,
@@ -513,7 +525,7 @@
   "sig": "{\"common\": 18, \"drawing\": \"5dd6cbc1bc1b\", \"gates\": 144, \"held\": {\"AA\": 70, \"AM\": 1, \"AR\": 1, \"BA\": 1, \"CM\": 1, \"DL\": 6, \"DM\": 1, \"F9\": 3, \"KX\": 1, \"LP\": 1, \"UA\": 5, \"UP\": 1, \"WN\": 3}, \"low\": 31}",
   "top": "AA",
   "top_gates": 70,
-  "updated": "2026-10-07"
+  "updated": "2026-10-08"
  },
  "MSP": {
   "flights_day": 863,
@@ -525,7 +537,7 @@
   "sig": "{\"common\": 1, \"drawing\": \"9379a34d33f1\", \"gates\": 121, \"held\": {\"AA\": 6, \"AC\": 1, \"AS\": 1, \"DL\": 71, \"F9\": 1, \"SY\": 7, \"UA\": 5, \"WN\": 4, \"WS\": 1}, \"low\": 23}",
   "top": "DL",
   "top_gates": 71,
-  "updated": "2026-10-07"
+  "updated": "2026-10-08"
  },
  "MSY": {
   "flights_day": 285,
@@ -537,7 +549,7 @@
   "sig": "{\"common\": 1, \"drawing\": \"702cb9644656\", \"gates\": 35, \"held\": {\"AA\": 6, \"AS\": 1, \"B6\": 1, \"DL\": 5, \"F9\": 1, \"MX\": 4, \"UA\": 5, \"WN\": 9}, \"low\": 2}",
   "top": "WN",
   "top_gates": 9,
-  "updated": "2026-10-07"
+  "updated": "2026-10-08"
  },
  "OAK": {
   "flights_day": 218,
@@ -549,7 +561,7 @@
   "sig": "{\"common\": 0, \"drawing\": \"f6fa2edd43d4\", \"gates\": 28, \"held\": {\"AS\": 5, \"DL\": 1, \"F9\": 1, \"WN\": 12, \"Y4\": 1}, \"low\": 8}",
   "top": "WN",
   "top_gates": 12,
-  "updated": "2026-10-07"
+  "updated": "2026-10-08"
  },
  "OGG": {
   "flights_day": 161,
@@ -561,7 +573,7 @@
   "sig": "{\"common\": 3, \"drawing\": \"6504ad679e51\", \"gates\": 16, \"held\": {\"AS\": 7, \"DL\": 1, \"UA\": 2, \"WN\": 3}, \"low\": 0}",
   "top": "AS",
   "top_gates": 7,
-  "updated": "2026-10-07"
+  "updated": "2026-10-08"
  },
  "OKC": {
   "flights_day": 153,
@@ -573,7 +585,7 @@
   "sig": "{\"common\": 1, \"drawing\": \"fe51054efc53\", \"gates\": 21, \"held\": {\"AA\": 4, \"DL\": 3, \"F9\": 1, \"UA\": 4, \"WN\": 3}, \"low\": 5}",
   "top": "AA",
   "top_gates": 4,
-  "updated": "2026-10-07"
+  "updated": "2026-10-08"
  },
  "OMA": {
   "flights_day": 162,
@@ -585,7 +597,7 @@
   "sig": "{\"common\": 1, \"drawing\": \"d6bea3a909a0\", \"gates\": 19, \"held\": {\"AA\": 4, \"DL\": 4, \"UA\": 4, \"WN\": 3}, \"low\": 3}",
   "top": "UA",
   "top_gates": 4,
-  "updated": "2026-10-07"
+  "updated": "2026-10-08"
  },
  "ONT": {
   "flights_day": 187,
@@ -597,7 +609,7 @@
   "sig": "{\"common\": 1, \"drawing\": \"72bfd03affa1\", \"gates\": 27, \"held\": {\"AA\": 3, \"AS\": 2, \"DL\": 2, \"F9\": 2, \"UA\": 3, \"WN\": 5, \"Y4\": 1}, \"low\": 8}",
   "top": "WN",
   "top_gates": 5,
-  "updated": "2026-10-07"
+  "updated": "2026-10-08"
  },
  "ORD": {
   "flights_day": 2616,
@@ -609,7 +621,7 @@
   "sig": "{\"common\": 21, \"drawing\": \"05b0ccddf65b\", \"gates\": 194, \"held\": {\"AA\": 63, \"AS\": 2, \"DL\": 5, \"F9\": 1, \"UA\": 90}, \"low\": 12}",
   "top": "UA",
   "top_gates": 90,
-  "updated": "2026-10-07"
+  "updated": "2026-10-08"
  },
  "ORF": {
   "flights_day": 160,
@@ -621,7 +633,7 @@
   "sig": "{\"common\": 2, \"drawing\": \"05154e6f74e1\", \"gates\": 28, \"held\": {\"AA\": 6, \"B6\": 1, \"DL\": 6, \"MX\": 2, \"UA\": 4, \"WN\": 2}, \"low\": 5}",
   "top": "AA",
   "top_gates": 6,
-  "updated": "2026-10-07"
+  "updated": "2026-10-08"
  },
  "PDX": {
   "flights_day": 517,
@@ -633,7 +645,7 @@
   "sig": "{\"common\": 6, \"drawing\": \"5f5b94d40604\", \"gates\": 55, \"held\": {\"AA\": 3, \"AC\": 1, \"AS\": 28, \"DL\": 5, \"UA\": 4, \"WN\": 5}, \"low\": 3}",
   "top": "AS",
   "top_gates": 28,
-  "updated": "2026-10-07"
+  "updated": "2026-10-08"
  },
  "PHL": {
   "flights_day": 871,
@@ -645,7 +657,7 @@
   "sig": "{\"common\": 3, \"drawing\": \"fc7b8d7ce132\", \"gates\": 127, \"held\": {\"AA\": 83, \"AC\": 1, \"AS\": 1, \"B6\": 1, \"DL\": 6, \"F9\": 10, \"UA\": 5, \"WN\": 4}, \"low\": 13}",
   "top": "AA",
   "top_gates": 83,
-  "updated": "2026-10-07"
+  "updated": "2026-10-08"
  },
  "PHX": {
   "flights_day": 1148,
@@ -657,7 +669,7 @@
   "sig": "{\"common\": 5, \"drawing\": \"b96d64ef9158\", \"gates\": 111, \"held\": {\"AA\": 52, \"AS\": 3, \"DL\": 4, \"F9\": 4, \"LF\": 1, \"UA\": 6, \"WN\": 31, \"WS\": 1}, \"low\": 4}",
   "top": "AA",
   "top_gates": 52,
-  "updated": "2026-10-07"
+  "updated": "2026-10-08"
  },
  "PIT": {
   "flights_day": 294,
@@ -669,7 +681,19 @@
   "sig": "{\"common\": 1, \"drawing\": \"1ff92ee05cb7\", \"gates\": 55, \"held\": {\"AA\": 9, \"AC\": 1, \"B6\": 2, \"DL\": 7, \"G4\": 1, \"MX\": 1, \"UA\": 9, \"WN\": 8}, \"low\": 16}",
   "top": "AA",
   "top_gates": 9,
-  "updated": "2026-10-07"
+  "updated": "2026-10-08"
+ },
+ "PNS": {
+  "flights_day": 87,
+  "gates": 10,
+  "name": "Pensacola Intl",
+  "published": "2026-10-08",
+  "seats_day": 5472,
+  "short": "Pensacola",
+  "sig": "{\"common\": 0, \"drawing\": \"c4e05f16c4cf\", \"gates\": 10, \"held\": {\"AA\": 3, \"DL\": 2, \"F9\": 1, \"MX\": 1, \"UA\": 2, \"WN\": 1}, \"low\": 0}",
+  "top": "AA",
+  "top_gates": 3,
+  "updated": "2026-10-08"
  },
  "PVD": {
   "flights_day": 130,
@@ -681,7 +705,7 @@
   "sig": "{\"common\": 0, \"drawing\": \"114c8a6c1655\", \"gates\": 24, \"held\": {\"AA\": 3, \"B6\": 2, \"DL\": 2, \"MX\": 4, \"UA\": 2, \"WN\": 3}, \"low\": 8}",
   "top": "MX",
   "top_gates": 4,
-  "updated": "2026-10-07"
+  "updated": "2026-10-08"
  },
  "RDU": {
   "flights_day": 422,
@@ -693,7 +717,7 @@
   "sig": "{\"common\": 9, \"drawing\": \"ed9b3ca3e26a\", \"gates\": 45, \"held\": {\"AA\": 8, \"B6\": 2, \"DL\": 8, \"F9\": 1, \"MX\": 4, \"UA\": 3, \"WN\": 4}, \"low\": 6}",
   "top": "DL",
   "top_gates": 8,
-  "updated": "2026-10-07"
+  "updated": "2026-10-08"
  },
  "RIC": {
   "flights_day": 164,
@@ -705,7 +729,7 @@
   "sig": "{\"common\": 1, \"drawing\": \"05e39bcec985\", \"gates\": 28, \"held\": {\"AA\": 6, \"B6\": 2, \"DL\": 6, \"MX\": 1, \"UA\": 5, \"WN\": 2}, \"low\": 5}",
   "top": "AA",
   "top_gates": 6,
-  "updated": "2026-10-07"
+  "updated": "2026-10-08"
  },
  "RNO": {
   "flights_day": 133,
@@ -717,7 +741,7 @@
   "sig": "{\"common\": 2, \"drawing\": \"e8630ec0c732\", \"gates\": 23, \"held\": {\"AA\": 3, \"AS\": 2, \"DL\": 1, \"UA\": 4, \"WN\": 4}, \"low\": 7}",
   "top": "WN",
   "top_gates": 4,
-  "updated": "2026-10-07"
+  "updated": "2026-10-08"
  },
  "RSW": {
   "flights_day": 172,
@@ -729,7 +753,7 @@
   "sig": "{\"common\": 6, \"drawing\": \"d4f252e6f49a\", \"gates\": 28, \"held\": {\"AA\": 4, \"B6\": 1, \"DL\": 3, \"F9\": 1, \"MX\": 1, \"UA\": 3, \"WN\": 3}, \"low\": 6}",
   "top": "AA",
   "top_gates": 4,
-  "updated": "2026-10-07"
+  "updated": "2026-10-08"
  },
  "SAN": {
   "flights_day": 610,
@@ -741,7 +765,7 @@
   "sig": "{\"common\": 4, \"drawing\": \"e8788fe00c1d\", \"gates\": 51, \"held\": {\"AA\": 5, \"AC\": 1, \"AS\": 12, \"B6\": 1, \"DL\": 5, \"F9\": 1, \"MX\": 1, \"UA\": 5, \"WN\": 15}, \"low\": 1}",
   "top": "WN",
   "top_gates": 15,
-  "updated": "2026-10-07"
+  "updated": "2026-10-08"
  },
  "SAT": {
   "flights_day": 244,
@@ -753,7 +777,7 @@
   "sig": "{\"common\": 4, \"drawing\": \"275e94485a9e\", \"gates\": 28, \"held\": {\"AA\": 5, \"DL\": 3, \"UA\": 4, \"WN\": 7}, \"low\": 5}",
   "top": "WN",
   "top_gates": 7,
-  "updated": "2026-10-07"
+  "updated": "2026-10-08"
  },
  "SAV": {
   "flights_day": 135,
@@ -765,7 +789,7 @@
   "sig": "{\"common\": 1, \"drawing\": \"0fc7bc6fb4cd\", \"gates\": 15, \"held\": {\"AA\": 4, \"DL\": 4, \"G4\": 1, \"UA\": 2, \"WN\": 2}, \"low\": 1}",
   "top": "DL",
   "top_gates": 4,
-  "updated": "2026-10-07"
+  "updated": "2026-10-08"
  },
  "SDF": {
   "flights_day": 268,
@@ -777,7 +801,7 @@
   "sig": "{\"common\": 2, \"drawing\": \"7b61dbb21810\", \"gates\": 25, \"held\": {\"AA\": 7, \"DL\": 4, \"G4\": 1, \"UA\": 5, \"WN\": 4}, \"low\": 2}",
   "top": "AA",
   "top_gates": 7,
-  "updated": "2026-10-07"
+  "updated": "2026-10-08"
  },
  "SEA": {
   "flights_day": 1204,
@@ -789,7 +813,7 @@
   "sig": "{\"common\": 19, \"drawing\": \"d09743051d0e\", \"gates\": 97, \"held\": {\"AA\": 3, \"AS\": 40, \"DL\": 20, \"UA\": 4, \"WN\": 3}, \"low\": 8}",
   "top": "AS",
   "top_gates": 40,
-  "updated": "2026-10-07"
+  "updated": "2026-10-08"
  },
  "SFO": {
   "flights_day": 1108,
@@ -801,7 +825,7 @@
   "sig": "{\"common\": 23, \"drawing\": \"2c1dfd589f32\", \"gates\": 108, \"held\": {\"AA\": 6, \"AC\": 1, \"AS\": 9, \"B6\": 2, \"DL\": 7, \"F9\": 2, \"TA\": 1, \"UA\": 47, \"WN\": 4}, \"low\": 6}",
   "top": "UA",
   "top_gates": 47,
-  "updated": "2026-10-07"
+  "updated": "2026-10-08"
  },
  "SJC": {
   "flights_day": 264,
@@ -813,7 +837,7 @@
   "sig": "{\"common\": 2, \"drawing\": \"ec5836bb1b4d\", \"gates\": 37, \"held\": {\"AA\": 1, \"AS\": 5, \"DL\": 4, \"UA\": 2, \"WN\": 13, \"Y4\": 1}, \"low\": 9}",
   "top": "WN",
   "top_gates": 13,
-  "updated": "2026-10-07"
+  "updated": "2026-10-08"
  },
  "SJU": {
   "flights_day": 240,
@@ -825,7 +849,7 @@
   "sig": "{\"common\": 1, \"drawing\": \"6c072d137316\", \"gates\": 34, \"held\": {\"AA\": 3, \"B6\": 7, \"CM\": 1, \"DL\": 3, \"F9\": 5, \"UA\": 2, \"WN\": 3}, \"low\": 9}",
   "top": "B6",
   "top_gates": 7,
-  "updated": "2026-10-07"
+  "updated": "2026-10-08"
  },
  "SLC": {
   "flights_day": 692,
@@ -837,7 +861,7 @@
   "sig": "{\"common\": 3, \"drawing\": \"dd6039a4763b\", \"gates\": 87, \"held\": {\"AA\": 4, \"AS\": 3, \"DL\": 57, \"F9\": 1, \"UA\": 5, \"WN\": 8}, \"low\": 6}",
   "top": "DL",
   "top_gates": 57,
-  "updated": "2026-10-07"
+  "updated": "2026-10-08"
  },
  "SMF": {
   "flights_day": 346,
@@ -849,7 +873,7 @@
   "sig": "{\"common\": 2, \"drawing\": \"d04f333223ed\", \"gates\": 34, \"held\": {\"AA\": 3, \"AS\": 4, \"DL\": 4, \"F9\": 1, \"UA\": 5, \"WN\": 13}, \"low\": 2}",
   "top": "WN",
   "top_gates": 13,
-  "updated": "2026-10-07"
+  "updated": "2026-10-08"
  },
  "SNA": {
   "flights_day": 265,
@@ -861,7 +885,7 @@
   "sig": "{\"common\": 3, \"drawing\": \"5e75b9929d96\", \"gates\": 20, \"held\": {\"AA\": 3, \"AS\": 3, \"DL\": 2, \"G4\": 1, \"UA\": 3, \"WN\": 5}, \"low\": 0}",
   "top": "WN",
   "top_gates": 5,
-  "updated": "2026-10-07"
+  "updated": "2026-10-08"
  },
  "SRQ": {
   "flights_day": 91,
@@ -873,7 +897,7 @@
   "sig": "{\"common\": 1, \"drawing\": \"4a26324892e5\", \"gates\": 18, \"held\": {\"AA\": 2, \"B6\": 1, \"DL\": 2, \"G4\": 3, \"UA\": 1, \"WN\": 3}, \"low\": 5}",
   "top": "WN",
   "top_gates": 3,
-  "updated": "2026-10-07"
+  "updated": "2026-10-08"
  },
  "STL": {
   "flights_day": 384,
@@ -885,7 +909,7 @@
   "sig": "{\"common\": 1, \"drawing\": \"813ce1b3bec5\", \"gates\": 54, \"held\": {\"AA\": 7, \"AC\": 1, \"AS\": 1, \"DL\": 6, \"F9\": 1, \"UA\": 7, \"WN\": 17}, \"low\": 13}",
   "top": "WN",
   "top_gates": 17,
-  "updated": "2026-10-07"
+  "updated": "2026-10-08"
  },
  "SYR": {
   "flights_day": 97,
@@ -897,7 +921,7 @@
   "sig": "{\"common\": 1, \"drawing\": \"c1bfae6c4aed\", \"gates\": 20, \"held\": {\"AA\": 5, \"B6\": 3, \"DL\": 5, \"UA\": 3}, \"low\": 3}",
   "top": "AA",
   "top_gates": 5,
-  "updated": "2026-10-07"
+  "updated": "2026-10-08"
  },
  "TPA": {
   "flights_day": 475,
@@ -909,7 +933,7 @@
   "sig": "{\"common\": 6, \"drawing\": \"cdc6c4eebf53\", \"gates\": 60, \"held\": {\"AA\": 8, \"B6\": 3, \"CM\": 1, \"DL\": 8, \"F9\": 4, \"MX\": 4, \"UA\": 6, \"WN\": 13, \"XP\": 1}, \"low\": 6}",
   "top": "WN",
   "top_gates": 13,
-  "updated": "2026-10-07"
+  "updated": "2026-10-08"
  },
  "TUL": {
   "flights_day": 115,
@@ -921,7 +945,7 @@
   "sig": "{\"common\": 1, \"drawing\": \"93d31be75c6c\", \"gates\": 22, \"held\": {\"AA\": 4, \"DL\": 3, \"UA\": 4, \"WN\": 4}, \"low\": 6}",
   "top": "WN",
   "top_gates": 4,
-  "updated": "2026-10-07"
+  "updated": "2026-10-08"
  },
  "TUS": {
   "flights_day": 110,
@@ -933,6 +957,6 @@
   "sig": "{\"common\": 0, \"drawing\": \"739453df6279\", \"gates\": 21, \"held\": {\"AA\": 4, \"AS\": 1, \"DL\": 2, \"UA\": 2, \"WN\": 4}, \"low\": 8}",
   "top": "WN",
   "top_gates": 4,
-  "updated": "2026-10-07"
+  "updated": "2026-10-08"
  }
 }
