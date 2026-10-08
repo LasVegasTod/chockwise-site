@@ -407,6 +407,18 @@
   "top_gates": 26,
   "updated": "2026-10-08"
  },
+ "FSD": {
+  "flights_day": 60,
+  "gates": 7,
+  "name": "Joe Foss Fld, Sioux Falls",
+  "published": "2026-10-08",
+  "seats_day": 2546,
+  "short": "Sioux Falls",
+  "sig": "{\"common\": 2, \"drawing\": \"3991e6b72d87\", \"gates\": 7, \"held\": {\"AA\": 1, \"DL\": 1, \"UA\": 2}, \"low\": 1}",
+  "top": "UA",
+  "top_gates": 2,
+  "updated": "2026-10-08"
+ },
  "GEG": {
   "flights_day": 129,
   "gates": 21,
@@ -609,6 +621,18 @@
   "sig": "{\"common\": 31, \"drawing\": \"f57360984aa0\", \"gates\": 148, \"held\": {\"AA\": 22, \"AF\": 1, \"AS\": 11, \"B6\": 3, \"DL\": 25, \"F9\": 4, \"UA\": 24, \"WN\": 9, \"Y4\": 1}, \"low\": 17}",
   "top": "DL",
   "top_gates": 25,
+  "updated": "2026-10-08"
+ },
+ "LBB": {
+  "flights_day": 58,
+  "gates": 9,
+  "name": "Lubbock Smith Intl",
+  "published": "2026-10-08",
+  "seats_day": 2378,
+  "short": "Lubbock",
+  "sig": "{\"common\": 0, \"drawing\": \"d12eefb3a433\", \"gates\": 9, \"held\": {\"AA\": 2, \"UA\": 2, \"WN\": 3}, \"low\": 2}",
+  "top": "WN",
+  "top_gates": 3,
   "updated": "2026-10-08"
  },
  "LEX": {

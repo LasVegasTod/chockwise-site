@@ -5185,6 +5185,64 @@
    "updated": "2026-10-06"
   }
  },
+ "FSD": {
+  "allegiant": {
+   "airport_short": "FSD",
+   "code": "G4",
+   "deps_day": 2.0,
+   "gone": false,
+   "last_seen": "2026-10-07",
+   "last_seen_str": "Oct 7, 2026",
+   "name": "Allegiant Air",
+   "published": "2026-10-08",
+   "short": "Allegiant",
+   "sig": "{\"drawing\": \"3991e6b72d87\", \"focus\": [\"3\"], \"held\": [], \"held_n\": 0, \"main\": [\"3\"]}",
+   "slug": "allegiant",
+   "updated": "2026-10-08"
+  },
+  "american": {
+   "airport_short": "FSD",
+   "code": "AA",
+   "deps_day": 9.0,
+   "gone": false,
+   "last_seen": "2026-10-07",
+   "last_seen_str": "Oct 7, 2026",
+   "name": "American Airlines",
+   "published": "2026-10-08",
+   "short": "American",
+   "sig": "{\"drawing\": \"3991e6b72d87\", \"focus\": [\"5\"], \"held\": [\"5\"], \"held_n\": 1, \"main\": [\"5\"]}",
+   "slug": "american",
+   "updated": "2026-10-08"
+  },
+  "delta": {
+   "airport_short": "FSD",
+   "code": "DL",
+   "deps_day": 4.7,
+   "gone": false,
+   "last_seen": "2026-10-07",
+   "last_seen_str": "Oct 7, 2026",
+   "name": "Delta Air Lines",
+   "published": "2026-10-08",
+   "short": "Delta",
+   "sig": "{\"drawing\": \"3991e6b72d87\", \"focus\": [\"2\", \"3\", \"4\", \"7\"], \"held\": [\"4\"], \"held_n\": 1, \"main\": [\"2\", \"3\", \"4\", \"7\"]}",
+   "slug": "delta",
+   "updated": "2026-10-08"
+  },
+  "united": {
+   "airport_short": "FSD",
+   "code": "UA",
+   "deps_day": 9.3,
+   "gone": false,
+   "last_seen": "2026-10-07",
+   "last_seen_str": "Oct 7, 2026",
+   "name": "United Airlines",
+   "published": "2026-10-08",
+   "short": "United",
+   "sig": "{\"drawing\": \"3991e6b72d87\", \"focus\": [\"2\", \"6\", \"7\"], \"held\": [\"6\", \"7\"], \"held_n\": 2, \"main\": [\"2\", \"6\", \"7\"]}",
+   "slug": "united",
+   "updated": "2026-10-08"
+  }
+ },
  "GEG": {
   "alaska": {
    "airport_short": "GEG",
@@ -9510,6 +9568,50 @@
    "short": "ZIPAIR",
    "sig": "{\"drawing\": \"f57360984aa0\", \"focus\": [\"130\", \"133\", \"134\", \"152\"], \"held\": [], \"held_n\": 0, \"main\": [\"130\", \"133\", \"134\", \"152\"]}",
    "slug": "zipair",
+   "updated": "2026-10-08"
+  }
+ },
+ "LBB": {
+  "american": {
+   "airport_short": "LBB",
+   "code": "AA",
+   "deps_day": 9.3,
+   "gone": false,
+   "last_seen": "2026-10-08",
+   "last_seen_str": "Oct 8, 2026",
+   "name": "American Airlines",
+   "published": "2026-10-08",
+   "short": "American",
+   "sig": "{\"drawing\": \"d12eefb3a433\", \"focus\": [\"4\", \"5\", \"9\"], \"held\": [\"4\", \"5\"], \"held_n\": 2, \"main\": [\"4\", \"5\", \"9\"]}",
+   "slug": "american",
+   "updated": "2026-10-08"
+  },
+  "southwest": {
+   "airport_short": "LBB",
+   "code": "WN",
+   "deps_day": 7.0,
+   "gone": false,
+   "last_seen": "2026-10-07",
+   "last_seen_str": "Oct 7, 2026",
+   "name": "Southwest Airlines",
+   "published": "2026-10-08",
+   "short": "Southwest",
+   "sig": "{\"drawing\": \"d12eefb3a433\", \"focus\": [\"6\", \"7\", \"8\"], \"held\": [\"6\", \"7\", \"8\"], \"held_n\": 3, \"main\": [\"6\", \"7\", \"8\"]}",
+   "slug": "southwest",
+   "updated": "2026-10-08"
+  },
+  "united": {
+   "airport_short": "LBB",
+   "code": "UA",
+   "deps_day": 6.3,
+   "gone": false,
+   "last_seen": "2026-10-07",
+   "last_seen_str": "Oct 7, 2026",
+   "name": "United Airlines",
+   "published": "2026-10-08",
+   "short": "United",
+   "sig": "{\"drawing\": \"d12eefb3a433\", \"focus\": [\"2\", \"3\"], \"held\": [\"2\", \"3\"], \"held_n\": 2, \"main\": [\"2\", \"3\"]}",
+   "slug": "united",
    "updated": "2026-10-08"
   }
  },
