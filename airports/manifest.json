@@ -347,6 +347,18 @@
   "top_gates": 23,
   "updated": "2026-10-08"
  },
+ "HPN": {
+  "flights_day": 89,
+  "gates": 6,
+  "name": "Westchester County, White Plains",
+  "published": "2026-10-08",
+  "seats_day": 3663,
+  "short": "White Plains",
+  "sig": "{\"common\": 2, \"drawing\": \"b6ec3f5f3965\", \"gates\": 6, \"held\": {\"B6\": 2}, \"low\": 2}",
+  "top": "B6",
+  "top_gates": 2,
+  "updated": "2026-10-08"
+ },
  "IAD": {
   "flights_day": 706,
   "gates": 122,
@@ -369,6 +381,18 @@
   "sig": "{\"common\": 7, \"drawing\": \"fde7c82836d8\", \"gates\": 147, \"held\": {\"AA\": 5, \"AM\": 1, \"AS\": 1, \"B6\": 2, \"BA\": 1, \"DL\": 5, \"F9\": 3, \"NZ\": 1, \"UA\": 83, \"Y4\": 1}, \"low\": 37}",
   "top": "UA",
   "top_gates": 83,
+  "updated": "2026-10-08"
+ },
+ "ICT": {
+  "flights_day": 83,
+  "gates": 11,
+  "name": "Wichita Eisenhower",
+  "published": "2026-10-08",
+  "seats_day": 3645,
+  "short": "Wichita",
+  "sig": "{\"common\": 2, \"drawing\": \"84cc90094565\", \"gates\": 11, \"held\": {\"AA\": 3, \"DL\": 2, \"UA\": 3, \"WN\": 1}, \"low\": 0}",
+  "top": "UA",
+  "top_gates": 3,
   "updated": "2026-10-08"
  },
  "IND": {
@@ -453,6 +477,18 @@
   "sig": "{\"common\": 3, \"drawing\": \"66213287e099\", \"gates\": 80, \"held\": {\"AA\": 17, \"AC\": 3, \"B6\": 2, \"DL\": 38, \"F9\": 1, \"UA\": 5, \"WN\": 4}, \"low\": 7}",
   "top": "DL",
   "top_gates": 38,
+  "updated": "2026-10-08"
+ },
+ "LGB": {
+  "flights_day": 85,
+  "gates": 11,
+  "name": "Daugherty Field, Long Beach",
+  "published": "2026-10-08",
+  "seats_day": 6734,
+  "short": "Long Beach",
+  "sig": "{\"common\": 0, \"drawing\": \"56b31eb5228f\", \"gates\": 11, \"held\": {\"AS\": 1, \"DL\": 1, \"WN\": 8}, \"low\": 1}",
+  "top": "WN",
+  "top_gates": 8,
   "updated": "2026-10-08"
  },
  "LIH": {
@@ -969,6 +1005,18 @@
   "sig": "{\"common\": 0, \"drawing\": \"739453df6279\", \"gates\": 21, \"held\": {\"AA\": 4, \"AS\": 1, \"DL\": 2, \"UA\": 2, \"WN\": 4}, \"low\": 8}",
   "top": "WN",
   "top_gates": 4,
+  "updated": "2026-10-08"
+ },
+ "XNA": {
+  "flights_day": 121,
+  "gates": 17,
+  "name": "Northwest Arkansas Ntl, Fayetteville/Springdale/Rogers",
+  "published": "2026-10-08",
+  "seats_day": 4877,
+  "short": "Northwest Arkansas",
+  "sig": "{\"common\": 2, \"drawing\": \"332f1934722c\", \"gates\": 17, \"held\": {\"AA\": 5, \"DL\": 3, \"G4\": 1, \"UA\": 3}, \"low\": 3}",
+  "top": "AA",
+  "top_gates": 5,
   "updated": "2026-10-08"
  }
 }
