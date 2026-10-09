@@ -407,6 +407,18 @@
   "top_gates": 74,
   "updated": "2026-10-09"
  },
+ "FAR": {
+  "flights_day": 52,
+  "gates": 5,
+  "name": "Hector Intl, Fargo",
+  "published": "2026-10-09",
+  "seats_day": 1998,
+  "short": "Fargo",
+  "sig": "{\"common\": 1, \"drawing\": \"b19182b47d51\", \"gates\": 5, \"held\": {\"AA\": 1, \"DL\": 1, \"UA\": 2}, \"low\": 0}",
+  "top": "UA",
+  "top_gates": 2,
+  "updated": "2026-10-09"
+ },
  "FAT": {
   "flights_day": 91,
   "gates": 14,
@@ -440,6 +452,18 @@
   "short": "Sioux Falls",
   "sig": "{\"common\": 2, \"drawing\": \"f5e483727ded\", \"gates\": 7, \"held\": {\"AA\": 1, \"DL\": 1, \"UA\": 2}, \"low\": 1}",
   "top": "UA",
+  "top_gates": 2,
+  "updated": "2026-10-09"
+ },
+ "FWA": {
+  "flights_day": 52,
+  "gates": 9,
+  "name": "Fort Wayne Intl",
+  "published": "2026-10-09",
+  "seats_day": 1905,
+  "short": "Fort Wayne",
+  "sig": "{\"common\": 2, \"drawing\": \"321573a6d6ff\", \"gates\": 9, \"held\": {\"AA\": 2, \"DL\": 2, \"G4\": 1}, \"low\": 2}",
+  "top": "AA",
   "top_gates": 2,
   "updated": "2026-10-09"
  },
@@ -1053,6 +1077,18 @@
   "sig": "{\"common\": 0, \"drawing\": \"0c980cf741c9\", \"gates\": 24, \"held\": {\"AA\": 3, \"B6\": 2, \"DL\": 2, \"MX\": 4, \"UA\": 2, \"WN\": 3}, \"low\": 8}",
   "top": "MX",
   "top_gates": 4,
+  "updated": "2026-10-09"
+ },
+ "RAP": {
+  "flights_day": 38,
+  "gates": 7,
+  "name": "Rapid City Rgnl",
+  "published": "2026-10-09",
+  "seats_day": 1408,
+  "short": "Rapid City",
+  "sig": "{\"common\": 0, \"drawing\": \"91ac356d4ed6\", \"gates\": 7, \"held\": {\"AA\": 1, \"DL\": 1, \"UA\": 3}, \"low\": 2}",
+  "top": "UA",
+  "top_gates": 3,
   "updated": "2026-10-09"
  },
  "RDU": {
