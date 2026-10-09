@@ -996,11 +996,11 @@
   "updated": "2026-10-09"
  },
  "ORD": {
-  "flights_day": 2618,
+  "flights_day": 2624,
   "gates": 194,
   "name": "Chicago O'Hare Intl",
   "published": "2026-10-05",
-  "seats_day": 154462,
+  "seats_day": 155020,
   "short": "O\u2019Hare",
   "sig": "{\"common\": 22, \"drawing\": \"4255602da7a4\", \"gates\": 194, \"held\": {\"AA\": 62, \"AS\": 2, \"DL\": 5, \"F9\": 1, \"UA\": 90}, \"low\": 12}",
   "top": "UA",
