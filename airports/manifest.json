@@ -24,15 +24,15 @@
   "updated": "2026-10-09"
  },
  "ATL": {
-  "flights_day": 2171,
+  "flights_day": 2192,
   "gates": 201,
   "name": "Hartsfield-Jackson Intl, Atlanta",
   "published": "2026-10-05",
-  "seats_day": 170801,
+  "seats_day": 172754,
   "short": "Atlanta",
-  "sig": "{\"common\": 10, \"drawing\": \"76be7dcc2b08\", \"gates\": 201, \"held\": {\"AA\": 5, \"DL\": 148, \"F9\": 8, \"UA\": 4, \"WN\": 8}, \"low\": 18}",
+  "sig": "{\"common\": 10, \"drawing\": \"76be7dcc2b08\", \"gates\": 201, \"held\": {\"AA\": 5, \"AS\": 1, \"DL\": 147, \"F9\": 8, \"UA\": 4, \"WN\": 8}, \"low\": 18}",
   "top": "DL",
-  "top_gates": 148,
+  "top_gates": 147,
   "updated": "2026-10-09"
  },
  "ATW": {
@@ -348,11 +348,11 @@
   "updated": "2026-10-09"
  },
  "DEN": {
-  "flights_day": 1945,
+  "flights_day": 1969,
   "gates": 176,
   "name": "Denver Intl",
   "published": "2026-10-05",
-  "seats_day": 141080,
+  "seats_day": 142518,
   "short": "Denver",
   "sig": "{\"common\": 8, \"drawing\": \"97c4238ca898\", \"gates\": 176, \"held\": {\"AA\": 5, \"AS\": 2, \"DL\": 6, \"F9\": 14, \"LF\": 1, \"UA\": 80, \"WN\": 39}, \"low\": 21}",
   "top": "UA",
@@ -360,11 +360,11 @@
   "updated": "2026-10-09"
  },
  "DFW": {
-  "flights_day": 1954,
+  "flights_day": 1984,
   "gates": 176,
   "name": "Dallas-Fort Worth Intl",
   "published": "2026-10-06",
-  "seats_day": 129944,
+  "seats_day": 132008,
   "short": "Dallas/Fort Worth",
   "sig": "{\"common\": 11, \"drawing\": \"cbc01dc40774\", \"gates\": 176, \"held\": {\"AA\": 121, \"AS\": 1, \"DL\": 5, \"F9\": 4, \"LF\": 1, \"QF\": 1, \"UA\": 5}, \"low\": 27}",
   "top": "AA",
@@ -600,23 +600,23 @@
   "updated": "2026-10-09"
  },
  "IAD": {
-  "flights_day": 705,
+  "flights_day": 710,
   "gates": 122,
   "name": "Washington Dulles Intl",
   "published": "2026-10-06",
-  "seats_day": 40961,
+  "seats_day": 41331,
   "short": "Washington Dulles",
-  "sig": "{\"common\": 16, \"drawing\": \"ff2939cc0712\", \"gates\": 122, \"held\": {\"AA\": 3, \"AC\": 1, \"AS\": 2, \"BA\": 1, \"CM\": 1, \"DL\": 3, \"F9\": 1, \"LH\": 1, \"MX\": 1, \"TP\": 1, \"UA\": 80}, \"low\": 11}",
+  "sig": "{\"common\": 16, \"drawing\": \"d406c622cc59\", \"gates\": 122, \"held\": {\"AA\": 3, \"AC\": 1, \"AS\": 2, \"BA\": 1, \"CM\": 1, \"DL\": 3, \"ET\": 1, \"EY\": 1, \"F9\": 1, \"LH\": 1, \"MX\": 1, \"OS\": 1, \"TP\": 1, \"UA\": 80}, \"low\": 8}",
   "top": "UA",
   "top_gates": 80,
   "updated": "2026-10-09"
  },
  "IAH": {
-  "flights_day": 1187,
+  "flights_day": 1197,
   "gates": 147,
   "name": "Houston Bush Int'ctl",
   "published": "2026-10-06",
-  "seats_day": 73607,
+  "seats_day": 74235,
   "short": "Houston Bush",
   "sig": "{\"common\": 6, \"drawing\": \"6c2583b2886b\", \"gates\": 147, \"held\": {\"AA\": 5, \"AM\": 1, \"AS\": 1, \"AZ\": 1, \"B6\": 2, \"BA\": 1, \"DL\": 5, \"F9\": 3, \"KL\": 1, \"NZ\": 1, \"QR\": 1, \"UA\": 84, \"Y4\": 1}, \"low\": 34}",
   "top": "UA",
@@ -684,13 +684,13 @@
   "updated": "2026-10-09"
  },
  "JFK": {
-  "flights_day": 1107,
+  "flights_day": 1114,
   "gates": 120,
   "name": "John F Kennedy Intl, New York",
   "published": "2026-10-06",
-  "seats_day": 70859,
+  "seats_day": 71550,
   "short": "New York JFK",
-  "sig": "{\"common\": 20, \"drawing\": \"f48c3ca7a3a6\", \"gates\": 120, \"held\": {\"AA\": 13, \"B6\": 29, \"CM\": 2, \"DL\": 38, \"VS\": 3}, \"low\": 15}",
+  "sig": "{\"common\": 19, \"drawing\": \"f48c3ca7a3a6\", \"gates\": 120, \"held\": {\"AA\": 13, \"B6\": 29, \"BA\": 1, \"CM\": 2, \"DL\": 38, \"VS\": 3}, \"low\": 15}",
   "top": "DL",
   "top_gates": 38,
   "updated": "2026-10-09"
@@ -720,13 +720,13 @@
   "updated": "2026-10-09"
  },
  "LAX": {
-  "flights_day": 1226,
+  "flights_day": 1265,
   "gates": 148,
   "name": "Los Angeles Intl",
   "published": "2026-10-05",
-  "seats_day": 85876,
+  "seats_day": 88646,
   "short": "Los Angeles",
-  "sig": "{\"common\": 31, \"drawing\": \"a1aa22543f41\", \"gates\": 148, \"held\": {\"AA\": 22, \"AF\": 1, \"AS\": 11, \"B6\": 3, \"DL\": 25, \"F9\": 4, \"UA\": 24, \"WN\": 9, \"Y4\": 1}, \"low\": 17}",
+  "sig": "{\"common\": 31, \"drawing\": \"a1aa22543f41\", \"gates\": 148, \"held\": {\"AA\": 22, \"AF\": 1, \"AS\": 11, \"B6\": 3, \"DL\": 25, \"F9\": 4, \"UA\": 24, \"WN\": 9, \"Y4\": 2}, \"low\": 16}",
   "top": "DL",
   "top_gates": 25,
   "updated": "2026-10-09"
@@ -1284,11 +1284,11 @@
   "updated": "2026-10-09"
  },
  "SFO": {
-  "flights_day": 1106,
+  "flights_day": 1122,
   "gates": 108,
   "name": "San Francisco Int'l",
   "published": "2026-10-06",
-  "seats_day": 83995,
+  "seats_day": 85474,
   "short": "San Francisco",
   "sig": "{\"common\": 25, \"drawing\": \"8c1ca7791169\", \"gates\": 108, \"held\": {\"AA\": 6, \"AC\": 1, \"AS\": 8, \"B6\": 2, \"DL\": 7, \"F9\": 2, \"UA\": 47, \"WN\": 4}, \"low\": 6}",
   "top": "UA",
