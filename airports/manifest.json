@@ -35,6 +35,18 @@
   "top_gates": 148,
   "updated": "2026-10-09"
  },
+ "ATW": {
+  "flights_day": 49,
+  "gates": 10,
+  "name": "Appleton Intl",
+  "published": "2026-10-09",
+  "seats_day": 2254,
+  "short": "Appleton",
+  "sig": "{\"common\": 1, \"drawing\": \"9f90e9a8027e\", \"gates\": 10, \"held\": {\"AA\": 2, \"DL\": 2, \"G4\": 2, \"UA\": 2}, \"low\": 1}",
+  "top": "G4",
+  "top_gates": 2,
+  "updated": "2026-10-09"
+ },
  "AUS": {
   "flights_day": 556,
   "gates": 40,
@@ -69,6 +81,18 @@
   "sig": "{\"common\": 1, \"drawing\": \"ed0b7eec0846\", \"gates\": 25, \"held\": {\"AA\": 5, \"B6\": 4, \"DL\": 4, \"MX\": 5, \"UA\": 3, \"WN\": 2}, \"low\": 1}",
   "top": "AA",
   "top_gates": 5,
+  "updated": "2026-10-09"
+ },
+ "BGR": {
+  "flights_day": 44,
+  "gates": 6,
+  "name": "Bangor Intl",
+  "published": "2026-10-09",
+  "seats_day": 1647,
+  "short": "Bangor",
+  "sig": "{\"common\": 2, \"drawing\": \"f97818d8156a\", \"gates\": 6, \"held\": {\"AA\": 2, \"DL\": 1}, \"low\": 1}",
+  "top": "AA",
+  "top_gates": 2,
   "updated": "2026-10-09"
  },
  "BHM": {
@@ -200,6 +224,18 @@
   "short": "Chattanooga",
   "sig": "{\"common\": 2, \"drawing\": \"bade93f8ff48\", \"gates\": 8, \"held\": {\"AA\": 2, \"DL\": 3, \"UA\": 1}, \"low\": 0}",
   "top": "DL",
+  "top_gates": 3,
+  "updated": "2026-10-09"
+ },
+ "CHO": {
+  "flights_day": 44,
+  "gates": 7,
+  "name": "Charlottesville-Albemarle",
+  "published": "2026-10-09",
+  "seats_day": 1402,
+  "short": "Charlottesville",
+  "sig": "{\"common\": 0, \"drawing\": \"c403aae97a9f\", \"gates\": 7, \"held\": {\"AA\": 3, \"DL\": 2, \"UA\": 1}, \"low\": 1}",
+  "top": "AA",
   "top_gates": 3,
   "updated": "2026-10-09"
  },
@@ -1235,6 +1271,18 @@
   "top_gates": 40,
   "updated": "2026-10-09"
  },
+ "SFB": {
+  "flights_day": 46,
+  "gates": 16,
+  "name": "Orlando Sanford Intl",
+  "published": "2026-10-09",
+  "seats_day": 4363,
+  "short": "SFB",
+  "sig": "{\"common\": 0, \"drawing\": \"9870ae733daf\", \"gates\": 16, \"held\": {\"G4\": 11}, \"low\": 5}",
+  "top": "G4",
+  "top_gates": 11,
+  "updated": "2026-10-09"
+ },
  "SFO": {
   "flights_day": 1106,
   "gates": 108,
@@ -1365,6 +1413,18 @@
   "sig": "{\"common\": 1, \"drawing\": \"9171c46c2b4a\", \"gates\": 20, \"held\": {\"AA\": 5, \"B6\": 3, \"DL\": 5, \"UA\": 3}, \"low\": 3}",
   "top": "AA",
   "top_gates": 5,
+  "updated": "2026-10-09"
+ },
+ "TLH": {
+  "flights_day": 49,
+  "gates": 6,
+  "name": "Tallahassee Intl",
+  "published": "2026-10-09",
+  "seats_day": 1887,
+  "short": "Tallahassee",
+  "sig": "{\"common\": 1, \"drawing\": \"dca0e682f4fb\", \"gates\": 6, \"held\": {\"AA\": 3, \"DL\": 2}, \"low\": 0}",
+  "top": "AA",
+  "top_gates": 3,
   "updated": "2026-10-09"
  },
  "TPA": {
