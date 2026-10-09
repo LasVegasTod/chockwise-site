@@ -12,7 +12,7 @@
 <meta property="og:url" content="https://chockwise.com/routes">
 <meta property="og:title" content="Nonstop routes and daily frequency from any US airport | Chockwise">
 <meta property="og:description" content="Who flies your route? Search any US airport for every nonstop destination and every airline competing on it, with flights a day and a week, from real departures.">
-<meta property="og:image" content="https://chockwise.com/airports/routes-card.png?v=3b27a683">
+<meta property="og:image" content="https://chockwise.com/airports/routes-card.png?v=03cf8b7a">
 <meta property="og:image:width" content="1600">
 <meta property="og:image:height" content="900">
 <meta property="og:image:alt" content="Chockwise route finder: who flies your route? Every nonstop from any US airport, every airline on it, and flights a day.">
@@ -20,7 +20,7 @@
 <meta name="twitter:site" content="@chockwise">
 <meta name="twitter:title" content="Nonstop routes and daily frequency from any US airport | Chockwise">
 <meta name="twitter:description" content="Who flies your route? Search any US airport for every nonstop destination and every airline competing on it, with flights a day and a week, from real departures.">
-<meta name="twitter:image" content="https://chockwise.com/airports/routes-card.png?v=3b27a683">
+<meta name="twitter:image" content="https://chockwise.com/airports/routes-card.png?v=03cf8b7a">
 <meta name="twitter:image:alt" content="Chockwise route finder: who flies your route? Every nonstop from any US airport, every airline on it, and flights a day.">
 <script type="application/ld+json">{"@context": "https://schema.org", "@graph": [{"@type": "WebPage", "@id": "https://chockwise.com/routes", "url": "https://chockwise.com/routes", "name": "Nonstop routes and daily frequency from any US airport | Chockwise", "description": "Who flies your route? Search any US airport for every nonstop destination and every airline competing on it, with flights a day and a week, from real departures.", "publisher": {"@type": "Organization", "name": "Chockwise", "url": "https://chockwise.com/"}}, {"@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Chockwise", "item": "https://chockwise.com/"}, {"@type": "ListItem", "position": 2, "name": "Routes", "item": "https://chockwise.com/routes"}]}]}</script>
 <!-- Google Analytics (GA4): the same tag as the home page -->
@@ -130,6 +130,7 @@
       <input id="from" type="text" role="combobox" aria-autocomplete="list" aria-expanded="false" aria-controls="from-list"
              autocomplete="off" autocapitalize="off" spellcheck="false" placeholder="Airport">
       <ul class="pick" id="from-list" role="listbox" hidden></ul></div>
+    <button type="button" class="swap" id="swap" aria-label="Swap From and To" title="Swap From and To" disabled>&#8644;</button>
     <div class="field"><label for="to">To</label>
       <input id="to" type="text" role="combobox" aria-autocomplete="list" aria-expanded="false" aria-controls="to-list"
              autocomplete="off" autocapitalize="off" spellcheck="false" placeholder="All destinations">
@@ -140,9 +141,14 @@
   <p id="summary" class="muted"></p>
   <div class="tablewrap" id="tablewrap"><table id="routes"></table></div>
   <p class="note" id="note"></p>
-  <noscript><p>Airports: <a href="/airports/abi">ABI</a>, <a href="/airports/abq">ABQ</a>, <a href="/airports/alb">ALB</a>, <a href="/airports/atl">ATL</a>, <a href="/airports/atw">ATW</a>, <a href="/airports/aus">AUS</a>, <a href="/airports/avl">AVL</a>, <a href="/airports/bdl">BDL</a>, <a href="/airports/bgr">BGR</a>, <a href="/airports/bhm">BHM</a>, <a href="/airports/bna">BNA</a>, <a href="/airports/boi">BOI</a>, <a href="/airports/bos">BOS</a>, <a href="/airports/buf">BUF</a>, <a href="/airports/bur">BUR</a>, <a href="/airports/bwi">BWI</a>, <a href="/airports/bzn">BZN</a>, <a href="/airports/cae">CAE</a>, <a href="/airports/cak">CAK</a>, <a href="/airports/cha">CHA</a>, <a href="/airports/cho">CHO</a>, <a href="/airports/chs">CHS</a>, <a href="/airports/cid">CID</a>, <a href="/airports/cle">CLE</a>, <a href="/airports/clt">CLT</a>, <a href="/airports/cmh">CMH</a>, <a href="/airports/cos">COS</a>, <a href="/airports/cvg">CVG</a>, <a href="/airports/dal">DAL</a>, <a href="/airports/dca">DCA</a>, <a href="/airports/den">DEN</a>, <a href="/airports/dfw">DFW</a>, <a href="/airports/dtw">DTW</a>, <a href="/airports/dub">DUB</a>, <a href="/airports/ecp">ECP</a>, <a href="/airports/elp">ELP</a>, <a href="/airports/eug">EUG</a>, <a href="/airports/ewr">EWR</a>, <a href="/airports/far">FAR</a>, <a href="/airports/fat">FAT</a>, <a href="/airports/fll">FLL</a>, <a href="/airports/fsd">FSD</a>, <a href="/airports/fwa">FWA</a>, <a href="/airports/geg">GEG</a>, <a href="/airports/grr">GRR</a>, <a href="/airports/gso">GSO</a>, <a href="/airports/gsp">GSP</a>, <a href="/airports/hnl">HNL</a>, <a href="/airports/hou">HOU</a>, <a href="/airports/hpn">HPN</a>, <a href="/airports/hsv">HSV</a>, <a href="/airports/iad">IAD</a>, <a href="/airports/iah">IAH</a>, <a href="/airports/ict">ICT</a>, <a href="/airports/ilm">ILM</a>, <a href="/airports/ind">IND</a>, <a href="/airports/jan">JAN</a>, <a href="/airports/jax">JAX</a>, <a href="/airports/jfk">JFK</a>, <a href="/airports/koa">KOA</a>, <a href="/airports/las">LAS</a>, <a href="/airports/lax">LAX</a>, <a href="/airports/lbb">LBB</a>, <a href="/airports/lex">LEX</a>, <a href="/airports/lga">LGA</a>, <a href="/airports/lgb">LGB</a>, <a href="/airports/lih">LIH</a>, <a href="/airports/lit">LIT</a>, <a href="/airports/maf">MAF</a>, <a href="/airports/mci">MCI</a>, <a href="/airports/mco">MCO</a>, <a href="/airports/mdt">MDT</a>, <a href="/airports/mdw">MDW</a>, <a href="/airports/mem">MEM</a>, <a href="/airports/mfr">MFR</a>, <a href="/airports/mia">MIA</a>, <a href="/airports/msn">MSN</a>, <a href="/airports/msp">MSP</a>, <a href="/airports/msy">MSY</a>, <a href="/airports/oak">OAK</a>, <a href="/airports/ogg">OGG</a>, <a href="/airports/okc">OKC</a>, <a href="/airports/oma">OMA</a>, <a href="/airports/ont">ONT</a>, <a href="/airports/ord">ORD</a>, <a href="/airports/orf">ORF</a>, <a href="/airports/pdx">PDX</a>, <a href="/airports/phl">PHL</a>, <a href="/airports/phx">PHX</a>, <a href="/airports/pit">PIT</a>, <a href="/airports/pns">PNS</a>, <a href="/airports/psc">PSC</a>, <a href="/airports/psp">PSP</a>, <a href="/airports/pvd">PVD</a>, <a href="/airports/rap">RAP</a>, <a href="/airports/rdu">RDU</a>, <a href="/airports/ric">RIC</a>, <a href="/airports/rno">RNO</a>, <a href="/airports/roa">ROA</a>, <a href="/airports/roc">ROC</a>, <a href="/airports/rsw">RSW</a>, <a href="/airports/san">SAN</a>, <a href="/airports/sat">SAT</a>, <a href="/airports/sav">SAV</a>, <a href="/airports/sba">SBA</a>, <a href="/airports/sdf">SDF</a>, <a href="/airports/sea">SEA</a>, <a href="/airports/sfb">SFB</a>, <a href="/airports/sfo">SFO</a>, <a href="/airports/sgf">SGF</a>, <a href="/airports/sjc">SJC</a>, <a href="/airports/sju">SJU</a>, <a href="/airports/slc">SLC</a>, <a href="/airports/smf">SMF</a>, <a href="/airports/sna">SNA</a>, <a href="/airports/srq">SRQ</a>, <a href="/airports/stl">STL</a>, <a href="/airports/sts">STS</a>, <a href="/airports/syr">SYR</a>, <a href="/airports/tlh">TLH</a>, <a href="/airports/tpa">TPA</a>, <a href="/airports/tul">TUL</a>, <a href="/airports/tus">TUS</a>, <a href="/airports/vps">VPS</a>, <a href="/airports/xna">XNA</a></p></noscript>
+  <noscript><p>Airports: <a href="/airports/abi">ABI</a>, <a href="/airports/abq">ABQ</a>, <a href="/airports/alb">ALB</a>, <a href="/airports/ase">ASE</a>, <a href="/airports/atl">ATL</a>, <a href="/airports/atw">ATW</a>, <a href="/airports/aus">AUS</a>, <a href="/airports/avl">AVL</a>, <a href="/airports/bdl">BDL</a>, <a href="/airports/bgr">BGR</a>, <a href="/airports/bhm">BHM</a>, <a href="/airports/bna">BNA</a>, <a href="/airports/boi">BOI</a>, <a href="/airports/bos">BOS</a>, <a href="/airports/btr">BTR</a>, <a href="/airports/buf">BUF</a>, <a href="/airports/bur">BUR</a>, <a href="/airports/bwi">BWI</a>, <a href="/airports/bzn">BZN</a>, <a href="/airports/cae">CAE</a>, <a href="/airports/cak">CAK</a>, <a href="/airports/cha">CHA</a>, <a href="/airports/cho">CHO</a>, <a href="/airports/chs">CHS</a>, <a href="/airports/cid">CID</a>, <a href="/airports/cle">CLE</a>, <a href="/airports/clt">CLT</a>, <a href="/airports/cmh">CMH</a>, <a href="/airports/cos">COS</a>, <a href="/airports/cvg">CVG</a>, <a href="/airports/dal">DAL</a>, <a href="/airports/dca">DCA</a>, <a href="/airports/den">DEN</a>, <a href="/airports/dfw">DFW</a>, <a href="/airports/dtw">DTW</a>, <a href="/airports/dub">DUB</a>, <a href="/airports/ecp">ECP</a>, <a href="/airports/elp">ELP</a>, <a href="/airports/eug">EUG</a>, <a href="/airports/ewr">EWR</a>, <a href="/airports/far">FAR</a>, <a href="/airports/fat">FAT</a>, <a href="/airports/fca">FCA</a>, <a href="/airports/fll">FLL</a>, <a href="/airports/fsd">FSD</a>, <a href="/airports/fwa">FWA</a>, <a href="/airports/geg">GEG</a>, <a href="/airports/grr">GRR</a>, <a href="/airports/gso">GSO</a>, <a href="/airports/gsp">GSP</a>, <a href="/airports/hnl">HNL</a>, <a href="/airports/hou">HOU</a>, <a href="/airports/hpn">HPN</a>, <a href="/airports/hsv">HSV</a>, <a href="/airports/iad">IAD</a>, <a href="/airports/iah">IAH</a>, <a href="/airports/ict">ICT</a>, <a href="/airports/ilm">ILM</a>, <a href="/airports/ind">IND</a>, <a href="/airports/jac">JAC</a>, <a href="/airports/jan">JAN</a>, <a href="/airports/jax">JAX</a>, <a href="/airports/jfk">JFK</a>, <a href="/airports/koa">KOA</a>, <a href="/airports/las">LAS</a>, <a href="/airports/lax">LAX</a>, <a href="/airports/lbb">LBB</a>, <a href="/airports/lex">LEX</a>, <a href="/airports/lga">LGA</a>, <a href="/airports/lgb">LGB</a>, <a href="/airports/lih">LIH</a>, <a href="/airports/lit">LIT</a>, <a href="/airports/lnk">LNK</a>, <a href="/airports/maf">MAF</a>, <a href="/airports/mci">MCI</a>, <a href="/airports/mco">MCO</a>, <a href="/airports/mdt">MDT</a>, <a href="/airports/mdw">MDW</a>, <a href="/airports/mem">MEM</a>, <a href="/airports/mfr">MFR</a>, <a href="/airports/mia">MIA</a>, <a href="/airports/msn">MSN</a>, <a href="/airports/msp">MSP</a>, <a href="/airports/msy">MSY</a>, <a href="/airports/oak">OAK</a>, <a href="/airports/ogg">OGG</a>, <a href="/airports/okc">OKC</a>, <a href="/airports/oma">OMA</a>, <a href="/airports/ont">ONT</a>, <a href="/airports/ord">ORD</a>, <a href="/airports/orf">ORF</a>, <a href="/airports/pdx">PDX</a>, <a href="/airports/phl">PHL</a>, <a href="/airports/phx">PHX</a>, <a href="/airports/pit">PIT</a>, <a href="/airports/pns">PNS</a>, <a href="/airports/psc">PSC</a>, <a href="/airports/psp">PSP</a>, <a href="/airports/pvd">PVD</a>, <a href="/airports/rap">RAP</a>, <a href="/airports/rdu">RDU</a>, <a href="/airports/ric">RIC</a>, <a href="/airports/rno">RNO</a>, <a href="/airports/roa">ROA</a>, <a href="/airports/roc">ROC</a>, <a href="/airports/rsw">RSW</a>, <a href="/airports/san">SAN</a>, <a href="/airports/sat">SAT</a>, <a href="/airports/sav">SAV</a>, <a href="/airports/sba">SBA</a>, <a href="/airports/sdf">SDF</a>, <a href="/airports/sea">SEA</a>, <a href="/airports/sfb">SFB</a>, <a href="/airports/sfo">SFO</a>, <a href="/airports/sgf">SGF</a>, <a href="/airports/sjc">SJC</a>, <a href="/airports/sju">SJU</a>, <a href="/airports/slc">SLC</a>, <a href="/airports/smf">SMF</a>, <a href="/airports/sna">SNA</a>, <a href="/airports/srq">SRQ</a>, <a href="/airports/stl">STL</a>, <a href="/airports/sts">STS</a>, <a href="/airports/syr">SYR</a>, <a href="/airports/tlh">TLH</a>, <a href="/airports/tpa">TPA</a>, <a href="/airports/tul">TUL</a>, <a href="/airports/tus">TUS</a>, <a href="/airports/vps">VPS</a>, <a href="/airports/xna">XNA</a></p></noscript>
 <style>
-  .finder { display:grid; grid-template-columns:minmax(0, 1.2fr) minmax(0, 1.2fr) minmax(0, 1fr); gap:14px 18px; margin:0 0 16px; }
+  .finder { display:grid; grid-template-columns:minmax(0, 1.2fr) auto minmax(0, 1.2fr) minmax(0, 1fr); gap:14px 12px; margin:0 0 16px; }
+  .swap { align-self:end; width:44px; height:48px; border:1px solid var(--line); border-radius:10px; background:#fff;
+          color:var(--ink); font-size:22px; line-height:1; cursor:pointer; }
+  .swap:hover:not(:disabled) { background:#F1EFE8; }
+  .swap:focus { outline:2px solid var(--chock); outline-offset:1px; }
+  .swap:disabled { color:#C9CDD5; cursor:not-allowed; }
   .field { position:relative; }
   .field label { display:block; font-weight:700; font-size:14px; margin:0 0 6px; }
   .finder input, .finder select { width:100%; font:inherit; font-size:18px; padding:10px 12px; border:1px solid var(--line);
@@ -162,13 +168,13 @@
   .pick li.none { color:var(--muted); cursor:default; }
   #routes .al { text-align:left; white-space:normal; }
   #routes .pill { display:inline-block; margin:2px 6px 2px 0; padding:2px 8px; border-radius:999px; background:#F1EFE8; font-size:14px; }
-  @media (max-width: 760px) { .finder { grid-template-columns:1fr; } }
+  @media (max-width: 760px) { .finder { grid-template-columns:1fr; } .swap { justify-self:center; height:40px; transform:rotate(90deg); } }
 </style>
 <script>
 (function () {
   var data = null, state = {from: null, to: null};
   var fromIn = document.getElementById('from'), toIn = document.getElementById('to'), pick = document.getElementById('airline');
-  var toClear = document.getElementById('to-clear');
+  var toClear = document.getElementById('to-clear'), swap = document.getElementById('swap');
   var table = document.getElementById('routes'), summary = document.getElementById('summary'), note = document.getElementById('note');
   function e(s) { return String(s).replace(/[&<>"]/g, function (c) { return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]; }); }
   function fold(s) { return String(s).normalize('NFD').replace(/[\u0300-\u036f]/g, '').replace(/[’']/g, '').toLowerCase(); }
@@ -248,10 +254,11 @@
   function show() {
     var code = state.from, ap = data.airports[code];
     toIn.disabled = pick.disabled = !ap;   // To and Airline wait for an airport
+    swap.disabled = !(ap && state.to && data.airports[state.to]);   // swapping needs a To we have routes from
     document.getElementById('tablewrap').hidden = !ap;
     if (!ap) {
       table.innerHTML = ''; note.textContent = ''; toClear.hidden = true;
-      summary.textContent = 'Type an airport code or city in From, e.g. ' + Object.keys(data.airports).sort().slice(0, 3).join(', ') + '.';
+      summary.textContent = 'Type an airport code or city in From, e.g. ' + Object.keys(data.airports).filter(function (c) { return !data.airports[c].seen; }).sort().slice(0, 3).join(', ') + '.';
       history.replaceState(null, '', location.pathname);
       return;
     }
@@ -275,17 +282,22 @@
     table.innerHTML = head + rows.map(function (x) {
       var r = x[0], pills = Object.keys(r[2]).sort(function (a, b) { return r[2][b] - r[2][a]; }).map(function (b) {
         var a = data.airlines[b];
-        return '<a class="pill" href="/airports/' + code.toLowerCase() + '/' + a.slug + '"><span class="chip" style="background:' +
+        // an airport with no page of its own ("seen"): the airline's page at the destination
+        return '<a class="pill" href="/airports/' + (ap.seen ? r[0] : code).toLowerCase() + '/' + a.slug + '"><span class="chip" style="background:' +
           a.color + '"></span>' + e(a.name) + ' ' + freq(r[2][b]) + '</a>'; }).join('');
       return '<tr><td class="al">' + e(r[1]) + '<span class="code">' + e(r[0]) + '</span></td><td>' + freq(x[1]) + '</td>' +
         (al ? '' : '<td class="al">' + pills + '</td>') + '</tr>';
     }).join('');
     var dest = state.to ? ap.routes.filter(function (r) { return r[0] === state.to; })[0] : null;
-    var on = al ? ' on <a href="/airports/' + code.toLowerCase() + '/' + data.airlines[al].slug + '">' + e(data.airlines[al].name) + '</a>' : '';
+    var on = al ? ' on ' + (ap.seen ? e(data.airlines[al].name) : '<a href="/airports/' + code.toLowerCase() + '/' + data.airlines[al].slug + '">' + e(data.airlines[al].name) + '</a>') : '';
     summary.innerHTML = dest ? 'Nonstop flights from ' + e(ap.short) + ' (' + code + ') to ' + e(dest[1]) + ' (' + e(dest[0]) + ')' + on + '.'
-      : '<b>' + rows.length + '</b> nonstop destinations from ' + e(ap.short) + ' (' + code + ')' + on + '.';
-    note.textContent = 'Nonstop routes seen ' + months(ap.first) + ' – ' + months(ap.last) + ' (' + ap.days +
-      ' full days); flights a day are averages, as whole flights. A few days of data can miss weekly or seasonal routes.';
+      : '<b>' + rows.length + '</b> nonstop ' + (ap.seen ? 'route' + (rows.length === 1 ? '' : 's') + ' from ' + e(ap.short) + ' (' + code + ') to the airports Chockwise maps'
+                                                         : 'destinations from ' + e(ap.short) + ' (' + code + ')') + on + '.';
+    note.textContent = ap.seen
+      ? 'Seen as arrivals at the airports Chockwise maps, ' + months(ap.first) + ' – ' + months(ap.last) + '; routes from ' + ap.short +
+        ' to other airports are not shown. Flights a day are averages, as whole flights.'
+      : 'Nonstop routes seen ' + months(ap.first) + ' – ' + months(ap.last) + ' (' + ap.days +
+        ' full days); flights a day are averages, as whole flights. A few days of data can miss weekly or seasonal routes.';
     toClear.hidden = !state.to;
     var params = new URLSearchParams();
     params.set('from', code); if (state.to) params.set('to', state.to); if (al) params.set('airline', al);
@@ -316,6 +328,13 @@
   });
   pick.addEventListener('change', show);
   toClear.addEventListener('click', function () { state.to = null; toBox.restore(); show(); });
+  swap.addEventListener('click', function () {   // From becomes To and To becomes From (To stays only if that route exists)
+    var f = state.from, t = state.to;
+    if (!t || !data.airports[t]) return;
+    state.from = t;
+    state.to = destItems().some(function (i) { return i.code === f; }) ? f : null;
+    fromBox.restore(); toBox.restore(); show();
+  });
 })();
 </script>
 </main>
