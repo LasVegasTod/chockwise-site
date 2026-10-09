@@ -1,4 +1,16 @@
 {
+ "ABI": {
+  "flights_day": 21,
+  "gates": 2,
+  "name": "Abilene Rgnl",
+  "published": "2026-10-09",
+  "seats_day": 545,
+  "short": "Abilene",
+  "sig": "{\"common\": 0, \"drawing\": \"101c6a0f1596\", \"gates\": 2, \"held\": {\"AA\": 1, \"UA\": 1}, \"low\": 0}",
+  "top": "AA",
+  "top_gates": 1,
+  "updated": "2026-10-09"
+ },
  "ABQ": {
   "flights_day": 183,
   "gates": 22,

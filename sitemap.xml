@@ -2,6 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url><loc>https://chockwise.com/</loc><lastmod>2026-10-09</lastmod><changefreq>daily</changefreq><priority>1.0</priority></url>
   <url><loc>https://chockwise.com/airports/</loc><lastmod>2026-10-09</lastmod><changefreq>daily</changefreq><priority>0.9</priority></url>
+  <url><loc>https://chockwise.com/airports/abi</loc><lastmod>2026-10-09</lastmod><changefreq>daily</changefreq><priority>0.8</priority><image:image><image:loc>https://chockwise.com/airports/abi-gates.png</image:loc></image:image></url>
   <url><loc>https://chockwise.com/airports/abq</loc><lastmod>2026-10-09</lastmod><changefreq>daily</changefreq><priority>0.8</priority><image:image><image:loc>https://chockwise.com/airports/abq-gates.png</image:loc></image:image></url>
   <url><loc>https://chockwise.com/airports/alb</loc><lastmod>2026-10-09</lastmod><changefreq>daily</changefreq><priority>0.8</priority><image:image><image:loc>https://chockwise.com/airports/alb-gates.png</image:loc></image:image></url>
   <url><loc>https://chockwise.com/airports/atl</loc><lastmod>2026-10-09</lastmod><changefreq>daily</changefreq><priority>0.8</priority><image:image><image:loc>https://chockwise.com/airports/atl-gates.png</image:loc></image:image></url>
@@ -126,6 +127,8 @@
   <url><loc>https://chockwise.com/airports/tus</loc><lastmod>2026-10-09</lastmod><changefreq>daily</changefreq><priority>0.8</priority><image:image><image:loc>https://chockwise.com/airports/tus-gates.png</image:loc></image:image></url>
   <url><loc>https://chockwise.com/airports/vps</loc><lastmod>2026-10-09</lastmod><changefreq>daily</changefreq><priority>0.8</priority><image:image><image:loc>https://chockwise.com/airports/vps-gates.png</image:loc></image:image></url>
   <url><loc>https://chockwise.com/airports/xna</loc><lastmod>2026-10-09</lastmod><changefreq>daily</changefreq><priority>0.8</priority><image:image><image:loc>https://chockwise.com/airports/xna-gates.png</image:loc></image:image></url>
+  <url><loc>https://chockwise.com/airports/abi/american</loc><lastmod>2026-10-09</lastmod><changefreq>daily</changefreq><priority>0.7</priority><image:image><image:loc>https://chockwise.com/airports/abi-american.png</image:loc></image:image></url>
+  <url><loc>https://chockwise.com/airports/abi/united</loc><lastmod>2026-10-09</lastmod><changefreq>daily</changefreq><priority>0.7</priority><image:image><image:loc>https://chockwise.com/airports/abi-united.png</image:loc></image:image></url>
   <url><loc>https://chockwise.com/airports/abq/alaska</loc><lastmod>2026-10-09</lastmod><changefreq>daily</changefreq><priority>0.7</priority><image:image><image:loc>https://chockwise.com/airports/abq-alaska.png</image:loc></image:image></url>
   <url><loc>https://chockwise.com/airports/abq/american</loc><lastmod>2026-10-09</lastmod><changefreq>daily</changefreq><priority>0.7</priority><image:image><image:loc>https://chockwise.com/airports/abq-american.png</image:loc></image:image></url>
   <url><loc>https://chockwise.com/airports/abq/delta</loc><lastmod>2026-10-09</lastmod><changefreq>daily</changefreq><priority>0.7</priority><image:image><image:loc>https://chockwise.com/airports/abq-delta.png</image:loc></image:image></url>
