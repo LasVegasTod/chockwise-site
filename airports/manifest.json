@@ -888,15 +888,15 @@
   "updated": "2026-10-10"
  },
  "LHR": {
-  "flights_day": 1299,
+  "flights_day": 1281,
   "gates": 145,
   "name": "London Heathrow",
   "published": "2026-10-10",
-  "seats_day": 75135,
+  "seats_day": 73602,
   "short": "London Heathrow",
-  "sig": "{\"common\": 43, \"drawing\": \"25129a71f7e2\", \"gates\": 145, \"held\": {\"AF\": 1, \"BA\": 40, \"EI\": 2, \"EW\": 1, \"EY\": 1, \"KL\": 1, \"UA\": 3, \"VS\": 1}, \"low\": 52}",
+  "sig": "{\"common\": 55, \"drawing\": \"25129a71f7e2\", \"gates\": 145, \"held\": {\"BA\": 47, \"EI\": 1, \"EK\": 1, \"EY\": 1, \"UA\": 6, \"VS\": 2}, \"low\": 32}",
   "top": "BA",
-  "top_gates": 40,
+  "top_gates": 47,
   "updated": "2026-10-10"
  },
  "LIH": {

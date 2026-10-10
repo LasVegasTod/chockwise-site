@@ -177,6 +177,7 @@
   var toClear = document.getElementById('to-clear'), swap = document.getElementById('swap');
   var table = document.getElementById('routes'), summary = document.getElementById('summary'), note = document.getElementById('note');
   function e(s) { return String(s).replace(/[&<>"]/g, function (c) { return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]; }); }
+  function hasPage(c, b) { var x = data.airports[c]; return !!(x && x.pages && x.pages.indexOf(b) >= 0); }   // its airline page there
   function fold(s) { return String(s).normalize('NFD').replace(/[\u0300-\u036f]/g, '').replace(/[’']/g, '').toLowerCase(); }
   function freq(v) {   // whole flights only, like rate() in site_airlines.py: '12/day', '4-5/day', '2-3/week'
     var unit = 'day';
@@ -281,15 +282,16 @@
     var head = '<tr><th class="al">Destination</th><th>Flights</th>' + (al ? '' : '<th class="al">Airlines</th>') + '</tr>';
     table.innerHTML = head + rows.map(function (x) {
       var r = x[0], pills = Object.keys(r[2]).sort(function (a, b) { return r[2][b] - r[2][a]; }).map(function (b) {
-        var a = data.airlines[b];
-        // an airport with no page of its own ("seen"): the airline's page at the destination
-        return '<a class="pill" href="/airports/' + (ap.seen ? r[0] : code).toLowerCase() + '/' + a.slug + '"><span class="chip" style="background:' +
-          a.color + '"></span>' + e(a.name) + ' ' + freq(r[2][b]) + '</a>'; }).join('');
+        var a = data.airlines[b], at = ap.seen ? r[0] : code;
+        // an airport with no page of its own ("seen"): the airline's page at the destination; no page there: no link
+        var inner = '<span class="chip" style="background:' + a.color + '"></span>' + e(a.name) + ' ' + freq(r[2][b]);
+        return hasPage(at, b) ? '<a class="pill" href="/airports/' + at.toLowerCase() + '/' + a.slug + '">' + inner + '</a>'
+                              : '<span class="pill">' + inner + '</span>'; }).join('');
       return '<tr><td class="al">' + e(r[1]) + '<span class="code">' + e(r[0]) + '</span></td><td>' + freq(x[1]) + '</td>' +
         (al ? '' : '<td class="al">' + pills + '</td>') + '</tr>';
     }).join('');
     var dest = state.to ? ap.routes.filter(function (r) { return r[0] === state.to; })[0] : null;
-    var on = al ? ' on ' + (ap.seen ? e(data.airlines[al].name) : '<a href="/airports/' + code.toLowerCase() + '/' + data.airlines[al].slug + '">' + e(data.airlines[al].name) + '</a>') : '';
+    var on = al ? ' on ' + (ap.seen || !hasPage(code, al) ? e(data.airlines[al].name) : '<a href="/airports/' + code.toLowerCase() + '/' + data.airlines[al].slug + '">' + e(data.airlines[al].name) + '</a>') : '';
     summary.innerHTML = dest ? 'Nonstop flights from ' + e(ap.short) + ' (' + code + ') to ' + e(dest[1]) + ' (' + e(dest[0]) + ')' + on + '.'
       : '<b>' + rows.length + '</b> nonstop ' + (ap.seen ? 'route' + (rows.length === 1 ? '' : 's') + ' from ' + e(ap.short) + ' (' + code + ') to the airports Chockwise maps'
                                                          : 'destinations from ' + e(ap.short) + ' (' + code + ')') + on + '.';
