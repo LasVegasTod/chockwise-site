@@ -17176,6 +17176,50 @@
    "updated": "2026-10-10"
   }
  },
+ "SBP": {
+  "alaska": {
+   "airport_short": "SBP",
+   "code": "AS",
+   "deps_day": 4.3,
+   "gone": false,
+   "last_seen": "2026-10-03",
+   "last_seen_str": "Oct 3, 2026",
+   "name": "Alaska Airlines",
+   "published": "2026-10-10",
+   "short": "Alaska",
+   "sig": "{\"drawing\": \"9c7878822551\", \"focus\": [\"2\", \"3\"], \"held\": [\"2\"], \"held_n\": 1, \"main\": [\"2\", \"3\"]}",
+   "slug": "alaska",
+   "updated": "2026-10-10"
+  },
+  "american": {
+   "airport_short": "SBP",
+   "code": "AA",
+   "deps_day": 3.3,
+   "gone": false,
+   "last_seen": "2026-10-03",
+   "last_seen_str": "Oct 3, 2026",
+   "name": "American Airlines",
+   "published": "2026-10-10",
+   "short": "American",
+   "sig": "{\"drawing\": \"9c7878822551\", \"focus\": [\"5\", \"6\"], \"held\": [\"5\", \"6\"], \"held_n\": 2, \"main\": [\"5\", \"6\"]}",
+   "slug": "american",
+   "updated": "2026-10-10"
+  },
+  "united": {
+   "airport_short": "SBP",
+   "code": "UA",
+   "deps_day": 6.0,
+   "gone": false,
+   "last_seen": "2026-10-03",
+   "last_seen_str": "Oct 3, 2026",
+   "name": "United Airlines",
+   "published": "2026-10-10",
+   "short": "United",
+   "sig": "{\"drawing\": \"9c7878822551\", \"focus\": [\"1\", \"2\", \"3\", \"4\", \"6\"], \"held\": [\"3\"], \"held_n\": 1, \"main\": [\"1\", \"2\", \"3\", \"4\", \"6\"]}",
+   "slug": "united",
+   "updated": "2026-10-10"
+  }
+ },
  "SDF": {
   "allegiant": {
    "airport_short": "SDF",
