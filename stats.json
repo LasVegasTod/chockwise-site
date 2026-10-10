@@ -1,19 +1,19 @@
 {
   "airports": 240,
-  "gates": 5995,
+  "gates": 6110,
   "airlines": 338,
   "flights": 247498,
   "turns": 107894,
   "tows": 4795,
   "gate_hours": 293684,
-  "idle_gaps": 97162,
+  "idle_gaps": 97163,
   "seats": 30962060,
-  "ownership": 5403,
+  "ownership": 5409,
   "late_departures": 26516,
   "long_delays": 8890,
   "gate_returns": 282,
   "plane_changes": 34,
   "late_gate_hours": 22551,
-  "insights": 460982,
+  "insights": 460989,
   "updated": "2026-10-10"
 }
