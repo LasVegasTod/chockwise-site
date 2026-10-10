@@ -3292,6 +3292,52 @@
    "updated": "2026-10-10"
   }
  },
+ "COU": {
+  "american": {
+   "airport_short": "COU",
+   "code": "AA",
+   "deps_day": 6.0,
+   "gone": false,
+   "last_seen": "2026-10-08",
+   "last_seen_str": "Oct 8, 2026",
+   "name": "American Airlines",
+   "published": "2026-10-10",
+   "short": "American",
+   "sig": "{\"drawing\": \"637b9fc837bf\", \"focus\": [\"1\", \"2\"], \"held\": [\"1\"], \"held_n\": 1, \"main\": [\"1\", \"2\"]}",
+   "slug": "american",
+   "updated": "2026-10-10"
+  },
+  "united": {
+   "airport_short": "COU",
+   "code": "UA",
+   "deps_day": 3.8,
+   "gone": false,
+   "last_seen": "2026-10-08",
+   "last_seen_str": "Oct 8, 2026",
+   "name": "United Airlines",
+   "published": "2026-10-10",
+   "short": "United",
+   "sig": "{\"drawing\": \"637b9fc837bf\", \"focus\": [\"2\", \"3\", \"4\"], \"held\": [\"4\"], \"held_n\": 1, \"main\": [\"2\", \"3\", \"4\"]}",
+   "slug": "united",
+   "updated": "2026-10-10"
+  }
+ },
+ "CPR": {
+  "united": {
+   "airport_short": "CPR",
+   "code": "UA",
+   "deps_day": 7.8,
+   "gone": false,
+   "last_seen": "2026-10-08",
+   "last_seen_str": "Oct 8, 2026",
+   "name": "United Airlines",
+   "published": "2026-10-10",
+   "short": "United",
+   "sig": "{\"drawing\": \"fe9b6860ed00\", \"focus\": [\"1\", \"2\", \"3\"], \"held\": [\"1\", \"2\", \"3\"], \"held_n\": 3, \"main\": [\"1\", \"2\", \"3\"]}",
+   "slug": "united",
+   "updated": "2026-10-10"
+  }
+ },
  "CVG": {
   "air-canada": {
    "airport_short": "CVG",

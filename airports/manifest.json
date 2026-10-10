@@ -347,6 +347,30 @@
   "top_gates": 4,
   "updated": "2026-10-10"
  },
+ "COU": {
+  "flights_day": 20,
+  "gates": 4,
+  "name": "Columbia Rgnl",
+  "published": "2026-10-10",
+  "seats_day": 656,
+  "short": "Columbia, MO",
+  "sig": "{\"common\": 1, \"drawing\": \"637b9fc837bf\", \"gates\": 4, \"held\": {\"AA\": 1, \"UA\": 1}, \"low\": 1}",
+  "top": "AA",
+  "top_gates": 1,
+  "updated": "2026-10-10"
+ },
+ "CPR": {
+  "flights_day": 17,
+  "gates": 3,
+  "name": "Casper/Natrona County Intl",
+  "published": "2026-10-10",
+  "seats_day": 483,
+  "short": "Casper",
+  "sig": "{\"common\": 0, \"drawing\": \"fe9b6860ed00\", \"gates\": 3, \"held\": {\"UA\": 3}, \"low\": 0}",
+  "top": "UA",
+  "top_gates": 3,
+  "updated": "2026-10-10"
+ },
  "CVG": {
   "flights_day": 332,
   "gates": 49,
