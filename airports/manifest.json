@@ -407,6 +407,18 @@
   "top_gates": 121,
   "updated": "2026-10-10"
  },
+ "DRO": {
+  "flights_day": 25,
+  "gates": 5,
+  "name": "Durango-La Plata County",
+  "published": "2026-10-10",
+  "seats_day": 1021,
+  "short": "Durango",
+  "sig": "{\"common\": 0, \"drawing\": \"34e20b38c403\", \"gates\": 5, \"held\": {\"AA\": 1, \"UA\": 4}, \"low\": 0}",
+  "top": "UA",
+  "top_gates": 4,
+  "updated": "2026-10-10"
+ },
  "DTW": {
   "flights_day": 863,
   "gates": 133,
@@ -971,6 +983,18 @@
   "top_gates": 70,
   "updated": "2026-10-10"
  },
+ "MOB": {
+  "flights_day": 26,
+  "gates": 7,
+  "name": "Mobile Rgnl",
+  "published": "2026-10-10",
+  "seats_day": 973,
+  "short": "Mobile",
+  "sig": "{\"common\": 0, \"drawing\": \"14633b6d50ec\", \"gates\": 7, \"held\": {\"AA\": 2, \"DL\": 1, \"UA\": 2}, \"low\": 2}",
+  "top": "UA",
+  "top_gates": 2,
+  "updated": "2026-10-10"
+ },
  "MSN": {
   "flights_day": 98,
   "gates": 16,
@@ -1269,6 +1293,18 @@
   "sig": "{\"common\": 6, \"drawing\": \"bf3977de7993\", \"gates\": 28, \"held\": {\"AA\": 4, \"B6\": 1, \"DL\": 3, \"F9\": 1, \"MX\": 1, \"UA\": 3, \"WN\": 3}, \"low\": 6}",
   "top": "AA",
   "top_gates": 4,
+  "updated": "2026-10-10"
+ },
+ "SAF": {
+  "flights_day": 26,
+  "gates": 2,
+  "name": "Santa Fe Regional",
+  "published": "2026-10-10",
+  "seats_day": 852,
+  "short": "Santa Fe",
+  "sig": "{\"common\": 0, \"drawing\": \"d73f053062e0\", \"gates\": 2, \"held\": {\"AA\": 1, \"UA\": 1}, \"low\": 0}",
+  "top": "AA",
+  "top_gates": 1,
   "updated": "2026-10-10"
  },
  "SAN": {

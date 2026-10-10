@@ -1,12 +1,12 @@
 {
   "airports": 237,
-  "gates": 5778,
+  "gates": 5792,
   "airlines": 285,
   "flights": 217526,
   "turns": 94730,
   "tows": 4233,
   "gate_hours": 259318,
-  "idle_gaps": 85657,
+  "idle_gaps": 85660,
   "seats": 27267462,
   "ownership": 5205,
   "late_departures": 23002,
@@ -14,6 +14,6 @@
   "gate_returns": 257,
   "plane_changes": 32,
   "late_gate_hours": 19713,
-  "insights": 406921,
+  "insights": 406924,
   "updated": "2026-10-10"
 }
