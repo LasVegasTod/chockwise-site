@@ -167,6 +167,18 @@
   "top_gates": 25,
   "updated": "2026-10-10"
  },
+ "BRO": {
+  "flights_day": 14,
+  "gates": 4,
+  "name": "Brownsville Intl",
+  "published": "2026-10-10",
+  "seats_day": 389,
+  "short": "Brownsville",
+  "sig": "{\"common\": 1, \"drawing\": \"f05a04c5bf50\", \"gates\": 4, \"held\": {\"AA\": 1, \"UA\": 1}, \"low\": 1}",
+  "top": "AA",
+  "top_gates": 1,
+  "updated": "2026-10-10"
+ },
  "BTR": {
   "flights_day": 36,
   "gates": 6,
@@ -983,6 +995,18 @@
   "top_gates": 6,
   "updated": "2026-10-10"
  },
+ "MFE": {
+  "flights_day": 30,
+  "gates": 6,
+  "name": "Mc Allen Intl",
+  "published": "2026-10-10",
+  "seats_day": 1362,
+  "short": "McAllen",
+  "sig": "{\"common\": 1, \"drawing\": \"f2147a9f6360\", \"gates\": 6, \"held\": {\"AA\": 1, \"UA\": 2}, \"low\": 2}",
+  "top": "UA",
+  "top_gates": 2,
+  "updated": "2026-10-10"
+ },
  "MFR": {
   "flights_day": 47,
   "gates": 6,
@@ -1016,6 +1040,18 @@
   "short": "Mobile",
   "sig": "{\"common\": 0, \"drawing\": \"14633b6d50ec\", \"gates\": 7, \"held\": {\"AA\": 2, \"DL\": 1, \"UA\": 2}, \"low\": 2}",
   "top": "UA",
+  "top_gates": 2,
+  "updated": "2026-10-10"
+ },
+ "MRY": {
+  "flights_day": 31,
+  "gates": 5,
+  "name": "Monterey Rgnl",
+  "published": "2026-10-10",
+  "seats_day": 1322,
+  "short": "Monterey",
+  "sig": "{\"common\": 0, \"drawing\": \"4dc8d95f8797\", \"gates\": 5, \"held\": {\"AA\": 2, \"AS\": 1, \"UA\": 1}, \"low\": 1}",
+  "top": "AA",
   "top_gates": 2,
   "updated": "2026-10-10"
  },

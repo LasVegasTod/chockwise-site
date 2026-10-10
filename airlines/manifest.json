@@ -2001,6 +2001,36 @@
    "updated": "2026-10-10"
   }
  },
+ "BRO": {
+  "american": {
+   "airport_short": "BRO",
+   "code": "AA",
+   "deps_day": 3.2,
+   "gone": false,
+   "last_seen": "2026-10-08",
+   "last_seen_str": "Oct 8, 2026",
+   "name": "American Airlines",
+   "published": "2026-10-10",
+   "short": "American",
+   "sig": "{\"drawing\": \"f05a04c5bf50\", \"focus\": [\"2\", \"3\"], \"held\": [\"3\"], \"held_n\": 1, \"main\": [\"2\", \"3\"]}",
+   "slug": "american",
+   "updated": "2026-10-10"
+  },
+  "united": {
+   "airport_short": "BRO",
+   "code": "UA",
+   "deps_day": 3.7,
+   "gone": false,
+   "last_seen": "2026-10-08",
+   "last_seen_str": "Oct 8, 2026",
+   "name": "United Airlines",
+   "published": "2026-10-10",
+   "short": "United",
+   "sig": "{\"drawing\": \"f05a04c5bf50\", \"focus\": [\"2\", \"4\"], \"held\": [\"4\"], \"held_n\": 1, \"main\": [\"2\", \"4\"]}",
+   "slug": "united",
+   "updated": "2026-10-10"
+  }
+ },
  "BTR": {
   "american": {
    "airport_short": "BTR",
@@ -12325,6 +12355,50 @@
    "updated": "2026-10-10"
   }
  },
+ "MFE": {
+  "allegiant": {
+   "airport_short": "MFE",
+   "code": "G4",
+   "deps_day": 0.7,
+   "gone": false,
+   "last_seen": "2026-10-02",
+   "last_seen_str": "Oct 2, 2026",
+   "name": "Allegiant Air",
+   "published": "2026-10-10",
+   "short": "Allegiant",
+   "sig": "{\"drawing\": \"f2147a9f6360\", \"focus\": [\"6\"], \"held\": [], \"held_n\": 0, \"main\": [\"6\"]}",
+   "slug": "allegiant",
+   "updated": "2026-10-10"
+  },
+  "american": {
+   "airport_short": "MFE",
+   "code": "AA",
+   "deps_day": 7.0,
+   "gone": false,
+   "last_seen": "2026-10-03",
+   "last_seen_str": "Oct 3, 2026",
+   "name": "American Airlines",
+   "published": "2026-10-10",
+   "short": "American",
+   "sig": "{\"drawing\": \"f2147a9f6360\", \"focus\": [\"3\", \"4\", \"5\", \"6\"], \"held\": [\"6\"], \"held_n\": 1, \"main\": [\"3\", \"4\", \"5\", \"6\"]}",
+   "slug": "american",
+   "updated": "2026-10-10"
+  },
+  "united": {
+   "airport_short": "MFE",
+   "code": "UA",
+   "deps_day": 6.0,
+   "gone": false,
+   "last_seen": "2026-10-03",
+   "last_seen_str": "Oct 3, 2026",
+   "name": "United Airlines",
+   "published": "2026-10-10",
+   "short": "United",
+   "sig": "{\"drawing\": \"f2147a9f6360\", \"focus\": [\"2\", \"3\", \"4\"], \"held\": [\"2\", \"4\"], \"held_n\": 2, \"main\": [\"2\", \"3\", \"4\"]}",
+   "slug": "united",
+   "updated": "2026-10-10"
+  }
+ },
  "MFR": {
   "alaska": {
    "airport_short": "MFR",
@@ -13192,6 +13266,50 @@
    "published": "2026-10-10",
    "short": "United",
    "sig": "{\"drawing\": \"14633b6d50ec\", \"focus\": [\"1\", \"6\", \"7\"], \"held\": [\"1\", \"7\"], \"held_n\": 2, \"main\": [\"1\", \"6\", \"7\"]}",
+   "slug": "united",
+   "updated": "2026-10-10"
+  }
+ },
+ "MRY": {
+  "alaska": {
+   "airport_short": "MRY",
+   "code": "AS",
+   "deps_day": 3.0,
+   "gone": false,
+   "last_seen": "2026-10-03",
+   "last_seen_str": "Oct 3, 2026",
+   "name": "Alaska Airlines",
+   "published": "2026-10-10",
+   "short": "Alaska",
+   "sig": "{\"drawing\": \"4dc8d95f8797\", \"focus\": [\"4\"], \"held\": [\"4\"], \"held_n\": 1, \"main\": [\"4\"]}",
+   "slug": "alaska",
+   "updated": "2026-10-10"
+  },
+  "american": {
+   "airport_short": "MRY",
+   "code": "AA",
+   "deps_day": 4.0,
+   "gone": false,
+   "last_seen": "2026-10-03",
+   "last_seen_str": "Oct 3, 2026",
+   "name": "American Airlines",
+   "published": "2026-10-10",
+   "short": "American",
+   "sig": "{\"drawing\": \"4dc8d95f8797\", \"focus\": [\"2\", \"3\"], \"held\": [\"2\", \"3\"], \"held_n\": 2, \"main\": [\"2\", \"3\"]}",
+   "slug": "american",
+   "updated": "2026-10-10"
+  },
+  "united": {
+   "airport_short": "MRY",
+   "code": "UA",
+   "deps_day": 8.3,
+   "gone": false,
+   "last_seen": "2026-10-03",
+   "last_seen_str": "Oct 3, 2026",
+   "name": "United Airlines",
+   "published": "2026-10-10",
+   "short": "United",
+   "sig": "{\"drawing\": \"4dc8d95f8797\", \"focus\": [\"5\"], \"held\": [\"5\"], \"held_n\": 1, \"main\": [\"5\"]}",
    "slug": "united",
    "updated": "2026-10-10"
   }
