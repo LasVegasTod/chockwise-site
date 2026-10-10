@@ -611,6 +611,18 @@
   "top_gates": 6,
   "updated": "2026-10-10"
  },
+ "GJT": {
+  "flights_day": 27,
+  "gates": 6,
+  "name": "Grand Junction Rgnl",
+  "published": "2026-10-10",
+  "seats_day": 943,
+  "short": "Grand Junction",
+  "sig": "{\"common\": 0, \"drawing\": \"9c0b215b260f\", \"gates\": 6, \"held\": {\"AA\": 2, \"UA\": 2}, \"low\": 2}",
+  "top": "UA",
+  "top_gates": 2,
+  "updated": "2026-10-10"
+ },
  "GRR": {
   "flights_day": 122,
   "gates": 23,

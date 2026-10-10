@@ -6591,6 +6591,36 @@
    "updated": "2026-10-10"
   }
  },
+ "GJT": {
+  "american": {
+   "airport_short": "GJT",
+   "code": "AA",
+   "deps_day": 5.2,
+   "gone": false,
+   "last_seen": "2026-10-09",
+   "last_seen_str": "Oct 9, 2026",
+   "name": "American Airlines",
+   "published": "2026-10-10",
+   "short": "American",
+   "sig": "{\"drawing\": \"9c0b215b260f\", \"focus\": [\"1\", \"4\"], \"held\": [\"1\", \"4\"], \"held_n\": 2, \"main\": [\"1\", \"4\"]}",
+   "slug": "american",
+   "updated": "2026-10-10"
+  },
+  "united": {
+   "airport_short": "GJT",
+   "code": "UA",
+   "deps_day": 6.5,
+   "gone": false,
+   "last_seen": "2026-10-09",
+   "last_seen_str": "Oct 9, 2026",
+   "name": "United Airlines",
+   "published": "2026-10-10",
+   "short": "United",
+   "sig": "{\"drawing\": \"9c0b215b260f\", \"focus\": [\"2\", \"6\"], \"held\": [\"2\", \"6\"], \"held_n\": 2, \"main\": [\"2\", \"6\"]}",
+   "slug": "united",
+   "updated": "2026-10-10"
+  }
+ },
  "GRR": {
   "allegiant": {
    "airport_short": "GRR",
