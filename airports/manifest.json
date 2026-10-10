@@ -767,6 +767,18 @@
   "top_gates": 10,
   "updated": "2026-10-10"
  },
+ "IST": {
+  "flights_day": 1386,
+  "gates": 115,
+  "name": "Istanbul Airport",
+  "published": "2026-10-10",
+  "seats_day": 45124,
+  "short": "Istanbul",
+  "sig": "{\"common\": 31, \"drawing\": \"9bfc34edfc0e\", \"gates\": 115, \"held\": {\"TK\": 81}, \"low\": 3}",
+  "top": "TK",
+  "top_gates": 81,
+  "updated": "2026-10-10"
+ },
  "JAC": {
   "flights_day": 36,
   "gates": 10,
