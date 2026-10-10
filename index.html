@@ -314,9 +314,10 @@
              grid-template-columns: minmax(0, 7fr) minmax(0, 5fr); gap: 20px 40px; align-items: center; }
   .pro-box .kicker { margin-bottom: 8px; }
   .pro-box h2 { margin: 0 0 8px; font-size: clamp(22px, 2.6vw, 28px); letter-spacing: -0.6px; line-height: 1.15; }
-  .pro-box p:last-child { margin: 0; color: var(--muted); max-width: 60ch; }
-  .pro-ask { display: flex; flex-direction: column; gap: 14px; align-items: flex-start; }
-  .pro-q { display: block; width: 100%; border: 1.5px solid var(--navy); border-radius: 12px; padding: 12px 14px; font-size: 16px; line-height: 1.4; background: var(--ground); }
+  .pro-box > div > p:not(.kicker) { margin: 0; color: var(--muted); max-width: 60ch; font-size: 17px; }
+  .pro-box > div > p strong { color: var(--ink); font-weight: 700; }
+  .pro-box .buttons { margin-top: 22px; }
+  .pro-box { grid-template-columns: minmax(0, 1fr) minmax(0, 460px); }
   @media (max-width: 860px) { .doors, .pro-box { grid-template-columns: minmax(0, 1fr); } }
 </style>
 </head>
@@ -406,12 +407,33 @@
         <div>
           <p class="kicker">For airlines and airport managers</p>
           <h2>Gate intelligence, explained by AI.</h2>
-          <p>Utilization, turn times, tows, idle gaps and seats at every gate, for your operation and the carrier next door. Ask the AI analyst a question in plain English, or get a weekly written briefing on what changed and what to do about it.</p>
+          <p>Utilization, turn times, tows, idle gaps and seats at every gate, for your operation and the carrier next door. Get an available gate before your competitors even know it’s available. <strong>Ask the AI analyst a question in plain English, or get a weekly written briefing on what changed and what to do about it.</strong></p>
+          <div class="buttons">
+            <a class="button" href="#contact">Request access</a>
+            <a class="button ghost" href="#ai">See the AI analyst</a>
+          </div>
         </div>
-        <div class="pro-ask">
-          <span class="pro-q">“How can we get more gates in Terminal 6 at LAX?”</span>
-          <a class="button" href="#contact">Request access →</a>
-        </div>
+        <aside class="ask" aria-label="Example question for the Chockwise AI analyst">
+          <div class="ask-top">
+            <svg class="spark" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 2l2.2 6.6L21 11l-6.8 2.4L12 20l-2.2-6.6L3 11l6.8-2.4z" fill="#F2B705"/></svg>
+            Ask Chockwise
+          </div>
+          <div class="ask-input"><span class="q" id="ask-q">How can we get more gates in Terminal 6 at LAX?</span>
+            <span class="send" aria-hidden="true"><svg width="16" height="16" viewBox="0 0 24 24"><path d="M4 12h14M12 5l7 7-7 7" stroke="#14213D" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></span></div>
+          <div class="answer" id="ask-a">
+            <div class="lines" aria-hidden="true">
+              <p>Terminal 6 at LAX has 00 gates. These are the ones that sat empty most over the last 14 days, and who uses each one:</p>
+              <table>
+                <tr><td>Gate 00</td><td>Airline</td><td>00% used</td><td>0 turns/day</td></tr>
+                <tr><td>Gate 00</td><td>Airline</td><td>00% used</td><td>0 turns/day</td></tr>
+                <tr><td>Gate 00A</td><td>Airline</td><td>00% used</td><td>0 turns/day</td></tr>
+                <tr><td>Gate 00</td><td>Common use</td><td>00% used</td><td>0 turns/day</td></tr>
+              </table>
+              <p>Idle hours by bank and the aircraft each gate can take are below.</p>
+            </div>
+            <div class="lock"><span>Available to enterprise partners only – <a href="#contact">Request access</a></span></div>
+          </div>
+        </aside>
       </div>
     </div>
   </section>
@@ -686,7 +708,12 @@
       if (n < text.length) setTimeout(type, 28 + Math.random() * 40);
       else setTimeout(function () { a.classList.remove('hidden'); }, 500);
     }
-    setTimeout(type, 600);
+    // start typing once the box scrolls into view (it sits below the stats bar)
+    if (!('IntersectionObserver' in window)) { setTimeout(type, 600); return; }
+    var seen = new IntersectionObserver(function (es) {
+      if (es.some(function (e) { return e.isIntersecting; })) { seen.disconnect(); setTimeout(type, 400); }
+    }, { threshold: 0.5 });
+    seen.observe(q);
   })();
   // Rotate the short lines in the navy band (left alone when the reader prefers less motion)
   (function () {
