@@ -887,6 +887,18 @@
   "top_gates": 8,
   "updated": "2026-10-10"
  },
+ "LHR": {
+  "flights_day": 1299,
+  "gates": 142,
+  "name": "London Heathrow",
+  "published": "2026-10-10",
+  "seats_day": 75135,
+  "short": "London Heathrow",
+  "sig": "{\"common\": 37, \"drawing\": \"2a6e12caffff\", \"gates\": 142, \"held\": {\"AF\": 1, \"BA\": 40, \"EI\": 2, \"EW\": 1, \"EY\": 1, \"KL\": 1, \"UA\": 2, \"VS\": 2}, \"low\": 55}",
+  "top": "BA",
+  "top_gates": 40,
+  "updated": "2026-10-10"
+ },
  "LIH": {
   "flights_day": 91,
   "gates": 9,
