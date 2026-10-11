@@ -1079,6 +1079,18 @@
   "top_gates": 2,
   "updated": "2026-10-11"
  },
+ "MGM": {
+  "flights_day": 22,
+  "gates": 4,
+  "name": "Montgomery Rgnl ",
+  "published": "2026-10-11",
+  "seats_day": 727,
+  "short": "Montgomery",
+  "sig": "{\"common\": 0, \"drawing\": \"92b7966a2669\", \"gates\": 4, \"held\": {\"AA\": 2, \"DL\": 1, \"UA\": 1}, \"low\": 0}",
+  "top": "AA",
+  "top_gates": 2,
+  "updated": "2026-10-11"
+ },
  "MIA": {
   "flights_day": 1004,
   "gates": 144,
@@ -1125,6 +1137,18 @@
   "sig": "{\"common\": 1, \"drawing\": \"d1bf3e065ee0\", \"gates\": 16, \"held\": {\"AA\": 7, \"DL\": 4, \"UA\": 4}, \"low\": 0}",
   "top": "AA",
   "top_gates": 7,
+  "updated": "2026-10-11"
+ },
+ "MSO": {
+  "flights_day": 32,
+  "gates": 6,
+  "name": "Missoula Montana",
+  "published": "2026-10-11",
+  "seats_day": 1744,
+  "short": "Missoula",
+  "sig": "{\"common\": 1, \"drawing\": \"0d39ced902e7\", \"gates\": 6, \"held\": {\"AS\": 1, \"DL\": 1, \"UA\": 1}, \"low\": 2}",
+  "top": "UA",
+  "top_gates": 1,
   "updated": "2026-10-11"
  },
  "MSP": {
@@ -1269,6 +1293,18 @@
   "sig": "{\"common\": 5, \"drawing\": \"b82c073e448b\", \"gates\": 111, \"held\": {\"AA\": 52, \"AS\": 3, \"DL\": 4, \"F9\": 4, \"LF\": 1, \"UA\": 6, \"WN\": 31, \"WS\": 1}, \"low\": 4}",
   "top": "AA",
   "top_gates": 52,
+  "updated": "2026-10-11"
+ },
+ "PIA": {
+  "flights_day": 24,
+  "gates": 9,
+  "name": "General Downing - Peoria Intl",
+  "published": "2026-10-11",
+  "seats_day": 738,
+  "short": "Peoria",
+  "sig": "{\"common\": 0, \"drawing\": \"7c2e3fb77d4c\", \"gates\": 9, \"held\": {\"AA\": 3, \"UA\": 3}, \"low\": 3}",
+  "top": "AA",
+  "top_gates": 3,
   "updated": "2026-10-11"
  },
  "PIT": {
