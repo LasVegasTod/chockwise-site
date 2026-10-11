@@ -479,6 +479,18 @@
   "top_gates": 4,
   "updated": "2026-10-11"
  },
+ "DSM": {
+  "flights_day": 113,
+  "gates": 13,
+  "name": "Des Moines Intl",
+  "published": "2026-10-11",
+  "seats_day": 6104,
+  "short": "Des Moines",
+  "sig": "{\"common\": 0, \"drawing\": \"c5982312a8da\", \"gates\": 13, \"held\": {\"AA\": 4, \"DL\": 3, \"G4\": 2, \"UA\": 3, \"WN\": 1}, \"low\": 0}",
+  "top": "AA",
+  "top_gates": 4,
+  "updated": "2026-10-11"
+ },
  "DTW": {
   "flights_day": 863,
   "gates": 133,
@@ -573,6 +585,18 @@
   "sig": "{\"common\": 6, \"drawing\": \"8be90dd84e80\", \"gates\": 14, \"held\": {\"AA\": 1, \"AS\": 1, \"UA\": 2, \"WN\": 1}, \"low\": 3}",
   "top": "UA",
   "top_gates": 2,
+  "updated": "2026-10-11"
+ },
+ "FAY": {
+  "flights_day": 15,
+  "gates": 3,
+  "name": "Fayetteville Rgnl",
+  "published": "2026-10-11",
+  "seats_day": 469,
+  "short": "Fayetteville",
+  "sig": "{\"common\": 0, \"drawing\": \"3b997f2e0d03\", \"gates\": 3, \"held\": {\"AA\": 1, \"DL\": 1}, \"low\": 1}",
+  "top": "DL",
+  "top_gates": 1,
   "updated": "2026-10-11"
  },
  "FCA": {
@@ -1761,6 +1785,18 @@
   "sig": "{\"common\": 0, \"drawing\": \"c4424c3ee257\", \"gates\": 21, \"held\": {\"AA\": 4, \"AS\": 1, \"DL\": 2, \"UA\": 4, \"WN\": 4}, \"low\": 6}",
   "top": "WN",
   "top_gates": 4,
+  "updated": "2026-10-11"
+ },
+ "TVC": {
+  "flights_day": 36,
+  "gates": 5,
+  "name": "Cherry Capital, Traverse City",
+  "published": "2026-10-11",
+  "seats_day": 1510,
+  "short": "Traverse City",
+  "sig": "{\"common\": 0, \"drawing\": \"12072516de2c\", \"gates\": 5, \"held\": {\"AA\": 1, \"DL\": 1, \"UA\": 3}, \"low\": 0}",
+  "top": "UA",
+  "top_gates": 3,
   "updated": "2026-10-11"
  },
  "VPS": {
