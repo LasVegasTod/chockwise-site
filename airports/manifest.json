@@ -90,7 +90,7 @@
   "published": "2026-10-06",
   "seats_day": 41509,
   "short": "Austin",
-  "sig": "{\"common\": 6, \"drawing\": \"b2ed44ae47e1\", \"gates\": 40, \"held\": {\"AA\": 4, \"AS\": 1, \"DL\": 10, \"UA\": 5, \"WN\": 10}, \"low\": 4}",
+  "sig": "{\"common\": 5, \"drawing\": \"b2ed44ae47e1\", \"gates\": 40, \"held\": {\"AA\": 5, \"AS\": 1, \"DL\": 10, \"UA\": 5, \"WN\": 10}, \"low\": 4}",
   "top": "WN",
   "top_gates": 10,
   "updated": "2026-10-11"
@@ -642,7 +642,7 @@
   "published": "2026-10-06",
   "seats_day": 45146,
   "short": "Fort Lauderdale",
-  "sig": "{\"common\": 9, \"drawing\": \"5e7c8d15acd6\", \"gates\": 67, \"held\": {\"AA\": 4, \"B6\": 26, \"DL\": 8, \"F9\": 2, \"G4\": 3, \"MX\": 1, \"UA\": 6, \"WN\": 6}, \"low\": 2}",
+  "sig": "{\"common\": 8, \"drawing\": \"5e7c8d15acd6\", \"gates\": 67, \"held\": {\"AA\": 4, \"B6\": 26, \"DL\": 8, \"F9\": 2, \"G4\": 3, \"MX\": 2, \"UA\": 6, \"WN\": 6}, \"low\": 2}",
   "top": "B6",
   "top_gates": 26,
   "updated": "2026-10-11"
@@ -827,6 +827,18 @@
   "top_gates": 3,
   "updated": "2026-10-11"
  },
+ "IDA": {
+  "flights_day": 32,
+  "gates": 6,
+  "name": "Idaho Falls Rgnl",
+  "published": "2026-10-11",
+  "seats_day": 1327,
+  "short": "Idaho Falls",
+  "sig": "{\"common\": 0, \"drawing\": \"d01ae3c66064\", \"gates\": 6, \"held\": {\"AA\": 1, \"AS\": 1, \"G4\": 1, \"UA\": 1}, \"low\": 2}",
+  "top": "UA",
+  "top_gates": 1,
+  "updated": "2026-10-11"
+ },
  "ILM": {
   "flights_day": 75,
   "gates": 9,
@@ -930,7 +942,7 @@
   "published": "2026-10-05",
   "seats_day": 91436,
   "short": "Las Vegas",
-  "sig": "{\"common\": 10, \"drawing\": \"8943343ea45c\", \"gates\": 110, \"held\": {\"AA\": 9, \"AS\": 5, \"B6\": 2, \"DL\": 9, \"F9\": 11, \"G4\": 6, \"MX\": 1, \"UA\": 9, \"WN\": 37}, \"low\": 11}",
+  "sig": "{\"common\": 10, \"drawing\": \"8943343ea45c\", \"gates\": 110, \"held\": {\"AA\": 9, \"AS\": 5, \"B6\": 2, \"DL\": 9, \"F9\": 11, \"G4\": 7, \"MX\": 1, \"UA\": 9, \"WN\": 37}, \"low\": 10}",
   "top": "WN",
   "top_gates": 37,
   "updated": "2026-10-11"
