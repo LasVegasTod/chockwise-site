@@ -191,6 +191,18 @@
   "top_gates": 2,
   "updated": "2026-10-11"
  },
+ "BTV": {
+  "flights_day": 70,
+  "gates": 11,
+  "name": "Patrick Leahy Burlington Intl",
+  "published": "2026-10-11",
+  "seats_day": 3233,
+  "short": "Burlington",
+  "sig": "{\"common\": 1, \"drawing\": \"c62014936fb9\", \"gates\": 11, \"held\": {\"AA\": 4, \"DL\": 3, \"UA\": 3}, \"low\": 0}",
+  "top": "AA",
+  "top_gates": 4,
+  "updated": "2026-10-11"
+ },
  "BUF": {
   "flights_day": 157,
   "gates": 24,
@@ -573,6 +585,18 @@
   "sig": "{\"common\": 9, \"drawing\": \"5e7c8d15acd6\", \"gates\": 67, \"held\": {\"AA\": 4, \"B6\": 26, \"DL\": 8, \"F9\": 2, \"G4\": 3, \"MX\": 2, \"UA\": 5, \"WN\": 6}, \"low\": 2}",
   "top": "B6",
   "top_gates": 26,
+  "updated": "2026-10-11"
+ },
+ "FRA": {
+  "flights_day": 1253,
+  "gates": 117,
+  "name": "Frankfurt Int'l, Frankfurt am Main",
+  "published": "2026-10-11",
+  "seats_day": 34055,
+  "short": "Frankfurt",
+  "sig": "{\"common\": 36, \"drawing\": \"711cb775a146\", \"gates\": 117, \"held\": {\"4Y\": 1, \"DE\": 1, \"DL\": 3, \"LH\": 28, \"UA\": 7, \"YW\": 1}, \"low\": 40}",
+  "top": "LH",
+  "top_gates": 28,
   "updated": "2026-10-11"
  },
  "FSD": {
