@@ -924,11 +924,11 @@
   "updated": "2026-10-11"
  },
  "LAX": {
-  "flights_day": 1295,
+  "flights_day": 1455,
   "gates": 148,
   "name": "Los Angeles Intl",
   "published": "2026-10-05",
-  "seats_day": 90912,
+  "seats_day": 102477,
   "short": "Los Angeles",
   "sig": "{\"common\": 31, \"drawing\": \"a0597c9918ae\", \"gates\": 148, \"held\": {\"AA\": 22, \"AF\": 1, \"AS\": 11, \"B6\": 3, \"DL\": 25, \"F9\": 4, \"UA\": 24, \"WN\": 9, \"Y4\": 2}, \"low\": 16}",
   "top": "DL",
@@ -1602,7 +1602,7 @@
   "published": "2026-10-06",
   "seats_day": 84426,
   "short": "Seattle",
-  "sig": "{\"common\": 22, \"drawing\": \"cdbc4cad3fb4\", \"gates\": 97, \"held\": {\"AA\": 3, \"AS\": 40, \"DL\": 18, \"UA\": 4, \"WN\": 3}, \"low\": 7}",
+  "sig": "{\"common\": 21, \"drawing\": \"cdbc4cad3fb4\", \"gates\": 97, \"held\": {\"AA\": 3, \"AS\": 40, \"DL\": 19, \"UA\": 4, \"WN\": 3}, \"low\": 7}",
   "top": "AS",
   "top_gates": 40,
   "updated": "2026-10-11"
@@ -1626,9 +1626,9 @@
   "published": "2026-10-06",
   "seats_day": 86452,
   "short": "San Francisco",
-  "sig": "{\"common\": 23, \"drawing\": \"f165ac97e273\", \"gates\": 108, \"held\": {\"AA\": 7, \"AC\": 1, \"AS\": 8, \"B6\": 2, \"DL\": 7, \"F9\": 2, \"UA\": 48, \"WN\": 4}, \"low\": 6}",
+  "sig": "{\"common\": 25, \"drawing\": \"f165ac97e273\", \"gates\": 108, \"held\": {\"AA\": 7, \"AC\": 1, \"AS\": 8, \"B6\": 2, \"DL\": 7, \"F9\": 2, \"UA\": 47, \"WN\": 3}, \"low\": 6}",
   "top": "UA",
-  "top_gates": 48,
+  "top_gates": 47,
   "updated": "2026-10-11"
  },
  "SGF": {
@@ -1672,11 +1672,11 @@
   "gates": 87,
   "name": "Salt Lake City Intl",
   "published": "2026-10-06",
-  "seats_day": 45641,
+  "seats_day": 45642,
   "short": "Salt Lake City",
-  "sig": "{\"common\": 4, \"drawing\": \"fd791340f1d5\", \"gates\": 87, \"held\": {\"AA\": 4, \"AS\": 3, \"DL\": 57, \"F9\": 1, \"UA\": 5, \"WN\": 8}, \"low\": 5}",
+  "sig": "{\"common\": 3, \"drawing\": \"fd791340f1d5\", \"gates\": 87, \"held\": {\"AA\": 4, \"AS\": 3, \"DL\": 58, \"F9\": 1, \"UA\": 5, \"WN\": 8}, \"low\": 5}",
   "top": "DL",
-  "top_gates": 57,
+  "top_gates": 58,
   "updated": "2026-10-11"
  },
  "SMF": {
@@ -1737,6 +1737,18 @@
   "sig": "{\"common\": 0, \"drawing\": \"2aa125e320a3\", \"gates\": 7, \"held\": {\"AA\": 1, \"AS\": 3, \"WN\": 1}, \"low\": 2}",
   "top": "AS",
   "top_gates": 3,
+  "updated": "2026-10-11"
+ },
+ "SUN": {
+  "flights_day": 14,
+  "gates": 2,
+  "name": "Sun Valley/Friedman Meml, Hailey",
+  "published": "2026-10-11",
+  "seats_day": 551,
+  "short": "Sun Valley",
+  "sig": "{\"common\": 0, \"drawing\": \"a3ffbc1d159c\", \"gates\": 2, \"held\": {\"AS\": 1, \"DL\": 1}, \"low\": 0}",
+  "top": "DL",
+  "top_gates": 1,
   "updated": "2026-10-11"
  },
  "SYR": {
