@@ -143,6 +143,18 @@
   "top_gates": 2,
   "updated": "2026-10-11"
  },
+ "BIS": {
+  "flights_day": 29,
+  "gates": 4,
+  "name": "Bismarck Muni",
+  "published": "2026-10-11",
+  "seats_day": 1091,
+  "short": "Bismarck",
+  "sig": "{\"common\": 0, \"drawing\": \"27fea1a4f393\", \"gates\": 4, \"held\": {\"AA\": 1, \"DL\": 1, \"G4\": 1, \"UA\": 1}, \"low\": 0}",
+  "top": "DL",
+  "top_gates": 1,
+  "updated": "2026-10-11"
+ },
  "BNA": {
   "flights_day": 725,
   "gates": 62,
