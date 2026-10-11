@@ -1127,6 +1127,64 @@
    "updated": "2026-10-11"
   }
  },
+ "BIL": {
+  "alaska": {
+   "airport_short": "BIL",
+   "code": "AS",
+   "deps_day": 3.5,
+   "gone": false,
+   "last_seen": "2026-10-03",
+   "last_seen_str": "Oct 3, 2026",
+   "name": "Alaska Airlines",
+   "published": "2026-10-11",
+   "short": "Alaska",
+   "sig": "{\"drawing\": \"d9d786f169d7\", \"focus\": [\"A1\"], \"held\": [\"A1\"], \"held_n\": 1, \"main\": [\"A1\"]}",
+   "slug": "alaska",
+   "updated": "2026-10-11"
+  },
+  "american": {
+   "airport_short": "BIL",
+   "code": "AA",
+   "deps_day": 3.0,
+   "gone": false,
+   "last_seen": "2026-10-03",
+   "last_seen_str": "Oct 3, 2026",
+   "name": "American Airlines",
+   "published": "2026-10-11",
+   "short": "American",
+   "sig": "{\"drawing\": \"d9d786f169d7\", \"focus\": [\"B1\", \"B2\"], \"held\": [\"B2\"], \"held_n\": 1, \"main\": [\"B1\", \"B2\"]}",
+   "slug": "american",
+   "updated": "2026-10-11"
+  },
+  "delta": {
+   "airport_short": "BIL",
+   "code": "DL",
+   "deps_day": 4.0,
+   "gone": false,
+   "last_seen": "2026-10-03",
+   "last_seen_str": "Oct 3, 2026",
+   "name": "Delta Air Lines",
+   "published": "2026-10-11",
+   "short": "Delta",
+   "sig": "{\"drawing\": \"d9d786f169d7\", \"focus\": [\"A2\", \"A3\"], \"held\": [\"A3\"], \"held_n\": 1, \"main\": [\"A2\", \"A3\"]}",
+   "slug": "delta",
+   "updated": "2026-10-11"
+  },
+  "united": {
+   "airport_short": "BIL",
+   "code": "UA",
+   "deps_day": 5.5,
+   "gone": false,
+   "last_seen": "2026-10-03",
+   "last_seen_str": "Oct 3, 2026",
+   "name": "United Airlines",
+   "published": "2026-10-11",
+   "short": "United",
+   "sig": "{\"drawing\": \"d9d786f169d7\", \"focus\": [\"B3\", \"B4\"], \"held\": [\"B3\", \"B4\"], \"held_n\": 2, \"main\": [\"B3\", \"B4\"]}",
+   "slug": "united",
+   "updated": "2026-10-11"
+  }
+ },
  "BNA": {
   "air-canada": {
    "airport_short": "BNA",
@@ -6546,6 +6604,20 @@
    "slug": "air-china",
    "updated": "2026-10-11"
   },
+  "air-dolomiti": {
+   "airport_short": "FRA",
+   "code": "EN",
+   "deps_day": 44.0,
+   "gone": false,
+   "last_seen": "2026-10-10",
+   "last_seen_str": "Oct 10, 2026",
+   "name": "Air Dolomiti",
+   "published": "2026-10-11",
+   "short": "Air Dolomiti",
+   "sig": "{\"drawing\": \"711cb775a146\", \"focus\": [\"B1\", \"B11\", \"B12\", \"A13\", \"B13\", \"B14\", \"B15\", \"B16\", \"A17\", \"A20\", \"A22\", \"A23\", \"B30\", \"A40\", \"A69\"], \"held\": [], \"held_n\": 0, \"main\": [\"B1\", \"B11\", \"B12\", \"A13\", \"B13\", \"B14\", \"B15\", \"B16\", \"A17\", \"A20\", \"A22\", \"A23\", \"B30\", \"A40\", \"A69\"]}",
+   "slug": "air-dolomiti",
+   "updated": "2026-10-11"
+  },
   "air-europa": {
    "airport_short": "FRA",
    "code": "UX",
@@ -6574,6 +6646,20 @@
    "slug": "air-india",
    "updated": "2026-10-11"
   },
+  "air-nostrum": {
+   "airport_short": "FRA",
+   "code": "YW",
+   "deps_day": 3.0,
+   "gone": false,
+   "last_seen": "2026-10-10",
+   "last_seen_str": "Oct 10, 2026",
+   "name": "Air Nostrum",
+   "published": "2026-10-11",
+   "short": "Air Nostrum",
+   "sig": "{\"drawing\": \"711cb775a146\", \"focus\": [\"H51\", \"H53\"], \"held\": [\"H51\"], \"held_n\": 1, \"main\": [\"H51\", \"H53\"]}",
+   "slug": "air-nostrum",
+   "updated": "2026-10-11"
+  },
   "air-serbia": {
    "airport_short": "FRA",
    "code": "JU",
@@ -6600,6 +6686,20 @@
    "short": "airBaltic",
    "sig": "{\"drawing\": \"711cb775a146\", \"focus\": [\"A11\", \"A14\", \"A17\", \"A20\", \"A21\", \"A26\"], \"held\": [], \"held_n\": 0, \"main\": [\"A11\", \"A14\", \"A17\", \"A20\", \"A21\", \"A26\"]}",
    "slug": "airbaltic",
+   "updated": "2026-10-11"
+  },
+  "ajet": {
+   "airport_short": "FRA",
+   "code": "VF",
+   "deps_day": 1.0,
+   "gone": false,
+   "last_seen": "2026-10-10",
+   "last_seen_str": "Oct 10, 2026",
+   "name": "AJet",
+   "published": "2026-10-11",
+   "short": "AJet",
+   "sig": "{\"drawing\": \"711cb775a146\", \"focus\": [\"C16\", \"C17\", \"B47\"], \"held\": [], \"held_n\": 0, \"main\": [\"C16\", \"C17\", \"B47\"]}",
+   "slug": "ajet",
    "updated": "2026-10-11"
   },
   "american": {
@@ -6642,6 +6742,20 @@
    "short": "Asiana",
    "sig": "{\"drawing\": \"711cb775a146\", \"focus\": [\"J4\", \"J7\"], \"held\": [], \"held_n\": 0, \"main\": [\"J4\", \"J7\"]}",
    "slug": "asiana",
+   "updated": "2026-10-11"
+  },
+  "atlasglobal": {
+   "airport_short": "FRA",
+   "code": "KK",
+   "deps_day": 0.7,
+   "gone": false,
+   "last_seen": "2026-10-10",
+   "last_seen_str": "Oct 10, 2026",
+   "name": "AtlasGlobal",
+   "published": "2026-10-11",
+   "short": "AtlasGlobal",
+   "sig": "{\"drawing\": \"711cb775a146\", \"focus\": [\"H2\", \"H5\"], \"held\": [], \"held_n\": 0, \"main\": [\"H2\", \"H5\"]}",
+   "slug": "atlasglobal",
    "updated": "2026-10-11"
   },
   "austrian": {
@@ -6756,6 +6870,20 @@
    "slug": "condor",
    "updated": "2026-10-11"
   },
+  "corendon": {
+   "airport_short": "FRA",
+   "code": "XC",
+   "deps_day": 1.3,
+   "gone": false,
+   "last_seen": "2026-10-10",
+   "last_seen_str": "Oct 10, 2026",
+   "name": "Corendon Airlines",
+   "published": "2026-10-11",
+   "short": "Corendon",
+   "sig": "{\"drawing\": \"711cb775a146\", \"focus\": [\"J3\"], \"held\": [], \"held_n\": 0, \"main\": [\"J3\"]}",
+   "slug": "corendon",
+   "updated": "2026-10-11"
+  },
   "croatia-airlines": {
    "airport_short": "FRA",
    "code": "OU",
@@ -6768,6 +6896,20 @@
    "short": "Croatia Airlines",
    "sig": "{\"drawing\": \"711cb775a146\", \"focus\": [\"A15\", \"A22\"], \"held\": [], \"held_n\": 0, \"main\": [\"A15\", \"A22\"]}",
    "slug": "croatia-airlines",
+   "updated": "2026-10-11"
+  },
+  "dat": {
+   "airport_short": "FRA",
+   "code": "DX",
+   "deps_day": 2.0,
+   "gone": false,
+   "last_seen": "2026-10-10",
+   "last_seen_str": "Oct 10, 2026",
+   "name": "DAT (Danish Air Transport)",
+   "published": "2026-10-11",
+   "short": "DAT",
+   "sig": "{\"drawing\": \"711cb775a146\", \"focus\": [\"A20\", \"A22\", \"A23\"], \"held\": [], \"held_n\": 0, \"main\": [\"A20\", \"A22\", \"A23\"]}",
+   "slug": "dat",
    "updated": "2026-10-11"
   },
   "delta": {
@@ -6796,6 +6938,20 @@
    "short": "Discover",
    "sig": "{\"drawing\": \"711cb775a146\", \"focus\": [\"B10\", \"A11\", \"B11\", \"B12\", \"A13\", \"B13\", \"C13\", \"C14\", \"A15\", \"B15\", \"C15\", \"C16\", \"C17\", \"C19\", \"A20\", \"C20\", \"A22\", \"A25\", \"A34\", \"A36\", \"A40\"], \"held\": [\"C15\"], \"held_n\": 1, \"main\": [\"B10\", \"A11\", \"B11\", \"B12\", \"A13\", \"B13\", \"C13\", \"C14\", \"A15\", \"B15\", \"C15\", \"C16\", \"C17\", \"C19\", \"A20\", \"C20\", \"A22\", \"A25\", \"A34\", \"A36\", \"A40\"]}",
    "slug": "discover",
+   "updated": "2026-10-11"
+  },
+  "easyjet": {
+   "airport_short": "FRA",
+   "code": "U2",
+   "deps_day": 4.0,
+   "gone": false,
+   "last_seen": "2026-10-10",
+   "last_seen_str": "Oct 10, 2026",
+   "name": "easyJet",
+   "published": "2026-10-11",
+   "short": "easyJet",
+   "sig": "{\"drawing\": \"711cb775a146\", \"focus\": [\"H1\", \"H3\"], \"held\": [], \"held_n\": 0, \"main\": [\"H1\", \"H3\"]}",
+   "slug": "easyjet",
    "updated": "2026-10-11"
   },
   "egyptair": {
@@ -6882,6 +7038,20 @@
    "slug": "finnair",
    "updated": "2026-10-11"
   },
+  "german-airways": {
+   "airport_short": "FRA",
+   "code": "ZQ",
+   "deps_day": 1.7,
+   "gone": false,
+   "last_seen": "2026-10-10",
+   "last_seen_str": "Oct 10, 2026",
+   "name": "German Airways",
+   "published": "2026-10-11",
+   "short": "German Airways",
+   "sig": "{\"drawing\": \"711cb775a146\", \"focus\": [\"H3\"], \"held\": [], \"held_n\": 0, \"main\": [\"H3\"]}",
+   "slug": "german-airways",
+   "updated": "2026-10-11"
+  },
   "gulf-air": {
    "airport_short": "FRA",
    "code": "GF",
@@ -6894,6 +7064,20 @@
    "short": "Gulf Air",
    "sig": "{\"drawing\": \"711cb775a146\", \"focus\": [\"J1\"], \"held\": [], \"held_n\": 0, \"main\": [\"J1\"]}",
    "slug": "gulf-air",
+   "updated": "2026-10-11"
+  },
+  "hop": {
+   "airport_short": "FRA",
+   "code": "A5",
+   "deps_day": 3.0,
+   "gone": false,
+   "last_seen": "2026-10-10",
+   "last_seen_str": "Oct 10, 2026",
+   "name": "HOP! (Air France Hop)",
+   "published": "2026-10-11",
+   "short": "HOP!",
+   "sig": "{\"drawing\": \"711cb775a146\", \"focus\": [\"H2\", \"H8\"], \"held\": [], \"held_n\": 0, \"main\": [\"H2\", \"H8\"]}",
+   "slug": "hop",
    "updated": "2026-10-11"
   },
   "icelandair": {
@@ -7034,6 +7218,20 @@
    "short": "Middle East Airlines",
    "sig": "{\"drawing\": \"711cb775a146\", \"focus\": [\"J9\"], \"held\": [], \"held_n\": 0, \"main\": [\"J9\"]}",
    "slug": "middle-east-airlines",
+   "updated": "2026-10-11"
+  },
+  "nesma": {
+   "airport_short": "FRA",
+   "code": "NE",
+   "deps_day": 0.7,
+   "gone": false,
+   "last_seen": "2026-10-10",
+   "last_seen_str": "Oct 10, 2026",
+   "name": "Nesma Airlines",
+   "published": "2026-10-11",
+   "short": "Nesma",
+   "sig": "{\"drawing\": \"711cb775a146\", \"focus\": [\"J1\", \"J8\"], \"held\": [], \"held_n\": 0, \"main\": [\"J1\", \"J8\"]}",
+   "slug": "nesma",
    "updated": "2026-10-11"
   },
   "nouvelair": {
@@ -7218,6 +7416,20 @@
    "slug": "tap",
    "updated": "2026-10-11"
   },
+  "tarom": {
+   "airport_short": "FRA",
+   "code": "RO",
+   "deps_day": 1.0,
+   "gone": false,
+   "last_seen": "2026-10-10",
+   "last_seen_str": "Oct 10, 2026",
+   "name": "TAROM",
+   "published": "2026-10-11",
+   "short": "TAROM",
+   "sig": "{\"drawing\": \"711cb775a146\", \"focus\": [\"H8\"], \"held\": [], \"held_n\": 0, \"main\": [\"H8\"]}",
+   "slug": "tarom",
+   "updated": "2026-10-11"
+  },
   "thai-airways": {
    "airport_short": "FRA",
    "code": "TG",
@@ -7230,6 +7442,34 @@
    "short": "Thai Airways",
    "sig": "{\"drawing\": \"711cb775a146\", \"focus\": [\"C13\", \"C15\", \"B42\", \"B48\"], \"held\": [], \"held_n\": 0, \"main\": [\"C13\", \"C15\", \"B42\", \"B48\"]}",
    "slug": "thai-airways",
+   "updated": "2026-10-11"
+  },
+  "tuifly": {
+   "airport_short": "FRA",
+   "code": "X3",
+   "deps_day": 8.0,
+   "gone": false,
+   "last_seen": "2026-10-10",
+   "last_seen_str": "Oct 10, 2026",
+   "name": "TUIfly",
+   "published": "2026-10-11",
+   "short": "TUIfly",
+   "sig": "{\"drawing\": \"711cb775a146\", \"focus\": [\"H1\", \"H3\", \"H4\", \"H5\", \"J10\"], \"held\": [], \"held_n\": 0, \"main\": [\"H1\", \"H3\", \"H4\", \"H5\", \"J10\"]}",
+   "slug": "tuifly",
+   "updated": "2026-10-11"
+  },
+  "tunisair": {
+   "airport_short": "FRA",
+   "code": "TU",
+   "deps_day": 1.3,
+   "gone": false,
+   "last_seen": "2026-10-10",
+   "last_seen_str": "Oct 10, 2026",
+   "name": "Tunisair",
+   "published": "2026-10-11",
+   "short": "Tunisair",
+   "sig": "{\"drawing\": \"711cb775a146\", \"focus\": [\"J12\"], \"held\": [], \"held_n\": 0, \"main\": [\"J12\"]}",
+   "slug": "tunisair",
    "updated": "2026-10-11"
   },
   "turkish-airlines": {
@@ -16872,6 +17112,50 @@
    "published": "2026-10-07",
    "short": "United",
    "sig": "{\"drawing\": \"c9fca1c7354e\", \"focus\": [\"C5\", \"C7\", \"C9\", \"C11\", \"C12\", \"C14\"], \"held\": [\"C5\", \"C7\", \"C9\", \"C11\", \"C12\"], \"held_n\": 5, \"main\": [\"C5\", \"C7\", \"C9\", \"C11\", \"C12\", \"C14\"]}",
+   "slug": "united",
+   "updated": "2026-10-11"
+  }
+ },
+ "MTJ": {
+  "american": {
+   "airport_short": "MTJ",
+   "code": "AA",
+   "deps_day": 1.3,
+   "gone": false,
+   "last_seen": "2026-10-09",
+   "last_seen_str": "Oct 9, 2026",
+   "name": "American Airlines",
+   "published": "2026-10-11",
+   "short": "American",
+   "sig": "{\"drawing\": \"f519784d4486\", \"focus\": [\"6\"], \"held\": [], \"held_n\": 0, \"main\": [\"6\"]}",
+   "slug": "american",
+   "updated": "2026-10-11"
+  },
+  "southwest": {
+   "airport_short": "MTJ",
+   "code": "WN",
+   "deps_day": 1.0,
+   "gone": false,
+   "last_seen": "2026-10-09",
+   "last_seen_str": "Oct 9, 2026",
+   "name": "Southwest Airlines",
+   "published": "2026-10-11",
+   "short": "Southwest",
+   "sig": "{\"drawing\": \"f519784d4486\", \"focus\": [\"7\"], \"held\": [\"7\"], \"held_n\": 1, \"main\": [\"7\"]}",
+   "slug": "southwest",
+   "updated": "2026-10-11"
+  },
+  "united": {
+   "airport_short": "MTJ",
+   "code": "UA",
+   "deps_day": 3.0,
+   "gone": false,
+   "last_seen": "2026-10-09",
+   "last_seen_str": "Oct 9, 2026",
+   "name": "United Airlines",
+   "published": "2026-10-11",
+   "short": "United",
+   "sig": "{\"drawing\": \"f519784d4486\", \"focus\": [\"2\", \"3\", \"4\", \"5\", \"6\"], \"held\": [\"2\", \"3\", \"4\"], \"held_n\": 3, \"main\": [\"2\", \"3\", \"4\", \"5\", \"6\"]}",
    "slug": "united",
    "updated": "2026-10-11"
   }

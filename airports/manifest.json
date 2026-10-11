@@ -131,6 +131,18 @@
   "top_gates": 7,
   "updated": "2026-10-11"
  },
+ "BIL": {
+  "flights_day": 34,
+  "gates": 8,
+  "name": "Billings Logan Intl",
+  "published": "2026-10-11",
+  "seats_day": 1525,
+  "short": "Billings",
+  "sig": "{\"common\": 0, \"drawing\": \"d9d786f169d7\", \"gates\": 8, \"held\": {\"AA\": 1, \"AS\": 1, \"DL\": 1, \"UA\": 2}, \"low\": 3}",
+  "top": "UA",
+  "top_gates": 2,
+  "updated": "2026-10-11"
+ },
  "BNA": {
   "flights_day": 725,
   "gates": 62,
@@ -1173,6 +1185,18 @@
   "sig": "{\"common\": 1, \"drawing\": \"c9fca1c7354e\", \"gates\": 35, \"held\": {\"AA\": 6, \"AS\": 1, \"B6\": 1, \"DL\": 5, \"F9\": 1, \"MX\": 4, \"UA\": 5, \"WN\": 9}, \"low\": 2}",
   "top": "WN",
   "top_gates": 9,
+  "updated": "2026-10-11"
+ },
+ "MTJ": {
+  "flights_day": 12,
+  "gates": 7,
+  "name": "Montrose Rgnl",
+  "published": "2026-10-11",
+  "seats_day": 778,
+  "short": "Montrose",
+  "sig": "{\"common\": 1, \"drawing\": \"f519784d4486\", \"gates\": 7, \"held\": {\"UA\": 3, \"WN\": 1}, \"low\": 2}",
+  "top": "UA",
+  "top_gates": 3,
   "updated": "2026-10-11"
  },
  "OAK": {
