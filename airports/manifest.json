@@ -1259,6 +1259,18 @@
   "top_gates": 3,
   "updated": "2026-10-11"
  },
+ "NRT": {
+  "flights_day": 649,
+  "gates": 86,
+  "name": "Narita Int'l, Tokyo (Narita)",
+  "published": "2026-10-11",
+  "seats_day": 4422,
+  "short": "Tokyo Narita",
+  "sig": "{\"common\": 58, \"drawing\": \"23881ffb876d\", \"gates\": 86, \"held\": {\"GK\": 8, \"HX\": 1, \"JL\": 2, \"NH\": 9, \"UO\": 1, \"ZG\": 3}, \"low\": 4}",
+  "top": "NH",
+  "top_gates": 9,
+  "updated": "2026-10-11"
+ },
  "OAK": {
   "flights_day": 218,
   "gates": 28,
