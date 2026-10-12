@@ -95,6 +95,7 @@
   <url><loc>https://chockwise.com/airports/lih</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.8</priority><image:image><image:loc>https://chockwise.com/airports/lih-gates.png</image:loc></image:image></url>
   <url><loc>https://chockwise.com/airports/lit</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.8</priority><image:image><image:loc>https://chockwise.com/airports/lit-gates.png</image:loc></image:image></url>
   <url><loc>https://chockwise.com/airports/lnk</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.8</priority><image:image><image:loc>https://chockwise.com/airports/lnk-gates.png</image:loc></image:image></url>
+  <url><loc>https://chockwise.com/airports/lrd</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.8</priority><image:image><image:loc>https://chockwise.com/airports/lrd-gates.png</image:loc></image:image></url>
   <url><loc>https://chockwise.com/airports/maf</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.8</priority><image:image><image:loc>https://chockwise.com/airports/maf-gates.png</image:loc></image:image></url>
   <url><loc>https://chockwise.com/airports/mci</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.8</priority><image:image><image:loc>https://chockwise.com/airports/mci-gates.png</image:loc></image:image></url>
   <url><loc>https://chockwise.com/airports/mco</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.8</priority><image:image><image:loc>https://chockwise.com/airports/mco-gates.png</image:loc></image:image></url>
@@ -107,6 +108,7 @@
   <url><loc>https://chockwise.com/airports/mgm</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.8</priority><image:image><image:loc>https://chockwise.com/airports/mgm-gates.png</image:loc></image:image></url>
   <url><loc>https://chockwise.com/airports/mht</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.8</priority><image:image><image:loc>https://chockwise.com/airports/mht-gates.png</image:loc></image:image></url>
   <url><loc>https://chockwise.com/airports/mia</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.8</priority><image:image><image:loc>https://chockwise.com/airports/mia-gates.png</image:loc></image:image></url>
+  <url><loc>https://chockwise.com/airports/mli</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.8</priority><image:image><image:loc>https://chockwise.com/airports/mli-gates.png</image:loc></image:image></url>
   <url><loc>https://chockwise.com/airports/mob</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.8</priority><image:image><image:loc>https://chockwise.com/airports/mob-gates.png</image:loc></image:image></url>
   <url><loc>https://chockwise.com/airports/mry</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.8</priority><image:image><image:loc>https://chockwise.com/airports/mry-gates.png</image:loc></image:image></url>
   <url><loc>https://chockwise.com/airports/msn</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.8</priority><image:image><image:loc>https://chockwise.com/airports/msn-gates.png</image:loc></image:image></url>
@@ -190,6 +192,7 @@
   <url><loc>https://chockwise.com/airports/ams/aegean</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority><image:image><image:loc>https://chockwise.com/airports/ams-aegean.png</image:loc></image:image></url>
   <url><loc>https://chockwise.com/airports/ams/aer-lingus</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority><image:image><image:loc>https://chockwise.com/airports/ams-aer-lingus.png</image:loc></image:image></url>
   <url><loc>https://chockwise.com/airports/ams/aeromexico</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority><image:image><image:loc>https://chockwise.com/airports/ams-aeromexico.png</image:loc></image:image></url>
+  <url><loc>https://chockwise.com/airports/ams/air-arabia-maroc</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://chockwise.com/airports/ams/air-canada</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority><image:image><image:loc>https://chockwise.com/airports/ams-air-canada.png</image:loc></image:image></url>
   <url><loc>https://chockwise.com/airports/ams/air-europa</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority><image:image><image:loc>https://chockwise.com/airports/ams-air-europa.png</image:loc></image:image></url>
   <url><loc>https://chockwise.com/airports/ams/air-france</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority><image:image><image:loc>https://chockwise.com/airports/ams-air-france.png</image:loc></image:image></url>
@@ -198,9 +201,11 @@
   <url><loc>https://chockwise.com/airports/ams/air-transat</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority><image:image><image:loc>https://chockwise.com/airports/ams-air-transat.png</image:loc></image:image></url>
   <url><loc>https://chockwise.com/airports/ams/airbaltic</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority><image:image><image:loc>https://chockwise.com/airports/ams-airbaltic.png</image:loc></image:image></url>
   <url><loc>https://chockwise.com/airports/ams/ajet</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority><image:image><image:loc>https://chockwise.com/airports/ams-ajet.png</image:loc></image:image></url>
+  <url><loc>https://chockwise.com/airports/ams/alliance-air</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://chockwise.com/airports/ams/american</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority><image:image><image:loc>https://chockwise.com/airports/ams-american.png</image:loc></image:image></url>
   <url><loc>https://chockwise.com/airports/ams/arkia</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority><image:image><image:loc>https://chockwise.com/airports/ams-arkia.png</image:loc></image:image></url>
   <url><loc>https://chockwise.com/airports/ams/austrian</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority><image:image><image:loc>https://chockwise.com/airports/ams-austrian.png</image:loc></image:image></url>
+  <url><loc>https://chockwise.com/airports/ams/blue-bird</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://chockwise.com/airports/ams/british-airways</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority><image:image><image:loc>https://chockwise.com/airports/ams-british-airways.png</image:loc></image:image></url>
   <url><loc>https://chockwise.com/airports/ams/bulgaria-air</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority><image:image><image:loc>https://chockwise.com/airports/ams-bulgaria-air.png</image:loc></image:image></url>
   <url><loc>https://chockwise.com/airports/ams/cathay-pacific</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority><image:image><image:loc>https://chockwise.com/airports/ams-cathay-pacific.png</image:loc></image:image></url>
@@ -217,7 +222,9 @@
   <url><loc>https://chockwise.com/airports/ams/eva-air</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority><image:image><image:loc>https://chockwise.com/airports/ams-eva-air.png</image:loc></image:image></url>
   <url><loc>https://chockwise.com/airports/ams/finnair</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority><image:image><image:loc>https://chockwise.com/airports/ams-finnair.png</image:loc></image:image></url>
   <url><loc>https://chockwise.com/airports/ams/flyone</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority><image:image><image:loc>https://chockwise.com/airports/ams-flyone.png</image:loc></image:image></url>
+  <url><loc>https://chockwise.com/airports/ams/flyone-armenia</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://chockwise.com/airports/ams/garuda</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority><image:image><image:loc>https://chockwise.com/airports/ams-garuda.png</image:loc></image:image></url>
+  <url><loc>https://chockwise.com/airports/ams/georgian-airways</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://chockwise.com/airports/ams/iberia</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority><image:image><image:loc>https://chockwise.com/airports/ams-iberia.png</image:loc></image:image></url>
   <url><loc>https://chockwise.com/airports/ams/icelandair</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority><image:image><image:loc>https://chockwise.com/airports/ams-icelandair.png</image:loc></image:image></url>
   <url><loc>https://chockwise.com/airports/ams/indigo</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority><image:image><image:loc>https://chockwise.com/airports/ams-indigo.png</image:loc></image:image></url>
@@ -233,6 +240,7 @@
   <url><loc>https://chockwise.com/airports/ams/lufthansa</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority><image:image><image:loc>https://chockwise.com/airports/ams-lufthansa.png</image:loc></image:image></url>
   <url><loc>https://chockwise.com/airports/ams/lufthansa-city</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority><image:image><image:loc>https://chockwise.com/airports/ams-lufthansa-city.png</image:loc></image:image></url>
   <url><loc>https://chockwise.com/airports/ams/middle-east-airlines</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority><image:image><image:loc>https://chockwise.com/airports/ams-middle-east-airlines.png</image:loc></image:image></url>
+  <url><loc>https://chockwise.com/airports/ams/norwegian-air</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://chockwise.com/airports/ams/oman-air</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority><image:image><image:loc>https://chockwise.com/airports/ams-oman-air.png</image:loc></image:image></url>
   <url><loc>https://chockwise.com/airports/ams/pegasus</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority><image:image><image:loc>https://chockwise.com/airports/ams-pegasus.png</image:loc></image:image></url>
   <url><loc>https://chockwise.com/airports/ams/qatar-airways</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority><image:image><image:loc>https://chockwise.com/airports/ams-qatar-airways.png</image:loc></image:image></url>
@@ -249,8 +257,11 @@
   <url><loc>https://chockwise.com/airports/ams/tap</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority><image:image><image:loc>https://chockwise.com/airports/ams-tap.png</image:loc></image:image></url>
   <url><loc>https://chockwise.com/airports/ams/tarom</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority><image:image><image:loc>https://chockwise.com/airports/ams-tarom.png</image:loc></image:image></url>
   <url><loc>https://chockwise.com/airports/ams/thai-airways</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority><image:image><image:loc>https://chockwise.com/airports/ams-thai-airways.png</image:loc></image:image></url>
+  <url><loc>https://chockwise.com/airports/ams/transavia-nl</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority><image:image><image:loc>https://chockwise.com/airports/ams-transavia-nl.png</image:loc></image:image></url>
+  <url><loc>https://chockwise.com/airports/ams/tui-fly-nl</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://chockwise.com/airports/ams/turkish-airlines</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority><image:image><image:loc>https://chockwise.com/airports/ams-turkish-airlines.png</image:loc></image:image></url>
   <url><loc>https://chockwise.com/airports/ams/united</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority><image:image><image:loc>https://chockwise.com/airports/ams-united.png</image:loc></image:image></url>
+  <url><loc>https://chockwise.com/airports/ams/ur-airlines</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://chockwise.com/airports/ams/vueling</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority><image:image><image:loc>https://chockwise.com/airports/ams-vueling.png</image:loc></image:image></url>
   <url><loc>https://chockwise.com/airports/ams/westjet</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority><image:image><image:loc>https://chockwise.com/airports/ams-westjet.png</image:loc></image:image></url>
   <url><loc>https://chockwise.com/airports/ams/xiamenair</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority><image:image><image:loc>https://chockwise.com/airports/ams-xiamenair.png</image:loc></image:image></url>
@@ -847,6 +858,7 @@
   <url><loc>https://chockwise.com/airports/geg/southwest</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority><image:image><image:loc>https://chockwise.com/airports/geg-southwest.png</image:loc></image:image></url>
   <url><loc>https://chockwise.com/airports/geg/united</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority><image:image><image:loc>https://chockwise.com/airports/geg-united.png</image:loc></image:image></url>
   <url><loc>https://chockwise.com/airports/gjt/american</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority><image:image><image:loc>https://chockwise.com/airports/gjt-american.png</image:loc></image:image></url>
+  <url><loc>https://chockwise.com/airports/gjt/breeze</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://chockwise.com/airports/gjt/united</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority><image:image><image:loc>https://chockwise.com/airports/gjt-united.png</image:loc></image:image></url>
   <url><loc>https://chockwise.com/airports/grr/allegiant</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority><image:image><image:loc>https://chockwise.com/airports/grr-allegiant.png</image:loc></image:image></url>
   <url><loc>https://chockwise.com/airports/grr/american</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority><image:image><image:loc>https://chockwise.com/airports/grr-american.png</image:loc></image:image></url>
@@ -875,7 +887,7 @@
   <url><loc>https://chockwise.com/airports/hkg/ana</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority><image:image><image:loc>https://chockwise.com/airports/hkg-ana.png</image:loc></image:image></url>
   <url><loc>https://chockwise.com/airports/hkg/asiana</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority><image:image><image:loc>https://chockwise.com/airports/hkg-asiana.png</image:loc></image:image></url>
   <url><loc>https://chockwise.com/airports/hkg/bangkok-airways</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority><image:image><image:loc>https://chockwise.com/airports/hkg-bangkok-airways.png</image:loc></image:image></url>
-  <url><loc>https://chockwise.com/airports/hkg/batik-air</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority><image:image><image:loc>https://chockwise.com/airports/hkg-batik-air.png</image:loc></image:image></url>
+  <url><loc>https://chockwise.com/airports/hkg/batik-air-malaysia</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://chockwise.com/airports/hkg/british-airways</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority><image:image><image:loc>https://chockwise.com/airports/hkg-british-airways.png</image:loc></image:image></url>
   <url><loc>https://chockwise.com/airports/hkg/cambodia-airways</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority><image:image><image:loc>https://chockwise.com/airports/hkg-cambodia-airways.png</image:loc></image:image></url>
   <url><loc>https://chockwise.com/airports/hkg/cathay-pacific</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority><image:image><image:loc>https://chockwise.com/airports/hkg-cathay-pacific.png</image:loc></image:image></url>
@@ -1074,6 +1086,7 @@
   <url><loc>https://chockwise.com/airports/iah/volaris</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority><image:image><image:loc>https://chockwise.com/airports/iah-volaris.png</image:loc></image:image></url>
   <url><loc>https://chockwise.com/airports/iah/westjet</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority><image:image><image:loc>https://chockwise.com/airports/iah-westjet.png</image:loc></image:image></url>
   <url><loc>https://chockwise.com/airports/iah/zipair</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority><image:image><image:loc>https://chockwise.com/airports/iah-zipair.png</image:loc></image:image></url>
+  <url><loc>https://chockwise.com/airports/icn/aero-mongolia</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://chockwise.com/airports/icn/aeromexico</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority><image:image><image:loc>https://chockwise.com/airports/icn-aeromexico.png</image:loc></image:image></url>
   <url><loc>https://chockwise.com/airports/icn/air-astana</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority><image:image><image:loc>https://chockwise.com/airports/icn-air-astana.png</image:loc></image:image></url>
   <url><loc>https://chockwise.com/airports/icn/air-busan</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority><image:image><image:loc>https://chockwise.com/airports/icn-air-busan.png</image:loc></image:image></url>
@@ -1089,7 +1102,7 @@
   <url><loc>https://chockwise.com/airports/icn/alaska</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority><image:image><image:loc>https://chockwise.com/airports/icn-alaska.png</image:loc></image:image></url>
   <url><loc>https://chockwise.com/airports/icn/american</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority><image:image><image:loc>https://chockwise.com/airports/icn-american.png</image:loc></image:image></url>
   <url><loc>https://chockwise.com/airports/icn/asiana</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority><image:image><image:loc>https://chockwise.com/airports/icn-asiana.png</image:loc></image:image></url>
-  <url><loc>https://chockwise.com/airports/icn/batik-air</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority><image:image><image:loc>https://chockwise.com/airports/icn-batik-air.png</image:loc></image:image></url>
+  <url><loc>https://chockwise.com/airports/icn/batik-air-malaysia</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://chockwise.com/airports/icn/beijing-capital</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority><image:image><image:loc>https://chockwise.com/airports/icn-beijing-capital.png</image:loc></image:image></url>
   <url><loc>https://chockwise.com/airports/icn/cathay-pacific</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority><image:image><image:loc>https://chockwise.com/airports/icn-cathay-pacific.png</image:loc></image:image></url>
   <url><loc>https://chockwise.com/airports/icn/cebu-pacific</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority><image:image><image:loc>https://chockwise.com/airports/icn-cebu-pacific.png</image:loc></image:image></url>
@@ -1113,6 +1126,7 @@
   <url><loc>https://chockwise.com/airports/icn/jin-air</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority><image:image><image:loc>https://chockwise.com/airports/icn-jin-air.png</image:loc></image:image></url>
   <url><loc>https://chockwise.com/airports/icn/klm</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority><image:image><image:loc>https://chockwise.com/airports/icn-klm.png</image:loc></image:image></url>
   <url><loc>https://chockwise.com/airports/icn/korean-air</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority><image:image><image:loc>https://chockwise.com/airports/icn-korean-air.png</image:loc></image:image></url>
+  <url><loc>https://chockwise.com/airports/icn/lao-airlines</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://chockwise.com/airports/icn/lot</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority><image:image><image:loc>https://chockwise.com/airports/icn-lot.png</image:loc></image:image></url>
   <url><loc>https://chockwise.com/airports/icn/lufthansa</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority><image:image><image:loc>https://chockwise.com/airports/icn-lufthansa.png</image:loc></image:image></url>
   <url><loc>https://chockwise.com/airports/icn/mai</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority><image:image><image:loc>https://chockwise.com/airports/icn-mai.png</image:loc></image:image></url>
@@ -1133,6 +1147,7 @@
   <url><loc>https://chockwise.com/airports/icn/shenzhen-airlines</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority><image:image><image:loc>https://chockwise.com/airports/icn-shenzhen-airlines.png</image:loc></image:image></url>
   <url><loc>https://chockwise.com/airports/icn/sichuan-airlines</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority><image:image><image:loc>https://chockwise.com/airports/icn-sichuan-airlines.png</image:loc></image:image></url>
   <url><loc>https://chockwise.com/airports/icn/singapore-airlines</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority><image:image><image:loc>https://chockwise.com/airports/icn-singapore-airlines.png</image:loc></image:image></url>
+  <url><loc>https://chockwise.com/airports/icn/sky-angkor</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://chockwise.com/airports/icn/spring-airlines</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority><image:image><image:loc>https://chockwise.com/airports/icn-spring-airlines.png</image:loc></image:image></url>
   <url><loc>https://chockwise.com/airports/icn/srilankan</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority><image:image><image:loc>https://chockwise.com/airports/icn-srilankan.png</image:loc></image:image></url>
   <url><loc>https://chockwise.com/airports/icn/sun-phuquoc</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority><image:image><image:loc>https://chockwise.com/airports/icn-sun-phuquoc.png</image:loc></image:image></url>
@@ -1336,6 +1351,7 @@
   <url><loc>https://chockwise.com/airports/koa/delta</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority><image:image><image:loc>https://chockwise.com/airports/koa-delta.png</image:loc></image:image></url>
   <url><loc>https://chockwise.com/airports/koa/southwest</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority><image:image><image:loc>https://chockwise.com/airports/koa-southwest.png</image:loc></image:image></url>
   <url><loc>https://chockwise.com/airports/koa/united</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority><image:image><image:loc>https://chockwise.com/airports/koa-united.png</image:loc></image:image></url>
+  <url><loc>https://chockwise.com/airports/las/aer-lingus</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://chockwise.com/airports/las/aeromexico</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://chockwise.com/airports/las/air-canada-rouge</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority><image:image><image:loc>https://chockwise.com/airports/las-air-canada-rouge.png</image:loc></image:image></url>
   <url><loc>https://chockwise.com/airports/las/alaska</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority><image:image><image:loc>https://chockwise.com/airports/las-alaska.png</image:loc></image:image></url>
@@ -1343,9 +1359,11 @@
   <url><loc>https://chockwise.com/airports/las/american</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority><image:image><image:loc>https://chockwise.com/airports/las-american.png</image:loc></image:image></url>
   <url><loc>https://chockwise.com/airports/las/breeze</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority><image:image><image:loc>https://chockwise.com/airports/las-breeze.png</image:loc></image:image></url>
   <url><loc>https://chockwise.com/airports/las/british-airways</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://chockwise.com/airports/las/condor</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://chockwise.com/airports/las/contour</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://chockwise.com/airports/las/copa</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority><image:image><image:loc>https://chockwise.com/airports/las-copa.png</image:loc></image:image></url>
   <url><loc>https://chockwise.com/airports/las/delta</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority><image:image><image:loc>https://chockwise.com/airports/las-delta.png</image:loc></image:image></url>
+  <url><loc>https://chockwise.com/airports/las/discover</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://chockwise.com/airports/las/frontier</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority><image:image><image:loc>https://chockwise.com/airports/las-frontier.png</image:loc></image:image></url>
   <url><loc>https://chockwise.com/airports/las/jetblue</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority><image:image><image:loc>https://chockwise.com/airports/las-jetblue.png</image:loc></image:image></url>
   <url><loc>https://chockwise.com/airports/las/klm</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority><image:image><image:loc>https://chockwise.com/airports/las-klm.png</image:loc></image:image></url>
@@ -1591,7 +1609,7 @@
   <url><loc>https://chockwise.com/airports/mel/air-india</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority><image:image><image:loc>https://chockwise.com/airports/mel-air-india.png</image:loc></image:image></url>
   <url><loc>https://chockwise.com/airports/mel/air-new-zealand</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority><image:image><image:loc>https://chockwise.com/airports/mel-air-new-zealand.png</image:loc></image:image></url>
   <url><loc>https://chockwise.com/airports/mel/airasia-x</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority><image:image><image:loc>https://chockwise.com/airports/mel-airasia-x.png</image:loc></image:image></url>
-  <url><loc>https://chockwise.com/airports/mel/batik-air</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority><image:image><image:loc>https://chockwise.com/airports/mel-batik-air.png</image:loc></image:image></url>
+  <url><loc>https://chockwise.com/airports/mel/batik-air-malaysia</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://chockwise.com/airports/mel/beijing-capital</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority><image:image><image:loc>https://chockwise.com/airports/mel-beijing-capital.png</image:loc></image:image></url>
   <url><loc>https://chockwise.com/airports/mel/cathay-pacific</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority><image:image><image:loc>https://chockwise.com/airports/mel-cathay-pacific.png</image:loc></image:image></url>
   <url><loc>https://chockwise.com/airports/mel/cebu-pacific</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority><image:image><image:loc>https://chockwise.com/airports/mel-cebu-pacific.png</image:loc></image:image></url>
@@ -1694,6 +1712,10 @@
   <url><loc>https://chockwise.com/airports/mia/virgin-atlantic</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority><image:image><image:loc>https://chockwise.com/airports/mia-virgin-atlantic.png</image:loc></image:image></url>
   <url><loc>https://chockwise.com/airports/mia/viva-aerobus</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority><image:image><image:loc>https://chockwise.com/airports/mia-viva-aerobus.png</image:loc></image:image></url>
   <url><loc>https://chockwise.com/airports/mia/volaris</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority><image:image><image:loc>https://chockwise.com/airports/mia-volaris.png</image:loc></image:image></url>
+  <url><loc>https://chockwise.com/airports/mli/allegiant</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://chockwise.com/airports/mli/american</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://chockwise.com/airports/mli/delta</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://chockwise.com/airports/mli/united</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://chockwise.com/airports/mob/american</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority><image:image><image:loc>https://chockwise.com/airports/mob-american.png</image:loc></image:image></url>
   <url><loc>https://chockwise.com/airports/mob/delta</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority><image:image><image:loc>https://chockwise.com/airports/mob-delta.png</image:loc></image:image></url>
   <url><loc>https://chockwise.com/airports/mob/united</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority><image:image><image:loc>https://chockwise.com/airports/mob-united.png</image:loc></image:image></url>
@@ -1749,7 +1771,7 @@
   <url><loc>https://chockwise.com/airports/nrt/ana-wings</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://chockwise.com/airports/nrt/asiana</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority><image:image><image:loc>https://chockwise.com/airports/nrt-asiana.png</image:loc></image:image></url>
   <url><loc>https://chockwise.com/airports/nrt/austrian</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority><image:image><image:loc>https://chockwise.com/airports/nrt-austrian.png</image:loc></image:image></url>
-  <url><loc>https://chockwise.com/airports/nrt/batik-air</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority><image:image><image:loc>https://chockwise.com/airports/nrt-batik-air.png</image:loc></image:image></url>
+  <url><loc>https://chockwise.com/airports/nrt/batik-air-malaysia</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://chockwise.com/airports/nrt/cathay-pacific</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority><image:image><image:loc>https://chockwise.com/airports/nrt-cathay-pacific.png</image:loc></image:image></url>
   <url><loc>https://chockwise.com/airports/nrt/cebu-pacific</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority><image:image><image:loc>https://chockwise.com/airports/nrt-cebu-pacific.png</image:loc></image:image></url>
   <url><loc>https://chockwise.com/airports/nrt/china-airlines</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority><image:image><image:loc>https://chockwise.com/airports/nrt-china-airlines.png</image:loc></image:image></url>
@@ -2189,7 +2211,8 @@
   <url><loc>https://chockwise.com/airports/sin/ana</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority><image:image><image:loc>https://chockwise.com/airports/sin-ana.png</image:loc></image:image></url>
   <url><loc>https://chockwise.com/airports/sin/asiana</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority><image:image><image:loc>https://chockwise.com/airports/sin-asiana.png</image:loc></image:image></url>
   <url><loc>https://chockwise.com/airports/sin/bangkok-airways</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority><image:image><image:loc>https://chockwise.com/airports/sin-bangkok-airways.png</image:loc></image:image></url>
-  <url><loc>https://chockwise.com/airports/sin/batik-air</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority><image:image><image:loc>https://chockwise.com/airports/sin-batik-air.png</image:loc></image:image></url>
+  <url><loc>https://chockwise.com/airports/sin/batik-air-indonesia</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://chockwise.com/airports/sin/batik-air-malaysia</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://chockwise.com/airports/sin/biman-bangladesh</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority><image:image><image:loc>https://chockwise.com/airports/sin-biman-bangladesh.png</image:loc></image:image></url>
   <url><loc>https://chockwise.com/airports/sin/british-airways</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority><image:image><image:loc>https://chockwise.com/airports/sin-british-airways.png</image:loc></image:image></url>
   <url><loc>https://chockwise.com/airports/sin/cathay-pacific</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority><image:image><image:loc>https://chockwise.com/airports/sin-cathay-pacific.png</image:loc></image:image></url>
@@ -2234,6 +2257,7 @@
   <url><loc>https://chockwise.com/airports/sin/shanghai-airlines</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority><image:image><image:loc>https://chockwise.com/airports/sin-shanghai-airlines.png</image:loc></image:image></url>
   <url><loc>https://chockwise.com/airports/sin/shenzhen-airlines</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority><image:image><image:loc>https://chockwise.com/airports/sin-shenzhen-airlines.png</image:loc></image:image></url>
   <url><loc>https://chockwise.com/airports/sin/sichuan-airlines</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority><image:image><image:loc>https://chockwise.com/airports/sin-sichuan-airlines.png</image:loc></image:image></url>
+  <url><loc>https://chockwise.com/airports/sin/silkair</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://chockwise.com/airports/sin/singapore-airlines</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority><image:image><image:loc>https://chockwise.com/airports/sin-singapore-airlines.png</image:loc></image:image></url>
   <url><loc>https://chockwise.com/airports/sin/spring-airlines</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority><image:image><image:loc>https://chockwise.com/airports/sin-spring-airlines.png</image:loc></image:image></url>
   <url><loc>https://chockwise.com/airports/sin/srilankan</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority><image:image><image:loc>https://chockwise.com/airports/sin-srilankan.png</image:loc></image:image></url>
@@ -2421,12 +2445,14 @@
   <url><loc>https://chockwise.com/airlines/aer-lingus</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://chockwise.com/airlines/aer-lingus-regional</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://chockwise.com/airlines/aero-k</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://chockwise.com/airlines/aero-mongolia</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://chockwise.com/airlines/aeroflot</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://chockwise.com/airlines/aerolineas-argentinas</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://chockwise.com/airlines/aeromexico</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://chockwise.com/airlines/aeromexico-connect</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://chockwise.com/airlines/air-algerie</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://chockwise.com/airlines/air-arabia</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://chockwise.com/airlines/air-arabia-maroc</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://chockwise.com/airlines/air-astana</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://chockwise.com/airlines/air-busan</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://chockwise.com/airlines/air-cairo</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
@@ -2462,6 +2488,7 @@
   <url><loc>https://chockwise.com/airlines/ajet</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://chockwise.com/airlines/alaska</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://chockwise.com/airlines/allegiant</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://chockwise.com/airlines/alliance-air</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://chockwise.com/airlines/american</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://chockwise.com/airlines/ana</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://chockwise.com/airlines/ana-wings</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
@@ -2483,11 +2510,13 @@
   <url><loc>https://chockwise.com/airlines/ba-cityflyer</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://chockwise.com/airlines/bahamasair</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://chockwise.com/airlines/bangkok-airways</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-  <url><loc>https://chockwise.com/airlines/batik-air</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://chockwise.com/airlines/batik-air-indonesia</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://chockwise.com/airlines/batik-air-malaysia</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://chockwise.com/airlines/beijing-capital</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://chockwise.com/airlines/belavia</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://chockwise.com/airlines/berniq-airways</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://chockwise.com/airlines/biman-bangladesh</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://chockwise.com/airlines/blue-bird</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://chockwise.com/airlines/bmi-regional</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://chockwise.com/airlines/boliviana-de-aviacion</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://chockwise.com/airlines/boutique-air</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
@@ -2538,9 +2567,11 @@
   <url><loc>https://chockwise.com/airlines/flydubai</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://chockwise.com/airlines/flynas</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://chockwise.com/airlines/flyone</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://chockwise.com/airlines/flyone-armenia</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://chockwise.com/airlines/french-bee</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://chockwise.com/airlines/frontier</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://chockwise.com/airlines/garuda</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://chockwise.com/airlines/georgian-airways</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://chockwise.com/airlines/german-airways</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://chockwise.com/airlines/gol</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://chockwise.com/airlines/greater-bay</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
@@ -2577,6 +2608,7 @@
   <url><loc>https://chockwise.com/airlines/korean-air</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://chockwise.com/airlines/kuwait-airways</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://chockwise.com/airlines/la-compagnie</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://chockwise.com/airlines/lao-airlines</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://chockwise.com/airlines/latam</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://chockwise.com/airlines/latam-brasil</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://chockwise.com/airlines/latam-colombia</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
@@ -2600,6 +2632,7 @@
   <url><loc>https://chockwise.com/airlines/nesma</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://chockwise.com/airlines/norse-atlantic</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://chockwise.com/airlines/norwegian</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://chockwise.com/airlines/norwegian-air</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://chockwise.com/airlines/nouvelair</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://chockwise.com/airlines/oman-air</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://chockwise.com/airlines/parata-air</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
@@ -2632,7 +2665,9 @@
   <url><loc>https://chockwise.com/airlines/shanghai-airlines</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://chockwise.com/airlines/shenzhen-airlines</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://chockwise.com/airlines/sichuan-airlines</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://chockwise.com/airlines/silkair</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://chockwise.com/airlines/singapore-airlines</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://chockwise.com/airlines/sky-angkor</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://chockwise.com/airlines/sky-express</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://chockwise.com/airlines/skymark</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://chockwise.com/airlines/solaseed-air</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
@@ -2665,12 +2700,15 @@
   <url><loc>https://chockwise.com/airlines/tigerair-taiwan</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://chockwise.com/airlines/tradewind</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://chockwise.com/airlines/transavia</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://chockwise.com/airlines/transavia-nl</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://chockwise.com/airlines/transnusa</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://chockwise.com/airlines/tui-fly-nl</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://chockwise.com/airlines/tuifly</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://chockwise.com/airlines/tunisair</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://chockwise.com/airlines/turkish-airlines</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://chockwise.com/airlines/turkmenistan-airlines</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://chockwise.com/airlines/united</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://chockwise.com/airlines/ur-airlines</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://chockwise.com/airlines/us-bangla</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://chockwise.com/airlines/uzbekistan-airways</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://chockwise.com/airlines/vietjet</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
