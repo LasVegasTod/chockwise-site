@@ -311,6 +311,35 @@
   .picker li span { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
   .picker li.act, .picker li:hover { background: #FFF4C7; }
              grid-template-columns: minmax(0, 7fr) minmax(0, 5fr); gap: 20px 40px; align-items: center; }
+  /* Chockwise vs existing platforms (Oct 12, 2026) */
+  .vs { padding: 96px 0 0; }
+  .vs h2 { font-size: clamp(28px, 3.6vw, 40px); line-height: 1.1; letter-spacing: -1px; margin: 0 0 14px; font-weight: 800; max-width: 24ch; text-wrap: balance; }
+  .vs .lead { color: var(--muted); font-size: 18px; max-width: 62ch; margin: 0 0 30px; }
+  .vs-wrap { background: #fff; border: 1px solid var(--line); border-radius: 16px; overflow: hidden;
+             box-shadow: 0 18px 50px rgba(20, 33, 61, 0.10), 0 2px 6px rgba(20, 33, 61, 0.05); }
+  .vs-table { width: 100%; border-collapse: collapse; font-size: 16px; line-height: 1.5; }
+  .vs-table th, .vs-table td { text-align: left; vertical-align: top; padding: 18px 22px; border-top: 1px solid var(--line); }
+  .vs-table thead th { border-top: 0; font-size: 13px; font-weight: 700; letter-spacing: 1.2px; text-transform: uppercase; color: var(--muted); background: var(--ground); }
+  .vs-table thead th.us { background: var(--navy); color: var(--chock); }
+  .vs-table tbody th { width: 18%; font-weight: 800; color: var(--ink); }
+  .vs-table td { width: 41%; color: var(--muted); }
+  .vs-table td.us { color: var(--ink); font-weight: 600; background: #FFF8DB; border-left: 3px solid var(--chock); }
+  .vs-table .ck-row { display: flex; gap: 10px; align-items: flex-start; }
+  .vs-table .ck { width: 20px; height: 20px; flex: none; margin-top: 2px; }
+  @media (max-width: 760px) {
+    .vs { padding-top: 64px; }
+    .vs-table thead { display: none; }
+    .vs-table, .vs-table tbody, .vs-table tr, .vs-table th, .vs-table td { display: block; width: auto; }
+    .vs-table tr { border-top: 1px solid var(--line); padding: 16px 16px 18px; }
+    .vs-table tr:first-child { border-top: 0; }
+    .vs-table th, .vs-table td { border: 0; padding: 0; }
+    .vs-table tbody th { font-size: 18px; margin-bottom: 10px; width: auto; }
+    .vs-table td, .vs-table td.us { width: auto; }
+    .vs-table td { padding: 10px 12px; border-radius: 10px; }
+    .vs-table td::before { content: attr(data-label); display: block; font-size: 12px; font-weight: 700; letter-spacing: 1px; text-transform: uppercase; margin-bottom: 4px; color: var(--muted); }
+    .vs-table td.us { margin-top: 8px; border-left: 3px solid var(--chock); }
+    .vs-table td.us::before { color: #7A5B00; }
+  }
 </style>
 </head>
 <body>
@@ -507,6 +536,26 @@
              alt="Map of O'Hare concourses F and G with every gate colored by the airline that holds it: United blue, American silver, Frontier and Alaska preferential, common-use gates in fuchsia, with an Airlines legend."></a>
         <figcaption>Who owns the gate, who actually uses it, and how long it sits empty.</figcaption>
       </figure>
+    </div>
+  </section>
+
+  <section class="vs" id="compare" aria-label="Chockwise compared with existing platforms">
+    <div class="wrap">
+      <p class="kicker">How Chockwise is different</p>
+      <h2>Planning intelligence across airports, not another ops system at one.</h2>
+      <p class="lead">Existing airport and airline platforms run the day at a single airport. Chockwise shows how every gate is used across the airports you fly to, yours and your competitors’, with no hardware to install.</p>
+      <div class="vs-wrap">
+        <table class="vs-table">
+          <thead><tr><th scope="col">Capability</th><th scope="col">Existing airport and airline platforms</th><th scope="col" class="us">Chockwise</th></tr></thead>
+          <tbody>
+          <tr><th scope="row">Deployment</th><td data-label="Existing platforms">Camera installs, AODB/RMS integrations, on-site or heavy IT work, built airport by airport</td><td class="us" data-label="Chockwise"><span class="ck-row"><svg class="ck" viewBox="0 0 20 20" aria-hidden="true"><circle cx="10" cy="10" r="10" fill="#15803D"/><path d="M5.6 10.4l2.9 2.9 5.9-6.2" fill="none" stroke="#fff" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg><span>A software and data product only: no cameras or hardware, so it rolls out across many airports quickly</span></span></td></tr>
+          <tr><th scope="row">Scope</th><td data-label="Existing platforms">Deep real-time execution at one airport, or a few, for the operator</td><td class="us" data-label="Chockwise"><span class="ck-row"><svg class="ck" viewBox="0 0 20 20" aria-hidden="true"><circle cx="10" cy="10" r="10" fill="#15803D"/><path d="M5.6 10.4l2.9 2.9 5.9-6.2" fill="none" stroke="#fff" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg><span>Competitive intelligence across many airports, with a network and station planning view of you and your competitors</span></span></td></tr>
+          <tr><th scope="row">Primary users</th><td data-label="Existing platforms">Ops control, ground handlers and day-of-operations teams</td><td class="us" data-label="Chockwise"><span class="ck-row"><svg class="ck" viewBox="0 0 20 20" aria-hidden="true"><circle cx="10" cy="10" r="10" fill="#15803D"/><path d="M5.6 10.4l2.9 2.9 5.9-6.2" fill="none" stroke="#fff" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg><span>Network planners, station managers, airport commercial and strategy teams, and ground ops</span></span></td></tr>
+          <tr><th scope="row">Core outputs</th><td data-label="Existing platforms">Live timestamps, alerts, predicted off-block times, safety and emissions monitoring</td><td class="us" data-label="Chockwise"><span class="ck-row"><svg class="ck" viewBox="0 0 20 20" aria-hidden="true"><circle cx="10" cy="10" r="10" fill="#15803D"/><path d="M5.6 10.4l2.9 2.9 5.9-6.2" fill="none" stroke="#fff" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg><span>A plain-English AI analyst, weekly briefings with recommendations, what-if gate optimization, idle-gap and tow analysis</span></span></td></tr>
+          <tr><th scope="row">Cost and rollout</th><td data-label="Existing platforms">Enterprise contracts with high setup costs, often six figures per airport per year, and rollouts that take months at each airport</td><td class="us" data-label="Chockwise"><span class="ck-row"><svg class="ck" viewBox="0 0 20 20" aria-hidden="true"><circle cx="10" cy="10" r="10" fill="#15803D"/><path d="M5.6 10.4l2.9 2.9 5.9-6.2" fill="none" stroke="#fff" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg><span>Fast rollout, in days to weeks, with competitive, value-added pricing</span></span></td></tr>
+          </tbody>
+        </table>
+      </div>
     </div>
   </section>
 
