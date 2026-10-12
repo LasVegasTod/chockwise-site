@@ -63,7 +63,7 @@
   }
   img { display: block; max-width: 100%; height: auto; }
   .wrap { max-width: 1120px; margin: 0 auto; padding: 0 24px; }
-  header { padding: 40px 0 16px; }
+  header { padding: 24px 0 10px; }
   .brand { display: inline-flex; align-items: center; gap: 12px; text-decoration: none; color: var(--ink); }
   .brand svg { width: 44px; height: 44px; flex: none; }
   .brand span { font-size: 28px; font-weight: 800; letter-spacing: -0.8px; }
@@ -274,38 +274,31 @@
     .feature { padding-top: 64px; }
     .wrap { padding: 0 16px; }
   }
-  /* Home top (Oct 2026): headline beside its lede, then two doors (Airports, Routes), compact so the
-     stats bar shows on a laptop or iPad screen without scrolling */
   nav.top a { font-size: 18px; font-weight: 800; padding: 6px 2px; border-bottom: 3px solid var(--chock); }
   nav.top a:hover { text-decoration: none; border-bottom-color: var(--navy); }
-  nav.top { gap: 30px; margin-top: 24px; }
+  nav.top { gap: 30px; margin-top: 10px; }
   @media (min-width: 521px) { header .wrap { flex-wrap: nowrap; } nav.top { width: auto; } }
   @media (max-width: 520px) { nav.top { gap: 24px; } nav.top a { font-size: 17px; } }
-  .hero { padding: 18px 0 34px; }
-  .hero p.kicker { font-size: 13px; margin: 0 0 10px; max-width: none; }
-  .hero-head { display: grid; grid-template-columns: minmax(0, 7fr) minmax(0, 5fr); gap: 12px 40px; align-items: end; }
-  .hero h1 { max-width: none; margin: 0; font-size: clamp(32px, 3.5vw, 44px); line-height: 1.04; letter-spacing: -1.4px; }
-  .hero .hero-head p { max-width: 46ch; margin: 0; font-size: 17px; }
-  .doors { display: grid; grid-template-columns: minmax(0, 1.5fr) minmax(0, 1fr); gap: 16px; margin-top: 58px; }
-  .door { background: #fff; border: 1px solid var(--line); border-radius: 14px; padding: 14px 16px; display: flex; flex-direction: column; gap: 10px;
-          text-decoration: none; color: var(--ink); min-width: 0; cursor: pointer; }
-  .door:hover, .door:focus-visible { border-color: var(--navy); }
-  .door-top { display: flex; align-items: baseline; justify-content: space-between; gap: 6px 14px; flex-wrap: wrap; }
-  .door h2 { margin: 0; font-size: 19px; letter-spacing: -0.3px; line-height: 1.25; }
-  .door .tag { font-family: 'IBM Plex Mono', ui-monospace, Menlo, Consolas, monospace; font-size: 12px; font-weight: 500; color: var(--muted);
-               margin-right: 8px; letter-spacing: 0; vertical-align: 2px; }
-  .door .go { font-weight: 700; color: var(--ink); font-size: 15px; white-space: nowrap; text-decoration: underline; text-decoration-color: var(--chock);
-              text-decoration-thickness: 2px; text-underline-offset: 4px; }
-  .door .go::after { content: " →"; }
-  .air-body { display: grid; grid-template-columns: minmax(0, 1fr) 150px; gap: 14px; align-items: center; }
-  .door .thumb { display: block; border-radius: 10px; overflow: hidden; border: 1px solid var(--line); }
-  .door .thumb img { display: block; width: 100%; height: auto; }
-  .air-side { display: flex; flex-direction: column; gap: 10px; }
-  .door .say { color: var(--muted); font-size: 14px; line-height: 1.4; }
-  .uses { display: flex; flex-direction: column; gap: 3px; font-size: 14px; }
-  .uses span { display: flex; align-items: center; gap: 6px; }
-  .uses b { margin-left: auto; font-variant-numeric: tabular-nums; }
-  .uses i { width: 9px; height: 9px; border-radius: 2px; flex: none; }
+  /* Home top (Oct 12, 2026): enterprise first (AI box), then a slim "Free to explore" bar for travelers */
+  .hero { padding: 12px 0 24px; }
+  .hero .hero-grid { grid-template-columns: minmax(0, 1fr) 460px; gap: 48px; }
+  .hero h1 { max-width: 16ch; font-size: clamp(32px, 3.9vw, 48px); margin-bottom: 14px; }
+  .hero .hero-grid p:not(.kicker) { font-size: 16px; max-width: 58ch; }
+  .hero .hero-grid p strong { color: var(--ink); }
+  .hero p.kicker { font-size: 13px; margin: 0 0 12px; max-width: none; }
+  .hero .buttons { margin-top: 22px; }
+  .explore { margin-top: 22px; background: #fff; border: 1px solid var(--line); border-radius: 14px; padding: 12px 16px 12px 12px;
+             display: grid; grid-template-columns: 190px minmax(0, 1fr) minmax(0, 340px); gap: 18px; align-items: center; }
+  .explore-map { display: block; border-radius: 9px; overflow: hidden; border: 1px solid var(--line); }
+  .explore-map img { display: block; width: 100%; height: auto; }
+  .explore .kicker { margin: 0 0 4px; }
+  .hero p.explore-say { margin: 0; font-size: 17px; color: var(--ink); font-weight: 700; line-height: 1.35; max-width: 40ch; }
+  .explore-links { display: flex; gap: 18px; margin-top: 8px; font-weight: 700; font-size: 15px; }
+  .explore-links a { color: var(--ink); text-decoration: underline; text-decoration-color: var(--chock); text-decoration-thickness: 2px; text-underline-offset: 4px; }
+  @media (max-width: 1100px) { .hero .hero-grid { grid-template-columns: minmax(0, 1fr) 360px; gap: 28px; } }
+  @media (max-width: 700px) { .hero .hero-grid { grid-template-columns: minmax(0, 1fr); } }
+  @media (max-width: 860px) { .explore { grid-template-columns: 150px minmax(0, 1fr); } .explore-find { grid-column: 1 / -1; } }
+  @media (max-width: 520px) { .explore { grid-template-columns: minmax(0, 1fr); } }
   .picker { position: relative; }
   .picker input { width: 100%; font: inherit; font-size: 16px; font-weight: 700; color: var(--ink); background: #fff;
                   border: 2px solid var(--navy); border-radius: 11px; padding: 8px 12px; cursor: text; }
@@ -317,24 +310,7 @@
   .picker li b { font-family: 'IBM Plex Mono', ui-monospace, Menlo, Consolas, monospace; font-weight: 500; width: 36px; flex: none; }
   .picker li span { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
   .picker li.act, .picker li:hover { background: #FFF4C7; }
-  .nonstops { list-style: none; margin: 0; padding: 0; }
-  .nonstops li { display: flex; justify-content: space-between; gap: 10px; padding: 6px 0; border-top: 1px solid var(--line); font-size: 14px; }
-  .nonstops .dc { color: var(--ink); text-decoration: none; }
-  .nonstops .dc:hover { text-decoration: underline; }
-  .nonstops b { font-family: 'IBM Plex Mono', ui-monospace, Menlo, Consolas, monospace; font-weight: 500; }
-  .nonstops li > span { color: var(--muted); font-variant-numeric: tabular-nums; white-space: nowrap; }
-  .pro { padding: 40px 0 0; }
-  .pro-box { background: #fff; border: 1px solid var(--line); border-radius: 14px; padding: 24px 26px; display: grid;
              grid-template-columns: minmax(0, 7fr) minmax(0, 5fr); gap: 20px 40px; align-items: center; }
-  .pro-box .kicker { margin-bottom: 8px; }
-  .pro-box h2 { margin: 0 0 8px; font-size: clamp(22px, 2.6vw, 28px); letter-spacing: -0.6px; line-height: 1.15; }
-  .pro-box > div > p:not(.kicker) { margin: 0; color: var(--muted); max-width: 60ch; font-size: 17px; }
-  .pro-box > div > p strong { color: var(--ink); font-weight: 700; }
-  .pro-box .buttons { margin-top: 22px; }
-  .pro-box { grid-template-columns: minmax(0, 1fr) minmax(0, 460px); }
-  @media (max-width: 860px) { .pro-box, .hero-head { grid-template-columns: minmax(0, 1fr); } }
-  @media (max-width: 700px) { .doors { grid-template-columns: minmax(0, 1fr); } }
-  @media (max-width: 1000px) { .air-body { grid-template-columns: minmax(0, 1fr); } .uses { flex-direction: row; flex-wrap: wrap; gap: 4px 12px; } .uses b { margin-left: 0; } }
 </style>
 </head>
 <body>
@@ -360,38 +336,48 @@
 <main>
   <section class="hero">
     <div class="wrap">
-      <p class="kicker">Free to explore · AI gate intelligence</p>
-      <div class="hero-head">
-        <h1>Airports and routes, mapped gate by gate from real flights.</h1>
-        <p>Look up an airport’s gates or find a nonstop. For airlines and airport managers, our AI analyst turns the same data into gate intelligence you can ask about in plain English.</p>
-      </div>
-      <div class="doors">
-        <a class="door" href="/airports/las">
-          <div class="door-top"><h2><span class="tag">Airports</span>Gates at Las Vegas (LAS)</h2><span class="go">Browse airports</span></div>
-          <div class="air-body">
-            <span class="thumb"><img src="images/las-gates-home.webp" width="1560" height="650"
-                 alt="Las Vegas gates colored by the airline that uses each one most: Southwest in Terminal 1, Frontier, Delta, United, American and Alaska in Terminal 3 and the D gates."></span>
-            <div class="air-side">
-              <span class="uses">
-                <span><i style="background:#F7861E"></i>Southwest <b>33</b></span>
-                <span><i style="background:#248168"></i>Frontier <b>11</b></span>
-                <span><i style="background:#A9B4BC"></i>American <b>9</b></span>
-                <span><i style="background:#C8102E"></i>Delta <b>9</b></span>
-                <span><i style="background:#0033A0"></i>United <b>9</b></span>
-              </span>
-              <span class="say">110 gates, each colored by the airline that uses it most.</span>
-            </div>
+      <div class="hero-grid">
+        <div>
+          <p class="kicker">AI gate intelligence for airlines and airports</p>
+          <h1>Gate intelligence, explained by AI.</h1>
+          <p>Chockwise maps every gate at every airport we cover: who uses it, how hard it works, every turn, tow and seat, from real arrivals and departures. Get an available gate before your competitors even know it’s available. <strong>Ask the AI analyst a question in plain English, or get a weekly written briefing on what changed and what to do about it.</strong></p>
+          <div class="buttons">
+            <a class="button" href="#contact">Request access</a>
+            <a class="button ghost" href="#ai">See the AI analyst</a>
           </div>
-        </a>
-        <div class="door" id="routes-door" role="link" tabindex="0" aria-label="Open the route finder">
-          <div class="door-top"><h2><span class="tag">Routes</span>Nonstops from</h2><a class="go" id="routes-go" href="/routes?from=LAS">Route finder</a></div>
-          <div class="picker"><input id="from-in" autocomplete="off" placeholder="Airport or city" aria-label="From airport" value="LAS · Las Vegas"><ul id="from-list" role="listbox" hidden></ul></div>
-          <ul class="nonstops" id="nonstops">
-            <li><a class="dc" href="/routes?from=LAS&amp;to=LAX"><b>LAX</b> Los Angeles</a><span>25 a day</span></li>
-            <li><a class="dc" href="/routes?from=LAS&amp;to=DEN"><b>DEN</b> Denver</a><span>21 a day</span></li>
-            <li><a class="dc" href="/routes?from=LAS&amp;to=SFO"><b>SFO</b> San Francisco</a><span>20 a day</span></li>
-            <li><a class="dc" href="/routes?from=LAS&amp;to=PHX"><b>PHX</b> Phoenix</a><span>18 a day</span></li>
-          </ul>
+        </div>
+      <aside class="ask" aria-label="Example question for the Chockwise AI analyst">
+          <div class="ask-top">
+            <svg class="spark" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 2l2.2 6.6L21 11l-6.8 2.4L12 20l-2.2-6.6L3 11l6.8-2.4z" fill="#F2B705"/></svg>
+            Ask Chockwise
+          </div>
+          <div class="ask-input"><span class="q" id="ask-q">How can we get more gates in Terminal 6 at LAX?</span>
+            <span class="send" aria-hidden="true"><svg width="16" height="16" viewBox="0 0 24 24"><path d="M4 12h14M12 5l7 7-7 7" stroke="#14213D" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></span></div>
+          <div class="answer" id="ask-a">
+            <div class="lines" aria-hidden="true">
+              <p>Terminal 6 at LAX has 00 gates. These are the ones that sat empty most over the last 14 days, and who uses each one:</p>
+              <table>
+                <tr><td>Gate 00</td><td>Airline</td><td>00% used</td><td>0 turns/day</td></tr>
+                <tr><td>Gate 00</td><td>Airline</td><td>00% used</td><td>0 turns/day</td></tr>
+                <tr><td>Gate 00A</td><td>Airline</td><td>00% used</td><td>0 turns/day</td></tr>
+              </table>
+              <p>Idle hours by bank and the aircraft each gate can take are below.</p>
+            </div>
+            <div class="lock"><span>Available to enterprise partners only – <a href="#contact">Request access</a></span></div>
+          </div>
+        </aside>
+      </div>
+
+      <div class="explore">
+        <a class="explore-map" href="/airports/las" aria-label="Las Vegas gate map"><img src="images/las-gates-home.webp" width="1560" height="650"
+             alt="Las Vegas gates colored by the airline that uses each one most."></a>
+        <div class="explore-text">
+          <p class="kicker">Free to explore</p>
+          <p class="explore-say">Every gate at <b data-k="airport_pages">168</b> airports, the airlines that use them, and every nonstop route.</p>
+        </div>
+        <div class="explore-find">
+          <div class="picker"><input id="air-in" autocomplete="off" placeholder="Find an airport, like LAS" aria-label="Find an airport"><ul id="air-list" role="listbox" hidden></ul></div>
+          <div class="explore-links"><a href="/airports/">All airports →</a><a href="/routes">Route finder →</a></div>
         </div>
       </div>
     </div>
@@ -414,43 +400,6 @@
         <span><b data-k="seats" data-fmt="m">8.0M</b> seats counted</span>
       </div>
       <div class="count-note">Running totals across every airport we cover, updated <span data-k="updated">Oct 5, 2026</span>. Insights = turns, tows, idle gaps between flights, gate-ownership calls and flights with a seat count, all worked out from the raw flights.</div>
-    </div>
-  </section>
-
-  <section class="pro" aria-label="For airlines and airport managers">
-    <div class="wrap">
-      <div class="pro-box">
-        <div>
-          <p class="kicker">For airlines and airport managers</p>
-          <h2>Gate intelligence, explained by AI.</h2>
-          <p>Utilization, turn times, tows, idle gaps and seats at every gate, for your operation and the carrier next door. Get an available gate before your competitors even know it’s available. <strong>Ask the AI analyst a question in plain English, or get a weekly written briefing on what changed and what to do about it.</strong></p>
-          <div class="buttons">
-            <a class="button" href="#contact">Request access</a>
-            <a class="button ghost" href="#ai">See the AI analyst</a>
-          </div>
-        </div>
-        <aside class="ask" aria-label="Example question for the Chockwise AI analyst">
-          <div class="ask-top">
-            <svg class="spark" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 2l2.2 6.6L21 11l-6.8 2.4L12 20l-2.2-6.6L3 11l6.8-2.4z" fill="#F2B705"/></svg>
-            Ask Chockwise
-          </div>
-          <div class="ask-input"><span class="q" id="ask-q">How can we get more gates in Terminal 6 at LAX?</span>
-            <span class="send" aria-hidden="true"><svg width="16" height="16" viewBox="0 0 24 24"><path d="M4 12h14M12 5l7 7-7 7" stroke="#14213D" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></span></div>
-          <div class="answer" id="ask-a">
-            <div class="lines" aria-hidden="true">
-              <p>Terminal 6 at LAX has 00 gates. These are the ones that sat empty most over the last 14 days, and who uses each one:</p>
-              <table>
-                <tr><td>Gate 00</td><td>Airline</td><td>00% used</td><td>0 turns/day</td></tr>
-                <tr><td>Gate 00</td><td>Airline</td><td>00% used</td><td>0 turns/day</td></tr>
-                <tr><td>Gate 00A</td><td>Airline</td><td>00% used</td><td>0 turns/day</td></tr>
-                <tr><td>Gate 00</td><td>Common use</td><td>00% used</td><td>0 turns/day</td></tr>
-              </table>
-              <p>Idle hours by bank and the aircraft each gate can take are below.</p>
-            </div>
-            <div class="lock"><span>Available to enterprise partners only – <a href="#contact">Request access</a></span></div>
-          </div>
-        </aside>
-      </div>
     </div>
   </section>
 
@@ -748,58 +697,45 @@
     function restart() { clearInterval(timer); timer = setInterval(function () { show((i + 1) % items.length); }, 4500); }
     show(0); restart();
   })();
-  // Nonstops box: pick an airport, see its busiest nonstops (routes.json, the route finder's data);
-  // a click anywhere on the box but the airport field opens the route finder on that airport
+  // "Find an airport": the airports with a page (airports/manifest.json); picking one opens its page
   (function () {
-    var door = document.getElementById('routes-door'), input = document.getElementById('from-in'),
-        list = document.getElementById('from-list'), out = document.getElementById('nonstops'), go = document.getElementById('routes-go');
-    if (!door) return;
-    door.addEventListener('click', function (e) { if (!e.target.closest('.picker, a')) location.href = go.href; });
-    door.addEventListener('keydown', function (e) { if (e.key === 'Enter' && e.target === door) location.href = go.href; });
+    var input = document.getElementById('air-in'), list = document.getElementById('air-list');
+    if (!input) return;
     var A = null, items = [], act = 0;
     function esc(s) { return String(s).replace(/[&<>"]/g, function (c) { return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]; }); }
-    function fmt(n) { return n >= 10 ? String(Math.round(n)) : n.toFixed(1).replace(/\.0$/, ''); }
-    function label(c) { return c + ' · ' + (A[c].city || A[c].name); }
-    function showFrom(c) {
-      go.href = '/routes?from=' + c;
-      var rs = A[c].routes.map(function (r) {
-        var tot = 0; for (var k in r[2]) tot += r[2][k];
-        return { to: r[0], city: r[1], tot: tot };
-      }).sort(function (x, y) { return y.tot - x.tot; }).slice(0, 4);
-      out.innerHTML = rs.map(function (r) {
-        return '<li><a class="dc" href="/routes?from=' + c + '&amp;to=' + r.to + '"><b>' + r.to + '</b> ' + esc(r.city) + '</a><span>' + fmt(r.tot) + ' a day</span></li>';
-      }).join('');
-    }
     function search(q) {
-      q = q.trim().toLowerCase(); if (!q) return [];
+      q = q.trim().toLowerCase(); if (!q || !A) return [];
       var exact = [], starts = [], has = [];
       Object.keys(A).forEach(function (c) {
-        var lc = c.toLowerCase(), city = ((A[c].city || '') + ' ' + (A[c].name || '')).toLowerCase();
-        if (lc === q) exact.push(c); else if (lc.indexOf(q) === 0 || city.indexOf(q) === 0) starts.push(c); else if (city.indexOf(q) >= 0) has.push(c);
+        var lc = c.toLowerCase(), nm = ((A[c].short || '') + ' ' + (A[c].name || '')).toLowerCase();
+        if (lc === q) exact.push(c); else if (lc.indexOf(q) === 0 || nm.indexOf(q) === 0) starts.push(c); else if (nm.indexOf(q) >= 0) has.push(c);
       });
-      var rank = function (x, y) { return (A[x].seen ? 1 : 0) - (A[y].seen ? 1 : 0) || A[y].routes.length - A[x].routes.length; };
-      return exact.concat(starts.sort(rank), has.sort(rank)).slice(0, 6);
+      var big = function (x, y) { return (A[y].gates || 0) - (A[x].gates || 0); };
+      return exact.concat(starts.sort(big), has.sort(big)).slice(0, 6);
     }
     function draw() {
       list.innerHTML = items.map(function (c, i) {
-        return '<li role="option" data-c="' + c + '"' + (i === act ? ' class="act"' : '') + '><b>' + c + '</b><span>' + esc(A[c].city || A[c].name) + '</span></li>';
+        return '<li role="option" data-c="' + c + '"' + (i === act ? ' class="act"' : '') + '><b>' + c + '</b><span>' + esc(A[c].short || A[c].name) + '</span></li>';
       }).join('');
       list.hidden = !items.length;
     }
-    function pick(c) { input.value = label(c); items = []; draw(); showFrom(c); }
-    input.addEventListener('focus', function () { input.select(); });
-    input.addEventListener('input', function () { if (!A) return; items = search(input.value); act = 0; draw(); });
+    function go(c) { location.href = '/airports/' + c.toLowerCase(); }
+    input.addEventListener('input', function () { items = search(input.value); act = 0; draw(); });
     input.addEventListener('keydown', function (e) {
       if (e.key === 'ArrowDown' && items.length) { act = (act + 1) % items.length; draw(); e.preventDefault(); }
       else if (e.key === 'ArrowUp' && items.length) { act = (act + items.length - 1) % items.length; draw(); e.preventDefault(); }
-      else if (e.key === 'Enter' && items.length) { pick(items[act]); e.preventDefault(); }
+      else if (e.key === 'Enter' && items.length) { go(items[act]); e.preventDefault(); }
       else if (e.key === 'Escape') { items = []; draw(); }
     });
-    list.addEventListener('mousedown', function (e) { var li = e.target.closest('li'); if (li) { e.preventDefault(); pick(li.dataset.c); } });
+    list.addEventListener('mousedown', function (e) { var li = e.target.closest('li'); if (li) { e.preventDefault(); go(li.dataset.c); } });
     input.addEventListener('blur', function () { setTimeout(function () { items = []; draw(); }, 100); });
-    fetch('routes.json').then(function (r) { return r.ok ? r.json() : null; })
-      .then(function (d) { if (d && d.airports) { A = d.airports; if (A.LAS) showFrom('LAS'); } })
-      .catch(function () { /* keep the Las Vegas list in the page */ });
+    fetch('airports/manifest.json').then(function (r) { return r.ok ? r.json() : null; })
+      .then(function (m) {
+        if (!m) return;
+        A = {}; Object.keys(m).forEach(function (c) { if (m[c] && m[c].published && !m[c].moved) A[c] = m[c]; });
+        var n = document.querySelector('[data-k="airport_pages"]'); if (n) n.textContent = Object.keys(A).length;
+        if (input.value) { items = search(input.value); draw(); }
+      }).catch(function () {});
   })();
 </script>
 </body>
