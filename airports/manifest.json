@@ -47,6 +47,18 @@
   "top_gates": 4,
   "updated": "2026-10-12"
  },
+ "AMS": {
+  "flights_day": 1380,
+  "gates": 120,
+  "name": "Amsterdam Schiphol",
+  "published": "2026-10-12",
+  "seats_day": 32900,
+  "short": "Amsterdam",
+  "sig": "{\"common\": 63, \"drawing\": \"32d417dcd0d7\", \"gates\": 120, \"held\": {\"BA\": 1, \"KL\": 32, \"U2\": 13, \"UA\": 1}, \"low\": 10}",
+  "top": "KL",
+  "top_gates": 32,
+  "updated": "2026-10-12"
+ },
  "ASE": {
   "flights_day": 39,
   "gates": 7,
@@ -849,6 +861,18 @@
   "sig": "{\"common\": 6, \"drawing\": \"6070a478a378\", \"gates\": 147, \"held\": {\"AA\": 5, \"AM\": 1, \"AS\": 1, \"B6\": 2, \"BA\": 1, \"DL\": 5, \"F9\": 3, \"KL\": 1, \"NZ\": 1, \"QR\": 1, \"UA\": 85, \"Y4\": 1}, \"low\": 34}",
   "top": "UA",
   "top_gates": 85,
+  "updated": "2026-10-12"
+ },
+ "ICN": {
+  "flights_day": 1135,
+  "gates": 151,
+  "name": "Incheon Int'l, Seoul (Incheon)",
+  "published": "2026-10-12",
+  "seats_day": 80776,
+  "short": "Seoul",
+  "sig": "{\"common\": 105, \"drawing\": \"0883e0930c58\", \"gates\": 151, \"held\": {\"7C\": 2, \"KE\": 21, \"LJ\": 3, \"OZ\": 6, \"RS\": 1}, \"low\": 13}",
+  "top": "KE",
+  "top_gates": 21,
   "updated": "2026-10-12"
  },
  "ICT": {
