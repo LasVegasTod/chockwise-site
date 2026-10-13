@@ -191,6 +191,18 @@
   "top_gates": 1,
   "updated": "2026-10-13"
  },
+ "BMI": {
+  "flights_day": 16,
+  "gates": 8,
+  "name": "Cent II Rgnl, Bloomington/Normal",
+  "published": "2026-10-13",
+  "seats_day": 482,
+  "short": "Bloomington",
+  "sig": "",
+  "top": "AA",
+  "top_gates": 2,
+  "updated": "2026-10-13"
+ },
  "BNA": {
   "flights_day": 725,
   "gates": 62,
@@ -455,6 +467,18 @@
   "top_gates": 3,
   "updated": "2026-10-13"
  },
+ "CRW": {
+  "flights_day": 23,
+  "gates": 11,
+  "name": "West Virginia Intl Yeager, Charleston",
+  "published": "2026-10-13",
+  "seats_day": 738,
+  "short": "Charleston, WV",
+  "sig": "",
+  "top": "AA",
+  "top_gates": 2,
+  "updated": "2026-10-13"
+ },
  "CVG": {
   "flights_day": 333,
   "gates": 49,
@@ -477,6 +501,18 @@
   "sig": "{\"common\": 0, \"drawing\": \"ef304e10bac2\", \"gates\": 20, \"held\": {\"DL\": 1, \"WN\": 19}, \"low\": 0}",
   "top": "WN",
   "top_gates": 19,
+  "updated": "2026-10-13"
+ },
+ "DAY": {
+  "flights_day": 59,
+  "gates": 24,
+  "name": "James M Cox Dayton Intl",
+  "published": "2026-10-13",
+  "seats_day": 2115,
+  "short": "Dayton",
+  "sig": "",
+  "top": "AA",
+  "top_gates": 5,
   "updated": "2026-10-13"
  },
  "DCA": {
@@ -513,6 +549,18 @@
   "sig": "{\"common\": 11, \"drawing\": \"799d4f936128\", \"gates\": 176, \"held\": {\"AA\": 122, \"AS\": 1, \"DL\": 5, \"F9\": 4, \"LF\": 1, \"QF\": 1, \"UA\": 5}, \"low\": 26}",
   "top": "AA",
   "top_gates": 122,
+  "updated": "2026-10-13"
+ },
+ "DJT": {
+  "flights_day": 153,
+  "gates": 36,
+  "name": "President Donald J Trump Intl, West Palm Beach",
+  "published": "2026-10-13",
+  "seats_day": 11852,
+  "short": "West Palm Beach",
+  "sig": "",
+  "top": "B6",
+  "top_gates": 6,
   "updated": "2026-10-13"
  },
  "DRO": {
@@ -767,6 +815,18 @@
   "top_gates": 3,
   "updated": "2026-10-13"
  },
+ "GRB": {
+  "flights_day": 34,
+  "gates": 14,
+  "name": "Green Bay/Austin Straubel Intl",
+  "published": "2026-10-13",
+  "seats_day": 1255,
+  "short": "Green Bay",
+  "sig": "",
+  "top": "DL",
+  "top_gates": 4,
+  "updated": "2026-10-13"
+ },
  "GRR": {
   "flights_day": 123,
   "gates": 23,
@@ -959,6 +1019,18 @@
   "top_gates": 9,
   "updated": "2026-10-13"
  },
+ "ISP": {
+  "flights_day": 38,
+  "gates": 11,
+  "name": "Long Island MacArthur, Ronkonkoma",
+  "published": "2026-10-13",
+  "seats_day": 2391,
+  "short": "Long Island/Islip",
+  "sig": "",
+  "top": "WN",
+  "top_gates": 2,
+  "updated": "2026-10-13"
+ },
  "IST": {
   "flights_day": 1386,
   "gates": 115,
@@ -969,6 +1041,18 @@
   "sig": "{\"common\": 31, \"drawing\": \"de27fe0732ec\", \"gates\": 115, \"held\": {\"TK\": 81}, \"low\": 3}",
   "top": "TK",
   "top_gates": 81,
+  "updated": "2026-10-13"
+ },
+ "ITO": {
+  "flights_day": 42,
+  "gates": 7,
+  "name": "Hilo Intl",
+  "published": "2026-10-13",
+  "seats_day": 2631,
+  "short": "Hilo",
+  "sig": "",
+  "top": "AS",
+  "top_gates": 2,
   "updated": "2026-10-13"
  },
  "JAC": {
@@ -1089,6 +1173,18 @@
   "sig": "{\"common\": 0, \"drawing\": \"039f6f94c026\", \"gates\": 11, \"held\": {\"AA\": 3, \"DL\": 3, \"G4\": 1, \"UA\": 3}, \"low\": 1}",
   "top": "DL",
   "top_gates": 3,
+  "updated": "2026-10-13"
+ },
+ "LFT": {
+  "flights_day": 32,
+  "gates": 5,
+  "name": "Lafayette Rgnl/Paul Fournet Fld",
+  "published": "2026-10-13",
+  "seats_day": 1066,
+  "short": "Lafayette",
+  "sig": "",
+  "top": "UA",
+  "top_gates": 0,
   "updated": "2026-10-13"
  },
  "LGA": {
@@ -1329,6 +1425,18 @@
   "sig": "{\"common\": 0, \"drawing\": \"39c034fe9d71\", \"gates\": 13, \"held\": {\"AA\": 3, \"DL\": 1, \"G4\": 1, \"UA\": 3}, \"low\": 5}",
   "top": "AA",
   "top_gates": 3,
+  "updated": "2026-10-13"
+ },
+ "MLU": {
+  "flights_day": 13,
+  "gates": 4,
+  "name": "Monroe Rgnl",
+  "published": "2026-10-13",
+  "seats_day": 430,
+  "short": "Monroe",
+  "sig": "",
+  "top": "AA",
+  "top_gates": 1,
   "updated": "2026-10-13"
  },
  "MOB": {
