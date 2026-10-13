@@ -1391,6 +1391,18 @@
   "top_gates": 3,
   "updated": "2026-10-13"
  },
+ "MYR": {
+  "flights_day": 93,
+  "gates": 19,
+  "name": "Myrtle Beach Intl",
+  "published": "2026-10-13",
+  "seats_day": 5834,
+  "short": "Myrtle Beach",
+  "sig": "{\"common\": 1, \"drawing\": \"f4aaa718d9c8\", \"gates\": 19, \"held\": {\"AA\": 3, \"DL\": 3, \"G4\": 3, \"MX\": 2, \"UA\": 2, \"WN\": 2, \"XP\": 1}, \"low\": 2}",
+  "top": "AA",
+  "top_gates": 3,
+  "updated": "2026-10-13"
+ },
  "NRT": {
   "flights_day": 649,
   "gates": 86,
