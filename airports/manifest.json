@@ -995,6 +995,18 @@
   "top_gates": 38,
   "updated": "2026-10-13"
  },
+ "KIX": {
+  "flights_day": 498,
+  "gates": 61,
+  "name": "Kansai Int'l, Izumisano",
+  "published": "2026-10-13",
+  "seats_day": 29607,
+  "short": "Osaka",
+  "sig": "{\"common\": 34, \"drawing\": \"a3a60d098951\", \"gates\": 61, \"held\": {\"7C\": 2, \"BX\": 1, \"GK\": 1, \"JL\": 1, \"MM\": 15, \"NH\": 1, \"NU\": 1, \"OZ\": 1, \"TW\": 2}, \"low\": 2}",
+  "top": "MM",
+  "top_gates": 15,
+  "updated": "2026-10-13"
+ },
  "KOA": {
   "flights_day": 94,
   "gates": 12,
