@@ -234,7 +234,7 @@
   "published": "2026-10-14",
   "seats_day": 30342,
   "short": "Brisbane",
-  "sig": "",
+  "sig": "{\"common\": 25, \"drawing\": \"78937cc09b07\", \"gates\": 58, \"held\": {\"JQ\": 6, \"QF\": 13, \"SQ\": 1, \"VA\": 10}, \"low\": 3}",
   "top": "QF",
   "top_gates": 13,
   "updated": "2026-10-14"
@@ -1722,7 +1722,7 @@
   "published": "2026-10-14",
   "seats_day": 49118,
   "short": "Beijing",
-  "sig": "",
+  "sig": "{\"common\": 49, \"drawing\": \"1fb2ea61116a\", \"gates\": 123, \"held\": {\"CA\": 46, \"HU\": 11, \"HX\": 1, \"MU\": 1}, \"low\": 15}",
   "top": "CA",
   "top_gates": 46,
   "updated": "2026-10-14"
@@ -2262,7 +2262,7 @@
   "published": "2026-10-14",
   "seats_day": 18210,
   "short": "Taipei",
-  "sig": "",
+  "sig": "{\"common\": 40, \"drawing\": \"1c3003d9c778\", \"gates\": 49, \"held\": {\"BR\": 9}, \"low\": 0}",
   "top": "BR",
   "top_gates": 9,
   "updated": "2026-10-14"
