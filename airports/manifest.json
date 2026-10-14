@@ -42,7 +42,7 @@
   "published": "2026-10-13",
   "seats_day": 22581,
   "short": "Auckland",
-  "sig": "{\"common\": 20, \"drawing\": \"50fb8422b845\", \"gates\": 52, \"held\": {\"JQ\": 3, \"NZ\": 15}, \"low\": 14}",
+  "sig": "{\"common\": 21, \"drawing\": \"50fb8422b845\", \"gates\": 52, \"held\": {\"JQ\": 3, \"NZ\": 14}, \"low\": 14}",
   "top": "NZ",
   "top_gates": 14,
   "updated": "2026-10-14"
@@ -78,7 +78,7 @@
   "published": "2026-10-12",
   "seats_day": 33291,
   "short": "Amsterdam",
-  "sig": "{\"common\": 63, \"drawing\": \"c3ced06fef72\", \"gates\": 120, \"held\": {\"BA\": 1, \"KL\": 32, \"U2\": 13, \"UA\": 1}, \"low\": 10}",
+  "sig": "{\"common\": 68, \"drawing\": \"c3ced06fef72\", \"gates\": 120, \"held\": {\"BA\": 1, \"KL\": 27, \"U2\": 13, \"UA\": 1}, \"low\": 10}",
   "top": "KL",
   "top_gates": 27,
   "updated": "2026-10-14"
@@ -102,7 +102,7 @@
   "published": "2026-10-05",
   "seats_day": 173643,
   "short": "Atlanta",
-  "sig": "{\"common\": 12, \"drawing\": \"268bf4100f6e\", \"gates\": 201, \"held\": {\"AA\": 5, \"DL\": 146, \"F9\": 8, \"UA\": 4, \"WN\": 8}, \"low\": 18}",
+  "sig": "{\"common\": 13, \"drawing\": \"268bf4100f6e\", \"gates\": 201, \"held\": {\"AA\": 5, \"DL\": 146, \"F9\": 7, \"UA\": 4, \"WN\": 8}, \"low\": 18}",
   "top": "DL",
   "top_gates": 146,
   "updated": "2026-10-14"
@@ -258,7 +258,7 @@
   "published": "2026-10-05",
   "seats_day": 73450,
   "short": "Boston",
-  "sig": "{\"common\": 15, \"drawing\": \"e3483d33a065\", \"gates\": 110, \"held\": {\"4B\": 1, \"9K\": 1, \"AA\": 16, \"AC\": 3, \"AS\": 2, \"B6\": 27, \"DL\": 21, \"UA\": 9, \"WN\": 5}, \"low\": 10}",
+  "sig": "{\"common\": 14, \"drawing\": \"e3483d33a065\", \"gates\": 110, \"held\": {\"4B\": 1, \"9K\": 1, \"AA\": 16, \"AC\": 3, \"AS\": 2, \"B6\": 27, \"DL\": 22, \"UA\": 9, \"WN\": 5}, \"low\": 10}",
   "top": "B6",
   "top_gates": 27,
   "updated": "2026-10-14"
@@ -330,7 +330,7 @@
   "published": "2026-10-06",
   "seats_day": 44099,
   "short": "Baltimore/Washington",
-  "sig": "{\"common\": 1, \"drawing\": \"4c55d3cd84f3\", \"gates\": 77, \"held\": {\"AA\": 5, \"AS\": 1, \"B6\": 1, \"BA\": 1, \"DL\": 7, \"F9\": 3, \"MX\": 1, \"UA\": 5, \"WN\": 36}, \"low\": 16}",
+  "sig": "{\"common\": 1, \"drawing\": \"4c55d3cd84f3\", \"gates\": 77, \"held\": {\"AA\": 5, \"AS\": 1, \"B6\": 1, \"BA\": 1, \"DL\": 7, \"F9\": 4, \"MX\": 1, \"UA\": 5, \"WN\": 36}, \"low\": 15}",
   "top": "WN",
   "top_gates": 36,
   "updated": "2026-10-14"
@@ -342,7 +342,7 @@
   "published": "2026-10-08",
   "seats_day": 4086,
   "short": "Bozeman",
-  "sig": "{\"common\": 1, \"drawing\": \"279e7e761220\", \"gates\": 12, \"held\": {\"AA\": 1, \"AS\": 1, \"DL\": 2, \"UA\": 2, \"WN\": 2}, \"low\": 3}",
+  "sig": "{\"common\": 2, \"drawing\": \"279e7e761220\", \"gates\": 12, \"held\": {\"AA\": 1, \"AS\": 1, \"DL\": 2, \"UA\": 2, \"WN\": 1}, \"low\": 3}",
   "top": "UA",
   "top_gates": 2,
   "updated": "2026-10-14"
@@ -426,7 +426,7 @@
   "published": "2026-10-07",
   "seats_day": 17700,
   "short": "Cleveland",
-  "sig": "{\"common\": 3, \"drawing\": \"02f45cdabc40\", \"gates\": 49, \"held\": {\"AA\": 9, \"AS\": 1, \"B6\": 1, \"DL\": 8, \"F9\": 4, \"UA\": 11, \"WN\": 4}, \"low\": 8}",
+  "sig": "{\"common\": 4, \"drawing\": \"02f45cdabc40\", \"gates\": 49, \"held\": {\"AA\": 9, \"AS\": 1, \"B6\": 1, \"DL\": 7, \"F9\": 4, \"UA\": 11, \"WN\": 4}, \"low\": 8}",
   "top": "UA",
   "top_gates": 11,
   "updated": "2026-10-14"
@@ -498,7 +498,7 @@
   "published": "2026-10-14",
   "seats_day": 1209,
   "short": "Corpus Christi",
-  "sig": "{\"common\": 0, \"drawing\": \"413bb2424e3f\", \"gates\": 5, \"held\": {\"AA\": 1, \"UA\": 1, \"WN\": 1}, \"low\": 2}",
+  "sig": "{\"common\": 0, \"drawing\": \"413bb2424e3f\", \"gates\": 5, \"held\": {\"AA\": 1, \"UA\": 2, \"WN\": 1}, \"low\": 1}",
   "top": "UA",
   "top_gates": 2,
   "updated": "2026-10-14"
@@ -582,7 +582,7 @@
   "published": "2026-10-06",
   "seats_day": 137811,
   "short": "Dallas/Fort Worth",
-  "sig": "{\"common\": 11, \"drawing\": \"799d4f936128\", \"gates\": 176, \"held\": {\"AA\": 122, \"AS\": 1, \"DL\": 5, \"F9\": 4, \"LF\": 1, \"QF\": 1, \"UA\": 5}, \"low\": 26}",
+  "sig": "{\"common\": 12, \"drawing\": \"799d4f936128\", \"gates\": 176, \"held\": {\"AA\": 123, \"AS\": 1, \"DL\": 5, \"F9\": 4, \"LF\": 1, \"UA\": 5}, \"low\": 25}",
   "top": "AA",
   "top_gates": 123,
   "updated": "2026-10-14"
@@ -594,7 +594,7 @@
   "published": "2026-10-13",
   "seats_day": 11852,
   "short": "West Palm Beach",
-  "sig": "{\"common\": 1, \"drawing\": \"2c2b3f30d125\", \"gates\": 36, \"held\": {\"AA\": 3, \"B6\": 6, \"DL\": 5, \"G4\": 1, \"MX\": 1, \"UA\": 2, \"WN\": 2}, \"low\": 15}",
+  "sig": "{\"common\": 1, \"drawing\": \"2c2b3f30d125\", \"gates\": 36, \"held\": {\"AA\": 4, \"B6\": 6, \"DL\": 5, \"G4\": 1, \"MX\": 1, \"UA\": 2, \"WN\": 2}, \"low\": 14}",
   "top": "B6",
   "top_gates": 6,
   "updated": "2026-10-14"
@@ -642,7 +642,7 @@
   "published": "2026-10-09",
   "seats_day": 58098,
   "short": "Dublin",
-  "sig": "{\"common\": 21, \"drawing\": \"e6f59482e3b9\", \"gates\": 76, \"held\": {\"EA\": 5, \"EI\": 14, \"FR\": 15}, \"low\": 21}",
+  "sig": "{\"common\": 19, \"drawing\": \"e6f59482e3b9\", \"gates\": 76, \"held\": {\"AA\": 1, \"EA\": 5, \"EI\": 15, \"FR\": 15}, \"low\": 21}",
   "top": "FR",
   "top_gates": 15,
   "updated": "2026-10-14"
@@ -654,7 +654,7 @@
   "published": "2026-10-11",
   "seats_day": 106637,
   "short": "Dubai",
-  "sig": "{\"common\": 24, \"drawing\": \"db5d2df45124\", \"gates\": 117, \"held\": {\"EK\": 71, \"FZ\": 12, \"IX\": 2}, \"low\": 8}",
+  "sig": "{\"common\": 23, \"drawing\": \"db5d2df45124\", \"gates\": 117, \"held\": {\"EK\": 72, \"FZ\": 12, \"IX\": 2}, \"low\": 8}",
   "top": "EK",
   "top_gates": 72,
   "updated": "2026-10-14"
@@ -690,7 +690,7 @@
   "published": "2026-10-08",
   "seats_day": 3201,
   "short": "Eugene",
-  "sig": "{\"common\": 3, \"drawing\": \"afc578c1082d\", \"gates\": 9, \"held\": {\"AA\": 1, \"AS\": 1, \"DL\": 1, \"UA\": 2, \"WN\": 1}, \"low\": 0}",
+  "sig": "{\"common\": 2, \"drawing\": \"afc578c1082d\", \"gates\": 9, \"held\": {\"AA\": 1, \"AS\": 1, \"DL\": 2, \"UA\": 2, \"WN\": 1}, \"low\": 0}",
   "top": "UA",
   "top_gates": 2,
   "updated": "2026-10-14"
@@ -714,7 +714,7 @@
   "published": "2026-10-06",
   "seats_day": 73911,
   "short": "Newark",
-  "sig": "{\"common\": 5, \"drawing\": \"cb270c7b3106\", \"gates\": 103, \"held\": {\"AA\": 3, \"AC\": 1, \"AS\": 3, \"B6\": 2, \"DL\": 2, \"UA\": 77}, \"low\": 10}",
+  "sig": "{\"common\": 5, \"drawing\": \"cb270c7b3106\", \"gates\": 103, \"held\": {\"AA\": 3, \"AC\": 1, \"AS\": 4, \"B6\": 2, \"DL\": 2, \"UA\": 77}, \"low\": 9}",
   "top": "UA",
   "top_gates": 77,
   "updated": "2026-10-14"
@@ -786,7 +786,7 @@
   "published": "2026-10-06",
   "seats_day": 45146,
   "short": "Fort Lauderdale",
-  "sig": "{\"common\": 8, \"drawing\": \"fdcdde9e6604\", \"gates\": 67, \"held\": {\"AA\": 4, \"B6\": 26, \"DL\": 8, \"F9\": 2, \"G4\": 3, \"MX\": 2, \"UA\": 6, \"WN\": 6}, \"low\": 2}",
+  "sig": "{\"common\": 9, \"drawing\": \"fdcdde9e6604\", \"gates\": 67, \"held\": {\"AA\": 4, \"B6\": 26, \"DL\": 8, \"F9\": 2, \"G4\": 3, \"MX\": 1, \"UA\": 6, \"WN\": 6}, \"low\": 2}",
   "top": "B6",
   "top_gates": 26,
   "updated": "2026-10-14"
@@ -798,7 +798,7 @@
   "published": "2026-10-11",
   "seats_day": 37358,
   "short": "Frankfurt",
-  "sig": "{\"common\": 33, \"drawing\": \"cf5d7bf4531d\", \"gates\": 117, \"held\": {\"4Y\": 2, \"AA\": 2, \"DE\": 2, \"DL\": 3, \"EI\": 1, \"LH\": 27, \"UA\": 15, \"YW\": 1}, \"low\": 31}",
+  "sig": "{\"common\": 32, \"drawing\": \"cf5d7bf4531d\", \"gates\": 117, \"held\": {\"4Y\": 2, \"AA\": 2, \"DE\": 3, \"DL\": 3, \"EI\": 1, \"LH\": 27, \"UA\": 15, \"YW\": 1}, \"low\": 31}",
   "top": "LH",
   "top_gates": 27,
   "updated": "2026-10-14"
@@ -858,7 +858,7 @@
   "published": "2026-10-13",
   "seats_day": 941,
   "short": "Gainesville",
-  "sig": "{\"common\": 0, \"drawing\": \"27b9ddcba881\", \"gates\": 5, \"held\": {\"AA\": 3, \"DL\": 1}, \"low\": 1}",
+  "sig": "{\"common\": 0, \"drawing\": \"27b9ddcba881\", \"gates\": 5, \"held\": {\"AA\": 3, \"DL\": 2}, \"low\": 0}",
   "top": "AA",
   "top_gates": 3,
   "updated": "2026-10-14"
@@ -930,7 +930,7 @@
   "published": "2026-10-11",
   "seats_day": 66070,
   "short": "Hong Kong",
-  "sig": "{\"common\": 68, \"drawing\": \"4c81c45e9ef8\", \"gates\": 91, \"held\": {\"CX\": 14, \"HX\": 2, \"UO\": 3}, \"low\": 4}",
+  "sig": "{\"common\": 67, \"drawing\": \"4c81c45e9ef8\", \"gates\": 91, \"held\": {\"CX\": 15, \"HX\": 2, \"UO\": 3}, \"low\": 4}",
   "top": "CX",
   "top_gates": 15,
   "updated": "2026-10-14"
@@ -942,7 +942,7 @@
   "published": "2026-10-11",
   "seats_day": 138828,
   "short": "Tokyo Haneda",
-  "sig": "{\"common\": 10, \"drawing\": \"2126304c815b\", \"gates\": 108, \"held\": {\"AA\": 1, \"BC\": 5, \"DL\": 3, \"JL\": 23, \"NH\": 27, \"UA\": 1}, \"low\": 38}",
+  "sig": "{\"common\": 10, \"drawing\": \"2126304c815b\", \"gates\": 108, \"held\": {\"AA\": 1, \"BC\": 5, \"DL\": 3, \"JL\": 25, \"NH\": 26, \"UA\": 1}, \"low\": 37}",
   "top": "NH",
   "top_gates": 26,
   "updated": "2026-10-14"
@@ -954,7 +954,7 @@
   "published": "2026-10-06",
   "seats_day": 32200,
   "short": "Honolulu",
-  "sig": "{\"common\": 9, \"drawing\": \"4778a2335614\", \"gates\": 58, \"held\": {\"AA\": 1, \"AS\": 25, \"DL\": 2, \"UA\": 5, \"WN\": 6}, \"low\": 10}",
+  "sig": "{\"common\": 9, \"drawing\": \"4778a2335614\", \"gates\": 58, \"held\": {\"AA\": 1, \"AS\": 26, \"DL\": 2, \"UA\": 5, \"WN\": 5}, \"low\": 10}",
   "top": "AS",
   "top_gates": 26,
   "updated": "2026-10-14"
@@ -978,7 +978,7 @@
   "published": "2026-10-08",
   "seats_day": 3663,
   "short": "White Plains",
-  "sig": "{\"common\": 3, \"drawing\": \"13e6cdcb5ea8\", \"gates\": 6, \"held\": {\"AA\": 1, \"B6\": 2}, \"low\": 0}",
+  "sig": "{\"common\": 4, \"drawing\": \"13e6cdcb5ea8\", \"gates\": 6, \"held\": {\"AA\": 1, \"B6\": 1}, \"low\": 0}",
   "top": "B6",
   "top_gates": 1,
   "updated": "2026-10-14"
@@ -1026,7 +1026,7 @@
   "published": "2026-10-06",
   "seats_day": 75253,
   "short": "Houston Bush",
-  "sig": "{\"common\": 5, \"drawing\": \"2d41cee106a2\", \"gates\": 147, \"held\": {\"AA\": 6, \"AM\": 1, \"AS\": 1, \"AZ\": 1, \"B6\": 2, \"BA\": 1, \"DL\": 5, \"F9\": 3, \"KL\": 1, \"NZ\": 1, \"QR\": 1, \"UA\": 85, \"Y4\": 1}, \"low\": 33}",
+  "sig": "{\"common\": 5, \"drawing\": \"bdf1ad2e1cfe\", \"gates\": 147, \"held\": {\"AA\": 6, \"AM\": 1, \"AS\": 1, \"AZ\": 1, \"B6\": 2, \"BA\": 1, \"DL\": 5, \"F9\": 3, \"KL\": 1, \"NZ\": 1, \"QR\": 1, \"UA\": 85, \"Y4\": 1}, \"low\": 33}",
   "top": "UA",
   "top_gates": 85,
   "updated": "2026-10-14"
@@ -1038,7 +1038,7 @@
   "published": "2026-10-12",
   "seats_day": 79167,
   "short": "Seoul",
-  "sig": "{\"common\": 104, \"drawing\": \"649a00e350bb\", \"gates\": 151, \"held\": {\"7C\": 3, \"KE\": 22, \"LJ\": 3, \"OZ\": 6, \"RS\": 1}, \"low\": 12}",
+  "sig": "{\"common\": 107, \"drawing\": \"649a00e350bb\", \"gates\": 151, \"held\": {\"7C\": 2, \"KE\": 21, \"LJ\": 3, \"OZ\": 5, \"RS\": 1}, \"low\": 12}",
   "top": "KE",
   "top_gates": 21,
   "updated": "2026-10-14"
@@ -1074,7 +1074,7 @@
   "published": "2026-10-08",
   "seats_day": 3293,
   "short": "Wilmington",
-  "sig": "{\"common\": 3, \"drawing\": \"2574512c5a68\", \"gates\": 9, \"held\": {\"AA\": 4, \"DL\": 1, \"UA\": 1}, \"low\": 0}",
+  "sig": "{\"common\": 2, \"drawing\": \"2574512c5a68\", \"gates\": 9, \"held\": {\"AA\": 5, \"DL\": 1, \"UA\": 1}, \"low\": 0}",
   "top": "AA",
   "top_gates": 5,
   "updated": "2026-10-14"
@@ -1206,7 +1206,7 @@
   "published": "2026-10-05",
   "seats_day": 91203,
   "short": "Las Vegas",
-  "sig": "{\"common\": 10, \"drawing\": \"3340bb1327fd\", \"gates\": 110, \"held\": {\"AA\": 9, \"AS\": 5, \"B6\": 2, \"DL\": 9, \"F9\": 11, \"G4\": 10, \"MX\": 1, \"UA\": 9, \"WN\": 37, \"Y4\": 1}, \"low\": 6}",
+  "sig": "{\"common\": 11, \"drawing\": \"3340bb1327fd\", \"gates\": 110, \"held\": {\"AA\": 9, \"AS\": 5, \"B6\": 2, \"DL\": 9, \"F9\": 11, \"G4\": 10, \"UA\": 9, \"WN\": 37, \"Y4\": 1}, \"low\": 6}",
   "top": "WN",
   "top_gates": 37,
   "updated": "2026-10-14"
@@ -1242,7 +1242,7 @@
   "published": "2026-10-08",
   "seats_day": 2999,
   "short": "Lexington",
-  "sig": "{\"common\": 0, \"drawing\": \"039f6f94c026\", \"gates\": 11, \"held\": {\"AA\": 3, \"DL\": 3, \"G4\": 1, \"UA\": 3}, \"low\": 1}",
+  "sig": "{\"common\": 1, \"drawing\": \"039f6f94c026\", \"gates\": 11, \"held\": {\"AA\": 3, \"DL\": 3, \"UA\": 3}, \"low\": 1}",
   "top": "DL",
   "top_gates": 3,
   "updated": "2026-10-14"
@@ -1410,7 +1410,7 @@
   "published": "2026-10-12",
   "seats_day": 43336,
   "short": "Melbourne",
-  "sig": "{\"common\": 13, \"drawing\": \"389110b4b362\", \"gates\": 67, \"held\": {\"JQ\": 12, \"QF\": 15, \"VA\": 16}, \"low\": 11}",
+  "sig": "{\"common\": 14, \"drawing\": \"389110b4b362\", \"gates\": 67, \"held\": {\"JQ\": 12, \"QF\": 15, \"VA\": 16}, \"low\": 10}",
   "top": "VA",
   "top_gates": 16,
   "updated": "2026-10-14"
@@ -1434,7 +1434,7 @@
   "published": "2026-10-10",
   "seats_day": 1362,
   "short": "McAllen",
-  "sig": "{\"common\": 2, \"drawing\": \"c4fbe4c20871\", \"gates\": 6, \"held\": {\"AA\": 1, \"UA\": 2}, \"low\": 1}",
+  "sig": "{\"common\": 1, \"drawing\": \"c4fbe4c20871\", \"gates\": 6, \"held\": {\"AA\": 2, \"UA\": 2}, \"low\": 1}",
   "top": "AA",
   "top_gates": 2,
   "updated": "2026-10-14"
@@ -1482,7 +1482,7 @@
   "published": "2026-10-06",
   "seats_day": 66432,
   "short": "Miami",
-  "sig": "{\"common\": 19, \"drawing\": \"9162d5f5de98\", \"gates\": 144, \"held\": {\"AA\": 70, \"AM\": 1, \"AR\": 1, \"BA\": 1, \"CM\": 1, \"DL\": 7, \"DM\": 1, \"F9\": 3, \"IB\": 1, \"KX\": 1, \"LP\": 1, \"OB\": 1, \"UA\": 5, \"UP\": 1, \"UX\": 1, \"WN\": 4}, \"low\": 25}",
+  "sig": "{\"common\": 18, \"drawing\": \"9162d5f5de98\", \"gates\": 144, \"held\": {\"AA\": 70, \"AM\": 1, \"AR\": 1, \"BA\": 1, \"BF\": 1, \"CM\": 1, \"DL\": 7, \"DM\": 1, \"F9\": 3, \"IB\": 1, \"KX\": 1, \"LP\": 1, \"OB\": 2, \"UA\": 5, \"UP\": 1, \"UX\": 1, \"WN\": 4}, \"low\": 24}",
   "top": "AA",
   "top_gates": 70,
   "updated": "2026-10-14"
@@ -1518,7 +1518,7 @@
   "published": "2026-10-10",
   "seats_day": 968,
   "short": "Mobile",
-  "sig": "{\"common\": 0, \"drawing\": \"d5366c7a2eac\", \"gates\": 7, \"held\": {\"AA\": 2, \"DL\": 1, \"UA\": 2}, \"low\": 2}",
+  "sig": "{\"common\": 0, \"drawing\": \"d5366c7a2eac\", \"gates\": 7, \"held\": {\"AA\": 3, \"DL\": 1, \"UA\": 2}, \"low\": 1}",
   "top": "AA",
   "top_gates": 3,
   "updated": "2026-10-14"
@@ -1566,7 +1566,7 @@
   "published": "2026-10-06",
   "seats_day": 57577,
   "short": "Minneapolis/St. Paul",
-  "sig": "{\"common\": 1, \"drawing\": \"21dfbc4df260\", \"gates\": 121, \"held\": {\"AA\": 6, \"AC\": 1, \"AS\": 1, \"DL\": 72, \"F9\": 1, \"SY\": 7, \"UA\": 5, \"WN\": 5, \"WS\": 1}, \"low\": 21}",
+  "sig": "{\"common\": 1, \"drawing\": \"21dfbc4df260\", \"gates\": 121, \"held\": {\"AA\": 6, \"AC\": 1, \"AS\": 1, \"DL\": 73, \"F9\": 1, \"SY\": 7, \"UA\": 5, \"WN\": 5, \"WS\": 1}, \"low\": 20}",
   "top": "DL",
   "top_gates": 73,
   "updated": "2026-10-14"
@@ -1578,7 +1578,7 @@
   "published": "2026-10-07",
   "seats_day": 21702,
   "short": "New Orleans",
-  "sig": "{\"common\": 4, \"drawing\": \"70a819b9cdf4\", \"gates\": 35, \"held\": {\"AA\": 5, \"AS\": 1, \"B6\": 1, \"DL\": 5, \"F9\": 1, \"MX\": 3, \"UA\": 5, \"WN\": 9}, \"low\": 1}",
+  "sig": "{\"common\": 5, \"drawing\": \"70a819b9cdf4\", \"gates\": 35, \"held\": {\"AA\": 5, \"AS\": 1, \"B6\": 1, \"DL\": 5, \"F9\": 1, \"MX\": 3, \"UA\": 4, \"WN\": 9}, \"low\": 1}",
   "top": "WN",
   "top_gates": 9,
   "updated": "2026-10-14"
@@ -1614,7 +1614,7 @@
   "published": "2026-10-11",
   "seats_day": 35250,
   "short": "Tokyo Narita",
-  "sig": "{\"common\": 57, \"drawing\": \"512647b860a4\", \"gates\": 86, \"held\": {\"GK\": 8, \"HX\": 1, \"JL\": 3, \"NH\": 9, \"UO\": 1, \"ZG\": 3}, \"low\": 4}",
+  "sig": "{\"common\": 57, \"drawing\": \"512647b860a4\", \"gates\": 86, \"held\": {\"GK\": 8, \"HX\": 1, \"JL\": 3, \"NH\": 8, \"UA\": 1, \"UO\": 1, \"ZG\": 3}, \"low\": 4}",
   "top": "NH",
   "top_gates": 8,
   "updated": "2026-10-14"
@@ -1650,7 +1650,7 @@
   "published": "2026-10-07",
   "seats_day": 8714,
   "short": "Oklahoma City",
-  "sig": "{\"common\": 2, \"drawing\": \"b2555e8ff9ed\", \"gates\": 21, \"held\": {\"AA\": 4, \"DL\": 3, \"F9\": 1, \"UA\": 5, \"WN\": 4}, \"low\": 2}",
+  "sig": "{\"common\": 3, \"drawing\": \"b2555e8ff9ed\", \"gates\": 21, \"held\": {\"AA\": 4, \"DL\": 3, \"F9\": 1, \"UA\": 4, \"WN\": 4}, \"low\": 2}",
   "top": "WN",
   "top_gates": 4,
   "updated": "2026-10-14"
@@ -1686,7 +1686,7 @@
   "published": "2026-10-05",
   "seats_day": 156901,
   "short": "O\u2019Hare",
-  "sig": "{\"common\": 22, \"drawing\": \"140d5d8e0e4b\", \"gates\": 194, \"held\": {\"AA\": 62, \"AS\": 2, \"DL\": 5, \"F9\": 1, \"UA\": 90}, \"low\": 12}",
+  "sig": "{\"common\": 21, \"drawing\": \"140d5d8e0e4b\", \"gates\": 194, \"held\": {\"AA\": 63, \"AS\": 2, \"DL\": 5, \"F9\": 1, \"UA\": 90}, \"low\": 12}",
   "top": "UA",
   "top_gates": 90,
   "updated": "2026-10-14"
@@ -1782,7 +1782,7 @@
   "published": "2026-10-07",
   "seats_day": 17776,
   "short": "Pittsburgh",
-  "sig": "{\"common\": 0, \"drawing\": \"1d1606a57e5d\", \"gates\": 55, \"held\": {\"AA\": 11, \"AC\": 1, \"AS\": 1, \"B6\": 2, \"DL\": 7, \"G4\": 3, \"MX\": 1, \"UA\": 9, \"WN\": 9}, \"low\": 11}",
+  "sig": "{\"common\": 0, \"drawing\": \"1d1606a57e5d\", \"gates\": 55, \"held\": {\"AA\": 12, \"AC\": 1, \"AS\": 1, \"B6\": 2, \"DL\": 7, \"G4\": 3, \"MX\": 1, \"UA\": 9, \"WN\": 9}, \"low\": 10}",
   "top": "AA",
   "top_gates": 12,
   "updated": "2026-10-14"
@@ -1830,7 +1830,7 @@
   "published": "2026-10-07",
   "seats_day": 7907,
   "short": "Providence",
-  "sig": "{\"common\": 0, \"drawing\": \"71d86994b072\", \"gates\": 24, \"held\": {\"AA\": 4, \"B6\": 2, \"DL\": 2, \"MX\": 4, \"UA\": 2, \"WN\": 3}, \"low\": 7}",
+  "sig": "{\"common\": 0, \"drawing\": \"71d86994b072\", \"gates\": 24, \"held\": {\"AA\": 4, \"B6\": 2, \"DL\": 2, \"MX\": 4, \"UA\": 3, \"WN\": 3}, \"low\": 6}",
   "top": "AA",
   "top_gates": 4,
   "updated": "2026-10-14"
@@ -1866,7 +1866,7 @@
   "published": "2026-10-07",
   "seats_day": 29394,
   "short": "Raleigh/Durham",
-  "sig": "{\"common\": 10, \"drawing\": \"e05ca079636c\", \"gates\": 45, \"held\": {\"AA\": 8, \"B6\": 2, \"DL\": 8, \"F9\": 1, \"MX\": 3, \"UA\": 3, \"WN\": 4}, \"low\": 6}",
+  "sig": "{\"common\": 9, \"drawing\": \"e05ca079636c\", \"gates\": 45, \"held\": {\"AA\": 9, \"B6\": 2, \"DL\": 8, \"F9\": 1, \"MX\": 3, \"UA\": 3, \"WN\": 4}, \"low\": 6}",
   "top": "AA",
   "top_gates": 9,
   "updated": "2026-10-14"
@@ -1998,7 +1998,7 @@
   "published": "2026-10-11",
   "seats_day": 1898,
   "short": "South Bend",
-  "sig": "{\"common\": 2, \"drawing\": \"418f15d4407a\", \"gates\": 9, \"held\": {\"AA\": 1, \"DL\": 1, \"G4\": 1, \"UA\": 1}, \"low\": 3}",
+  "sig": "{\"common\": 3, \"drawing\": \"418f15d4407a\", \"gates\": 9, \"held\": {\"AA\": 1, \"DL\": 1, \"G4\": 1, \"UA\": 1}, \"low\": 2}",
   "top": "UA",
   "top_gates": 1,
   "updated": "2026-10-14"
@@ -2034,7 +2034,7 @@
   "published": "2026-10-06",
   "seats_day": 84018,
   "short": "Seattle",
-  "sig": "{\"common\": 21, \"drawing\": \"8e0e253c3078\", \"gates\": 97, \"held\": {\"AA\": 3, \"AS\": 42, \"DL\": 18, \"UA\": 4, \"WN\": 3}, \"low\": 6}",
+  "sig": "{\"common\": 20, \"drawing\": \"8e0e253c3078\", \"gates\": 97, \"held\": {\"AA\": 3, \"AS\": 43, \"DL\": 18, \"UA\": 4, \"WN\": 3}, \"low\": 6}",
   "top": "AS",
   "top_gates": 43,
   "updated": "2026-10-14"
@@ -2094,7 +2094,7 @@
   "published": "2026-10-13",
   "seats_day": 1218,
   "short": "Shreveport",
-  "sig": "{\"common\": 0, \"drawing\": \"7d5eab8e6fdb\", \"gates\": 8, \"held\": {\"AA\": 1, \"DL\": 1, \"G4\": 1, \"UA\": 2}, \"low\": 3}",
+  "sig": "{\"common\": 1, \"drawing\": \"7d5eab8e6fdb\", \"gates\": 8, \"held\": {\"AA\": 1, \"DL\": 1, \"UA\": 2}, \"low\": 3}",
   "top": "UA",
   "top_gates": 2,
   "updated": "2026-10-14"
@@ -2106,7 +2106,7 @@
   "published": "2026-10-11",
   "seats_day": 68611,
   "short": "Singapore",
-  "sig": "{\"common\": 64, \"drawing\": \"a1980d7a8952\", \"gates\": 131, \"held\": {\"5J\": 1, \"CX\": 2, \"SQ\": 23, \"TR\": 13}, \"low\": 28}",
+  "sig": "{\"common\": 62, \"drawing\": \"a1980d7a8952\", \"gates\": 131, \"held\": {\"5J\": 1, \"CX\": 2, \"SQ\": 25, \"TR\": 13}, \"low\": 28}",
   "top": "SQ",
   "top_gates": 25,
   "updated": "2026-10-14"
@@ -2298,7 +2298,7 @@
   "published": "2026-10-07",
   "seats_day": 6306,
   "short": "Tucson",
-  "sig": "{\"common\": 0, \"drawing\": \"0d34156a1c94\", \"gates\": 21, \"held\": {\"AA\": 4, \"AS\": 2, \"DL\": 2, \"UA\": 4, \"WN\": 4}, \"low\": 5}",
+  "sig": "{\"common\": 2, \"drawing\": \"0d34156a1c94\", \"gates\": 21, \"held\": {\"AA\": 4, \"AS\": 1, \"DL\": 2, \"UA\": 4, \"WN\": 3}, \"low\": 5}",
   "top": "AA",
   "top_gates": 4,
   "updated": "2026-10-14"
@@ -2322,7 +2322,7 @@
   "published": "2026-10-08",
   "seats_day": 4947,
   "short": "Destin/Fort Walton Beach",
-  "sig": "{\"common\": 0, \"drawing\": \"9a5d5e86dc8f\", \"gates\": 14, \"held\": {\"AA\": 4, \"DL\": 2, \"G4\": 4, \"WN\": 1}, \"low\": 3}",
+  "sig": "{\"common\": 0, \"drawing\": \"9a5d5e86dc8f\", \"gates\": 14, \"held\": {\"AA\": 5, \"DL\": 2, \"G4\": 4, \"WN\": 1}, \"low\": 2}",
   "top": "AA",
   "top_gates": 5,
   "updated": "2026-10-14"
