@@ -126,7 +126,7 @@
    "name": "Cape Air",
    "published": "2026-10-15",
    "short": "Cape Air",
-   "sig": "",
+   "sig": "{\"drawing\": \"ef3353d5b80f\", \"focus\": [\"1\"], \"held\": [], \"held_n\": 0, \"main\": [\"1\"]}",
    "slug": "cape-air",
    "updated": "2026-10-15"
   },
@@ -140,7 +140,7 @@
    "name": "JetBlue",
    "published": "2026-10-15",
    "short": "JetBlue",
-   "sig": "",
+   "sig": "{\"drawing\": \"ef3353d5b80f\", \"focus\": [\"1\"], \"held\": [], \"held_n\": 0, \"main\": [\"1\"]}",
    "slug": "jetblue",
    "updated": "2026-10-15"
   }
@@ -2947,7 +2947,7 @@
    "name": "Air Alpha Greenland",
    "published": "2026-10-15",
    "short": "Air Alpha",
-   "sig": "",
+   "sig": "{\"drawing\": \"78937cc09b07\", \"focus\": [\"26\", \"29\", \"32\"], \"held\": [], \"held_n\": 0, \"main\": [\"26\", \"29\", \"32\"]}",
    "slug": "air-alpha",
    "updated": "2026-10-15"
   },
@@ -2975,7 +2975,7 @@
    "name": "Air Leisure",
    "published": "2026-10-15",
    "short": "Air Leisure",
-   "sig": "",
+   "sig": "{\"drawing\": \"78937cc09b07\", \"focus\": [\"31\", \"32\"], \"held\": [], \"held_n\": 0, \"main\": [\"31\", \"32\"]}",
    "slug": "air-leisure",
    "updated": "2026-10-15"
   },
@@ -3031,7 +3031,7 @@
    "name": "Alliance Airlines",
    "published": "2026-10-15",
    "short": "Alliance Airlines",
-   "sig": "",
+   "sig": "{\"drawing\": \"78937cc09b07\", \"focus\": [\"A4\", \"26\", \"28\", \"29\", \"30\", \"31\", \"32\", \"42\", \"46\", \"47\", \"48\", \"49\", \"50\"], \"held\": [], \"held_n\": 0, \"main\": [\"A4\", \"26\", \"28\", \"29\", \"30\", \"31\", \"32\", \"42\", \"46\", \"47\", \"48\", \"49\", \"50\"]}",
    "slug": "alliance-airlines",
    "updated": "2026-10-15"
   },
@@ -3213,7 +3213,7 @@
    "name": "Nauru Airlines",
    "published": "2026-10-15",
    "short": "Nauru Airlines",
-   "sig": "",
+   "sig": "{\"drawing\": \"78937cc09b07\", \"focus\": [\"74A\", \"78\"], \"held\": [], \"held_n\": 0, \"main\": [\"74A\", \"78\"]}",
    "slug": "nauru-airlines",
    "updated": "2026-10-15"
   },
@@ -5510,7 +5510,7 @@
    "name": "Aegean Airlines",
    "published": "2026-10-15",
    "short": "Aegean",
-   "sig": "",
+   "sig": "{\"drawing\": \"74e1727f04c5\", \"focus\": [\"A6\", \"A8\", \"A9\", \"A12\", \"A17\", \"A18\", \"A22\"], \"held\": [], \"held_n\": 0, \"main\": [\"A6\", \"A8\", \"A9\", \"A12\", \"A17\", \"A18\", \"A22\"]}",
    "slug": "aegean",
    "updated": "2026-10-15"
   },
@@ -5524,7 +5524,7 @@
    "name": "Air Cairo",
    "published": "2026-10-15",
    "short": "Air Cairo",
-   "sig": "",
+   "sig": "{\"drawing\": \"74e1727f04c5\", \"focus\": [\"C33\", \"C34\"], \"held\": [], \"held_n\": 0, \"main\": [\"C33\", \"C34\"]}",
    "slug": "air-cairo",
    "updated": "2026-10-15"
   },
@@ -5538,7 +5538,7 @@
    "name": "Air Canada",
    "published": "2026-10-15",
    "short": "Air Canada",
-   "sig": "",
+   "sig": "{\"drawing\": \"74e1727f04c5\", \"focus\": [\"C28\", \"C33\"], \"held\": [], \"held_n\": 0, \"main\": [\"C28\", \"C33\"]}",
    "slug": "air-canada",
    "updated": "2026-10-15"
   },
@@ -5552,7 +5552,7 @@
    "name": "Air China",
    "published": "2026-10-15",
    "short": "Air China",
-   "sig": "",
+   "sig": "{\"drawing\": \"74e1727f04c5\", \"focus\": [\"E1\", \"A9\", \"C29\", \"C33\"], \"held\": [], \"held_n\": 0, \"main\": [\"E1\", \"A9\", \"C29\", \"C33\"]}",
    "slug": "air-china",
    "updated": "2026-10-15"
   },
@@ -5566,7 +5566,7 @@
    "name": "Air France",
    "published": "2026-10-15",
    "short": "Air France",
-   "sig": "",
+   "sig": "{\"drawing\": \"74e1727f04c5\", \"focus\": [\"A4\", \"A6\", \"A9\", \"A11\", \"A12\", \"A15\", \"A17\", \"A20\", \"A21\", \"A22\", \"A23\", \"A26\"], \"held\": [], \"held_n\": 0, \"main\": [\"A4\", \"A6\", \"A9\", \"A11\", \"A12\", \"A15\", \"A17\", \"A20\", \"A21\", \"A22\", \"A23\", \"A26\"]}",
    "slug": "air-france",
    "updated": "2026-10-15"
   },
@@ -5580,7 +5580,7 @@
    "name": "Air India",
    "published": "2026-10-15",
    "short": "Air India",
-   "sig": "",
+   "sig": "{\"drawing\": \"74e1727f04c5\", \"focus\": [\"C29\", \"C33\"], \"held\": [], \"held_n\": 0, \"main\": [\"C29\", \"C33\"]}",
    "slug": "air-india",
    "updated": "2026-10-15"
   },
@@ -5594,7 +5594,7 @@
    "name": "Air Seoul",
    "published": "2026-10-15",
    "short": "Air Seoul",
-   "sig": "",
+   "sig": "{\"drawing\": \"74e1727f04c5\", \"focus\": [\"C34\", \"C36\"], \"held\": [], \"held_n\": 0, \"main\": [\"C34\", \"C36\"]}",
    "slug": "air-seoul",
    "updated": "2026-10-15"
   },
@@ -5608,7 +5608,7 @@
    "name": "Air Serbia",
    "published": "2026-10-15",
    "short": "Air Serbia",
-   "sig": "",
+   "sig": "{\"drawing\": \"74e1727f04c5\", \"focus\": [\"C27\", \"C28\", \"C29\", \"C33\"], \"held\": [], \"held_n\": 0, \"main\": [\"C27\", \"C28\", \"C29\", \"C33\"]}",
    "slug": "air-serbia",
    "updated": "2026-10-15"
   },
@@ -5622,7 +5622,7 @@
    "name": "airBaltic",
    "published": "2026-10-15",
    "short": "airBaltic",
-   "sig": "",
+   "sig": "{\"drawing\": \"74e1727f04c5\", \"focus\": [\"E2\", \"A6\", \"E6\", \"A9\", \"A11\", \"A12\", \"A15\", \"A20\", \"A23\", \"A25\", \"A26\", \"A27\"], \"held\": [], \"held_n\": 0, \"main\": [\"E2\", \"A6\", \"E6\", \"A9\", \"A11\", \"A12\", \"A15\", \"A20\", \"A23\", \"A25\", \"A26\", \"A27\"]}",
    "slug": "airbaltic",
    "updated": "2026-10-15"
   },
@@ -5636,7 +5636,7 @@
    "name": "AJet",
    "published": "2026-10-15",
    "short": "AJet",
-   "sig": "",
+   "sig": "{\"drawing\": \"74e1727f04c5\", \"focus\": [\"C36\"], \"held\": [], \"held_n\": 0, \"main\": [\"C36\"]}",
    "slug": "ajet",
    "updated": "2026-10-15"
   },
@@ -5650,7 +5650,7 @@
    "name": "Austrian Airlines",
    "published": "2026-10-15",
    "short": "Austrian",
-   "sig": "",
+   "sig": "{\"drawing\": \"74e1727f04c5\", \"focus\": [\"A6\", \"A8\", \"A9\", \"A11\", \"A14\", \"A15\", \"A17\", \"A27\"], \"held\": [], \"held_n\": 0, \"main\": [\"A6\", \"A8\", \"A9\", \"A11\", \"A14\", \"A15\", \"A17\", \"A27\"]}",
    "slug": "austrian",
    "updated": "2026-10-15"
   },
@@ -5664,7 +5664,7 @@
    "name": "British Airways",
    "published": "2026-10-15",
    "short": "British Airways",
-   "sig": "",
+   "sig": "{\"drawing\": \"74e1727f04c5\", \"focus\": [\"C27\", \"C28\", \"C33\", \"C34\", \"C36\"], \"held\": [], \"held_n\": 0, \"main\": [\"C27\", \"C28\", \"C33\", \"C34\", \"C36\"]}",
    "slug": "british-airways",
    "updated": "2026-10-15"
   },
@@ -5678,7 +5678,7 @@
    "name": "Brussels Airlines",
    "published": "2026-10-15",
    "short": "Brussels Airlines",
-   "sig": "",
+   "sig": "{\"drawing\": \"74e1727f04c5\", \"focus\": [\"E4\", \"A8\", \"A9\", \"A11\", \"A12\", \"A15\", \"A17\", \"A18\", \"A21\", \"A22\"], \"held\": [], \"held_n\": 0, \"main\": [\"E4\", \"A8\", \"A9\", \"A11\", \"A12\", \"A15\", \"A17\", \"A18\", \"A21\", \"A22\"]}",
    "slug": "brussels-airlines",
    "updated": "2026-10-15"
   },
@@ -5692,7 +5692,7 @@
    "name": "China Eastern",
    "published": "2026-10-15",
    "short": "China Eastern",
-   "sig": "",
+   "sig": "{\"drawing\": \"74e1727f04c5\", \"focus\": [\"C33\", \"C35\"], \"held\": [], \"held_n\": 0, \"main\": [\"C33\", \"C35\"]}",
    "slug": "china-eastern",
    "updated": "2026-10-15"
   },
@@ -5706,7 +5706,7 @@
    "name": "Corendon Airlines",
    "published": "2026-10-15",
    "short": "Corendon",
-   "sig": "",
+   "sig": "{\"drawing\": \"74e1727f04c5\", \"focus\": [\"C34\"], \"held\": [], \"held_n\": 0, \"main\": [\"C34\"]}",
    "slug": "corendon",
    "updated": "2026-10-15"
   },
@@ -5720,7 +5720,7 @@
    "name": "Croatia Airlines",
    "published": "2026-10-15",
    "short": "Croatia Airlines",
-   "sig": "",
+   "sig": "{\"drawing\": \"74e1727f04c5\", \"focus\": [\"A11\", \"A12\", \"A15\", \"A17\", \"A20\", \"A27\"], \"held\": [], \"held_n\": 0, \"main\": [\"A11\", \"A12\", \"A15\", \"A17\", \"A20\", \"A27\"]}",
    "slug": "croatia-airlines",
    "updated": "2026-10-15"
   },
@@ -5734,7 +5734,7 @@
    "name": "DAT (Danish Air Transport)",
    "published": "2026-10-15",
    "short": "DAT",
-   "sig": "",
+   "sig": "{\"drawing\": \"74e1727f04c5\", \"focus\": [\"A7\", \"A9\"], \"held\": [], \"held_n\": 0, \"main\": [\"A7\", \"A9\"]}",
    "slug": "dat",
    "updated": "2026-10-15"
   },
@@ -5748,7 +5748,7 @@
    "name": "Delta Air Lines",
    "published": "2026-10-15",
    "short": "Delta",
-   "sig": "",
+   "sig": "{\"drawing\": \"74e1727f04c5\", \"focus\": [\"C28\", \"C29\", \"C32\", \"C33\", \"C35\"], \"held\": [], \"held_n\": 0, \"main\": [\"C28\", \"C29\", \"C32\", \"C33\", \"C35\"]}",
    "slug": "delta",
    "updated": "2026-10-15"
   },
@@ -5762,7 +5762,7 @@
    "name": "easyJet",
    "published": "2026-10-15",
    "short": "easyJet",
-   "sig": "",
+   "sig": "{\"drawing\": \"74e1727f04c5\", \"focus\": [\"F4\", \"F6\", \"F7\", \"F8\", \"F9\"], \"held\": [], \"held_n\": 0, \"main\": [\"F4\", \"F6\", \"F7\", \"F8\", \"F9\"]}",
    "slug": "easyjet",
    "updated": "2026-10-15"
   },
@@ -5776,7 +5776,7 @@
    "name": "EgyptAir",
    "published": "2026-10-15",
    "short": "EgyptAir",
-   "sig": "",
+   "sig": "{\"drawing\": \"74e1727f04c5\", \"focus\": [\"C30\", \"C32\", \"C34\"], \"held\": [], \"held_n\": 0, \"main\": [\"C30\", \"C32\", \"C34\"]}",
    "slug": "egyptair",
    "updated": "2026-10-15"
   },
@@ -5790,7 +5790,7 @@
    "name": "El Al",
    "published": "2026-10-15",
    "short": "El Al",
-   "sig": "",
+   "sig": "{\"drawing\": \"74e1727f04c5\", \"focus\": [\"C30\"], \"held\": [], \"held_n\": 0, \"main\": [\"C30\"]}",
    "slug": "el-al",
    "updated": "2026-10-15"
   },
@@ -5804,7 +5804,7 @@
    "name": "Emirates",
    "published": "2026-10-15",
    "short": "Emirates",
-   "sig": "",
+   "sig": "{\"drawing\": \"74e1727f04c5\", \"focus\": [\"C39\"], \"held\": [], \"held_n\": 0, \"main\": [\"C39\"]}",
    "slug": "emirates",
    "updated": "2026-10-15"
   },
@@ -5818,7 +5818,7 @@
    "name": "Ethiopian Airlines",
    "published": "2026-10-15",
    "short": "Ethiopian",
-   "sig": "",
+   "sig": "{\"drawing\": \"74e1727f04c5\", \"focus\": [\"C29\", \"C32\", \"C33\"], \"held\": [], \"held_n\": 0, \"main\": [\"C29\", \"C32\", \"C33\"]}",
    "slug": "ethiopian",
    "updated": "2026-10-15"
   },
@@ -5832,7 +5832,7 @@
    "name": "Etihad Airways",
    "published": "2026-10-15",
    "short": "Etihad",
-   "sig": "",
+   "sig": "{\"drawing\": \"74e1727f04c5\", \"focus\": [\"C36\"], \"held\": [], \"held_n\": 0, \"main\": [\"C36\"]}",
    "slug": "etihad",
    "updated": "2026-10-15"
   },
@@ -5846,7 +5846,7 @@
    "name": "Eurowings",
    "published": "2026-10-15",
    "short": "Eurowings",
-   "sig": "",
+   "sig": "{\"drawing\": \"74e1727f04c5\", \"focus\": [\"A9\", \"A14\", \"A17\", \"A20\", \"A21\", \"A22\"], \"held\": [], \"held_n\": 0, \"main\": [\"A9\", \"A14\", \"A17\", \"A20\", \"A21\", \"A22\"]}",
    "slug": "eurowings",
    "updated": "2026-10-15"
   },
@@ -5860,7 +5860,7 @@
    "name": "Finnair",
    "published": "2026-10-15",
    "short": "Finnair",
-   "sig": "",
+   "sig": "{\"drawing\": \"74e1727f04c5\", \"focus\": [\"E3\", \"B5\", \"E5\", \"A8\", \"A9\", \"A11\", \"A12\", \"A14\", \"B14\", \"A15\", \"A17\", \"A18\", \"A21\", \"A22\", \"A23\", \"A25\", \"A26\", \"A27\"], \"held\": [], \"held_n\": 0, \"main\": [\"E3\", \"B5\", \"E5\", \"A8\", \"A9\", \"A11\", \"A12\", \"A14\", \"B14\", \"A15\", \"A17\", \"A18\", \"A21\", \"A22\", \"A23\", \"A25\", \"A26\", \"A27\"]}",
    "slug": "finnair",
    "updated": "2026-10-15"
   },
@@ -5874,7 +5874,7 @@
    "name": "Iberia",
    "published": "2026-10-15",
    "short": "Iberia",
-   "sig": "",
+   "sig": "{\"drawing\": \"74e1727f04c5\", \"focus\": [\"A6\", \"A17\", \"A18\", \"A21\", \"A22\", \"A23\"], \"held\": [], \"held_n\": 0, \"main\": [\"A6\", \"A17\", \"A18\", \"A21\", \"A22\", \"A23\"]}",
    "slug": "iberia",
    "updated": "2026-10-15"
   },
@@ -5888,7 +5888,7 @@
    "name": "Icelandair",
    "published": "2026-10-15",
    "short": "Icelandair",
-   "sig": "",
+   "sig": "{\"drawing\": \"74e1727f04c5\", \"focus\": [\"B9\", \"B10\", \"A12\", \"A14\", \"A15\", \"A17\", \"B19\", \"A22\", \"A23\", \"A25\"], \"held\": [], \"held_n\": 0, \"main\": [\"B9\", \"B10\", \"A12\", \"A14\", \"A15\", \"A17\", \"B19\", \"A22\", \"A23\", \"A25\"]}",
    "slug": "icelandair",
    "updated": "2026-10-15"
   },
@@ -5902,7 +5902,7 @@
    "name": "KLM",
    "published": "2026-10-15",
    "short": "KLM",
-   "sig": "",
+   "sig": "{\"drawing\": \"74e1727f04c5\", \"focus\": [\"A4\", \"A6\", \"A8\", \"A11\", \"A12\", \"A14\", \"A15\", \"A17\", \"A18\", \"A20\", \"A21\", \"A22\", \"A23\", \"A25\", \"A26\", \"A27\"], \"held\": [], \"held_n\": 0, \"main\": [\"A4\", \"A6\", \"A8\", \"A11\", \"A12\", \"A14\", \"A15\", \"A17\", \"A18\", \"A20\", \"A21\", \"A22\", \"A23\", \"A25\", \"A26\", \"A27\"]}",
    "slug": "klm",
    "updated": "2026-10-15"
   },
@@ -5916,7 +5916,7 @@
    "name": "LOT Polish Airlines",
    "published": "2026-10-15",
    "short": "LOT",
-   "sig": "",
+   "sig": "{\"drawing\": \"74e1727f04c5\", \"focus\": [\"E3\", \"B5\", \"A9\", \"A11\", \"A14\", \"A15\", \"B16\", \"A17\", \"A27\"], \"held\": [], \"held_n\": 0, \"main\": [\"E3\", \"B5\", \"A9\", \"A11\", \"A14\", \"A15\", \"B16\", \"A17\", \"A27\"]}",
    "slug": "lot",
    "updated": "2026-10-15"
   },
@@ -5930,7 +5930,7 @@
    "name": "Lufthansa",
    "published": "2026-10-15",
    "short": "Lufthansa",
-   "sig": "",
+   "sig": "{\"drawing\": \"74e1727f04c5\", \"focus\": [\"A4\", \"A6\", \"A8\", \"A11\", \"A12\", \"A14\", \"A15\", \"A17\", \"A20\", \"A21\", \"A22\", \"A23\", \"A25\"], \"held\": [], \"held_n\": 0, \"main\": [\"A4\", \"E5\", \"A6\", \"A8\", \"A11\", \"A12\", \"A14\", \"A15\", \"A17\", \"A18\", \"A20\", \"A21\", \"A22\", \"A23\", \"A25\", \"A26\", \"A27\"]}",
    "slug": "lufthansa",
    "updated": "2026-10-15"
   },
@@ -5944,7 +5944,7 @@
    "name": "Lufthansa City Airlines",
    "published": "2026-10-15",
    "short": "Lufthansa City",
-   "sig": "",
+   "sig": "{\"drawing\": \"74e1727f04c5\", \"focus\": [\"E5\", \"A12\", \"A14\", \"A15\", \"A17\", \"A23\"], \"held\": [], \"held_n\": 0, \"main\": [\"E5\", \"A12\", \"A14\", \"A15\", \"A17\", \"A23\"]}",
    "slug": "lufthansa-city",
    "updated": "2026-10-15"
   },
@@ -5958,7 +5958,7 @@
    "name": "Luxair",
    "published": "2026-10-15",
    "short": "Luxair",
-   "sig": "",
+   "sig": "{\"drawing\": \"74e1727f04c5\", \"focus\": [\"E6\", \"A25\", \"A26\", \"A27\"], \"held\": [], \"held_n\": 0, \"main\": [\"E6\", \"A25\", \"A26\", \"A27\"]}",
    "slug": "luxair",
    "updated": "2026-10-15"
   },
@@ -5972,7 +5972,7 @@
    "name": "Middle East Airlines",
    "published": "2026-10-15",
    "short": "Middle East Airlines",
-   "sig": "",
+   "sig": "{\"drawing\": \"74e1727f04c5\", \"focus\": [\"C32\"], \"held\": [], \"held_n\": 0, \"main\": [\"C32\"]}",
    "slug": "middle-east-airlines",
    "updated": "2026-10-15"
   },
@@ -5986,7 +5986,7 @@
    "name": "Norwegian Air Shuttle",
    "published": "2026-10-15",
    "short": "Norwegian Air",
-   "sig": "",
+   "sig": "{\"drawing\": \"74e1727f04c5\", \"focus\": [\"D1\", \"D2\", \"A4\", \"A6\", \"A8\", \"A12\", \"A14\", \"A18\", \"A20\", \"A21\", \"A22\"], \"held\": [], \"held_n\": 0, \"main\": [\"D1\", \"D2\", \"E2\", \"B3\", \"D3\", \"A4\", \"D4\", \"E5\", \"A6\", \"A8\", \"A9\", \"B10\", \"A11\", \"A12\", \"A14\", \"A15\", \"A17\", \"A18\", \"A20\", \"E20\", \"A21\", \"A22\", \"A23\", \"A25\", \"A26\", \"A27\", \"C27\", \"C28\", \"C29\", \"C30\", \"C33\", \"C34\", \"C36\"]}",
    "slug": "norwegian-air",
    "updated": "2026-10-15"
   },
@@ -6000,7 +6000,7 @@
    "name": "Pegasus Airlines",
    "published": "2026-10-15",
    "short": "Pegasus",
-   "sig": "",
+   "sig": "{\"drawing\": \"74e1727f04c5\", \"focus\": [\"C28\", \"C30\", \"C32\", \"C33\", \"C34\", \"C36\"], \"held\": [], \"held_n\": 0, \"main\": [\"C28\", \"C30\", \"C32\", \"C33\", \"C34\", \"C36\"]}",
    "slug": "pegasus",
    "updated": "2026-10-15"
   },
@@ -6014,7 +6014,7 @@
    "name": "Qatar Airways",
    "published": "2026-10-15",
    "short": "Qatar Airways",
-   "sig": "",
+   "sig": "{\"drawing\": \"74e1727f04c5\", \"focus\": [\"C32\"], \"held\": [], \"held_n\": 0, \"main\": [\"C32\"]}",
    "slug": "qatar-airways",
    "updated": "2026-10-15"
   },
@@ -6028,7 +6028,7 @@
    "name": "Ryanair",
    "published": "2026-10-15",
    "short": "Ryanair",
-   "sig": "",
+   "sig": "{\"drawing\": \"74e1727f04c5\", \"focus\": [\"F4\", \"F6\", \"F7\", \"F8\", \"F9\"], \"held\": [\"F4\", \"F7\"], \"held_n\": 2, \"main\": [\"F4\", \"F6\", \"F7\", \"F8\", \"F9\"]}",
    "slug": "ryanair",
    "updated": "2026-10-15"
   },
@@ -6042,7 +6042,7 @@
    "name": "SAS Scandinavian Airlines",
    "published": "2026-10-15",
    "short": "SAS",
-   "sig": "",
+   "sig": "{\"drawing\": \"74e1727f04c5\", \"focus\": [\"D1\", \"E1\", \"D2\", \"E2\", \"D3\", \"E3\", \"B4\", \"D4\", \"E4\", \"B5\", \"E5\", \"B6\", \"E6\", \"B7\", \"E7\", \"B8\", \"B9\", \"B10\", \"B14\", \"B15\", \"B16\", \"B19\", \"E20\", \"E24\", \"A28\", \"C37\"], \"held\": [\"D1\", \"E1\", \"D2\", \"E2\", \"D3\", \"E3\", \"B4\", \"D4\", \"E4\", \"B5\", \"E5\", \"B6\", \"E6\", \"B7\", \"E7\", \"B8\", \"B9\", \"B14\", \"B15\", \"B16\", \"B19\", \"E20\", \"E24\", \"A28\", \"C37\"], \"held_n\": 25, \"main\": [\"D1\", \"E1\", \"D2\", \"E2\", \"B3\", \"D3\", \"E3\", \"A4\", \"B4\", \"D4\", \"E4\", \"B5\", \"E5\", \"A6\", \"B6\", \"E6\", \"A7\", \"B7\", \"E7\", \"A8\", \"B8\", \"A9\", \"B9\", \"B10\", \"A11\", \"A12\", \"A14\", \"B14\", \"A15\", \"B15\", \"B16\", \"A17\", \"A18\", \"B19\", \"A20\", \"E20\", \"A21\", \"A22\", \"A23\", \"E24\", \"A25\", \"A26\", \"A27\", \"C27\", \"A28\", \"C28\", \"C29\", \"C30\", \"C32\", \"C33\", \"C34\", \"C35\", \"C36\", \"C37\", \"C39\"]}",
    "slug": "sas",
    "updated": "2026-10-15"
   },
@@ -6056,7 +6056,7 @@
    "name": "Singapore Airlines",
    "published": "2026-10-15",
    "short": "Singapore Airlines",
-   "sig": "",
+   "sig": "{\"drawing\": \"74e1727f04c5\", \"focus\": [\"C29\", \"C35\", \"C39\"], \"held\": [], \"held_n\": 0, \"main\": [\"C29\", \"C35\", \"C39\"]}",
    "slug": "singapore-airlines",
    "updated": "2026-10-15"
   },
@@ -6070,7 +6070,7 @@
    "name": "SunExpress",
    "published": "2026-10-15",
    "short": "SunExpress",
-   "sig": "",
+   "sig": "{\"drawing\": \"74e1727f04c5\", \"focus\": [\"C28\", \"C32\", \"C33\", \"C36\"], \"held\": [], \"held_n\": 0, \"main\": [\"C28\", \"C32\", \"C33\", \"C36\"]}",
    "slug": "sunexpress",
    "updated": "2026-10-15"
   },
@@ -6084,7 +6084,7 @@
    "name": "SWISS",
    "published": "2026-10-15",
    "short": "SWISS",
-   "sig": "",
+   "sig": "{\"drawing\": \"74e1727f04c5\", \"focus\": [\"A8\", \"A9\", \"A11\", \"A15\", \"A17\", \"A22\"], \"held\": [], \"held_n\": 0, \"main\": [\"A8\", \"A9\", \"A11\", \"A15\", \"A17\", \"A22\"]}",
    "slug": "swiss",
    "updated": "2026-10-15"
   },
@@ -6098,7 +6098,7 @@
    "name": "TAP Air Portugal",
    "published": "2026-10-15",
    "short": "TAP",
-   "sig": "",
+   "sig": "{\"drawing\": \"74e1727f04c5\", \"focus\": [\"A6\", \"B7\", \"A8\", \"A9\", \"B10\", \"A12\", \"A14\", \"A21\", \"A22\"], \"held\": [], \"held_n\": 0, \"main\": [\"A6\", \"B7\", \"A8\", \"A9\", \"B10\", \"A12\", \"A14\", \"A21\", \"A22\"]}",
    "slug": "tap",
    "updated": "2026-10-15"
   },
@@ -6112,7 +6112,7 @@
    "name": "Thai Airways",
    "published": "2026-10-15",
    "short": "Thai Airways",
-   "sig": "",
+   "sig": "{\"drawing\": \"74e1727f04c5\", \"focus\": [\"C29\", \"C37\"], \"held\": [], \"held_n\": 0, \"main\": [\"C29\", \"C37\"]}",
    "slug": "thai-airways",
    "updated": "2026-10-15"
   },
@@ -6126,7 +6126,7 @@
    "name": "Transavia France",
    "published": "2026-10-15",
    "short": "Transavia",
-   "sig": "",
+   "sig": "{\"drawing\": \"74e1727f04c5\", \"focus\": [\"F4\", \"F6\", \"F7\", \"F8\"], \"held\": [], \"held_n\": 0, \"main\": [\"F4\", \"F6\", \"F7\", \"F8\"]}",
    "slug": "transavia",
    "updated": "2026-10-15"
   },
@@ -6140,7 +6140,7 @@
    "name": "Transavia",
    "published": "2026-10-15",
    "short": "Transavia NL",
-   "sig": "",
+   "sig": "{\"drawing\": \"74e1727f04c5\", \"focus\": [\"F6\", \"F7\"], \"held\": [], \"held_n\": 0, \"main\": [\"F6\", \"F7\"]}",
    "slug": "transavia-nl",
    "updated": "2026-10-15"
   },
@@ -6154,7 +6154,7 @@
    "name": "Turkish Airlines",
    "published": "2026-10-15",
    "short": "Turkish Airlines",
-   "sig": "",
+   "sig": "{\"drawing\": \"74e1727f04c5\", \"focus\": [\"C28\", \"C29\", \"C30\", \"C32\", \"C34\"], \"held\": [], \"held_n\": 0, \"main\": [\"C28\", \"C29\", \"C30\", \"C32\", \"C34\"]}",
    "slug": "turkish-airlines",
    "updated": "2026-10-15"
   },
@@ -6168,7 +6168,7 @@
    "name": "Vietnam Airlines",
    "published": "2026-10-15",
    "short": "Vietnam Airlines",
-   "sig": "",
+   "sig": "{\"drawing\": \"74e1727f04c5\", \"focus\": [\"C32\"], \"held\": [], \"held_n\": 0, \"main\": [\"C32\"]}",
    "slug": "vietnam-airlines",
    "updated": "2026-10-15"
   },
@@ -6182,7 +6182,7 @@
    "name": "Vueling",
    "published": "2026-10-15",
    "short": "Vueling",
-   "sig": "",
+   "sig": "{\"drawing\": \"74e1727f04c5\", \"focus\": [\"A4\", \"A6\", \"A12\", \"A20\", \"A21\", \"A22\", \"A25\"], \"held\": [], \"held_n\": 0, \"main\": [\"A4\", \"A6\", \"A12\", \"A20\", \"A21\", \"A22\", \"A25\"]}",
    "slug": "vueling",
    "updated": "2026-10-15"
   },
@@ -6196,7 +6196,7 @@
    "name": "Wizz Air",
    "published": "2026-10-15",
    "short": "Wizz Air",
-   "sig": "",
+   "sig": "{\"drawing\": \"74e1727f04c5\", \"focus\": [\"F4\", \"F6\", \"F7\", \"F8\", \"F9\"], \"held\": [], \"held_n\": 0, \"main\": [\"F4\", \"F6\", \"F7\", \"F8\", \"F9\"]}",
    "slug": "wizz-air",
    "updated": "2026-10-15"
   }
@@ -23987,7 +23987,7 @@
    "name": "Maldivian",
    "published": "2026-10-15",
    "short": "Maldivian",
-   "sig": "",
+   "sig": "{\"drawing\": \"389110b4b362\", \"focus\": [\"2-6\", \"2-14\"], \"held\": [], \"held_n\": 0, \"main\": [\"2-6\", \"2-14\"]}",
    "slug": "maldivian",
    "updated": "2026-10-15"
   },
@@ -28629,7 +28629,7 @@
    "name": "Air Koryo",
    "published": "2026-10-15",
    "short": "Air Koryo",
-   "sig": "",
+   "sig": "{\"drawing\": \"1fb2ea61116a\", \"focus\": [\"209\"], \"held\": [], \"held_n\": 0, \"main\": [\"209\"]}",
    "slug": "air-koryo",
    "updated": "2026-10-15"
   },
@@ -28657,7 +28657,7 @@
    "name": "Air Travel",
    "published": "2026-10-15",
    "short": "Air Travel",
-   "sig": "",
+   "sig": "{\"drawing\": \"1fb2ea61116a\", \"focus\": [\"229\", \"230\", \"231\", \"235\", \"238\"], \"held\": [], \"held_n\": 0, \"main\": [\"229\", \"230\", \"231\", \"235\", \"238\"]}",
    "slug": "air-travel",
    "updated": "2026-10-15"
   },
@@ -28811,7 +28811,7 @@
    "name": "Fuzhou Airlines",
    "published": "2026-10-15",
    "short": "Fuzhou Airlines",
-   "sig": "",
+   "sig": "{\"drawing\": \"1fb2ea61116a\", \"focus\": [\"235\"], \"held\": [], \"held_n\": 0, \"main\": [\"235\"]}",
    "slug": "fuzhou-airlines",
    "updated": "2026-10-15"
   },
@@ -28825,7 +28825,7 @@
    "name": "Grand China Air",
    "published": "2026-10-15",
    "short": "Grand China Air",
-   "sig": "",
+   "sig": "{\"drawing\": \"1fb2ea61116a\", \"focus\": [\"108\", \"111\", \"230\", \"235\", \"237\", \"238\", \"239\"], \"held\": [], \"held_n\": 0, \"main\": [\"108\", \"111\", \"230\", \"235\", \"237\", \"238\", \"239\"]}",
    "slug": "grand-china-air",
    "updated": "2026-10-15"
   },
@@ -28923,7 +28923,7 @@
    "name": "Kunming Airlines",
    "published": "2026-10-15",
    "short": "Kunming Airlines",
-   "sig": "",
+   "sig": "{\"drawing\": \"1fb2ea61116a\", \"focus\": [\"C11\", \"C13\", \"C15\", \"C17\", \"C21\", \"C23\", \"C25\"], \"held\": [], \"held_n\": 0, \"main\": [\"C11\", \"C13\", \"C15\", \"C17\", \"C21\", \"C23\", \"C25\"]}",
    "slug": "kunming-airlines",
    "updated": "2026-10-15"
   },
@@ -28951,7 +28951,7 @@
    "name": "Lucky Air",
    "published": "2026-10-15",
    "short": "Lucky Air",
-   "sig": "",
+   "sig": "{\"drawing\": \"1fb2ea61116a\", \"focus\": [\"226\", \"232\", \"234\", \"236\", \"237\", \"238\"], \"held\": [], \"held_n\": 0, \"main\": [\"226\", \"232\", \"234\", \"236\", \"237\", \"238\"]}",
    "slug": "lucky-air",
    "updated": "2026-10-15"
   },
@@ -28979,7 +28979,7 @@
    "name": "Mahan Air",
    "published": "2026-10-15",
    "short": "Mahan Air",
-   "sig": "",
+   "sig": "{\"drawing\": \"1fb2ea61116a\", \"focus\": [\"212\"], \"held\": [], \"held_n\": 0, \"main\": [\"212\"]}",
    "slug": "mahan-air",
    "updated": "2026-10-15"
   },
@@ -35751,7 +35751,7 @@
    "name": "Philippines AirAsia",
    "published": "2026-10-15",
    "short": "AirAsia Philippines",
-   "sig": "",
+   "sig": "{\"drawing\": \"1c3003d9c778\", \"focus\": [\"A1\", \"B1\", \"A2\", \"B2\", \"A3\", \"A8\"], \"held\": [], \"held_n\": 0, \"main\": [\"A1\", \"B1\", \"A2\", \"B2\", \"A3\", \"A8\"]}",
    "slug": "airasia-philippines",
    "updated": "2026-10-15"
   },
@@ -36129,7 +36129,7 @@
    "name": "Mandarin Airlines",
    "published": "2026-10-15",
    "short": "Mandarin Airlines",
-   "sig": "",
+   "sig": "{\"drawing\": \"1c3003d9c778\", \"focus\": [\"D3\", \"A9\", \"D10\"], \"held\": [], \"held_n\": 0, \"main\": [\"D3\", \"A9\", \"D10\"]}",
    "slug": "mandarin-airlines",
    "updated": "2026-10-15"
   },
@@ -36395,7 +36395,7 @@
    "name": "UNI Air",
    "published": "2026-10-15",
    "short": "UNI Air",
-   "sig": "",
+   "sig": "{\"drawing\": \"1c3003d9c778\", \"focus\": [\"C1\", \"D2\", \"C4\", \"C5\", \"C6\", \"B7\", \"D8\", \"C9\", \"D10\", \"D12\", \"D13\"], \"held\": [], \"held_n\": 0, \"main\": [\"C1\", \"D2\", \"C4\", \"C5\", \"C6\", \"B7\", \"D8\", \"C9\", \"D10\", \"D12\", \"D13\"]}",
    "slug": "uni-air",
    "updated": "2026-10-15"
   },

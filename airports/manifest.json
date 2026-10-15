@@ -30,7 +30,7 @@
   "published": "2026-10-15",
   "seats_day": 560,
   "short": "Nantucket",
-  "sig": "",
+  "sig": "{\"common\": 1, \"drawing\": \"ef3353d5b80f\", \"gates\": 1, \"held\": {}, \"low\": 0}",
   "top": "B6",
   "top_gates": 0,
   "updated": "2026-10-15"
@@ -498,7 +498,7 @@
   "published": "2026-10-15",
   "seats_day": 28750,
   "short": "Copenhagen",
-  "sig": "",
+  "sig": "{\"common\": 33, \"drawing\": \"74e1727f04c5\", \"gates\": 89, \"held\": {\"FR\": 2, \"SK\": 25}, \"low\": 29}",
   "top": "SK",
   "top_gates": 25,
   "updated": "2026-10-15"
