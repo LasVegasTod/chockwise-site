@@ -23,6 +23,18 @@
   "top_gates": 6,
   "updated": "2026-10-15"
  },
+ "ACK": {
+  "flights_day": 68,
+  "gates": 1,
+  "name": "Nantucket Meml",
+  "published": "2026-10-15",
+  "seats_day": 560,
+  "short": "Nantucket",
+  "sig": "",
+  "top": "B6",
+  "top_gates": 0,
+  "updated": "2026-10-15"
+ },
  "AGS": {
   "flights_day": 28,
   "gates": 6,
@@ -477,6 +489,18 @@
   "sig": "{\"common\": 1, \"drawing\": \"25db56c35594\", \"gates\": 4, \"held\": {\"AA\": 1, \"UA\": 1}, \"low\": 1}",
   "top": "AA",
   "top_gates": 1,
+  "updated": "2026-10-15"
+ },
+ "CPH": {
+  "flights_day": 818,
+  "gates": 89,
+  "name": "Copenhagen",
+  "published": "2026-10-15",
+  "seats_day": 28750,
+  "short": "Copenhagen",
+  "sig": "",
+  "top": "SK",
+  "top_gates": 25,
   "updated": "2026-10-15"
  },
  "CPR": {
@@ -1469,7 +1493,7 @@
   "name": "Manchester Boston Rgnl",
   "published": "2026-10-11",
   "seats_day": 2714,
-  "short": "Manchester",
+  "short": "Manchester, NH",
   "sig": "{\"common\": 0, \"drawing\": \"f88262f47df3\", \"gates\": 14, \"held\": {\"AA\": 4, \"MX\": 1, \"UA\": 1, \"WN\": 3}, \"low\": 5}",
   "top": "AA",
   "top_gates": 4,
