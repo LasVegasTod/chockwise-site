@@ -3,8 +3,8 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Chockwise · AI-enabled airport gate intelligence for airlines</title>
-<meta name="description" content="Chockwise is AI-enabled gate management for airlines and airports: every gate mapped, gate utilization, turn times, tows and seat capacity from real flight data, with an AI analyst you can ask in plain English and weekly written briefings.">
+<title>Chockwise · AI Airport Gate Intelligence for Airlines</title>
+<meta name="description" content="AI gate intelligence for airlines and airports: every gate mapped, gate use, turn times, tows and seat capacity from real flight data, plus an AI analyst.">
 <meta name="keywords" content="AI aviation, AI gate management, airport gate intelligence, gate utilization, airline operations analytics, gate optimization, aviation data analytics, airport operations, turn times, aircraft tows, gate planning, station operations">
 <link rel="canonical" href="https://chockwise.com/">
 <meta name="robots" content="index, follow">
@@ -39,11 +39,12 @@
   gtag('js', new Date());
   gtag('config', 'G-M9YTYY1NMV');
 </script>
-<link rel="icon" href="favicon.svg" type="image/svg+xml">
-<link rel="apple-touch-icon" href="brand/app-icon.png">
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="/brand/app-icon.png">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;500;700;800&family=IBM+Plex+Mono:wght@500&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;500;700;800&family=IBM+Plex+Mono:wght@500&display=swap" rel="stylesheet" media="print" onload="this.media='all'">
+<noscript><link href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;500;700;800&family=IBM+Plex+Mono:wght@500&display=swap" rel="stylesheet"></noscript>
 <style>
   :root {
     --navy: #14213D;
@@ -403,7 +404,7 @@
              alt="Las Vegas gates colored by the airline that uses each one most."></a>
         <div class="explore-text">
           <p class="kicker">Free to explore</p>
-          <p class="explore-say">Every gate at <b data-k="airport_pages">168</b> airports, the airlines that use them, and every nonstop route.</p>
+          <p class="explore-say">Every gate at <b data-k="airports">201</b> airports, the airlines that use them, and every nonstop route.</p>
         </div>
         <div class="explore-find">
           <div class="picker"><input id="air-in" autocomplete="off" placeholder="Find an airport, like LAS" aria-label="Find an airport"><ul id="air-list" role="listbox" hidden></ul></div>
@@ -416,7 +417,7 @@
   <section class="counts" aria-label="Chockwise data so far">
     <div class="wrap">
       <div class="count-grid">
-        <div class="count"><b data-k="airports">17</b><span>Airports</span></div>
+        <div class="count"><b data-k="airports">201</b><span>Airports</span></div>
         <div class="count"><b data-k="gates">1,524</b><span>Gates mapped</span></div>
         <div class="count"><b data-k="airlines">249</b><span>Airlines</span></div>
         <div class="count"><b data-k="flights">64,226</b><span>Flights tracked</span></div>
@@ -762,8 +763,7 @@
       .then(function (m) {
         if (!m) return;
         A = {}; Object.keys(m).forEach(function (c) { if (m[c] && m[c].published && !m[c].moved) A[c] = m[c]; });
-        var n = document.querySelector('[data-k="airport_pages"]'); if (n) n.textContent = Object.keys(A).length;
-        if (input.value) { items = search(input.value); draw(); }
+                if (input.value) { items = search(input.value); draw(); }
       }).catch(function () {});
   })();
 </script>
