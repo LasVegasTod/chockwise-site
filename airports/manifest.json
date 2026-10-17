@@ -11,7 +11,7 @@
   "sig": "{\"common\": 0, \"drawing\": \"bf792ebe0d3f\", \"gates\": 2, \"held\": {\"AA\": 1, \"UA\": 1}, \"low\": 0}",
   "top": "AA",
   "top_gates": 1,
-  "updated": "2026-10-16"
+  "updated": "2026-10-17"
  },
  "ABQ": {
   "changed": "2026-10-16",
@@ -25,7 +25,7 @@
   "sig": "{\"common\": 2, \"drawing\": \"f34da01d45a9\", \"gates\": 22, \"held\": {\"AA\": 3, \"AS\": 1, \"DL\": 3, \"UA\": 5, \"WN\": 6}, \"low\": 2}",
   "top": "WN",
   "top_gates": 6,
-  "updated": "2026-10-16"
+  "updated": "2026-10-17"
  },
  "ACK": {
   "changed": "2026-10-16",
@@ -39,7 +39,7 @@
   "sig": "{\"common\": 1, \"drawing\": \"ef3353d5b80f\", \"gates\": 1, \"held\": {}, \"low\": 0}",
   "top": "B6",
   "top_gates": 0,
-  "updated": "2026-10-16"
+  "updated": "2026-10-17"
  },
  "AGS": {
   "changed": "2026-10-16",
@@ -53,7 +53,7 @@
   "sig": "{\"common\": 0, \"drawing\": \"b749e544586d\", \"gates\": 6, \"held\": {\"AA\": 3, \"DL\": 1}, \"low\": 2}",
   "top": "AA",
   "top_gates": 3,
-  "updated": "2026-10-16"
+  "updated": "2026-10-17"
  },
  "AKL": {
   "changed": "2026-10-16",
@@ -67,7 +67,7 @@
   "sig": "{\"common\": 21, \"drawing\": \"50fb8422b845\", \"gates\": 52, \"held\": {\"JQ\": 3, \"NZ\": 15}, \"low\": 13}",
   "top": "NZ",
   "top_gates": 15,
-  "updated": "2026-10-16"
+  "updated": "2026-10-17"
  },
  "ALB": {
   "changed": "2026-10-16",
@@ -81,7 +81,7 @@
   "sig": "{\"common\": 1, \"drawing\": \"c63683eec184\", \"gates\": 15, \"held\": {\"AA\": 3, \"B6\": 1, \"DL\": 3, \"G4\": 1, \"UA\": 4, \"WN\": 2}, \"low\": 0}",
   "top": "UA",
   "top_gates": 4,
-  "updated": "2026-10-16"
+  "updated": "2026-10-17"
  },
  "AMA": {
   "changed": "2026-10-16",
@@ -95,7 +95,7 @@
   "sig": "{\"common\": 0, \"drawing\": \"beed35978ff4\", \"gates\": 6, \"held\": {\"AA\": 3, \"UA\": 2, \"WN\": 1}, \"low\": 0}",
   "top": "AA",
   "top_gates": 3,
-  "updated": "2026-10-16"
+  "updated": "2026-10-17"
  },
  "AMS": {
   "changed": "2026-10-16",
@@ -109,7 +109,7 @@
   "sig": "{\"common\": 66, \"drawing\": \"c3ced06fef72\", \"gates\": 120, \"held\": {\"BA\": 1, \"KL\": 30, \"U2\": 13, \"UA\": 1}, \"low\": 9}",
   "top": "KL",
   "top_gates": 30,
-  "updated": "2026-10-16"
+  "updated": "2026-10-17"
  },
  "ASE": {
   "changed": "2026-10-16",
@@ -123,7 +123,7 @@
   "sig": "{\"common\": 0, \"drawing\": \"7af4fcca12f0\", \"gates\": 7, \"held\": {\"AA\": 2, \"DL\": 1, \"UA\": 3}, \"low\": 1}",
   "top": "UA",
   "top_gates": 3,
-  "updated": "2026-10-16"
+  "updated": "2026-10-17"
  },
  "ATH": {
   "changed": "2026-10-17",
