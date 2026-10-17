@@ -795,6 +795,20 @@
   "top_gates": 8,
   "updated": "2026-10-17"
  },
+ "DOH": {
+  "changed": "2026-10-17",
+  "flights_day": 598,
+  "gates": 63,
+  "hash": "ab7c78045299",
+  "name": "Hamad Int'l, Doha",
+  "published": "2026-10-17",
+  "seats_day": 14056,
+  "short": "Doha",
+  "sig": "{\"common\": 15, \"drawing\": \"311ec8971ac1\", \"gates\": 63, \"held\": {\"QR\": 46}, \"low\": 2}",
+  "top": "QR",
+  "top_gates": 46,
+  "updated": "2026-10-17"
+ },
  "DRO": {
   "changed": "2026-10-17",
   "flights_day": 23,
