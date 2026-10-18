@@ -1961,7 +1961,7 @@
   <url><loc>https://chockwise.com/airports/koa/southwest</loc><lastmod>2026-10-18</lastmod><image:image><image:loc>https://chockwise.com/airports/koa-southwest.png</image:loc></image:image></url>
   <url><loc>https://chockwise.com/airports/koa/united</loc><lastmod>2026-10-18</lastmod><image:image><image:loc>https://chockwise.com/airports/koa-united.png</image:loc></image:image></url>
   <url><loc>https://chockwise.com/airports/las/aer-lingus</loc><lastmod>2026-10-17</lastmod></url>
-  <url><loc>https://chockwise.com/airports/las/aeromexico</loc><lastmod>2026-10-17</lastmod></url>
+  <url><loc>https://chockwise.com/airports/las/aeromexico</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://chockwise.com/airports/las/air-canada-rouge</loc><lastmod>2026-10-18</lastmod><image:image><image:loc>https://chockwise.com/airports/las-air-canada-rouge.png</image:loc></image:image></url>
   <url><loc>https://chockwise.com/airports/las/alaska</loc><lastmod>2026-10-18</lastmod><image:image><image:loc>https://chockwise.com/airports/las-alaska.png</image:loc></image:image></url>
   <url><loc>https://chockwise.com/airports/las/allegiant</loc><lastmod>2026-10-18</lastmod><image:image><image:loc>https://chockwise.com/airports/las-allegiant.png</image:loc></image:image></url>
@@ -2264,6 +2264,31 @@
   <url><loc>https://chockwise.com/airports/mem/delta</loc><lastmod>2026-10-18</lastmod><image:image><image:loc>https://chockwise.com/airports/mem-delta.png</image:loc></image:image></url>
   <url><loc>https://chockwise.com/airports/mem/southwest</loc><lastmod>2026-10-18</lastmod><image:image><image:loc>https://chockwise.com/airports/mem-southwest.png</image:loc></image:image></url>
   <url><loc>https://chockwise.com/airports/mem/united</loc><lastmod>2026-10-18</lastmod><image:image><image:loc>https://chockwise.com/airports/mem-united.png</image:loc></image:image></url>
+  <url><loc>https://chockwise.com/airports/mex/aeromexico</loc><lastmod>2026-10-18</lastmod><image:image><image:loc>https://chockwise.com/airports/mex-aeromexico.png</image:loc></image:image></url>
+  <url><loc>https://chockwise.com/airports/mex/aeromexico-connect</loc><lastmod>2026-10-18</lastmod><image:image><image:loc>https://chockwise.com/airports/mex-aeromexico-connect.png</image:loc></image:image></url>
+  <url><loc>https://chockwise.com/airports/mex/air-canada-rouge</loc><lastmod>2026-10-18</lastmod><image:image><image:loc>https://chockwise.com/airports/mex-air-canada-rouge.png</image:loc></image:image></url>
+  <url><loc>https://chockwise.com/airports/mex/air-france</loc><lastmod>2026-10-18</lastmod><image:image><image:loc>https://chockwise.com/airports/mex-air-france.png</image:loc></image:image></url>
+  <url><loc>https://chockwise.com/airports/mex/american</loc><lastmod>2026-10-18</lastmod><image:image><image:loc>https://chockwise.com/airports/mex-american.png</image:loc></image:image></url>
+  <url><loc>https://chockwise.com/airports/mex/ana</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://chockwise.com/airports/mex/avianca</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://chockwise.com/airports/mex/avianca-costa-rica</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://chockwise.com/airports/mex/avianca-el-salvador</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://chockwise.com/airports/mex/british-airways</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://chockwise.com/airports/mex/copa</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://chockwise.com/airports/mex/delta</loc><lastmod>2026-10-18</lastmod><image:image><image:loc>https://chockwise.com/airports/mex-delta.png</image:loc></image:image></url>
+  <url><loc>https://chockwise.com/airports/mex/emirates</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://chockwise.com/airports/mex/hainan-airlines</loc><lastmod>2026-10-18</lastmod><image:image><image:loc>https://chockwise.com/airports/mex-hainan-airlines.png</image:loc></image:image></url>
+  <url><loc>https://chockwise.com/airports/mex/iberia</loc><lastmod>2026-10-18</lastmod><image:image><image:loc>https://chockwise.com/airports/mex-iberia.png</image:loc></image:image></url>
+  <url><loc>https://chockwise.com/airports/mex/klm</loc><lastmod>2026-10-18</lastmod><image:image><image:loc>https://chockwise.com/airports/mex-klm.png</image:loc></image:image></url>
+  <url><loc>https://chockwise.com/airports/mex/latam-brasil</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://chockwise.com/airports/mex/latam-peru</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://chockwise.com/airports/mex/lufthansa</loc><lastmod>2026-10-18</lastmod><image:image><image:loc>https://chockwise.com/airports/mex-lufthansa.png</image:loc></image:image></url>
+  <url><loc>https://chockwise.com/airports/mex/turkish-airlines</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://chockwise.com/airports/mex/united</loc><lastmod>2026-10-18</lastmod><image:image><image:loc>https://chockwise.com/airports/mex-united.png</image:loc></image:image></url>
+  <url><loc>https://chockwise.com/airports/mex/viva-aerobus</loc><lastmod>2026-10-18</lastmod><image:image><image:loc>https://chockwise.com/airports/mex-viva-aerobus.png</image:loc></image:image></url>
+  <url><loc>https://chockwise.com/airports/mex/volaris</loc><lastmod>2026-10-18</lastmod><image:image><image:loc>https://chockwise.com/airports/mex-volaris.png</image:loc></image:image></url>
+  <url><loc>https://chockwise.com/airports/mex/volaris-costa-rica</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://chockwise.com/airports/mex/westjet</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://chockwise.com/airports/mfe/allegiant</loc><lastmod>2026-10-18</lastmod><image:image><image:loc>https://chockwise.com/airports/mfe-allegiant.png</image:loc></image:image></url>
   <url><loc>https://chockwise.com/airports/mfe/american</loc><lastmod>2026-10-18</lastmod><image:image><image:loc>https://chockwise.com/airports/mfe-american.png</image:loc></image:image></url>
   <url><loc>https://chockwise.com/airports/mfe/united</loc><lastmod>2026-10-18</lastmod><image:image><image:loc>https://chockwise.com/airports/mfe-united.png</image:loc></image:image></url>
@@ -2720,7 +2745,7 @@
   <url><loc>https://chockwise.com/airports/pek/united</loc><lastmod>2026-10-18</lastmod><image:image><image:loc>https://chockwise.com/airports/pek-united.png</image:loc></image:image></url>
   <url><loc>https://chockwise.com/airports/pek/vietnam-airlines</loc><lastmod>2026-10-18</lastmod><image:image><image:loc>https://chockwise.com/airports/pek-vietnam-airlines.png</image:loc></image:image></url>
   <url><loc>https://chockwise.com/airports/phl/aer-lingus</loc><lastmod>2026-10-17</lastmod></url>
-  <url><loc>https://chockwise.com/airports/phl/aeromexico</loc><lastmod>2026-10-17</lastmod></url>
+  <url><loc>https://chockwise.com/airports/phl/aeromexico</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://chockwise.com/airports/phl/air-canada</loc><lastmod>2026-10-18</lastmod><image:image><image:loc>https://chockwise.com/airports/phl-air-canada.png</image:loc></image:image></url>
   <url><loc>https://chockwise.com/airports/phl/alaska</loc><lastmod>2026-10-18</lastmod><image:image><image:loc>https://chockwise.com/airports/phl-alaska.png</image:loc></image:image></url>
   <url><loc>https://chockwise.com/airports/phl/allegiant</loc><lastmod>2026-10-18</lastmod><image:image><image:loc>https://chockwise.com/airports/phl-allegiant.png</image:loc></image:image></url>
@@ -2732,7 +2757,7 @@
   <url><loc>https://chockwise.com/airports/phl/qatar-airways</loc><lastmod>2026-10-18</lastmod><image:image><image:loc>https://chockwise.com/airports/phl-qatar-airways.png</image:loc></image:image></url>
   <url><loc>https://chockwise.com/airports/phl/southwest</loc><lastmod>2026-10-18</lastmod><image:image><image:loc>https://chockwise.com/airports/phl-southwest.png</image:loc></image:image></url>
   <url><loc>https://chockwise.com/airports/phl/united</loc><lastmod>2026-10-18</lastmod><image:image><image:loc>https://chockwise.com/airports/phl-united.png</image:loc></image:image></url>
-  <url><loc>https://chockwise.com/airports/phx/aeromexico</loc><lastmod>2026-10-17</lastmod></url>
+  <url><loc>https://chockwise.com/airports/phx/aeromexico</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://chockwise.com/airports/phx/air-canada-rouge</loc><lastmod>2026-10-18</lastmod><image:image><image:loc>https://chockwise.com/airports/phx-air-canada-rouge.png</image:loc></image:image></url>
   <url><loc>https://chockwise.com/airports/phx/air-france</loc><lastmod>2026-10-18</lastmod><image:image><image:loc>https://chockwise.com/airports/phx-air-france.png</image:loc></image:image></url>
   <url><loc>https://chockwise.com/airports/phx/alaska</loc><lastmod>2026-10-18</lastmod><image:image><image:loc>https://chockwise.com/airports/phx-alaska.png</image:loc></image:image></url>
@@ -2857,7 +2882,7 @@
   <url><loc>https://chockwise.com/airports/rdm/delta</loc><lastmod>2026-10-18</lastmod><image:image><image:loc>https://chockwise.com/airports/rdm-delta.png</image:loc></image:image></url>
   <url><loc>https://chockwise.com/airports/rdm/united</loc><lastmod>2026-10-18</lastmod><image:image><image:loc>https://chockwise.com/airports/rdm-united.png</image:loc></image:image></url>
   <url><loc>https://chockwise.com/airports/rdu/aer-lingus</loc><lastmod>2026-10-17</lastmod></url>
-  <url><loc>https://chockwise.com/airports/rdu/aeromexico-connect</loc><lastmod>2026-10-17</lastmod></url>
+  <url><loc>https://chockwise.com/airports/rdu/aeromexico-connect</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://chockwise.com/airports/rdu/air-canada</loc><lastmod>2026-10-18</lastmod><image:image><image:loc>https://chockwise.com/airports/rdu-air-canada.png</image:loc></image:image></url>
   <url><loc>https://chockwise.com/airports/rdu/air-france</loc><lastmod>2026-10-18</lastmod><image:image><image:loc>https://chockwise.com/airports/rdu-air-france.png</image:loc></image:image></url>
   <url><loc>https://chockwise.com/airports/rdu/alaska</loc><lastmod>2026-10-18</lastmod><image:image><image:loc>https://chockwise.com/airports/rdu-alaska.png</image:loc></image:image></url>
@@ -2925,7 +2950,7 @@
   <url><loc>https://chockwise.com/airports/san/sun-country</loc><lastmod>2026-10-18</lastmod><image:image><image:loc>https://chockwise.com/airports/san-sun-country.png</image:loc></image:image></url>
   <url><loc>https://chockwise.com/airports/san/united</loc><lastmod>2026-10-18</lastmod><image:image><image:loc>https://chockwise.com/airports/san-united.png</image:loc></image:image></url>
   <url><loc>https://chockwise.com/airports/san/westjet</loc><lastmod>2026-10-18</lastmod><image:image><image:loc>https://chockwise.com/airports/san-westjet.png</image:loc></image:image></url>
-  <url><loc>https://chockwise.com/airports/sat/aeromexico</loc><lastmod>2026-10-17</lastmod></url>
+  <url><loc>https://chockwise.com/airports/sat/aeromexico</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://chockwise.com/airports/sat/alaska</loc><lastmod>2026-10-18</lastmod><image:image><image:loc>https://chockwise.com/airports/sat-alaska.png</image:loc></image:image></url>
   <url><loc>https://chockwise.com/airports/sat/american</loc><lastmod>2026-10-18</lastmod><image:image><image:loc>https://chockwise.com/airports/sat-american.png</image:loc></image:image></url>
   <url><loc>https://chockwise.com/airports/sat/breeze</loc><lastmod>2026-10-18</lastmod><image:image><image:loc>https://chockwise.com/airports/sat-breeze.png</image:loc></image:image></url>
