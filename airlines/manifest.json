@@ -30236,6 +30236,31 @@
   }
  },
  "DPS": {
+  "aero-dili": {
+   "airport_short": "DPS",
+   "changed": "2026-10-18",
+   "code": "8G",
+   "deps_day": 0.8,
+   "dests": [
+    "DIL"
+   ],
+   "gates": [
+    "3"
+   ],
+   "gone": false,
+   "hash": "9fac142805eb",
+   "last_seen": "2026-10-17",
+   "last_seen_str": "Oct 17, 2026",
+   "name": "Aero Dili",
+   "published": "2026-10-18",
+   "short": "Aero Dili",
+   "sig": "{\"drawing\": \"2471959a58d5\", \"focus\": [\"3\"], \"held\": [], \"held_n\": 0, \"main\": [\"3\"]}",
+   "slug": "aero-dili",
+   "types": [
+    "A320"
+   ],
+   "updated": "2026-10-18"
+  },
   "aeroflot": {
    "airport_short": "DPS",
    "changed": "2026-10-18",
@@ -30249,7 +30274,7 @@
     "6"
    ],
    "gone": false,
-   "hash": "95e8da9653cc",
+   "hash": "3bde5d8ba422",
    "last_seen": "2026-10-16",
    "last_seen_str": "Oct 16, 2026",
    "name": "Aeroflot",
@@ -30275,7 +30300,7 @@
     "7"
    ],
    "gone": false,
-   "hash": "6610ffcdeca7",
+   "hash": "a93ec44cb5be",
    "last_seen": "2026-10-17",
    "last_seen_str": "Oct 17, 2026",
    "name": "Air Busan",
@@ -30302,7 +30327,7 @@
     "7"
    ],
    "gone": false,
-   "hash": "d7323f242537",
+   "hash": "6753508176a7",
    "last_seen": "2026-10-17",
    "last_seen_str": "Oct 17, 2026",
    "name": "Air India",
@@ -30331,7 +30356,7 @@
     "8"
    ],
    "gone": false,
-   "hash": "dd6f808fa43b",
+   "hash": "1996398571d1",
    "last_seen": "2026-10-17",
    "last_seen_str": "Oct 17, 2026",
    "name": "Air New Zealand",
@@ -30363,7 +30388,7 @@
     "6C"
    ],
    "gone": false,
-   "hash": "ed0bc0058e32",
+   "hash": "fa8c43baf50f",
    "last_seen": "2026-10-17",
    "last_seen_str": "Oct 17, 2026",
    "name": "AirAsia",
@@ -30395,7 +30420,7 @@
     "6C"
    ],
    "gone": false,
-   "hash": "5e32600bf31d",
+   "hash": "7b31a484bbb3",
    "last_seen": "2026-10-17",
    "last_seen_str": "Oct 17, 2026",
    "name": "Indonesia AirAsia",
@@ -30425,7 +30450,7 @@
     "6A"
    ],
    "gone": false,
-   "hash": "4123768aa43a",
+   "hash": "7cfb0422925e",
    "last_seen": "2026-10-17",
    "last_seen_str": "Oct 17, 2026",
    "name": "Batik Air Indonesia",
@@ -30460,7 +30485,7 @@
     "9B"
    ],
    "gone": false,
-   "hash": "1c8b42026d3b",
+   "hash": "1b2827756074",
    "last_seen": "2026-10-17",
    "last_seen_str": "Oct 17, 2026",
    "name": "Batik Air Malaysia",
@@ -30490,7 +30515,7 @@
     "6"
    ],
    "gone": false,
-   "hash": "3813b2647c4e",
+   "hash": "398724cc1b8d",
    "last_seen": "2026-10-17",
    "last_seen_str": "Oct 17, 2026",
    "name": "Cathay Pacific",
@@ -30521,7 +30546,7 @@
     "8"
    ],
    "gone": false,
-   "hash": "d7142e7d2d60",
+   "hash": "0816596a01d5",
    "last_seen": "2026-10-17",
    "last_seen_str": "Oct 17, 2026",
    "name": "Cebu Pacific",
@@ -30550,7 +30575,7 @@
     "6"
    ],
    "gone": false,
-   "hash": "290773505303",
+   "hash": "cedd3a613d37",
    "last_seen": "2026-10-17",
    "last_seen_str": "Oct 17, 2026",
    "name": "China Airlines",
@@ -30581,7 +30606,7 @@
     "8"
    ],
    "gone": false,
-   "hash": "abc920d63ef1",
+   "hash": "95e712c5ea0d",
    "last_seen": "2026-10-17",
    "last_seen_str": "Oct 17, 2026",
    "name": "China Eastern",
@@ -30613,7 +30638,7 @@
     "8"
    ],
    "gone": false,
-   "hash": "2faa3725b075",
+   "hash": "070273bdf4f2",
    "last_seen": "2026-10-17",
    "last_seen_str": "Oct 17, 2026",
    "name": "China Southern",
@@ -30643,7 +30668,7 @@
     "1A"
    ],
    "gone": false,
-   "hash": "cf87fbdc87e0",
+   "hash": "e3627f8ceab4",
    "last_seen": "2026-10-17",
    "last_seen_str": "Oct 17, 2026",
    "name": "Citilink",
@@ -30670,7 +30695,7 @@
     "9B"
    ],
    "gone": false,
-   "hash": "b6078ec6f182",
+   "hash": "e054d0960a2c",
    "last_seen": "2026-10-17",
    "last_seen_str": "Oct 17, 2026",
    "name": "Emirates",
@@ -30697,7 +30722,7 @@
     "6B"
    ],
    "gone": false,
-   "hash": "939768af854d",
+   "hash": "7992c1a69fd0",
    "last_seen": "2026-10-17",
    "last_seen_str": "Oct 17, 2026",
    "name": "Etihad Airways",
@@ -30726,7 +30751,7 @@
     "6"
    ],
    "gone": false,
-   "hash": "fa43f5a01764",
+   "hash": "d636c317142d",
    "last_seen": "2026-10-17",
    "last_seen_str": "Oct 17, 2026",
    "name": "EVA Air",
@@ -30763,7 +30788,7 @@
     "9A"
    ],
    "gone": false,
-   "hash": "566f2fe1b3ae",
+   "hash": "5b70be7b6c8d",
    "last_seen": "2026-10-17",
    "last_seen_str": "Oct 17, 2026",
    "name": "Garuda Indonesia",
@@ -30792,7 +30817,7 @@
     "5"
    ],
    "gone": false,
-   "hash": "df0669726574",
+   "hash": "12cb25a0bdb2",
    "last_seen": "2026-10-17",
    "last_seen_str": "Oct 17, 2026",
    "name": "Hong Kong Airlines",
@@ -30825,7 +30850,7 @@
     "8"
    ],
    "gone": false,
-   "hash": "d875533777fd",
+   "hash": "e62440f93626",
    "last_seen": "2026-10-17",
    "last_seen_str": "Oct 17, 2026",
    "name": "IndiGo",
@@ -30855,7 +30880,7 @@
     "8"
    ],
    "gone": false,
-   "hash": "757617f19466",
+   "hash": "ac3b6cba6967",
    "last_seen": "2026-10-17",
    "last_seen_str": "Oct 17, 2026",
    "name": "Jeju Air",
@@ -30892,7 +30917,7 @@
     "6B"
    ],
    "gone": false,
-   "hash": "38636c0cf1cc",
+   "hash": "57c8cde9182e",
    "last_seen": "2026-10-17",
    "last_seen_str": "Oct 17, 2026",
    "name": "Jetstar",
@@ -30922,7 +30947,7 @@
     "7"
    ],
    "gone": false,
-   "hash": "3e90121afc29",
+   "hash": "d429704f4769",
    "last_seen": "2026-10-17",
    "last_seen_str": "Oct 17, 2026",
    "name": "Juneyao Airlines",
@@ -30949,7 +30974,7 @@
     "6"
    ],
    "gone": false,
-   "hash": "f433af4c75d8",
+   "hash": "fe3c94f09830",
    "last_seen": "2026-10-17",
    "last_seen_str": "Oct 17, 2026",
    "name": "KLM",
@@ -30977,7 +31002,7 @@
     "8"
    ],
    "gone": false,
-   "hash": "0d38c770f4c2",
+   "hash": "a1879e16cda2",
    "last_seen": "2026-10-17",
    "last_seen_str": "Oct 17, 2026",
    "name": "Korean Air",
@@ -31006,7 +31031,7 @@
    ],
    "gates": [],
    "gone": false,
-   "hash": "6ffa98efd461",
+   "hash": "e68ccbbe842c",
    "last_seen": "2026-10-17",
    "last_seen_str": "Oct 17, 2026",
    "name": "Lion Air",
@@ -31040,7 +31065,7 @@
     "9B"
    ],
    "gone": false,
-   "hash": "ba965a315506",
+   "hash": "f8c28b86596c",
    "last_seen": "2026-10-17",
    "last_seen_str": "Oct 17, 2026",
    "name": "Malaysia Airlines",
@@ -31066,7 +31091,7 @@
    ],
    "gates": [],
    "gone": false,
-   "hash": "cf925d409c97",
+   "hash": "ebc4b400e075",
    "last_seen": "2026-10-17",
    "last_seen_str": "Oct 17, 2026",
    "name": "MAT Macedonian Airlines",
@@ -31090,7 +31115,7 @@
    ],
    "gates": [],
    "gone": false,
-   "hash": "cb4fbd63e529",
+   "hash": "06cc5de8bba8",
    "last_seen": "2026-10-17",
    "last_seen_str": "Oct 17, 2026",
    "name": "Pelita Air",
@@ -31117,7 +31142,7 @@
     "6"
    ],
    "gone": false,
-   "hash": "3758fdf70776",
+   "hash": "37dc6e63e0f9",
    "last_seen": "2026-10-17",
    "last_seen_str": "Oct 17, 2026",
    "name": "Philippine Airlines",
@@ -31147,7 +31172,7 @@
     "8"
    ],
    "gone": false,
-   "hash": "e3b018e75ccc",
+   "hash": "96c498542d95",
    "last_seen": "2026-10-17",
    "last_seen_str": "Oct 17, 2026",
    "name": "Qantas",
@@ -31176,7 +31201,7 @@
     "8"
    ],
    "gone": false,
-   "hash": "a6b59ce1efbb",
+   "hash": "723e6edfec97",
    "last_seen": "2026-10-17",
    "last_seen_str": "Oct 17, 2026",
    "name": "Qatar Airways",
@@ -31203,7 +31228,7 @@
     "9B"
    ],
    "gone": false,
-   "hash": "0a6c14632cf4",
+   "hash": "28ae285abb97",
    "last_seen": "2026-10-14",
    "last_seen_str": "Oct 14, 2026",
    "name": "Saudia",
@@ -31235,7 +31260,7 @@
     "8"
    ],
    "gone": false,
-   "hash": "bc0981a84742",
+   "hash": "ddf3db5c6d63",
    "last_seen": "2026-10-17",
    "last_seen_str": "Oct 17, 2026",
    "name": "Scoot",
@@ -31263,7 +31288,7 @@
     "9B"
    ],
    "gone": false,
-   "hash": "ee00d26bebcd",
+   "hash": "151189f6d4a6",
    "last_seen": "2026-10-16",
    "last_seen_str": "Oct 16, 2026",
    "name": "Sichuan Airlines",
@@ -31293,7 +31318,7 @@
     "9A"
    ],
    "gone": false,
-   "hash": "5ab838f8bd86",
+   "hash": "7d90fff331cf",
    "last_seen": "2026-10-17",
    "last_seen_str": "Oct 17, 2026",
    "name": "Singapore Airlines",
@@ -31317,7 +31342,7 @@
    ],
    "gates": [],
    "gone": false,
-   "hash": "ca8103f60db7",
+   "hash": "687bd7808688",
    "last_seen": "2026-10-17",
    "last_seen_str": "Oct 17, 2026",
    "name": "Sriwijaya Air",
@@ -31343,7 +31368,7 @@
     "7"
    ],
    "gone": false,
-   "hash": "dd79f7c32362",
+   "hash": "791eda4beeb5",
    "last_seen": "2026-10-16",
    "last_seen_str": "Oct 16, 2026",
    "name": "STARLUX Airlines",
@@ -31371,7 +31396,7 @@
    ],
    "gates": [],
    "gone": false,
-   "hash": "b93dfd707bed",
+   "hash": "7129dc64c2d9",
    "last_seen": "2026-10-17",
    "last_seen_str": "Oct 17, 2026",
    "name": "Super Air Jet",
@@ -31397,7 +31422,7 @@
     "2"
    ],
    "gone": false,
-   "hash": "4763232084ce",
+   "hash": "5c565e0a1876",
    "last_seen": "2026-10-16",
    "last_seen_str": "Oct 16, 2026",
    "name": "Thai AirAsia",
@@ -31427,7 +31452,7 @@
     "8"
    ],
    "gone": false,
-   "hash": "6fac8c914ffe",
+   "hash": "ee1dd6b6edb8",
    "last_seen": "2026-10-17",
    "last_seen_str": "Oct 17, 2026",
    "name": "Thai Airways",
@@ -31454,7 +31479,7 @@
     "2"
    ],
    "gone": false,
-   "hash": "846769d2b391",
+   "hash": "6b045f47377c",
    "last_seen": "2026-10-16",
    "last_seen_str": "Oct 16, 2026",
    "name": "Thai Lion Air",
@@ -31489,7 +31514,7 @@
     "9B"
    ],
    "gone": false,
-   "hash": "8e2e7c044e4b",
+   "hash": "4d55dfadcc95",
    "last_seen": "2026-10-17",
    "last_seen_str": "Oct 17, 2026",
    "name": "TransNusa",
@@ -31516,7 +31541,7 @@
     "5"
    ],
    "gone": false,
-   "hash": "62a449970a8a",
+   "hash": "035e8e62755f",
    "last_seen": "2026-10-17",
    "last_seen_str": "Oct 17, 2026",
    "name": "Turkish Airlines",
@@ -31547,7 +31572,7 @@
     "9B"
    ],
    "gone": false,
-   "hash": "8cad5bbeaf5c",
+   "hash": "a4c1bafa7c8a",
    "last_seen": "2026-10-17",
    "last_seen_str": "Oct 17, 2026",
    "name": "VietJet Air",
@@ -31573,7 +31598,7 @@
     "8"
    ],
    "gone": false,
-   "hash": "edb5afe585d2",
+   "hash": "f2338a112a9f",
    "last_seen": "2026-10-17",
    "last_seen_str": "Oct 17, 2026",
    "name": "Vietnam Airlines",
@@ -31609,7 +31634,7 @@
     "6B"
    ],
    "gone": false,
-   "hash": "1ede366d2f95",
+   "hash": "337591c94c2e",
    "last_seen": "2026-10-17",
    "last_seen_str": "Oct 17, 2026",
    "name": "Virgin Australia",
@@ -31620,6 +31645,31 @@
    "types": [
     "737 MAX 8",
     "737-800"
+   ],
+   "updated": "2026-10-18"
+  },
+  "wings-air": {
+   "airport_short": "DPS",
+   "changed": "2026-10-18",
+   "code": "IW",
+   "deps_day": 7.3,
+   "dests": [
+    "LOP",
+    "SWQ",
+    "BMU"
+   ],
+   "gates": [],
+   "gone": false,
+   "hash": "edaaeab1495f",
+   "last_seen": "2026-10-17",
+   "last_seen_str": "Oct 17, 2026",
+   "name": "Wings Air",
+   "published": "2026-10-18",
+   "short": "Wings Air",
+   "sig": "",
+   "slug": "wings-air",
+   "types": [
+    "ATR 72-600"
    ],
    "updated": "2026-10-18"
   },
@@ -31639,7 +31689,7 @@
     "6C"
    ],
    "gone": false,
-   "hash": "80958af77cc2",
+   "hash": "d503c9544eb4",
    "last_seen": "2026-10-17",
    "last_seen_str": "Oct 17, 2026",
    "name": "Xiamen Airlines",
