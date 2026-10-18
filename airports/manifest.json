@@ -587,6 +587,20 @@
   "top_gates": 4,
   "updated": "2026-10-18"
  },
+ "CJU": {
+  "changed": "2026-10-18",
+  "flights_day": 510,
+  "gates": 24,
+  "hash": "05b6ca723bfa",
+  "name": "Jeju Int'l",
+  "published": "2026-10-18",
+  "seats_day": 33893,
+  "short": "Jeju",
+  "sig": "{\"common\": 21, \"drawing\": \"3bf77a6934cd\", \"gates\": 24, \"held\": {\"7C\": 1, \"LJ\": 1, \"ZE\": 1}, \"low\": 0}",
+  "top": "7C",
+  "top_gates": 1,
+  "updated": "2026-10-18"
+ },
  "CLE": {
   "changed": "2026-10-18",
   "flights_day": 260,
@@ -713,6 +727,20 @@
   "top_gates": 2,
   "updated": "2026-10-18"
  },
+ "CTS": {
+  "changed": "2026-10-18",
+  "flights_day": 465,
+  "gates": 27,
+  "hash": "6ec367752d68",
+  "name": "New Chitose",
+  "published": "2026-10-18",
+  "seats_day": 34022,
+  "short": "Sapporo",
+  "sig": "{\"common\": 18, \"drawing\": \"6bda60b58d3f\", \"gates\": 27, \"held\": {\"BC\": 1, \"JL\": 3, \"JX\": 1, \"NH\": 4}, \"low\": 0}",
+  "top": "NH",
+  "top_gates": 4,
+  "updated": "2026-10-18"
+ },
  "CVG": {
   "changed": "2026-10-18",
   "flights_day": 333,
@@ -837,6 +865,20 @@
   "sig": "{\"common\": 15, \"drawing\": \"8c7b81053aaa\", \"gates\": 63, \"held\": {\"QR\": 46}, \"low\": 2}",
   "top": "QR",
   "top_gates": 46,
+  "updated": "2026-10-18"
+ },
+ "DPS": {
+  "changed": "2026-10-18",
+  "flights_day": 335,
+  "gates": 15,
+  "hash": "01c1d5fac927",
+  "name": "Ngurah Rai/Bali Intl, Bali/Denpasar",
+  "published": "2026-10-18",
+  "seats_day": 8986,
+  "short": "Bali (Denpasar)",
+  "sig": "{\"common\": 15, \"drawing\": \"2471959a58d5\", \"gates\": 15, \"held\": {}, \"low\": 0}",
+  "top": "JQ",
+  "top_gates": 0,
   "updated": "2026-10-18"
  },
  "DRO": {
