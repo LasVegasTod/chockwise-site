@@ -111,6 +111,20 @@
   "top_gates": 30,
   "updated": "2026-10-18"
  },
+ "ARN": {
+  "changed": "2026-10-18",
+  "flights_day": 591,
+  "gates": 65,
+  "hash": "56b16ea33a69",
+  "name": "Stockholm-Arlanda",
+  "published": "2026-10-18",
+  "seats_day": 21037,
+  "short": "Stockholm",
+  "sig": "{\"common\": 24, \"drawing\": \"f75fe315d15c\", \"gates\": 65, \"held\": {\"DY\": 3, \"FR\": 1, \"HP\": 1, \"SK\": 15}, \"low\": 21}",
+  "top": "SK",
+  "top_gates": 15,
+  "updated": "2026-10-18"
+ },
  "ASE": {
   "changed": "2026-10-18",
   "flights_day": 38,
@@ -2032,13 +2046,13 @@
  "OGG": {
   "changed": "2026-10-18",
   "flights_day": 161,
-  "gates": 16,
-  "hash": "be3d78af1eee",
+  "gates": 17,
+  "hash": "79854b089795",
   "name": "Kahului",
   "published": "2026-10-07",
   "seats_day": 11217,
   "short": "Kahului (Maui)",
-  "sig": "{\"common\": 3, \"drawing\": \"b47cd7d99336\", \"gates\": 16, \"held\": {\"AS\": 7, \"DL\": 1, \"UA\": 2, \"WN\": 3}, \"low\": 0}",
+  "sig": "{\"common\": 2, \"drawing\": \"ee22bf0b0c66\", \"gates\": 17, \"held\": {\"AA\": 1, \"AS\": 7, \"DL\": 1, \"UA\": 3, \"WN\": 3}, \"low\": 0}",
   "top": "AS",
   "top_gates": 7,
   "updated": "2026-10-18"
@@ -2718,13 +2732,13 @@
  "STS": {
   "changed": "2026-10-18",
   "flights_day": 47,
-  "gates": 7,
-  "hash": "6f1ecf717a18",
+  "gates": 8,
+  "hash": "21a5049ce49e",
   "name": "Schulz-Sonoma County, Santa Rosa",
   "published": "2026-10-09",
   "seats_day": 2196,
   "short": "Santa Rosa",
-  "sig": "{\"common\": 0, \"drawing\": \"f8301716a90d\", \"gates\": 7, \"held\": {\"AA\": 2, \"AS\": 3, \"WN\": 1}, \"low\": 1}",
+  "sig": "{\"common\": 0, \"drawing\": \"3bb7e3ce5424\", \"gates\": 8, \"held\": {\"AA\": 2, \"AS\": 3, \"DL\": 1, \"WN\": 1}, \"low\": 1}",
   "top": "AS",
   "top_gates": 3,
   "updated": "2026-10-18"

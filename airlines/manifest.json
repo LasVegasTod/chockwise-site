@@ -3790,6 +3790,1281 @@
    "updated": "2026-10-18"
   }
  },
+ "ARN": {
+  "adria-airways": {
+   "airport_short": "ARN",
+   "changed": "2026-10-18",
+   "code": "JP",
+   "deps_day": 1.0,
+   "dests": [
+    "HER",
+    "RHO",
+    "BLL",
+    "CPH",
+    "LXS",
+    "PVK"
+   ],
+   "gates": [
+    "D16",
+    "C31",
+    "C33",
+    "C39",
+    "C41"
+   ],
+   "gone": false,
+   "hash": "8aa4533a15a0",
+   "last_seen": "2026-10-16",
+   "last_seen_str": "Oct 16, 2026",
+   "name": "Adria Airways",
+   "published": "2026-10-18",
+   "short": "Adria Airways",
+   "sig": "{\"drawing\": \"f75fe315d15c\", \"focus\": [\"D16\", \"C31\", \"C33\", \"C39\", \"C41\"], \"held\": [], \"held_n\": 0, \"main\": [\"D16\", \"C31\", \"C33\", \"C39\", \"C41\"]}",
+   "slug": "adria-airways",
+   "types": [
+    "737-800"
+   ],
+   "updated": "2026-10-18"
+  },
+  "aegean": {
+   "airport_short": "ARN",
+   "changed": "2026-10-18",
+   "code": "A3",
+   "deps_day": 1.2,
+   "dests": [
+    "ATH",
+    "RHO",
+    "KLX"
+   ],
+   "gates": [
+    "C37",
+    "C41"
+   ],
+   "gone": false,
+   "hash": "8ff520b1c603",
+   "last_seen": "2026-10-16",
+   "last_seen_str": "Oct 16, 2026",
+   "name": "Aegean Airlines",
+   "published": "2026-10-18",
+   "short": "Aegean",
+   "sig": "{\"drawing\": \"f75fe315d15c\", \"focus\": [\"C37\", \"C41\"], \"held\": [], \"held_n\": 0, \"main\": [\"C37\", \"C41\"]}",
+   "slug": "aegean",
+   "types": [
+    "A320neo",
+    "A320"
+   ],
+   "updated": "2026-10-18"
+  },
+  "air-china": {
+   "airport_short": "ARN",
+   "changed": "2026-10-18",
+   "code": "CA",
+   "deps_day": 3.1,
+   "dests": [
+    "PEK",
+    "PIK",
+    "CDG",
+    "LGG"
+   ],
+   "gates": [
+    "D18",
+    "F28",
+    "F29",
+    "F32"
+   ],
+   "gone": false,
+   "hash": "abe1949e9ced",
+   "last_seen": "2026-10-16",
+   "last_seen_str": "Oct 16, 2026",
+   "name": "Air China",
+   "published": "2026-10-18",
+   "short": "Air China",
+   "sig": "{\"drawing\": \"f75fe315d15c\", \"focus\": [\"D18\", \"F28\", \"F29\", \"F32\"], \"held\": [], \"held_n\": 0, \"main\": [\"D18\", \"F28\", \"F29\", \"F32\"]}",
+   "slug": "air-china",
+   "types": [
+    "A330-200",
+    "A350-900",
+    "A350"
+   ],
+   "updated": "2026-10-18"
+  },
+  "air-france": {
+   "airport_short": "ARN",
+   "changed": "2026-10-18",
+   "code": "AF",
+   "deps_day": 2.7,
+   "dests": [
+    "CDG"
+   ],
+   "gates": [
+    "62",
+    "63",
+    "64",
+    "66"
+   ],
+   "gone": false,
+   "hash": "63af8035ed67",
+   "last_seen": "2026-10-16",
+   "last_seen_str": "Oct 16, 2026",
+   "name": "Air France",
+   "published": "2026-10-18",
+   "short": "Air France",
+   "sig": "{\"drawing\": \"f75fe315d15c\", \"focus\": [\"62\", \"63\", \"64\", \"66\"], \"held\": [], \"held_n\": 0, \"main\": [\"62\", \"63\", \"64\", \"66\"]}",
+   "slug": "air-france",
+   "types": [
+    "A220-300"
+   ],
+   "updated": "2026-10-18"
+  },
+  "air-serbia": {
+   "airport_short": "ARN",
+   "changed": "2026-10-18",
+   "code": "JU",
+   "deps_day": 1.0,
+   "dests": [
+    "BEG"
+   ],
+   "gates": [
+    "D18",
+    "F30",
+    "F33",
+    "F35",
+    "F37",
+    "F39"
+   ],
+   "gone": false,
+   "hash": "acc3a0a5a968",
+   "last_seen": "2026-10-16",
+   "last_seen_str": "Oct 16, 2026",
+   "name": "Air Serbia",
+   "published": "2026-10-18",
+   "short": "Air Serbia",
+   "sig": "{\"drawing\": \"f75fe315d15c\", \"focus\": [\"D18\", \"F30\", \"F33\", \"F35\", \"F37\", \"F39\"], \"held\": [], \"held_n\": 0, \"main\": [\"D18\", \"F30\", \"F33\", \"F35\", \"F37\", \"F39\"]}",
+   "slug": "air-serbia",
+   "types": [
+    "A220-300",
+    "A319",
+    "E190"
+   ],
+   "updated": "2026-10-18"
+  },
+  "airbaltic": {
+   "airport_short": "ARN",
+   "changed": "2026-10-18",
+   "code": "BT",
+   "deps_day": 1.6,
+   "dests": [
+    "RIX"
+   ],
+   "gates": [
+    "62",
+    "63",
+    "64",
+    "65",
+    "67"
+   ],
+   "gone": false,
+   "hash": "ee94b548eb2f",
+   "last_seen": "2026-10-16",
+   "last_seen_str": "Oct 16, 2026",
+   "name": "airBaltic",
+   "published": "2026-10-18",
+   "short": "airBaltic",
+   "sig": "{\"drawing\": \"f75fe315d15c\", \"focus\": [\"62\", \"63\", \"64\", \"65\", \"67\"], \"held\": [], \"held_n\": 0, \"main\": [\"62\", \"63\", \"64\", \"65\", \"67\"]}",
+   "slug": "airbaltic",
+   "types": [
+    "A220-300"
+   ],
+   "updated": "2026-10-18"
+  },
+  "ajet": {
+   "airport_short": "ARN",
+   "changed": "2026-10-18",
+   "code": "VF",
+   "deps_day": 1.0,
+   "dests": [
+    "SAW"
+   ],
+   "gates": [],
+   "gone": false,
+   "hash": "41441d2cb440",
+   "last_seen": "2026-10-16",
+   "last_seen_str": "Oct 16, 2026",
+   "name": "AJet",
+   "published": "2026-10-18",
+   "short": "AJet",
+   "sig": "",
+   "slug": "ajet",
+   "types": [
+    "737 MAX 8",
+    "A321neo"
+   ],
+   "updated": "2026-10-18"
+  },
+  "ana": {
+   "airport_short": "ARN",
+   "changed": "2026-10-18",
+   "code": "NH",
+   "deps_day": 0.4,
+   "dests": [
+    "HND"
+   ],
+   "gates": [
+    "F29"
+   ],
+   "gone": false,
+   "hash": "bd67d251d1b9",
+   "last_seen": "2026-10-15",
+   "last_seen_str": "Oct 15, 2026",
+   "name": "All Nippon Airways (ANA)",
+   "published": "2026-10-18",
+   "short": "ANA",
+   "sig": "{\"drawing\": \"f75fe315d15c\", \"focus\": [\"F29\"], \"held\": [], \"held_n\": 0, \"main\": [\"F29\"]}",
+   "slug": "ana",
+   "types": [
+    "787-8"
+   ],
+   "updated": "2026-10-18"
+  },
+  "austrian": {
+   "airport_short": "ARN",
+   "changed": "2026-10-18",
+   "code": "OS",
+   "deps_day": 3.3,
+   "dests": [
+    "VIE"
+   ],
+   "gates": [
+    "E1",
+    "E3",
+    "E4",
+    "E5",
+    "E6",
+    "E7",
+    "E8",
+    "E9"
+   ],
+   "gone": false,
+   "hash": "487e9b11aed4",
+   "last_seen": "2026-10-16",
+   "last_seen_str": "Oct 16, 2026",
+   "name": "Austrian Airlines",
+   "published": "2026-10-18",
+   "short": "Austrian",
+   "sig": "{\"drawing\": \"f75fe315d15c\", \"focus\": [\"E1\", \"E3\", \"E4\", \"E5\", \"E6\", \"E7\", \"E8\", \"E9\", \"E10\", \"D12\", \"D16\", \"F28\", \"F32\", \"F35\", \"F37\", \"C41\"], \"held\": [], \"held_n\": 0, \"main\": [\"E1\", \"E3\", \"E4\", \"E5\", \"E6\", \"E7\", \"E8\", \"E9\", \"E10\", \"D12\", \"D16\", \"F28\", \"F32\", \"F35\", \"F37\", \"C41\"]}",
+   "slug": "austrian",
+   "types": [
+    "A320",
+    "E195",
+    "A220-300"
+   ],
+   "updated": "2026-10-18"
+  },
+  "british-airways": {
+   "airport_short": "ARN",
+   "changed": "2026-10-18",
+   "code": "BA",
+   "deps_day": 3.2,
+   "dests": [
+    "LHR"
+   ],
+   "gates": [],
+   "gone": false,
+   "hash": "9ba8c0579bd6",
+   "last_seen": "2026-10-16",
+   "last_seen_str": "Oct 16, 2026",
+   "name": "British Airways",
+   "published": "2026-10-18",
+   "short": "British Airways",
+   "sig": "",
+   "slug": "british-airways",
+   "types": [
+    "A320",
+    "A320neo",
+    "A319"
+   ],
+   "updated": "2026-10-18"
+  },
+  "brussels-airlines": {
+   "airport_short": "ARN",
+   "changed": "2026-10-18",
+   "code": "SN",
+   "deps_day": 2.3,
+   "dests": [
+    "BRU"
+   ],
+   "gates": [
+    "E6",
+    "E9",
+    "D16",
+    "F28",
+    "F30",
+    "F32",
+    "C35",
+    "C37"
+   ],
+   "gone": false,
+   "hash": "dd8c81c599d2",
+   "last_seen": "2026-10-16",
+   "last_seen_str": "Oct 16, 2026",
+   "name": "Brussels Airlines",
+   "published": "2026-10-18",
+   "short": "Brussels Airlines",
+   "sig": "{\"drawing\": \"f75fe315d15c\", \"focus\": [\"E6\", \"E9\", \"D16\", \"F28\", \"F30\", \"F32\", \"C35\", \"C37\", \"C39\", \"C41\", \"C43\"], \"held\": [], \"held_n\": 0, \"main\": [\"E6\", \"E9\", \"D16\", \"F28\", \"F30\", \"F32\", \"C35\", \"C37\", \"C39\", \"C41\", \"C43\"]}",
+   "slug": "brussels-airlines",
+   "types": [
+    "A319",
+    "A320",
+    "A320neo"
+   ],
+   "updated": "2026-10-18"
+  },
+  "china-eastern": {
+   "airport_short": "ARN",
+   "changed": "2026-10-18",
+   "code": "MU",
+   "deps_day": 0.4,
+   "dests": [
+    "PVG"
+   ],
+   "gates": [
+    "F32",
+    "F36"
+   ],
+   "gone": false,
+   "hash": "c9ba587190b5",
+   "last_seen": "2026-10-15",
+   "last_seen_str": "Oct 15, 2026",
+   "name": "China Eastern",
+   "published": "2026-10-18",
+   "short": "China Eastern",
+   "sig": "{\"drawing\": \"f75fe315d15c\", \"focus\": [\"F32\", \"F36\"], \"held\": [], \"held_n\": 0, \"main\": [\"F32\", \"F36\"]}",
+   "slug": "china-eastern",
+   "types": [
+    "A330-200",
+    "A330"
+   ],
+   "updated": "2026-10-18"
+  },
+  "croatia-airlines": {
+   "airport_short": "ARN",
+   "changed": "2026-10-18",
+   "code": "OU",
+   "deps_day": 0.7,
+   "dests": [
+    "ZAG",
+    "SPU"
+   ],
+   "gates": [
+    "E8",
+    "D12",
+    "C33",
+    "F37"
+   ],
+   "gone": false,
+   "hash": "208db5800e98",
+   "last_seen": "2026-10-16",
+   "last_seen_str": "Oct 16, 2026",
+   "name": "Croatia Airlines",
+   "published": "2026-10-18",
+   "short": "Croatia Airlines",
+   "sig": "{\"drawing\": \"f75fe315d15c\", \"focus\": [\"E8\", \"D12\", \"C33\", \"F37\"], \"held\": [], \"held_n\": 0, \"main\": [\"E8\", \"D12\", \"C33\", \"F37\"]}",
+   "slug": "croatia-airlines",
+   "types": [
+    "A220-300"
+   ],
+   "updated": "2026-10-18"
+  },
+  "emirates": {
+   "airport_short": "ARN",
+   "changed": "2026-10-18",
+   "code": "EK",
+   "deps_day": 1.0,
+   "dests": [
+    "DXB"
+   ],
+   "gates": [
+    "F32",
+    "F36"
+   ],
+   "gone": false,
+   "hash": "6b21213d4c6b",
+   "last_seen": "2026-10-16",
+   "last_seen_str": "Oct 16, 2026",
+   "name": "Emirates",
+   "published": "2026-10-18",
+   "short": "Emirates",
+   "sig": "{\"drawing\": \"f75fe315d15c\", \"focus\": [\"F32\", \"F36\"], \"held\": [], \"held_n\": 0, \"main\": [\"F32\", \"F36\"]}",
+   "slug": "emirates",
+   "types": [
+    "B777",
+    "777-300ER"
+   ],
+   "updated": "2026-10-18"
+  },
+  "ethiopian": {
+   "airport_short": "ARN",
+   "changed": "2026-10-18",
+   "code": "ET",
+   "deps_day": 1.6,
+   "dests": [
+    "OSL",
+    "ADD"
+   ],
+   "gates": [
+    "F28",
+    "F29",
+    "F32",
+    "F36"
+   ],
+   "gone": false,
+   "hash": "999b913f43e2",
+   "last_seen": "2026-10-16",
+   "last_seen_str": "Oct 16, 2026",
+   "name": "Ethiopian Airlines",
+   "published": "2026-10-18",
+   "short": "Ethiopian",
+   "sig": "{\"drawing\": \"f75fe315d15c\", \"focus\": [\"F28\", \"F29\", \"F32\", \"F36\"], \"held\": [], \"held_n\": 0, \"main\": [\"F28\", \"F29\", \"F32\", \"F36\"]}",
+   "slug": "ethiopian",
+   "types": [
+    "787-8",
+    "787-9"
+   ],
+   "updated": "2026-10-18"
+  },
+  "eurowings": {
+   "airport_short": "ARN",
+   "changed": "2026-10-18",
+   "code": "EW",
+   "deps_day": 5.1,
+   "dests": [
+    "DUS",
+    "HAM",
+    "BER",
+    "STR",
+    "PRG",
+    "BEY"
+   ],
+   "gates": [
+    "F30",
+    "C33",
+    "F33",
+    "C35",
+    "C37",
+    "C39",
+    "F39",
+    "C41"
+   ],
+   "gone": false,
+   "hash": "79ffaa3bdef0",
+   "last_seen": "2026-10-16",
+   "last_seen_str": "Oct 16, 2026",
+   "name": "Eurowings",
+   "published": "2026-10-18",
+   "short": "Eurowings",
+   "sig": "{\"drawing\": \"f75fe315d15c\", \"focus\": [\"F30\", \"C33\", \"F33\", \"C35\", \"C37\", \"C39\", \"F39\", \"C41\", \"C43\"], \"held\": [], \"held_n\": 0, \"main\": [\"F30\", \"C33\", \"F33\", \"C35\", \"C37\", \"C39\", \"F39\", \"C41\", \"C43\"]}",
+   "slug": "eurowings",
+   "types": [
+    "A319"
+   ],
+   "updated": "2026-10-18"
+  },
+  "finnair": {
+   "airport_short": "ARN",
+   "changed": "2026-10-18",
+   "code": "AY",
+   "deps_day": 12.4,
+   "dests": [
+    "HEL",
+    "BGO",
+    "SVG"
+   ],
+   "gates": [
+    "62",
+    "63",
+    "64",
+    "65",
+    "66",
+    "67"
+   ],
+   "gone": false,
+   "hash": "562f51676157",
+   "last_seen": "2026-10-16",
+   "last_seen_str": "Oct 16, 2026",
+   "name": "Finnair",
+   "published": "2026-10-18",
+   "short": "Finnair",
+   "sig": "{\"drawing\": \"f75fe315d15c\", \"focus\": [\"62\", \"63\", \"64\", \"65\", \"66\", \"67\"], \"held\": [], \"held_n\": 0, \"main\": [\"62\", \"63\", \"64\", \"65\", \"66\", \"67\"]}",
+   "slug": "finnair",
+   "types": [
+    "E190",
+    "A320",
+    "A319"
+   ],
+   "updated": "2026-10-18"
+  },
+  "iberia": {
+   "airport_short": "ARN",
+   "changed": "2026-10-18",
+   "code": "IB",
+   "deps_day": 1.4,
+   "dests": [
+    "MAD"
+   ],
+   "gates": [
+    "62"
+   ],
+   "gone": false,
+   "hash": "304849a1c59e",
+   "last_seen": "2026-10-16",
+   "last_seen_str": "Oct 16, 2026",
+   "name": "Iberia",
+   "published": "2026-10-18",
+   "short": "Iberia",
+   "sig": "{\"drawing\": \"f75fe315d15c\", \"focus\": [\"62\"], \"held\": [], \"held_n\": 0, \"main\": [\"62\"]}",
+   "slug": "iberia",
+   "types": [
+    "A320neo",
+    "A320",
+    "A321"
+   ],
+   "updated": "2026-10-18"
+  },
+  "icelandair": {
+   "airport_short": "ARN",
+   "changed": "2026-10-18",
+   "code": "FI",
+   "deps_day": 1.6,
+   "dests": [
+    "KEF"
+   ],
+   "gates": [
+    "E7",
+    "C33",
+    "F33",
+    "C35",
+    "F35",
+    "F37",
+    "C43"
+   ],
+   "gone": false,
+   "hash": "c7eabaeeeb84",
+   "last_seen": "2026-10-16",
+   "last_seen_str": "Oct 16, 2026",
+   "name": "Icelandair",
+   "published": "2026-10-18",
+   "short": "Icelandair",
+   "sig": "{\"drawing\": \"f75fe315d15c\", \"focus\": [\"E7\", \"C33\", \"F33\", \"C35\", \"F35\", \"F37\", \"C43\"], \"held\": [], \"held_n\": 0, \"main\": [\"E7\", \"C33\", \"F33\", \"C35\", \"F35\", \"F37\", \"C43\"]}",
+   "slug": "icelandair",
+   "types": [
+    "737 MAX 8",
+    "737-900",
+    "A321neo"
+   ],
+   "updated": "2026-10-18"
+  },
+  "klm": {
+   "airport_short": "ARN",
+   "changed": "2026-10-18",
+   "code": "KL",
+   "deps_day": 5.0,
+   "dests": [
+    "AMS"
+   ],
+   "gates": [
+    "62",
+    "63",
+    "64",
+    "65",
+    "67",
+    "68"
+   ],
+   "gone": false,
+   "hash": "18824bd07ef4",
+   "last_seen": "2026-10-16",
+   "last_seen_str": "Oct 16, 2026",
+   "name": "KLM",
+   "published": "2026-10-18",
+   "short": "KLM",
+   "sig": "{\"drawing\": \"f75fe315d15c\", \"focus\": [\"62\", \"63\", \"64\", \"65\", \"67\", \"68\"], \"held\": [], \"held_n\": 0, \"main\": [\"62\", \"63\", \"64\", \"65\", \"67\", \"68\"]}",
+   "slug": "klm",
+   "types": [
+    "A321neo",
+    "737-800",
+    "737-700"
+   ],
+   "updated": "2026-10-18"
+  },
+  "lot": {
+   "airport_short": "ARN",
+   "changed": "2026-10-18",
+   "code": "LO",
+   "deps_day": 3.0,
+   "dests": [
+    "WAW",
+    "MXP"
+   ],
+   "gates": [
+    "E4",
+    "E5",
+    "E7",
+    "E8",
+    "E9",
+    "E10",
+    "C31",
+    "C33"
+   ],
+   "gone": false,
+   "hash": "c8bc530a71b5",
+   "last_seen": "2026-10-16",
+   "last_seen_str": "Oct 16, 2026",
+   "name": "LOT Polish Airlines",
+   "published": "2026-10-18",
+   "short": "LOT",
+   "sig": "{\"drawing\": \"f75fe315d15c\", \"focus\": [\"E4\", \"E5\", \"E7\", \"E8\", \"E9\", \"E10\", \"C31\", \"C33\", \"C35\", \"C43\"], \"held\": [], \"held_n\": 0, \"main\": [\"E4\", \"E5\", \"E7\", \"E8\", \"E9\", \"E10\", \"C31\", \"C33\", \"C35\", \"C43\"]}",
+   "slug": "lot",
+   "types": [
+    "E195",
+    "737 MAX 8",
+    "737-800"
+   ],
+   "updated": "2026-10-18"
+  },
+  "lufthansa": {
+   "airport_short": "ARN",
+   "changed": "2026-10-18",
+   "code": "LH",
+   "deps_day": 8.0,
+   "dests": [
+    "FRA",
+    "MUC"
+   ],
+   "gates": [
+    "E3",
+    "E4",
+    "E5",
+    "E6",
+    "E7",
+    "E8",
+    "E9",
+    "E10"
+   ],
+   "gone": false,
+   "hash": "eed844ccd12c",
+   "last_seen": "2026-10-16",
+   "last_seen_str": "Oct 16, 2026",
+   "name": "Lufthansa",
+   "published": "2026-10-18",
+   "short": "Lufthansa",
+   "sig": "{\"drawing\": \"f75fe315d15c\", \"focus\": [\"E3\", \"E4\", \"E5\", \"E6\", \"E7\", \"E8\", \"E9\", \"E10\", \"F28\", \"F30\", \"F32\", \"C33\", \"F35\", \"F37\", \"F39\"], \"held\": [], \"held_n\": 0, \"main\": [\"E3\", \"E4\", \"E5\", \"E6\", \"E7\", \"E8\", \"E9\", \"E10\", \"D12\", \"D16\", \"F28\", \"F30\", \"F32\", \"C33\", \"C35\", \"F35\", \"F37\", \"F39\", \"C43\"]}",
+   "slug": "lufthansa",
+   "types": [
+    "A320",
+    "A321",
+    "A320neo"
+   ],
+   "updated": "2026-10-18"
+  },
+  "lufthansa-city": {
+   "airport_short": "ARN",
+   "changed": "2026-10-18",
+   "code": "VL",
+   "deps_day": 0.9,
+   "dests": [
+    "FRA"
+   ],
+   "gates": [
+    "E3",
+    "E4",
+    "E10",
+    "D16"
+   ],
+   "gone": false,
+   "hash": "cc364efbf5a0",
+   "last_seen": "2026-10-16",
+   "last_seen_str": "Oct 16, 2026",
+   "name": "Lufthansa City Airlines",
+   "published": "2026-10-18",
+   "short": "Lufthansa City",
+   "sig": "{\"drawing\": \"f75fe315d15c\", \"focus\": [\"E3\", \"E4\", \"E10\", \"D16\"], \"held\": [], \"held_n\": 0, \"main\": [\"E3\", \"E4\", \"E10\", \"D16\"]}",
+   "slug": "lufthansa-city",
+   "types": [
+    "A320neo"
+   ],
+   "updated": "2026-10-18"
+  },
+  "luxair": {
+   "airport_short": "ARN",
+   "changed": "2026-10-18",
+   "code": "LG",
+   "deps_day": 0.6,
+   "dests": [
+    "LUX"
+   ],
+   "gates": [
+    "C33",
+    "C35",
+    "C41",
+    "C43"
+   ],
+   "gone": false,
+   "hash": "7849179ad3ff",
+   "last_seen": "2026-10-16",
+   "last_seen_str": "Oct 16, 2026",
+   "name": "Luxair",
+   "published": "2026-10-18",
+   "short": "Luxair",
+   "sig": "{\"drawing\": \"f75fe315d15c\", \"focus\": [\"C33\", \"C35\", \"C41\", \"C43\"], \"held\": [], \"held_n\": 0, \"main\": [\"C33\", \"C35\", \"C41\", \"C43\"]}",
+   "slug": "luxair",
+   "types": [
+    "E195"
+   ],
+   "updated": "2026-10-18"
+  },
+  "norwegian-air": {
+   "airport_short": "ARN",
+   "changed": "2026-10-18",
+   "code": "DY",
+   "deps_day": 51.4,
+   "dests": [
+    "OSL",
+    "CPH",
+    "UME",
+    "LLA",
+    "HEL",
+    "LGW"
+   ],
+   "gates": [
+    "E1",
+    "E3",
+    "E4",
+    "E5",
+    "E6",
+    "E7",
+    "E8",
+    "E9"
+   ],
+   "gone": false,
+   "hash": "f71e518c9385",
+   "last_seen": "2026-10-16",
+   "last_seen_str": "Oct 16, 2026",
+   "name": "Norwegian Air Shuttle",
+   "published": "2026-10-18",
+   "short": "Norwegian Air",
+   "sig": "{\"drawing\": \"f75fe315d15c\", \"focus\": [\"E1\", \"E3\", \"D12\", \"D14\", \"D16\", \"F28\", \"F33\", \"C35\"], \"held\": [\"D12\", \"D14\", \"D16\"], \"held_n\": 3, \"main\": [\"E1\", \"E3\", \"E4\", \"E5\", \"E6\", \"E7\", \"E8\", \"E9\", \"E10\", \"D12\", \"D14\", \"D16\", \"D18\", \"F28\", \"F29\", \"F30\", \"C31\", \"F32\", \"C33\", \"F33\", \"C35\", \"F35\", \"C37\", \"F37\", \"C39\", \"F39\", \"C41\", \"C43\"]}",
+   "slug": "norwegian-air",
+   "types": [
+    "737 MAX 8",
+    "737-800"
+   ],
+   "updated": "2026-10-18"
+  },
+  "pegasus": {
+   "airport_short": "ARN",
+   "changed": "2026-10-18",
+   "code": "PC",
+   "deps_day": 2.7,
+   "dests": [
+    "SAW",
+    "AYT"
+   ],
+   "gates": [
+    "D18",
+    "F28",
+    "F30",
+    "F32",
+    "F33",
+    "F35",
+    "F37"
+   ],
+   "gone": false,
+   "hash": "733618e27b0d",
+   "last_seen": "2026-10-16",
+   "last_seen_str": "Oct 16, 2026",
+   "name": "Pegasus Airlines",
+   "published": "2026-10-18",
+   "short": "Pegasus",
+   "sig": "{\"drawing\": \"f75fe315d15c\", \"focus\": [\"D18\", \"F28\", \"F30\", \"F32\", \"F33\", \"F35\", \"F37\"], \"held\": [], \"held_n\": 0, \"main\": [\"D18\", \"F28\", \"F30\", \"F32\", \"F33\", \"F35\", \"F37\"]}",
+   "slug": "pegasus",
+   "types": [
+    "A321neo",
+    "A320neo",
+    "737-800"
+   ],
+   "updated": "2026-10-18"
+  },
+  "qatar-airways": {
+   "airport_short": "ARN",
+   "changed": "2026-10-18",
+   "code": "QR",
+   "deps_day": 1.0,
+   "dests": [
+    "DOH"
+   ],
+   "gates": [
+    "F28",
+    "F29",
+    "F32",
+    "F36"
+   ],
+   "gone": false,
+   "hash": "fd80495ec117",
+   "last_seen": "2026-10-16",
+   "last_seen_str": "Oct 16, 2026",
+   "name": "Qatar Airways",
+   "published": "2026-10-18",
+   "short": "Qatar Airways",
+   "sig": "{\"drawing\": \"f75fe315d15c\", \"focus\": [\"F28\", \"F29\", \"F32\", \"F36\"], \"held\": [], \"held_n\": 0, \"main\": [\"F28\", \"F29\", \"F32\", \"F36\"]}",
+   "slug": "qatar-airways",
+   "types": [
+    "787-9",
+    "787-8"
+   ],
+   "updated": "2026-10-18"
+  },
+  "royal-jordanian": {
+   "airport_short": "ARN",
+   "changed": "2026-10-18",
+   "code": "RJ",
+   "deps_day": 0.4,
+   "dests": [
+    "AMM"
+   ],
+   "gates": [],
+   "gone": false,
+   "hash": "0169770902b1",
+   "last_seen": "2026-10-15",
+   "last_seen_str": "Oct 15, 2026",
+   "name": "Royal Jordanian",
+   "published": "2026-10-18",
+   "short": "Royal Jordanian",
+   "sig": "",
+   "slug": "royal-jordanian",
+   "types": [
+    "A320neo"
+   ],
+   "updated": "2026-10-18"
+  },
+  "ryanair": {
+   "airport_short": "ARN",
+   "changed": "2026-10-18",
+   "code": "FR",
+   "deps_day": 25.7,
+   "dests": [
+    "STN",
+    "GDN",
+    "BGY",
+    "TLL",
+    "KRK",
+    "AGP"
+   ],
+   "gates": [
+    "D16",
+    "D18",
+    "F28",
+    "F29",
+    "F30",
+    "C31",
+    "F32",
+    "C33"
+   ],
+   "gone": false,
+   "hash": "d6b2347f9091",
+   "last_seen": "2026-10-16",
+   "last_seen_str": "Oct 16, 2026",
+   "name": "Ryanair",
+   "published": "2026-10-18",
+   "short": "Ryanair",
+   "sig": "{\"drawing\": \"f75fe315d15c\", \"focus\": [\"D18\", \"F28\", \"F29\", \"C31\", \"F32\", \"C33\", \"F33\", \"C35\", \"F35\", \"C37\", \"F37\", \"C39\", \"F39\"], \"held\": [\"C39\"], \"held_n\": 1, \"main\": [\"D16\", \"D18\", \"F28\", \"F29\", \"F30\", \"C31\", \"F32\", \"C33\", \"F33\", \"C35\", \"F35\", \"C37\", \"F37\", \"C39\", \"F39\", \"C41\", \"C43\"]}",
+   "slug": "ryanair",
+   "types": [
+    "737-800",
+    "737 MAX 8",
+    "A320"
+   ],
+   "updated": "2026-10-18"
+  },
+  "sas": {
+   "airport_short": "ARN",
+   "changed": "2026-10-18",
+   "code": "SK",
+   "deps_day": 118.1,
+   "dests": [
+    "CPH",
+    "OSL",
+    "LLA",
+    "GOT",
+    "VBY",
+    "UME"
+   ],
+   "gates": [
+    "E1",
+    "E3",
+    "E3B",
+    "E4",
+    "E4B",
+    "E5",
+    "E5B",
+    "E6"
+   ],
+   "gone": false,
+   "hash": "6131b0bcafdb",
+   "last_seen": "2026-10-17",
+   "last_seen_str": "Oct 17, 2026",
+   "name": "SAS Scandinavian Airlines",
+   "published": "2026-10-18",
+   "short": "SAS",
+   "sig": "{\"drawing\": \"f75fe315d15c\", \"focus\": [\"E1\", \"E3\", \"E3B\", \"E4\", \"E4B\", \"E5\", \"E5B\", \"E6\", \"E6B\", \"E7\", \"E8\", \"E9\", \"E10\", \"F26\", \"F28\", \"F29\", \"F30\", \"F31\", \"F33\", \"F34\", \"F35\", \"F36\", \"F37\", \"F38\", \"F39\"], \"held\": [\"E3\", \"E3B\", \"E4\", \"E4B\", \"E5\", \"E5B\", \"E6\", \"E6B\", \"E8\", \"E9\", \"F26\", \"F31\", \"F34\", \"F36\", \"F38\"], \"held_n\": 15, \"main\": [\"E1\", \"E3\", \"E3B\", \"E4\", \"E4B\", \"E5\", \"E5B\", \"E6\", \"E6B\", \"E7\", \"E8\", \"E9\", \"E10\", \"D12\", \"D14\", \"D16\", \"F26\", \"F28\", \"F29\", \"F30\", \"F31\", \"F32\", \"F33\", \"F34\", \"F35\", \"F36\", \"F37\", \"F38\", \"F39\"]}",
+   "slug": "sas",
+   "types": [
+    "A320neo",
+    "ATR 72-600",
+    "A320"
+   ],
+   "updated": "2026-10-18"
+  },
+  "sunclass": {
+   "airport_short": "ARN",
+   "changed": "2026-10-18",
+   "code": "DK",
+   "deps_day": 1.7,
+   "dests": [
+    "HER",
+    "PMI",
+    "RHO",
+    "LCA",
+    "LPA",
+    "CPH"
+   ],
+   "gates": [
+    "E7",
+    "D18",
+    "F29",
+    "C41",
+    "C43"
+   ],
+   "gone": false,
+   "hash": "718a2e260d8a",
+   "last_seen": "2026-10-16",
+   "last_seen_str": "Oct 16, 2026",
+   "name": "Sunclass Airlines",
+   "published": "2026-10-18",
+   "short": "Sunclass",
+   "sig": "{\"drawing\": \"f75fe315d15c\", \"focus\": [\"E7\", \"D18\", \"F29\", \"C41\", \"C43\"], \"held\": [], \"held_n\": 0, \"main\": [\"E7\", \"D18\", \"F29\", \"C41\", \"C43\"]}",
+   "slug": "sunclass",
+   "types": [
+    "A330",
+    "A321",
+    "A321neo"
+   ],
+   "updated": "2026-10-18"
+  },
+  "sunexpress": {
+   "airport_short": "ARN",
+   "changed": "2026-10-18",
+   "code": "XQ",
+   "deps_day": 0.6,
+   "dests": [
+    "AYT",
+    "ADB"
+   ],
+   "gates": [
+    "D18",
+    "F37",
+    "F39"
+   ],
+   "gone": false,
+   "hash": "44220c5a44e9",
+   "last_seen": "2026-10-15",
+   "last_seen_str": "Oct 15, 2026",
+   "name": "SunExpress",
+   "published": "2026-10-18",
+   "short": "SunExpress",
+   "sig": "{\"drawing\": \"f75fe315d15c\", \"focus\": [\"D18\", \"F37\", \"F39\"], \"held\": [], \"held_n\": 0, \"main\": [\"D18\", \"F37\", \"F39\"]}",
+   "slug": "sunexpress",
+   "types": [
+    "737-800"
+   ],
+   "updated": "2026-10-18"
+  },
+  "swiss": {
+   "airport_short": "ARN",
+   "changed": "2026-10-18",
+   "code": "LX",
+   "deps_day": 3.3,
+   "dests": [
+    "ZRH",
+    "GVA",
+    "VIE"
+   ],
+   "gates": [
+    "E3",
+    "E4",
+    "E6",
+    "E7",
+    "E8",
+    "E9",
+    "E10",
+    "D14"
+   ],
+   "gone": false,
+   "hash": "50fd21442f86",
+   "last_seen": "2026-10-17",
+   "last_seen_str": "Oct 17, 2026",
+   "name": "SWISS",
+   "published": "2026-10-18",
+   "short": "SWISS",
+   "sig": "{\"drawing\": \"f75fe315d15c\", \"focus\": [\"E3\", \"E4\", \"E6\", \"E7\", \"E8\", \"E9\", \"E10\", \"D14\", \"F28\", \"F29\", \"C33\", \"F35\", \"F37\", \"F39\"], \"held\": [], \"held_n\": 0, \"main\": [\"E3\", \"E4\", \"E6\", \"E7\", \"E8\", \"E9\", \"E10\", \"D14\", \"F28\", \"F29\", \"C33\", \"F35\", \"F37\", \"F39\"]}",
+   "slug": "swiss",
+   "types": [
+    "A320neo",
+    "A220-300",
+    "E190"
+   ],
+   "updated": "2026-10-18"
+  },
+  "tap": {
+   "airport_short": "ARN",
+   "changed": "2026-10-18",
+   "code": "TP",
+   "deps_day": 1.0,
+   "dests": [
+    "LIS"
+   ],
+   "gates": [
+    "63",
+    "64",
+    "67"
+   ],
+   "gone": false,
+   "hash": "e151569d557d",
+   "last_seen": "2026-10-16",
+   "last_seen_str": "Oct 16, 2026",
+   "name": "TAP Air Portugal",
+   "published": "2026-10-18",
+   "short": "TAP",
+   "sig": "{\"drawing\": \"f75fe315d15c\", \"focus\": [\"63\", \"64\", \"67\"], \"held\": [], \"held_n\": 0, \"main\": [\"63\", \"64\", \"67\"]}",
+   "slug": "tap",
+   "types": [
+    "A320neo",
+    "A320",
+    "A321"
+   ],
+   "updated": "2026-10-18"
+  },
+  "thai-airways": {
+   "airport_short": "ARN",
+   "changed": "2026-10-18",
+   "code": "TG",
+   "deps_day": 1.0,
+   "dests": [
+    "BKK"
+   ],
+   "gates": [
+    "D18"
+   ],
+   "gone": false,
+   "hash": "3ca3bcb2595f",
+   "last_seen": "2026-10-16",
+   "last_seen_str": "Oct 16, 2026",
+   "name": "Thai Airways",
+   "published": "2026-10-18",
+   "short": "Thai Airways",
+   "sig": "{\"drawing\": \"f75fe315d15c\", \"focus\": [\"D18\"], \"held\": [], \"held_n\": 0, \"main\": [\"D18\"]}",
+   "slug": "thai-airways",
+   "types": [
+    "A350",
+    "A350-900"
+   ],
+   "updated": "2026-10-18"
+  },
+  "transavia": {
+   "airport_short": "ARN",
+   "changed": "2026-10-18",
+   "code": "TO",
+   "deps_day": 1.2,
+   "dests": [
+    "ORY"
+   ],
+   "gates": [
+    "62",
+    "63"
+   ],
+   "gone": false,
+   "hash": "a773c4b7336e",
+   "last_seen": "2026-10-16",
+   "last_seen_str": "Oct 16, 2026",
+   "name": "Transavia France",
+   "published": "2026-10-18",
+   "short": "Transavia",
+   "sig": "{\"drawing\": \"f75fe315d15c\", \"focus\": [\"62\", \"63\"], \"held\": [], \"held_n\": 0, \"main\": [\"62\", \"63\"]}",
+   "slug": "transavia",
+   "types": [
+    "A320neo"
+   ],
+   "updated": "2026-10-18"
+  },
+  "tui-fly-nordic": {
+   "airport_short": "ARN",
+   "changed": "2026-10-18",
+   "code": "6B",
+   "deps_day": 1.6,
+   "dests": [
+    "CPH",
+    "LCA",
+    "RHO",
+    "HEL",
+    "CHQ",
+    "HRG"
+   ],
+   "gates": [
+    "D18",
+    "F30",
+    "C31",
+    "F33",
+    "F35",
+    "C43"
+   ],
+   "gone": false,
+   "hash": "e61961193831",
+   "last_seen": "2026-10-16",
+   "last_seen_str": "Oct 16, 2026",
+   "name": "TUI fly Nordic",
+   "published": "2026-10-18",
+   "short": "TUI fly Nordic",
+   "sig": "{\"drawing\": \"f75fe315d15c\", \"focus\": [\"D18\", \"F30\", \"C31\", \"F33\", \"F35\", \"C43\"], \"held\": [], \"held_n\": 0, \"main\": [\"D18\", \"F30\", \"C31\", \"F33\", \"F35\", \"C43\"]}",
+   "slug": "tui-fly-nordic",
+   "types": [
+    "737-800",
+    "737 MAX 8",
+    "A320"
+   ],
+   "updated": "2026-10-18"
+  },
+  "turkish-airlines": {
+   "airport_short": "ARN",
+   "changed": "2026-10-18",
+   "code": "TK",
+   "deps_day": 2.2,
+   "dests": [
+    "IST"
+   ],
+   "gates": [
+    "D18",
+    "F28",
+    "F29",
+    "F32"
+   ],
+   "gone": false,
+   "hash": "096a71e0df6e",
+   "last_seen": "2026-10-16",
+   "last_seen_str": "Oct 16, 2026",
+   "name": "Turkish Airlines",
+   "published": "2026-10-18",
+   "short": "Turkish Airlines",
+   "sig": "{\"drawing\": \"f75fe315d15c\", \"focus\": [\"D18\", \"F28\", \"F29\", \"F32\"], \"held\": [], \"held_n\": 0, \"main\": [\"D18\", \"F28\", \"F29\", \"F32\"]}",
+   "slug": "turkish-airlines",
+   "types": [
+    "A321",
+    "737-800",
+    "737-900"
+   ],
+   "updated": "2026-10-18"
+  },
+  "vueling": {
+   "airport_short": "ARN",
+   "changed": "2026-10-18",
+   "code": "VY",
+   "deps_day": 0.3,
+   "dests": [
+    "BCN"
+   ],
+   "gates": [
+    "62"
+   ],
+   "gone": false,
+   "hash": "fd7728d71047",
+   "last_seen": "2026-10-16",
+   "last_seen_str": "Oct 16, 2026",
+   "name": "Vueling",
+   "published": "2026-10-18",
+   "short": "Vueling",
+   "sig": "{\"drawing\": \"f75fe315d15c\", \"focus\": [\"62\"], \"held\": [], \"held_n\": 0, \"main\": [\"62\"]}",
+   "slug": "vueling",
+   "types": [
+    "A320",
+    "A321"
+   ],
+   "updated": "2026-10-18"
+  },
+  "wizz-air": {
+   "airport_short": "ARN",
+   "changed": "2026-10-18",
+   "code": "W6",
+   "deps_day": 1.8,
+   "dests": [
+    "GDN",
+    "BUD",
+    "SKP"
+   ],
+   "gates": [
+    "F29",
+    "C33",
+    "F35",
+    "C37",
+    "F37",
+    "F39",
+    "C41"
+   ],
+   "gone": false,
+   "hash": "c1604b6e6eab",
+   "last_seen": "2026-10-16",
+   "last_seen_str": "Oct 16, 2026",
+   "name": "Wizz Air",
+   "published": "2026-10-18",
+   "short": "Wizz Air",
+   "sig": "{\"drawing\": \"f75fe315d15c\", \"focus\": [\"F29\", \"C33\", \"F35\", \"C37\", \"F37\", \"F39\", \"C41\"], \"held\": [], \"held_n\": 0, \"main\": [\"F29\", \"C33\", \"F35\", \"C37\", \"F37\", \"F39\", \"C41\"]}",
+   "slug": "wizz-air",
+   "types": [
+    "A321neo",
+    "A321",
+    "A320"
+   ],
+   "updated": "2026-10-18"
+  },
+  "wizz-air-malta": {
+   "airport_short": "ARN",
+   "changed": "2026-10-18",
+   "code": "W4",
+   "deps_day": 1.0,
+   "dests": [
+    "TIA",
+    "BBU"
+   ],
+   "gates": [
+    "D16",
+    "F32",
+    "F33",
+    "F37",
+    "F39",
+    "C41",
+    "C43"
+   ],
+   "gone": false,
+   "hash": "62e1afb1a347",
+   "last_seen": "2026-10-16",
+   "last_seen_str": "Oct 16, 2026",
+   "name": "Wizz Air Malta",
+   "published": "2026-10-18",
+   "short": "Wizz Air Malta",
+   "sig": "{\"drawing\": \"f75fe315d15c\", \"focus\": [\"D16\", \"F32\", \"F33\", \"F37\", \"F39\", \"C41\", \"C43\"], \"held\": [], \"held_n\": 0, \"main\": [\"D16\", \"F32\", \"F33\", \"F37\", \"F39\", \"C41\", \"C43\"]}",
+   "slug": "wizz-air-malta",
+   "types": [
+    "A321neo",
+    "A321"
+   ],
+   "updated": "2026-10-18"
+  }
+ },
  "ASE": {
   "american": {
    "airport_short": "ASE",
@@ -71105,13 +72380,13 @@
     "29"
    ],
    "gone": false,
-   "hash": "0defc9d410ed",
+   "hash": "3ebe33347683",
    "last_seen": "2026-10-16",
    "last_seen_str": "Oct 16, 2026",
    "name": "Alaska Airlines",
    "published": "2026-10-07",
    "short": "Alaska",
-   "sig": "{\"drawing\": \"b47cd7d99336\", \"focus\": [\"13\", \"15\", \"17\", \"19\", \"21\", \"23\", \"27\", \"29\", \"33\", \"35\"], \"held\": [\"13\", \"15\", \"17\", \"19\", \"21\", \"23\", \"29\"], \"held_n\": 7, \"main\": [\"13\", \"15\", \"17\", \"19\", \"21\", \"23\", \"27\", \"29\", \"33\", \"35\"]}",
+   "sig": "{\"drawing\": \"ee22bf0b0c66\", \"focus\": [\"13\", \"15\", \"17\", \"19\", \"21\", \"23\", \"27\", \"29\", \"33\", \"35\"], \"held\": [\"13\", \"15\", \"17\", \"19\", \"21\", \"23\", \"29\"], \"held_n\": 7, \"main\": [\"13\", \"15\", \"17\", \"19\", \"21\", \"23\", \"27\", \"29\", \"33\", \"35\"]}",
    "slug": "alaska",
    "types": [
     "717",
@@ -71135,13 +72410,13 @@
     "35"
    ],
    "gone": false,
-   "hash": "5ccdb62162cc",
+   "hash": "9aa7f28a5cf8",
    "last_seen": "2026-10-16",
    "last_seen_str": "Oct 16, 2026",
    "name": "American Airlines",
    "published": "2026-10-07",
    "short": "American",
-   "sig": "{\"drawing\": \"b47cd7d99336\", \"focus\": [\"27\", \"35\"], \"held\": [\"35\"], \"held_n\": 1, \"main\": [\"27\", \"35\"]}",
+   "sig": "{\"drawing\": \"ee22bf0b0c66\", \"focus\": [\"27\", \"35\"], \"held\": [\"35\"], \"held_n\": 1, \"main\": [\"27\", \"35\"]}",
    "slug": "american",
    "types": [
     "A321neo",
@@ -71165,13 +72440,13 @@
     "39"
    ],
    "gone": false,
-   "hash": "f9f027580232",
+   "hash": "ec9a46658f02",
    "last_seen": "2026-10-16",
    "last_seen_str": "Oct 16, 2026",
    "name": "Delta Air Lines",
    "published": "2026-10-07",
    "short": "Delta",
-   "sig": "{\"drawing\": \"b47cd7d99336\", \"focus\": [\"33\", \"39\"], \"held\": [\"39\"], \"held_n\": 1, \"main\": [\"33\", \"39\"]}",
+   "sig": "{\"drawing\": \"ee22bf0b0c66\", \"focus\": [\"33\", \"39\"], \"held\": [\"39\"], \"held_n\": 1, \"main\": [\"33\", \"39\"]}",
    "slug": "delta",
    "types": [
     "767-300",
@@ -71200,13 +72475,13 @@
     "13"
    ],
    "gone": false,
-   "hash": "c14a1b5e60fb",
+   "hash": "14744354acdb",
    "last_seen": "2026-10-15",
    "last_seen_str": "Oct 15, 2026",
    "name": "Southwest Airlines",
    "published": "2026-10-07",
    "short": "Southwest",
-   "sig": "{\"drawing\": \"b47cd7d99336\", \"focus\": [\"7\", \"9\", \"11\", \"13\"], \"held\": [\"7\", \"9\", \"11\"], \"held_n\": 3, \"main\": [\"7\", \"9\", \"11\", \"13\"]}",
+   "sig": "{\"drawing\": \"ee22bf0b0c66\", \"focus\": [\"7\", \"9\", \"11\", \"13\"], \"held\": [\"7\", \"9\", \"11\"], \"held_n\": 3, \"main\": [\"7\", \"9\", \"11\", \"13\"]}",
    "slug": "southwest",
    "types": [
     "737 MAX 8"
@@ -71230,13 +72505,13 @@
     "5"
    ],
    "gone": false,
-   "hash": "c0655d177145",
+   "hash": "f5fa23851b68",
    "last_seen": "2026-10-16",
    "last_seen_str": "Oct 16, 2026",
    "name": "United Airlines",
    "published": "2026-10-07",
    "short": "United",
-   "sig": "{\"drawing\": \"b47cd7d99336\", \"focus\": [\"1\", \"3\", \"5\"], \"held\": [\"1\", \"5\"], \"held_n\": 3, \"main\": [\"1\", \"3\", \"5\"]}",
+   "sig": "{\"drawing\": \"ee22bf0b0c66\", \"focus\": [\"1\", \"3\", \"5\"], \"held\": [\"1\", \"3\", \"5\"], \"held_n\": 3, \"main\": [\"1\", \"3\", \"5\"]}",
    "slug": "united",
    "types": [
     "737 MAX 8",
@@ -71258,13 +72533,13 @@
     "29"
    ],
    "gone": false,
-   "hash": "474b58711c8d",
+   "hash": "a6cbf7cf7550",
    "last_seen": "2026-10-05",
    "last_seen_str": "Oct 5, 2026",
    "name": "WestJet",
    "published": "2026-10-07",
    "short": "WestJet",
-   "sig": "{\"drawing\": \"b47cd7d99336\", \"focus\": [\"23\", \"29\"], \"held\": [], \"held_n\": 0, \"main\": [\"23\", \"29\"]}",
+   "sig": "{\"drawing\": \"ee22bf0b0c66\", \"focus\": [\"23\", \"29\"], \"held\": [], \"held_n\": 0, \"main\": [\"23\", \"29\"]}",
    "slug": "westjet",
    "types": [
     "737-800"
@@ -91842,13 +93117,13 @@
     "7"
    ],
    "gone": false,
-   "hash": "2296237f59e6",
+   "hash": "1278cc5193c3",
    "last_seen": "2026-10-16",
    "last_seen_str": "Oct 16, 2026",
    "name": "Alaska Airlines",
    "published": "2026-10-09",
    "short": "Alaska",
-   "sig": "{\"drawing\": \"f8301716a90d\", \"focus\": [\"3\", \"4\", \"7\"], \"held\": [\"3\", \"4\", \"7\"], \"held_n\": 3, \"main\": [\"3\", \"4\", \"7\"]}",
+   "sig": "{\"drawing\": \"3bb7e3ce5424\", \"focus\": [\"3\", \"4\", \"7\"], \"held\": [\"3\", \"4\", \"7\"], \"held_n\": 3, \"main\": [\"3\", \"4\", \"7\"]}",
    "slug": "alaska",
    "types": [
     "E175",
@@ -91870,13 +93145,13 @@
     "5"
    ],
    "gone": false,
-   "hash": "2b486b456c68",
+   "hash": "0480302b70c0",
    "last_seen": "2026-10-16",
    "last_seen_str": "Oct 16, 2026",
    "name": "American Airlines",
    "published": "2026-10-09",
    "short": "American",
-   "sig": "{\"drawing\": \"f8301716a90d\", \"focus\": [\"5\"], \"held\": [\"5\", \"6\"], \"held_n\": 2, \"main\": [\"5\"]}",
+   "sig": "{\"drawing\": \"3bb7e3ce5424\", \"focus\": [\"5\"], \"held\": [\"5\", \"6\"], \"held_n\": 2, \"main\": [\"5\"]}",
    "slug": "american",
    "types": [
     "E170",
@@ -91900,13 +93175,13 @@
     "1"
    ],
    "gone": false,
-   "hash": "86ee7f4ecabb",
+   "hash": "fec2e499c0ce",
    "last_seen": "2026-10-16",
    "last_seen_str": "Oct 16, 2026",
    "name": "Southwest Airlines",
    "published": "2026-10-09",
    "short": "Southwest",
-   "sig": "{\"drawing\": \"f8301716a90d\", \"focus\": [\"1\"], \"held\": [\"1\"], \"held_n\": 1, \"main\": [\"1\"]}",
+   "sig": "{\"drawing\": \"3bb7e3ce5424\", \"focus\": [\"1\"], \"held\": [\"1\"], \"held_n\": 1, \"main\": [\"1\"]}",
    "slug": "southwest",
    "types": [
     "737-700"
