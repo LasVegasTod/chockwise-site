@@ -115,12 +115,12 @@
   "changed": "2026-10-18",
   "flights_day": 591,
   "gates": 65,
-  "hash": "56b16ea33a69",
+  "hash": "e292d3f54ed4",
   "name": "Stockholm-Arlanda",
   "published": "2026-10-18",
   "seats_day": 21037,
   "short": "Stockholm",
-  "sig": "{\"common\": 24, \"drawing\": \"f75fe315d15c\", \"gates\": 65, \"held\": {\"DY\": 3, \"FR\": 1, \"HP\": 1, \"SK\": 15}, \"low\": 21}",
+  "sig": "{\"common\": 24, \"drawing\": \"af6e0857e053\", \"gates\": 65, \"held\": {\"DY\": 3, \"FR\": 1, \"HP\": 1, \"SK\": 15}, \"low\": 21}",
   "top": "SK",
   "top_gates": 15,
   "updated": "2026-10-18"
@@ -1075,6 +1075,20 @@
   "sig": "{\"common\": 1, \"drawing\": \"77fc86521e02\", \"gates\": 7, \"held\": {\"AA\": 1, \"DL\": 1, \"UA\": 3}, \"low\": 1}",
   "top": "UA",
   "top_gates": 3,
+  "updated": "2026-10-18"
+ },
+ "FUK": {
+  "changed": "2026-10-18",
+  "flights_day": 529,
+  "gates": 35,
+  "hash": "7437ca40b271",
+  "name": "Fukuoka",
+  "published": "2026-10-18",
+  "seats_day": 30080,
+  "short": "Fukuoka",
+  "sig": "{\"common\": 30, \"drawing\": \"d942048ff9fa\", \"gates\": 35, \"held\": {\"FW\": 1, \"JL\": 1, \"NH\": 1, \"OC\": 1}, \"low\": 1}",
+  "top": "NH",
+  "top_gates": 1,
   "updated": "2026-10-18"
  },
  "FWA": {
@@ -2727,6 +2741,20 @@
   "sig": "{\"common\": 1, \"drawing\": \"ef8f609b4216\", \"gates\": 54, \"held\": {\"AA\": 7, \"AC\": 1, \"AS\": 1, \"DL\": 6, \"F9\": 2, \"UA\": 7, \"WN\": 17}, \"low\": 12}",
   "top": "WN",
   "top_gates": 17,
+  "updated": "2026-10-18"
+ },
+ "STN": {
+  "changed": "2026-10-18",
+  "flights_day": 573,
+  "gates": 54,
+  "hash": "661576796562",
+  "name": "London Stansted",
+  "published": "2026-10-18",
+  "seats_day": 37254,
+  "short": "London Stansted",
+  "sig": "{\"common\": 12, \"drawing\": \"a0eb2bb79ee3\", \"gates\": 54, \"held\": {\"FR\": 25, \"LS\": 6}, \"low\": 11}",
+  "top": "FR",
+  "top_gates": 25,
   "updated": "2026-10-18"
  },
  "STS": {
