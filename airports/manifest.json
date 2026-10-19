@@ -769,6 +769,20 @@
   "top_gates": 15,
   "updated": "2026-10-19"
  },
+ "DAB": {
+  "changed": "2026-10-19",
+  "flights_day": 16,
+  "gates": 6,
+  "hash": "d70b5ed65f9c",
+  "name": "Daytona Beach Intl",
+  "published": "2026-10-19",
+  "seats_day": 989,
+  "short": "Daytona Beach",
+  "sig": "{\"common\": 0, \"drawing\": \"f3c2651a0e99\", \"gates\": 6, \"held\": {\"AA\": 1, \"DL\": 1, \"MX\": 1}, \"low\": 3}",
+  "top": "DL",
+  "top_gates": 1,
+  "updated": "2026-10-19"
+ },
  "DAL": {
   "changed": "2026-10-19",
   "flights_day": 393,
@@ -851,6 +865,20 @@
   "sig": "{\"common\": 1, \"drawing\": \"b42218c3777e\", \"gates\": 36, \"held\": {\"AA\": 4, \"B6\": 6, \"DL\": 5, \"G4\": 1, \"MX\": 1, \"UA\": 2, \"WN\": 2}, \"low\": 14}",
   "top": "B6",
   "top_gates": 6,
+  "updated": "2026-10-19"
+ },
+ "DLH": {
+  "changed": "2026-10-19",
+  "flights_day": 18,
+  "gates": 4,
+  "hash": "9e8e38857856",
+  "name": "Duluth Intl",
+  "published": "2026-10-19",
+  "seats_day": 575,
+  "short": "Duluth",
+  "sig": "{\"common\": 0, \"drawing\": \"6b63f6fbe993\", \"gates\": 4, \"held\": {\"DL\": 2, \"UA\": 2}, \"low\": 0}",
+  "top": "DL",
+  "top_gates": 2,
   "updated": "2026-10-19"
  },
  "DMK": {
