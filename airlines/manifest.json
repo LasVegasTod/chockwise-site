@@ -8676,6 +8676,65 @@
    "updated": "2026-10-19"
   }
  },
+ "AVP": {
+  "american": {
+   "airport_short": "AVP",
+   "changed": "2026-10-19",
+   "code": "AA",
+   "deps_day": 5.5,
+   "dests": [
+    "CLT",
+    "ORD"
+   ],
+   "gates": [
+    "3",
+    "5"
+   ],
+   "gone": false,
+   "hash": "d6baaff9531b",
+   "last_seen": "2026-10-19",
+   "last_seen_str": "Oct 19, 2026",
+   "name": "American Airlines",
+   "published": "2026-10-19",
+   "short": "American",
+   "sig": "{\"drawing\": \"779b35230162\", \"focus\": [\"3\", \"5\"], \"held\": [\"3\", \"5\"], \"held_n\": 2, \"main\": [\"3\", \"5\"]}",
+   "slug": "american",
+   "types": [
+    "CRJ-900",
+    "E170",
+    "CRJ-700"
+   ],
+   "updated": "2026-10-19"
+  },
+  "united": {
+   "airport_short": "AVP",
+   "changed": "2026-10-19",
+   "code": "UA",
+   "deps_day": 3.6,
+   "dests": [
+    "ORD",
+    "IAD"
+   ],
+   "gates": [
+    "7",
+    "8"
+   ],
+   "gone": false,
+   "hash": "228fb5f6a546",
+   "last_seen": "2026-10-18",
+   "last_seen_str": "Oct 18, 2026",
+   "name": "United Airlines",
+   "published": "2026-10-19",
+   "short": "United",
+   "sig": "{\"drawing\": \"779b35230162\", \"focus\": [\"7\", \"8\"], \"held\": [\"7\", \"8\"], \"held_n\": 2, \"main\": [\"7\", \"8\"]}",
+   "slug": "united",
+   "types": [
+    "CRJ-700",
+    "E145"
+   ],
+   "updated": "2026-10-19"
+  }
+ },
  "BDL": {
   "american": {
    "airport_short": "BDL",
@@ -79624,6 +79683,34 @@
    "slug": "zipair",
    "types": [
     "787-8"
+   ],
+   "updated": "2026-10-19"
+  }
+ },
+ "OAJ": {
+  "american": {
+   "airport_short": "OAJ",
+   "changed": "2026-10-19",
+   "code": "AA",
+   "deps_day": 5.2,
+   "dests": [
+    "CLT"
+   ],
+   "gates": [
+    "3"
+   ],
+   "gone": false,
+   "hash": "3dbd4ac8fdda",
+   "last_seen": "2026-10-18",
+   "last_seen_str": "Oct 18, 2026",
+   "name": "American Airlines",
+   "published": "2026-10-19",
+   "short": "American",
+   "sig": "{\"drawing\": \"aafc290ad04f\", \"focus\": [\"3\"], \"held\": [\"3\"], \"held_n\": 1, \"main\": [\"3\"]}",
+   "slug": "american",
+   "types": [
+    "E145",
+    "CRJ-900"
    ],
    "updated": "2026-10-19"
   }

@@ -223,6 +223,20 @@
   "top_gates": 1,
   "updated": "2026-10-19"
  },
+ "AVP": {
+  "changed": "2026-10-19",
+  "flights_day": 19,
+  "gates": 8,
+  "hash": "a44e3c5d156c",
+  "name": "Scranton Intl, Wilkes-Barre/Scranton",
+  "published": "2026-10-19",
+  "seats_day": 617,
+  "short": "Wilkes-Barre/Scranton",
+  "sig": "{\"common\": 0, \"drawing\": \"779b35230162\", \"gates\": 8, \"held\": {\"AA\": 2, \"MX\": 1, \"UA\": 2}, \"low\": 3}",
+  "top": "AA",
+  "top_gates": 2,
+  "updated": "2026-10-19"
+ },
  "BDL": {
   "changed": "2026-10-19",
   "flights_day": 160,
@@ -2125,6 +2139,20 @@
   "sig": "{\"common\": 54, \"drawing\": \"1f320835ebb4\", \"gates\": 86, \"held\": {\"GK\": 8, \"HX\": 1, \"JL\": 4, \"NH\": 9, \"UA\": 2, \"UO\": 1, \"ZG\": 3}, \"low\": 4}",
   "top": "NH",
   "top_gates": 9,
+  "updated": "2026-10-19"
+ },
+ "OAJ": {
+  "changed": "2026-10-19",
+  "flights_day": 18,
+  "gates": 3,
+  "hash": "9022e922089d",
+  "name": "Albert J Ellis, Jacksonville",
+  "published": "2026-10-19",
+  "seats_day": 552,
+  "short": "Jacksonville, NC",
+  "sig": "{\"common\": 0, \"drawing\": \"aafc290ad04f\", \"gates\": 3, \"held\": {\"AA\": 1}, \"low\": 2}",
+  "top": "AA",
+  "top_gates": 1,
   "updated": "2026-10-19"
  },
  "OAK": {
