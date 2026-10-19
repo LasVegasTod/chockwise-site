@@ -2,7 +2,7 @@
   "airports": 219,
   "gates": 9469,
   "airlines": 577,
-  "flights": 1021362,
+  "flights": 1021387,
   "turns": 419524,
   "tows": 18678,
   "gate_hours": 1354748,
@@ -15,6 +15,6 @@
   "plane_changes": 54,
   "late_gate_hours": 62582,
   "insights": 1617211,
-  "updated": "2026-10-18",
-  "airports_tracked": 291
+  "updated": "2026-10-19",
+  "airports_tracked": 292
 }
