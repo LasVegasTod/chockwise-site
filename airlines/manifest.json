@@ -9721,7 +9721,7 @@
   },
   "air-india-express": {
    "airport_short": "BKK",
-   "changed": "2026-10-18",
+   "changed": "2026-10-19",
    "code": "IX",
    "deps_day": 1.7,
    "dests": [
@@ -9739,7 +9739,7 @@
     "E5"
    ],
    "gone": false,
-   "hash": "97045099e548",
+   "hash": "2b60c8071d0d",
    "last_seen": "2026-10-17",
    "last_seen_str": "Oct 17, 2026",
    "name": "Air India Express",
@@ -9939,7 +9939,7 @@
   },
   "asiana": {
    "airport_short": "BKK",
-   "changed": "2026-10-18",
+   "changed": "2026-10-19",
    "code": "OZ",
    "deps_day": 1.4,
    "dests": [
@@ -9956,7 +9956,7 @@
     "S120"
    ],
    "gone": false,
-   "hash": "cb66cdb21fe3",
+   "hash": "f875715bf777",
    "last_seen": "2026-10-17",
    "last_seen_str": "Oct 17, 2026",
    "name": "Asiana Airlines",
@@ -10092,7 +10092,7 @@
     "D1"
    ],
    "gone": false,
-   "hash": "8f9622353593",
+   "hash": "e97044bf190d",
    "last_seen": "2026-10-18",
    "last_seen_str": "Oct 18, 2026",
    "name": "Bhutan Airlines",
@@ -10233,7 +10233,7 @@
   },
   "cathay-pacific": {
    "airport_short": "BKK",
-   "changed": "2026-10-18",
+   "changed": "2026-10-19",
    "code": "CX",
    "deps_day": 8.1,
    "dests": [
@@ -10250,7 +10250,7 @@
     "G4"
    ],
    "gone": false,
-   "hash": "6b3a5e3fe161",
+   "hash": "6123ff9d675f",
    "last_seen": "2026-10-17",
    "last_seen_str": "Oct 17, 2026",
    "name": "Cathay Pacific",
@@ -10408,7 +10408,7 @@
   },
   "china-southern": {
    "airport_short": "BKK",
-   "changed": "2026-10-18",
+   "changed": "2026-10-19",
    "code": "CZ",
    "deps_day": 13.8,
    "dests": [
@@ -10427,7 +10427,7 @@
     "E2"
    ],
    "gone": false,
-   "hash": "5887225ce689",
+   "hash": "e2c456999b28",
    "last_seen": "2026-10-17",
    "last_seen_str": "Oct 17, 2026",
    "name": "China Southern",
@@ -10523,15 +10523,51 @@
     "G4",
     "G5"
    ],
-   "gone": false,
+   "gone": true,
    "hash": "e7a63eb57c7f",
    "last_seen": "2026-10-17",
    "last_seen_str": "Oct 17, 2026",
+   "moved": "drukair",
    "name": "Druk Air",
    "published": "2026-10-15",
    "short": "Druk Air",
    "sig": "{\"drawing\": \"0bc444661c9d\", \"focus\": [\"D1\", \"G1\", \"F2\", \"G2\", \"F3\", \"F4\", \"G4\", \"G5\"], \"held\": [], \"held_n\": 0, \"main\": [\"D1\", \"G1\", \"F2\", \"G2\", \"F3\", \"F4\", \"G4\", \"G5\"]}",
    "slug": "druk-air",
+   "types": [
+    "A319",
+    "A320neo"
+   ],
+   "updated": "2026-10-19"
+  },
+  "drukair": {
+   "airport_short": "BKK",
+   "changed": "2026-10-19",
+   "code": "KB",
+   "deps_day": 1.4,
+   "dests": [
+    "PBH",
+    "GAU",
+    "IXB"
+   ],
+   "gates": [
+    "D1",
+    "G1",
+    "F2",
+    "G2",
+    "F3",
+    "F4",
+    "G4",
+    "G5"
+   ],
+   "gone": false,
+   "hash": "0ecb235a05a1",
+   "last_seen": "2026-10-17",
+   "last_seen_str": "Oct 17, 2026",
+   "name": "Drukair",
+   "published": "2026-10-19",
+   "short": "Drukair",
+   "sig": "{\"drawing\": \"0bc444661c9d\", \"focus\": [\"D1\", \"G1\", \"F2\", \"G2\", \"F3\", \"F4\", \"G4\", \"G5\"], \"held\": [], \"held_n\": 0, \"main\": [\"D1\", \"G1\", \"F2\", \"G2\", \"F3\", \"F4\", \"G4\", \"G5\"]}",
+   "slug": "drukair",
    "types": [
     "A319",
     "A320neo"
@@ -10994,7 +11030,7 @@
   },
   "indigo": {
    "airport_short": "BKK",
-   "changed": "2026-10-18",
+   "changed": "2026-10-19",
    "code": "6E",
    "deps_day": 9.3,
    "dests": [
@@ -11016,7 +11052,7 @@
     "D4"
    ],
    "gone": false,
-   "hash": "7151eaeee637",
+   "hash": "57b2ebe63d57",
    "last_seen": "2026-10-17",
    "last_seen_str": "Oct 17, 2026",
    "name": "IndiGo",
@@ -12812,7 +12848,7 @@
   },
   "vietnam-airlines": {
    "airport_short": "BKK",
-   "changed": "2026-10-18",
+   "changed": "2026-10-19",
    "code": "VN",
    "deps_day": 8.9,
    "dests": [
@@ -12831,7 +12867,7 @@
     "F4"
    ],
    "gone": false,
-   "hash": "1e2d9fc1d5c0",
+   "hash": "2c80e3fe96f5",
    "last_seen": "2026-10-17",
    "last_seen_str": "Oct 17, 2026",
    "name": "Vietnam Airlines",
@@ -82981,6 +83017,7 @@
    "updated": "2026-10-19"
   }
  },
+ "PBH": {},
  "PDX": {
   "air-canada": {
    "airport_short": "PDX",
@@ -95458,7 +95495,7 @@
   },
   "air-incheon": {
    "airport_short": "SIN",
-   "changed": "2026-10-18",
+   "changed": "2026-10-19",
    "code": "KJ",
    "deps_day": 0.4,
    "dests": [
@@ -95466,7 +95503,7 @@
    ],
    "gates": [],
    "gone": false,
-   "hash": "bbb8eaca552b",
+   "hash": "a5c28e65fbe3",
    "last_seen": "2026-10-15",
    "last_seen_str": "Oct 15, 2026",
    "name": "Air Incheon",
@@ -95732,7 +95769,7 @@
   },
   "aircalin": {
    "airport_short": "SIN",
-   "changed": "2026-10-18",
+   "changed": "2026-10-19",
    "code": "SB",
    "deps_day": 0.4,
    "dests": [
@@ -95744,7 +95781,7 @@
     "B6"
    ],
    "gone": false,
-   "hash": "88959099fa6c",
+   "hash": "28a42a75cd0f",
    "last_seen": "2026-10-16",
    "last_seen_str": "Oct 16, 2026",
    "name": "Aircalin",
@@ -96008,7 +96045,7 @@
   },
   "cambodia-airways": {
    "airport_short": "SIN",
-   "changed": "2026-10-18",
+   "changed": "2026-10-19",
    "code": "KR",
    "deps_day": 0.2,
    "dests": [
@@ -96020,7 +96057,7 @@
     "G12"
    ],
    "gone": false,
-   "hash": "2fa4a9b1f0af",
+   "hash": "b9438f42bf40",
    "last_seen": "2026-10-17",
    "last_seen_str": "Oct 17, 2026",
    "name": "Cambodia Airways",
@@ -96102,7 +96139,7 @@
   },
   "china-airlines": {
    "airport_short": "SIN",
-   "changed": "2026-10-18",
+   "changed": "2026-10-19",
    "code": "CI",
    "deps_day": 3.8,
    "dests": [
@@ -96124,7 +96161,7 @@
     "A13"
    ],
    "gone": false,
-   "hash": "3df189631dcd",
+   "hash": "1dad82ef1585",
    "last_seen": "2026-10-17",
    "last_seen_str": "Oct 17, 2026",
    "name": "China Airlines",
@@ -96141,7 +96178,7 @@
   },
   "china-eastern": {
    "airport_short": "SIN",
-   "changed": "2026-10-18",
+   "changed": "2026-10-19",
    "code": "MU",
    "deps_day": 11.5,
    "dests": [
@@ -96163,7 +96200,7 @@
     "B5"
    ],
    "gone": false,
-   "hash": "7fa74056615e",
+   "hash": "f96f2962306a",
    "last_seen": "2026-10-17",
    "last_seen_str": "Oct 17, 2026",
    "name": "China Eastern",
@@ -96292,15 +96329,46 @@
     "A17",
     "A21"
    ],
-   "gone": false,
+   "gone": true,
    "hash": "9c47f15bfd01",
    "last_seen": "2026-10-17",
    "last_seen_str": "Oct 17, 2026",
+   "moved": "drukair",
    "name": "Druk Air",
    "published": "2026-10-12",
    "short": "Druk Air",
    "sig": "{\"drawing\": \"00fa0b5f1cee\", \"focus\": [\"A3\", \"A6\", \"A17\", \"A21\"], \"held\": [], \"held_n\": 0, \"main\": [\"A3\", \"A6\", \"A17\", \"A21\"]}",
    "slug": "druk-air",
+   "types": [
+    "A320neo",
+    "A319"
+   ],
+   "updated": "2026-10-19"
+  },
+  "drukair": {
+   "airport_short": "SIN",
+   "changed": "2026-10-19",
+   "code": "KB",
+   "deps_day": 0.4,
+   "dests": [
+    "GAU",
+    "PBH"
+   ],
+   "gates": [
+    "A3",
+    "A6",
+    "A17",
+    "A21"
+   ],
+   "gone": false,
+   "hash": "ec6b79e65f28",
+   "last_seen": "2026-10-17",
+   "last_seen_str": "Oct 17, 2026",
+   "name": "Drukair",
+   "published": "2026-10-19",
+   "short": "Drukair",
+   "sig": "{\"drawing\": \"00fa0b5f1cee\", \"focus\": [\"A3\", \"A6\", \"A17\", \"A21\"], \"held\": [], \"held_n\": 0, \"main\": [\"A3\", \"A6\", \"A17\", \"A21\"]}",
+   "slug": "drukair",
    "types": [
     "A320neo",
     "A319"
@@ -96441,7 +96509,7 @@
   },
   "fiji-airways": {
    "airport_short": "SIN",
-   "changed": "2026-10-18",
+   "changed": "2026-10-19",
    "code": "FJ",
    "deps_day": 0.3,
    "dests": [
@@ -96452,7 +96520,7 @@
     "C18"
    ],
    "gone": false,
-   "hash": "75fda41fa7a9",
+   "hash": "fd5d0355186d",
    "last_seen": "2026-10-15",
    "last_seen_str": "Oct 15, 2026",
    "name": "Fiji Airways",
@@ -96501,7 +96569,7 @@
   },
   "garuda": {
    "airport_short": "SIN",
-   "changed": "2026-10-18",
+   "changed": "2026-10-19",
    "code": "GA",
    "deps_day": 7.0,
    "dests": [
@@ -96519,7 +96587,7 @@
     "B10"
    ],
    "gone": false,
-   "hash": "ee5426c37483",
+   "hash": "5ca24bdf84ea",
    "last_seen": "2026-10-17",
    "last_seen_str": "Oct 17, 2026",
    "name": "Garuda Indonesia",
@@ -96970,7 +97038,7 @@
   },
   "myanmar-national": {
    "airport_short": "SIN",
-   "changed": "2026-10-18",
+   "changed": "2026-10-19",
    "code": "UB",
    "deps_day": 0.4,
    "dests": [
@@ -96982,7 +97050,7 @@
     "F56"
    ],
    "gone": false,
-   "hash": "6f99eecc38b0",
+   "hash": "fd79adf744c0",
    "last_seen": "2026-10-16",
    "last_seen_str": "Oct 16, 2026",
    "name": "Myanmar National Airlines",
@@ -97990,7 +98058,7 @@
   },
   "vietnam-airlines": {
    "airport_short": "SIN",
-   "changed": "2026-10-18",
+   "changed": "2026-10-19",
    "code": "VN",
    "deps_day": 4.2,
    "dests": [
@@ -98008,7 +98076,7 @@
     "A9"
    ],
    "gone": false,
-   "hash": "8d244ca00dc4",
+   "hash": "feb945bb4560",
    "last_seen": "2026-10-17",
    "last_seen_str": "Oct 17, 2026",
    "name": "Vietnam Airlines",

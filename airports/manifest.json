@@ -294,13 +294,13 @@
   "updated": "2026-10-19"
  },
  "BKK": {
-  "changed": "2026-10-18",
+  "changed": "2026-10-19",
   "flights_day": 1046,
   "gates": 86,
-  "hash": "0e03860983b7",
+  "hash": "2c6e2aea7ea1",
   "name": "Suvarnabhumi Bangkok Int'l",
   "published": "2026-10-15",
-  "seats_day": 20338,
+  "seats_day": 20668,
   "short": "Bangkok Suvarnabhumi",
   "sig": "{\"common\": 67, \"drawing\": \"0bc444661c9d\", \"gates\": 86, \"held\": {\"PG\": 3, \"TG\": 10}, \"low\": 6}",
   "top": "TG",
@@ -1277,7 +1277,7 @@
   "changed": "2026-10-19",
   "flights_day": 1131,
   "gates": 91,
-  "hash": "6b6079d45285",
+  "hash": "55e5133ac192",
   "name": "Hong Kong Int'l",
   "published": "2026-10-11",
   "seats_day": 65970,
@@ -2239,6 +2239,20 @@
   "top_gates": 7,
   "updated": "2026-10-19"
  },
+ "PBH": {
+  "changed": "2026-10-19",
+  "flights_day": 25,
+  "gates": 1,
+  "hash": "54ffc6e36a4d",
+  "name": "Paro Intl",
+  "published": "2026-10-19",
+  "seats_day": 1586,
+  "short": "Paro",
+  "sig": "{\"common\": 0, \"drawing\": \"eef4fe8d82e4\", \"gates\": 1, \"held\": {\"KB\": 1}, \"low\": 0}",
+  "top": "KB",
+  "top_gates": 1,
+  "updated": "2026-10-19"
+ },
  "PDX": {
   "changed": "2026-10-18",
   "flights_day": 518,
@@ -2716,10 +2730,10 @@
   "updated": "2026-10-19"
  },
  "SIN": {
-  "changed": "2026-10-18",
+  "changed": "2026-10-19",
   "flights_day": 1048,
   "gates": 131,
-  "hash": "7747aad9176f",
+  "hash": "f6ded144ea8a",
   "name": "Singapore Changi",
   "published": "2026-10-11",
   "seats_day": 68959,
