@@ -73522,6 +73522,59 @@
    "updated": "2026-10-06"
   }
  },
+ "MLB": {
+  "american": {
+   "airport_short": "MLB",
+   "changed": "2026-10-19",
+   "code": "AA",
+   "deps_day": 2.5,
+   "dests": [
+    "CLT"
+   ],
+   "gates": [
+    "4"
+   ],
+   "gone": false,
+   "hash": "01a1b3788860",
+   "last_seen": "2026-10-18",
+   "last_seen_str": "Oct 18, 2026",
+   "name": "American Airlines",
+   "published": "2026-10-19",
+   "short": "American",
+   "sig": "{\"drawing\": \"0e4d6a9abc06\", \"focus\": [\"4\"], \"held\": [\"4\"], \"held_n\": 1, \"main\": [\"4\"]}",
+   "slug": "american",
+   "types": [
+    "CRJ-900"
+   ],
+   "updated": "2026-10-19"
+  },
+  "delta": {
+   "airport_short": "MLB",
+   "changed": "2026-10-19",
+   "code": "DL",
+   "deps_day": 4.0,
+   "dests": [
+    "ATL"
+   ],
+   "gates": [
+    "6",
+    "7"
+   ],
+   "gone": false,
+   "hash": "7beecefc08ca",
+   "last_seen": "2026-10-18",
+   "last_seen_str": "Oct 18, 2026",
+   "name": "Delta Air Lines",
+   "published": "2026-10-19",
+   "short": "Delta",
+   "sig": "{\"drawing\": \"0e4d6a9abc06\", \"focus\": [\"6\", \"7\"], \"held\": [\"7\"], \"held_n\": 1, \"main\": [\"6\", \"7\"]}",
+   "slug": "delta",
+   "types": [
+    "717"
+   ],
+   "updated": "2026-10-19"
+  }
+ },
  "MLI": {
   "allegiant": {
    "airport_short": "MLI",
