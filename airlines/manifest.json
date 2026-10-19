@@ -10080,7 +10080,7 @@
   },
   "bhutan-airlines": {
    "airport_short": "BKK",
-   "changed": "2026-10-18",
+   "changed": "2026-10-19",
    "code": "B3",
    "deps_day": 1.6,
    "dests": [
@@ -10092,9 +10092,9 @@
     "D1"
    ],
    "gone": false,
-   "hash": "574a96bb4c8d",
-   "last_seen": "2026-10-17",
-   "last_seen_str": "Oct 17, 2026",
+   "hash": "8f9622353593",
+   "last_seen": "2026-10-18",
+   "last_seen_str": "Oct 18, 2026",
    "name": "Bhutan Airlines",
    "published": "2026-10-15",
    "short": "Bhutan Airlines",
@@ -10505,7 +10505,7 @@
   },
   "druk-air": {
    "airport_short": "BKK",
-   "changed": "2026-10-18",
+   "changed": "2026-10-19",
    "code": "KB",
    "deps_day": 1.4,
    "dests": [
@@ -10524,7 +10524,7 @@
     "G5"
    ],
    "gone": false,
-   "hash": "91c8b8dd9b9c",
+   "hash": "e7a63eb57c7f",
    "last_seen": "2026-10-17",
    "last_seen_str": "Oct 17, 2026",
    "name": "Druk Air",
@@ -14864,7 +14864,7 @@
   },
   "akasa-air": {
    "airport_short": "BOM",
-   "changed": "2026-10-18",
+   "changed": "2026-10-19",
    "code": "QP",
    "deps_day": 34.6,
    "dests": [
@@ -14886,7 +14886,7 @@
     "46A"
    ],
    "gone": false,
-   "hash": "5cc35b000824",
+   "hash": "53a8c57798eb",
    "last_seen": "2026-10-17",
    "last_seen_str": "Oct 17, 2026",
    "name": "Akasa Air",
@@ -15327,7 +15327,7 @@
   },
   "indigo": {
    "airport_short": "BOM",
-   "changed": "2026-10-18",
+   "changed": "2026-10-19",
    "code": "6E",
    "deps_day": 186.7,
    "dests": [
@@ -15349,7 +15349,7 @@
     "17"
    ],
    "gone": false,
-   "hash": "b8ca4709aacf",
+   "hash": "54a6ba39f042",
    "last_seen": "2026-10-17",
    "last_seen_str": "Oct 17, 2026",
    "name": "IndiGo",
@@ -33585,7 +33585,7 @@
   },
   "air-india-express": {
    "airport_short": "DXB",
-   "changed": "2026-10-18",
+   "changed": "2026-10-19",
    "code": "IX",
    "deps_day": 12.2,
    "dests": [
@@ -33602,7 +33602,7 @@
     "F4"
    ],
    "gone": false,
-   "hash": "fad0a9c41588",
+   "hash": "30652fdecc1a",
    "last_seen": "2026-10-17",
    "last_seen_str": "Oct 17, 2026",
    "name": "Air India Express",
@@ -96279,7 +96279,7 @@
   },
   "druk-air": {
    "airport_short": "SIN",
-   "changed": "2026-10-18",
+   "changed": "2026-10-19",
    "code": "KB",
    "deps_day": 0.4,
    "dests": [
@@ -96293,7 +96293,7 @@
     "A21"
    ],
    "gone": false,
-   "hash": "04395cdacec8",
+   "hash": "9c47f15bfd01",
    "last_seen": "2026-10-17",
    "last_seen_str": "Oct 17, 2026",
    "name": "Druk Air",
