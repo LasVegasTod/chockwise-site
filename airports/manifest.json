@@ -251,6 +251,20 @@
   "top_gates": 5,
   "updated": "2026-10-19"
  },
+ "BFL": {
+  "changed": "2026-10-19",
+  "flights_day": 20,
+  "gates": 4,
+  "hash": "adc5e333a893",
+  "name": "Meadows Fld, Bakersfield",
+  "published": "2026-10-19",
+  "seats_day": 822,
+  "short": "Bakersfield",
+  "sig": "{\"common\": 0, \"drawing\": \"e73e8251e7bf\", \"gates\": 4, \"held\": {\"AA\": 2, \"UA\": 2}, \"low\": 0}",
+  "top": "AA",
+  "top_gates": 2,
+  "updated": "2026-10-19"
+ },
  "BGR": {
   "changed": "2026-10-19",
   "flights_day": 45,
@@ -1817,6 +1831,20 @@
   "sig": "{\"common\": 1, \"drawing\": \"ce74681f7531\", \"gates\": 5, \"held\": {\"AA\": 1, \"UA\": 2}, \"low\": 1}",
   "top": "UA",
   "top_gates": 2,
+  "updated": "2026-10-19"
+ },
+ "LYH": {
+  "changed": "2026-10-19",
+  "flights_day": 16,
+  "gates": 2,
+  "hash": "1a2c1f296134",
+  "name": "Lynchburg Rgnl",
+  "published": "2026-10-19",
+  "seats_day": 393,
+  "short": "Lynchburg",
+  "sig": "{\"common\": 0, \"drawing\": \"b734e9a4f7a5\", \"gates\": 2, \"held\": {\"AA\": 1, \"UA\": 1}, \"low\": 0}",
+  "top": "AA",
+  "top_gates": 1,
   "updated": "2026-10-19"
  },
  "MAF": {

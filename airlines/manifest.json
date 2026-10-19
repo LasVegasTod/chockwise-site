@@ -8967,6 +8967,67 @@
    "updated": "2026-10-19"
   }
  },
+ "BFL": {
+  "american": {
+   "airport_short": "BFL",
+   "changed": "2026-10-19",
+   "code": "AA",
+   "deps_day": 4.3,
+   "dests": [
+    "PHX",
+    "DFW"
+   ],
+   "gates": [
+    "2",
+    "3"
+   ],
+   "gone": false,
+   "hash": "5e86b630388d",
+   "last_seen": "2026-10-18",
+   "last_seen_str": "Oct 18, 2026",
+   "name": "American Airlines",
+   "published": "2026-10-19",
+   "short": "American",
+   "sig": "{\"drawing\": \"e73e8251e7bf\", \"focus\": [\"2\", \"3\"], \"held\": [\"2\", \"3\"], \"held_n\": 2, \"main\": [\"2\", \"3\"]}",
+   "slug": "american",
+   "types": [
+    "CRJ-900",
+    "A320",
+    "A319"
+   ],
+   "updated": "2026-10-19"
+  },
+  "united": {
+   "airport_short": "BFL",
+   "changed": "2026-10-19",
+   "code": "UA",
+   "deps_day": 5.0,
+   "dests": [
+    "DEN",
+    "SFO",
+    "LAX"
+   ],
+   "gates": [
+    "4",
+    "5"
+   ],
+   "gone": false,
+   "hash": "6b4dae3ab269",
+   "last_seen": "2026-10-19",
+   "last_seen_str": "Oct 19, 2026",
+   "name": "United Airlines",
+   "published": "2026-10-19",
+   "short": "United",
+   "sig": "{\"drawing\": \"e73e8251e7bf\", \"focus\": [\"4\", \"5\"], \"held\": [\"4\", \"5\"], \"held_n\": 2, \"main\": [\"4\", \"5\"]}",
+   "slug": "united",
+   "types": [
+    "E175",
+    "CRJ-200",
+    "A319"
+   ],
+   "updated": "2026-10-19"
+  }
+ },
  "BGR": {
   "allegiant": {
    "airport_short": "BGR",
@@ -67548,6 +67609,59 @@
   }
  },
  "LRD": {},
+ "LYH": {
+  "american": {
+   "airport_short": "LYH",
+   "changed": "2026-10-19",
+   "code": "AA",
+   "deps_day": 6.1,
+   "dests": [
+    "CLT"
+   ],
+   "gates": [
+    "3"
+   ],
+   "gone": false,
+   "hash": "7f6b2b86e0de",
+   "last_seen": "2026-10-18",
+   "last_seen_str": "Oct 18, 2026",
+   "name": "American Airlines",
+   "published": "2026-10-19",
+   "short": "American",
+   "sig": "{\"drawing\": \"b734e9a4f7a5\", \"focus\": [\"3\"], \"held\": [\"3\"], \"held_n\": 1, \"main\": [\"3\"]}",
+   "slug": "american",
+   "types": [
+    "E145"
+   ],
+   "updated": "2026-10-19"
+  },
+  "united": {
+   "airport_short": "LYH",
+   "changed": "2026-10-19",
+   "code": "UA",
+   "deps_day": 1.8,
+   "dests": [
+    "ORD",
+    "IAD"
+   ],
+   "gates": [
+    "5"
+   ],
+   "gone": false,
+   "hash": "1feada75aa26",
+   "last_seen": "2026-10-18",
+   "last_seen_str": "Oct 18, 2026",
+   "name": "United Airlines",
+   "published": "2026-10-19",
+   "short": "United",
+   "sig": "{\"drawing\": \"b734e9a4f7a5\", \"focus\": [\"5\"], \"held\": [\"5\"], \"held_n\": 1, \"main\": [\"5\"]}",
+   "slug": "united",
+   "types": [
+    "CRJ-200"
+   ],
+   "updated": "2026-10-19"
+  }
+ },
  "MAF": {
   "american": {
    "airport_short": "MAF",
