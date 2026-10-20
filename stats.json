@@ -1,6 +1,6 @@
 {
-  "airports": 227,
-  "gates": 9508,
+  "airports": 228,
+  "gates": 9515,
   "airlines": 579,
   "flights": 1093317,
   "turns": 449787,
@@ -15,6 +15,6 @@
   "plane_changes": 58,
   "late_gate_hours": 66088,
   "insights": 1728291,
-  "updated": "2026-10-19",
+  "updated": "2026-10-20",
   "airports_tracked": 292
 }
