@@ -316,6 +316,58 @@
    "updated": "2026-10-21"
   }
  },
+ "AEX": {
+  "american": {
+   "airport_short": "AEX",
+   "changed": "2026-10-21",
+   "code": "AA",
+   "deps_day": 3.0,
+   "dests": [
+    "DFW"
+   ],
+   "gates": [
+    "2"
+   ],
+   "gone": false,
+   "hash": "a716b4c86516",
+   "last_seen": "2026-10-20",
+   "last_seen_str": "Oct 20, 2026",
+   "name": "American Airlines",
+   "published": "2026-10-21",
+   "short": "American",
+   "sig": "{\"drawing\": \"a0e7d5c4c192\", \"focus\": [\"2\"], \"held\": [\"2\"], \"held_n\": 1, \"main\": [\"2\"]}",
+   "slug": "american",
+   "types": [
+    "CRJ-700"
+   ],
+   "updated": "2026-10-21"
+  },
+  "united": {
+   "airport_short": "AEX",
+   "changed": "2026-10-21",
+   "code": "UA",
+   "deps_day": 1.9,
+   "dests": [
+    "IAH"
+   ],
+   "gates": [
+    "1"
+   ],
+   "gone": false,
+   "hash": "fea63f802518",
+   "last_seen": "2026-10-20",
+   "last_seen_str": "Oct 20, 2026",
+   "name": "United Airlines",
+   "published": "2026-10-21",
+   "short": "United",
+   "sig": "{\"drawing\": \"a0e7d5c4c192\", \"focus\": [\"1\"], \"held\": [\"1\"], \"held_n\": 1, \"main\": [\"1\"]}",
+   "slug": "united",
+   "types": [
+    "CRJ-200"
+   ],
+   "updated": "2026-10-21"
+  }
+ },
  "AGS": {
   "american": {
    "airport_short": "AGS",

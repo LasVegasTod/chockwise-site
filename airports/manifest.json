@@ -55,6 +55,20 @@
   "top_gates": 0,
   "updated": "2026-10-21"
  },
+ "AEX": {
+  "changed": "2026-10-21",
+  "flights_day": 26,
+  "gates": 4,
+  "hash": "466aba7916c8",
+  "name": "Alexandria Intl",
+  "published": "2026-10-21",
+  "seats_day": 516,
+  "short": "Alexandria",
+  "sig": "{\"common\": 0, \"drawing\": \"a0e7d5c4c192\", \"gates\": 4, \"held\": {\"AA\": 1, \"UA\": 1}, \"low\": 2}",
+  "top": "AA",
+  "top_gates": 1,
+  "updated": "2026-10-21"
+ },
  "AGS": {
   "changed": "2026-10-20",
   "flights_day": 28,
