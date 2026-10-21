@@ -196,10 +196,10 @@
   "updated": "2026-10-21"
  },
  "AUS": {
-  "changed": "2026-10-20",
+  "changed": "2026-10-21",
   "flights_day": 556,
   "gates": 40,
-  "hash": "8174f7c3aece",
+  "hash": "55cecfc5f077",
   "name": "Austin-Bergstrom Intl",
   "published": "2026-10-06",
   "seats_day": 41509,
@@ -826,10 +826,10 @@
   "updated": "2026-10-21"
  },
  "DCA": {
-  "changed": "2026-10-20",
+  "changed": "2026-10-21",
   "flights_day": 798,
   "gates": 61,
-  "hash": "ed731aa06e0f",
+  "hash": "bebd3d1753e9",
   "name": "Reagan National, Washington",
   "published": "2026-10-06",
   "seats_day": 43403,
@@ -1063,11 +1063,25 @@
   "top_gates": 2,
   "updated": "2026-10-21"
  },
+ "EWN": {
+  "changed": "2026-10-21",
+  "flights_day": 12,
+  "gates": 3,
+  "hash": "04052ed4def5",
+  "name": "Coastal Carolina Rgnl, New Bern",
+  "published": "2026-10-21",
+  "seats_day": 315,
+  "short": "New Bern",
+  "sig": "{\"common\": 0, \"drawing\": \"b6d1057b8d5e\", \"gates\": 3, \"held\": {\"AA\": 1}, \"low\": 2}",
+  "top": "AA",
+  "top_gates": 1,
+  "updated": "2026-10-21"
+ },
  "EWR": {
-  "changed": "2026-10-20",
+  "changed": "2026-10-21",
   "flights_day": 1042,
   "gates": 103,
-  "hash": "891fc65483a7",
+  "hash": "e5739ef43541",
   "name": "Newark Liberty Intl",
   "published": "2026-10-06",
   "seats_day": 73834,
@@ -3094,15 +3108,15 @@
   "updated": "2026-10-21"
  },
  "TPA": {
-  "changed": "2026-10-20",
+  "changed": "2026-10-21",
   "flights_day": 474,
   "gates": 60,
-  "hash": "e022122dc78c",
+  "hash": "64eb6d30ae90",
   "name": "Tampa Intl",
   "published": "2026-10-06",
   "seats_day": 39152,
   "short": "Tampa",
-  "sig": "{\"common\": 1, \"drawing\": \"814dd1cacfe0\", \"gates\": 60, \"held\": {\"AA\": 12, \"AS\": 1, \"B6\": 3, \"DL\": 9, \"F9\": 4, \"MX\": 4, \"SY\": 1, \"UA\": 6, \"WN\": 13, \"XP\": 1}, \"low\": 5}",
+  "sig": "{\"common\": 2, \"drawing\": \"62a02a50f8d3\", \"gates\": 60, \"held\": {\"AA\": 12, \"AS\": 1, \"B6\": 3, \"DL\": 8, \"F9\": 4, \"MX\": 4, \"SY\": 1, \"UA\": 6, \"WN\": 13, \"XP\": 1}, \"low\": 5}",
   "top": "WN",
   "top_gates": 13,
   "updated": "2026-10-21"
@@ -3233,18 +3247,32 @@
   "top_gates": 6,
   "updated": "2026-10-21"
  },
+ "YUL": {
+  "changed": "2026-10-21",
+  "flights_day": 477,
+  "gates": 62,
+  "hash": "7b4f613b3f68",
+  "name": "Pierre Elliot Trudeau Intl, Montreal",
+  "published": "2026-10-21",
+  "seats_day": 18491,
+  "short": "Montreal",
+  "sig": "{\"common\": 18, \"drawing\": \"39e830c8134c\", \"gates\": 62, \"held\": {\"AC\": 20, \"PD\": 2, \"UA\": 3, \"WS\": 1}, \"low\": 18}",
+  "top": "AC",
+  "top_gates": 20,
+  "updated": "2026-10-21"
+ },
  "YYZ": {
-  "changed": "2026-10-20",
+  "changed": "2026-10-21",
   "flights_day": 974,
   "gates": 133,
-  "hash": "983fbcaa569b",
+  "hash": "6e02dfbc6ff0",
   "name": "Toronto Pearson Int'l",
   "published": "2026-10-12",
   "seats_day": 44376,
   "short": "Toronto Pearson",
-  "sig": "{\"common\": 51, \"drawing\": \"b4cc2dce39ff\", \"gates\": 133, \"held\": {\"AA\": 2, \"AC\": 29, \"DL\": 1, \"RV\": 1, \"TS\": 1, \"UA\": 10, \"WS\": 2}, \"low\": 36}",
+  "sig": "{\"common\": 49, \"drawing\": \"b4cc2dce39ff\", \"gates\": 133, \"held\": {\"AA\": 2, \"AC\": 30, \"DL\": 1, \"PD\": 1, \"RV\": 1, \"TS\": 1, \"UA\": 10, \"WS\": 2}, \"low\": 36}",
   "top": "AC",
-  "top_gates": 29,
+  "top_gates": 30,
   "updated": "2026-10-21"
  },
  "ZRH": {

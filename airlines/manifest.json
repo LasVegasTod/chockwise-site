@@ -1412,7 +1412,7 @@
   },
   "air-canada": {
    "airport_short": "AMS",
-   "changed": "2026-10-20",
+   "changed": "2026-10-21",
    "code": "AC",
    "deps_day": 1.9,
    "dests": [
@@ -1430,9 +1430,9 @@
     "D47"
    ],
    "gone": false,
-   "hash": "61481e826254",
-   "last_seen": "2026-10-19",
-   "last_seen_str": "Oct 19, 2026",
+   "hash": "74065db4417c",
+   "last_seen": "2026-10-21",
+   "last_seen_str": "Oct 21, 2026",
    "name": "Air Canada",
    "published": "2026-10-12",
    "short": "Air Canada",
@@ -1697,8 +1697,8 @@
    ],
    "gone": false,
    "hash": "f616cca54584",
-   "last_seen": "2026-10-19",
-   "last_seen_str": "Oct 19, 2026",
+   "last_seen": "2026-10-20",
+   "last_seen_str": "Oct 20, 2026",
    "name": "Alliance Air",
    "published": "2026-10-12",
    "short": "Alliance Air",
@@ -2689,7 +2689,7 @@
   },
   "klm": {
    "airport_short": "AMS",
-   "changed": "2026-10-20",
+   "changed": "2026-10-21",
    "code": "KL",
    "deps_day": 359.5,
    "dests": [
@@ -2711,9 +2711,9 @@
     "F3"
    ],
    "gone": false,
-   "hash": "b213b07cf2b2",
-   "last_seen": "2026-10-20",
-   "last_seen_str": "Oct 20, 2026",
+   "hash": "6224a57b49fc",
+   "last_seen": "2026-10-21",
+   "last_seen_str": "Oct 21, 2026",
    "name": "KLM",
    "published": "2026-10-12",
    "short": "KLM",
@@ -5471,7 +5471,7 @@
   },
   "air-canada": {
    "airport_short": "ATH",
-   "changed": "2026-10-20",
+   "changed": "2026-10-21",
    "code": "AC",
    "deps_day": 2.5,
    "dests": [
@@ -5486,9 +5486,9 @@
     "A13"
    ],
    "gone": false,
-   "hash": "23f28c9d36c6",
-   "last_seen": "2026-10-19",
-   "last_seen_str": "Oct 19, 2026",
+   "hash": "cf9309360e83",
+   "last_seen": "2026-10-21",
+   "last_seen_str": "Oct 21, 2026",
    "name": "Air Canada",
    "published": "2026-10-17",
    "short": "Air Canada",
@@ -7326,7 +7326,7 @@
   },
   "air-canada": {
    "airport_short": "ATL",
-   "changed": "2026-10-20",
+   "changed": "2026-10-21",
    "code": "AC",
    "deps_day": 3.8,
    "dests": [
@@ -7340,9 +7340,9 @@
     "F14"
    ],
    "gone": false,
-   "hash": "8042dad112de",
-   "last_seen": "2026-10-19",
-   "last_seen_str": "Oct 19, 2026",
+   "hash": "9aea7b0d76d4",
+   "last_seen": "2026-10-20",
+   "last_seen_str": "Oct 20, 2026",
    "name": "Air Canada",
    "published": "2026-10-05",
    "short": "Air Canada",
@@ -7532,7 +7532,7 @@
   },
   "delta": {
    "airport_short": "ATL",
-   "changed": "2026-10-20",
+   "changed": "2026-10-21",
    "code": "DL",
    "deps_day": 881.9,
    "dests": [
@@ -7554,7 +7554,7 @@
     "T1"
    ],
    "gone": false,
-   "hash": "2dcb79c9e2bf",
+   "hash": "deda1c84e272",
    "last_seen": "2026-10-20",
    "last_seen_str": "Oct 20, 2026",
    "name": "Delta Air Lines",
@@ -8197,7 +8197,7 @@
  "AUS": {
   "air-canada": {
    "airport_short": "AUS",
-   "changed": "2026-10-20",
+   "changed": "2026-10-21",
    "code": "AC",
    "deps_day": 1.7,
    "dests": [
@@ -8208,9 +8208,9 @@
     "2"
    ],
    "gone": false,
-   "hash": "fb9a63a9003a",
-   "last_seen": "2026-10-06",
-   "last_seen_str": "Oct 6, 2026",
+   "hash": "837f4ba91a31",
+   "last_seen": "2026-10-20",
+   "last_seen_str": "Oct 20, 2026",
    "name": "Air Canada",
    "published": "2026-10-06",
    "short": "Air Canada",
@@ -8323,7 +8323,7 @@
   },
   "copa": {
    "airport_short": "AUS",
-   "changed": "2026-10-20",
+   "changed": "2026-10-21",
    "code": "CM",
    "deps_day": 0.7,
    "dests": [
@@ -8334,7 +8334,7 @@
     "6"
    ],
    "gone": false,
-   "hash": "04a5489a5723",
+   "hash": "1bd171c21e65",
    "last_seen": "2026-10-05",
    "last_seen_str": "Oct 5, 2026",
    "name": "Copa Airlines",
@@ -13316,7 +13316,7 @@
  "BNA": {
   "air-canada": {
    "airport_short": "BNA",
-   "changed": "2026-10-18",
+   "changed": "2026-10-21",
    "code": "AC",
    "deps_day": 1.7,
    "dests": [
@@ -13328,9 +13328,9 @@
     "C7"
    ],
    "gone": false,
-   "hash": "b7cd1db73227",
-   "last_seen": "2026-10-11",
-   "last_seen_str": "Oct 11, 2026",
+   "hash": "8b35dcadea41",
+   "last_seen": "2026-10-20",
+   "last_seen_str": "Oct 20, 2026",
    "name": "Air Canada",
    "published": "2026-10-06",
    "short": "Air Canada",
@@ -13402,7 +13402,7 @@
   },
   "allegiant": {
    "airport_short": "BNA",
-   "changed": "2026-10-18",
+   "changed": "2026-10-21",
    "code": "G4",
    "deps_day": 7.3,
    "dests": [
@@ -13420,7 +13420,7 @@
     "C10"
    ],
    "gone": false,
-   "hash": "a1539fb2b833",
+   "hash": "127b821bf5b5",
    "last_seen": "2026-10-15",
    "last_seen_str": "Oct 15, 2026",
    "name": "Allegiant Air",
@@ -13503,7 +13503,7 @@
   },
   "contour": {
    "airport_short": "BNA",
-   "changed": "2026-10-18",
+   "changed": "2026-10-21",
    "code": "LF",
    "deps_day": 2.3,
    "dests": [
@@ -13516,7 +13516,7 @@
     "C10"
    ],
    "gone": false,
-   "hash": "79e7630d0b3a",
+   "hash": "17a9a7e287d3",
    "last_seen": "2026-10-05",
    "last_seen_str": "Oct 5, 2026",
    "name": "Contour Airlines",
@@ -13634,7 +13634,7 @@
   },
   "porter": {
    "airport_short": "BNA",
-   "changed": "2026-10-18",
+   "changed": "2026-10-21",
    "code": "PD",
    "deps_day": 1.0,
    "dests": [
@@ -13644,7 +13644,7 @@
     "C7"
    ],
    "gone": false,
-   "hash": "17743c60635d",
+   "hash": "c1934104455c",
    "last_seen": "2026-10-05",
    "last_seen_str": "Oct 5, 2026",
    "name": "Porter Airlines",
@@ -16564,7 +16564,7 @@
   },
   "air-canada": {
    "airport_short": "BOS",
-   "changed": "2026-10-20",
+   "changed": "2026-10-21",
    "code": "AC",
    "deps_day": 9.8,
    "dests": [
@@ -16579,9 +16579,9 @@
     "B3"
    ],
    "gone": false,
-   "hash": "33192181ad18",
-   "last_seen": "2026-10-19",
-   "last_seen_str": "Oct 19, 2026",
+   "hash": "8548c657002f",
+   "last_seen": "2026-10-20",
+   "last_seen_str": "Oct 20, 2026",
    "name": "Air Canada",
    "published": "2026-10-05",
    "short": "Air Canada",
@@ -22413,7 +22413,7 @@
  "CLE": {
   "air-canada": {
    "airport_short": "CLE",
-   "changed": "2026-10-20",
+   "changed": "2026-10-21",
    "code": "AC",
    "deps_day": 2.0,
    "dests": [
@@ -22425,9 +22425,9 @@
     "A11"
    ],
    "gone": false,
-   "hash": "aae7c9a168ab",
-   "last_seen": "2026-10-06",
-   "last_seen_str": "Oct 6, 2026",
+   "hash": "e0f180d8175b",
+   "last_seen": "2026-10-20",
+   "last_seen_str": "Oct 20, 2026",
    "name": "Air Canada",
    "published": "2026-10-07",
    "short": "Air Canada",
@@ -22714,7 +22714,7 @@
   },
   "american": {
    "airport_short": "CLT",
-   "changed": "2026-10-20",
+   "changed": "2026-10-21",
    "code": "AA",
    "deps_day": 658.6,
    "dests": [
@@ -22736,7 +22736,7 @@
     "C2"
    ],
    "gone": false,
-   "hash": "cee9e4287564",
+   "hash": "e8903a1d4348",
    "last_seen": "2026-10-20",
    "last_seen_str": "Oct 20, 2026",
    "name": "American Airlines",
@@ -23062,7 +23062,7 @@
  "CMH": {
   "air-canada": {
    "airport_short": "CMH",
-   "changed": "2026-10-18",
+   "changed": "2026-10-21",
    "code": "AC",
    "deps_day": 3.0,
    "dests": [
@@ -23073,9 +23073,9 @@
     "C48"
    ],
    "gone": false,
-   "hash": "12f43f9e6753",
-   "last_seen": "2026-10-08",
-   "last_seen_str": "Oct 8, 2026",
+   "hash": "48b13a38948f",
+   "last_seen": "2026-10-20",
+   "last_seen_str": "Oct 20, 2026",
    "name": "Air Canada",
    "published": "2026-10-07",
    "short": "Air Canada",
@@ -26752,7 +26752,7 @@
  "CVG": {
   "air-canada": {
    "airport_short": "CVG",
-   "changed": "2026-10-18",
+   "changed": "2026-10-21",
    "code": "AC",
    "deps_day": 2.7,
    "dests": [
@@ -26764,9 +26764,9 @@
     "A6"
    ],
    "gone": false,
-   "hash": "4a12dc082bc9",
-   "last_seen": "2026-10-06",
-   "last_seen_str": "Oct 6, 2026",
+   "hash": "afe87769a233",
+   "last_seen": "2026-10-20",
+   "last_seen_str": "Oct 20, 2026",
    "name": "Air Canada",
    "published": "2026-10-07",
    "short": "Air Canada",
@@ -27352,7 +27352,7 @@
  "DCA": {
   "air-canada": {
    "airport_short": "DCA",
-   "changed": "2026-10-20",
+   "changed": "2026-10-21",
    "code": "AC",
    "deps_day": 7.0,
    "dests": [
@@ -27364,9 +27364,9 @@
     "A3"
    ],
    "gone": false,
-   "hash": "d6645c4c7f19",
-   "last_seen": "2026-10-06",
-   "last_seen_str": "Oct 6, 2026",
+   "hash": "e88b270d9137",
+   "last_seen": "2026-10-20",
+   "last_seen_str": "Oct 20, 2026",
    "name": "Air Canada",
    "published": "2026-10-06",
    "short": "Air Canada",
@@ -27621,7 +27621,7 @@
  "DEN": {
   "air-canada": {
    "airport_short": "DEN",
-   "changed": "2026-10-20",
+   "changed": "2026-10-21",
    "code": "AC",
    "deps_day": 5.1,
    "dests": [
@@ -27642,9 +27642,9 @@
     "A47"
    ],
    "gone": false,
-   "hash": "041cecdb9c78",
-   "last_seen": "2026-10-19",
-   "last_seen_str": "Oct 19, 2026",
+   "hash": "ba6b4d4cd447",
+   "last_seen": "2026-10-20",
+   "last_seen_str": "Oct 20, 2026",
    "name": "Air Canada",
    "published": "2026-10-05",
    "short": "Air Canada",
@@ -28166,7 +28166,7 @@
   },
   "air-canada": {
    "airport_short": "DFW",
-   "changed": "2026-10-20",
+   "changed": "2026-10-21",
    "code": "AC",
    "deps_day": 1.5,
    "dests": [
@@ -28178,9 +28178,9 @@
     "E2"
    ],
    "gone": false,
-   "hash": "cbfc8c8d7662",
-   "last_seen": "2026-10-19",
-   "last_seen_str": "Oct 19, 2026",
+   "hash": "38b1de5f929a",
+   "last_seen": "2026-10-20",
+   "last_seen_str": "Oct 20, 2026",
    "name": "Air Canada",
    "published": "2026-10-06",
    "short": "Air Canada",
@@ -28283,7 +28283,7 @@
   },
   "american": {
    "airport_short": "DFW",
-   "changed": "2026-10-20",
+   "changed": "2026-10-21",
    "code": "AA",
    "deps_day": 869.8,
    "dests": [
@@ -28305,7 +28305,7 @@
     "D4"
    ],
    "gone": false,
-   "hash": "a244313b9782",
+   "hash": "2ff973dc3879",
    "last_seen": "2026-10-20",
    "last_seen_str": "Oct 20, 2026",
    "name": "American Airlines",
@@ -30629,7 +30629,7 @@
   },
   "qatar-airways": {
    "airport_short": "DOH",
-   "changed": "2026-10-20",
+   "changed": "2026-10-21",
    "code": "QR",
    "deps_day": 240.4,
    "dests": [
@@ -30651,7 +30651,7 @@
     "D2"
    ],
    "gone": false,
-   "hash": "836b52fe3330",
+   "hash": "4d70b6dd4cc6",
    "last_seen": "2026-10-21",
    "last_seen_str": "Oct 21, 2026",
    "name": "Qatar Airways",
@@ -32768,7 +32768,7 @@
   },
   "air-canada": {
    "airport_short": "DTW",
-   "changed": "2026-10-20",
+   "changed": "2026-10-21",
    "code": "AC",
    "deps_day": 2.2,
    "dests": [
@@ -32781,9 +32781,9 @@
     "D24"
    ],
    "gone": false,
-   "hash": "1c4ae1a87674",
-   "last_seen": "2026-10-13",
-   "last_seen_str": "Oct 13, 2026",
+   "hash": "06372bec7ea8",
+   "last_seen": "2026-10-20",
+   "last_seen_str": "Oct 20, 2026",
    "name": "Air Canada",
    "published": "2026-10-06",
    "short": "Air Canada",
@@ -32892,7 +32892,7 @@
   },
   "delta": {
    "airport_short": "DTW",
-   "changed": "2026-10-20",
+   "changed": "2026-10-21",
    "code": "DL",
    "deps_day": 249.2,
    "dests": [
@@ -32914,7 +32914,7 @@
     "A7"
    ],
    "gone": false,
-   "hash": "89f68bf6853b",
+   "hash": "600de31f5c60",
    "last_seen": "2026-10-20",
    "last_seen_str": "Oct 20, 2026",
    "name": "Delta Air Lines",
@@ -34818,7 +34818,7 @@
   },
   "emirates": {
    "airport_short": "DXB",
-   "changed": "2026-10-20",
+   "changed": "2026-10-21",
    "code": "EK",
    "deps_day": 224.4,
    "dests": [
@@ -34840,7 +34840,7 @@
     "C3"
    ],
    "gone": false,
-   "hash": "93297ccb6cef",
+   "hash": "19c7bf0a05b9",
    "last_seen": "2026-10-21",
    "last_seen_str": "Oct 21, 2026",
    "name": "Emirates",
@@ -36550,6 +36550,34 @@
    "updated": "2026-10-21"
   }
  },
+ "EWN": {
+  "american": {
+   "airport_short": "EWN",
+   "changed": "2026-10-21",
+   "code": "AA",
+   "deps_day": 5.8,
+   "dests": [
+    "CLT"
+   ],
+   "gates": [
+    "1"
+   ],
+   "gone": false,
+   "hash": "1fc4e432f103",
+   "last_seen": "2026-10-19",
+   "last_seen_str": "Oct 19, 2026",
+   "name": "American Airlines",
+   "published": "2026-10-21",
+   "short": "American",
+   "sig": "{\"drawing\": \"b6d1057b8d5e\", \"focus\": [\"1\"], \"held\": [\"1\"], \"held_n\": 1, \"main\": [\"1\"]}",
+   "slug": "american",
+   "types": [
+    "E145",
+    "CRJ-900"
+   ],
+   "updated": "2026-10-21"
+  }
+ },
  "EWR": {
   "aer-lingus": {
    "airport_short": "EWR",
@@ -36599,7 +36627,7 @@
   },
   "air-canada": {
    "airport_short": "EWR",
-   "changed": "2026-10-20",
+   "changed": "2026-10-21",
    "code": "AC",
    "deps_day": 13.7,
    "dests": [
@@ -36616,7 +36644,7 @@
     "A8A"
    ],
    "gone": false,
-   "hash": "e2f948745ecd",
+   "hash": "09bda61aaac3",
    "last_seen": "2026-10-20",
    "last_seen_str": "Oct 20, 2026",
    "name": "Air Canada",
@@ -37478,7 +37506,7 @@
   },
   "united": {
    "airport_short": "EWR",
-   "changed": "2026-10-20",
+   "changed": "2026-10-21",
    "code": "UA",
    "deps_day": 390.5,
    "dests": [
@@ -37500,7 +37528,7 @@
     "A18"
    ],
    "gone": false,
-   "hash": "a2710d289f88",
+   "hash": "8f2377194f15",
    "last_seen": "2026-10-20",
    "last_seen_str": "Oct 20, 2026",
    "name": "United Airlines",
@@ -38091,7 +38119,7 @@
   },
   "air-canada-rouge": {
    "airport_short": "FLL",
-   "changed": "2026-10-20",
+   "changed": "2026-10-21",
    "code": "RV",
    "deps_day": 4.0,
    "dests": [
@@ -38103,9 +38131,9 @@
     "G14"
    ],
    "gone": false,
-   "hash": "ab83c4110e91",
-   "last_seen": "2026-10-06",
-   "last_seen_str": "Oct 6, 2026",
+   "hash": "d751e2460651",
+   "last_seen": "2026-10-20",
+   "last_seen_str": "Oct 20, 2026",
    "name": "Air Canada Rouge",
    "published": "2026-10-06",
    "short": "Air Canada Rouge",
@@ -38889,7 +38917,7 @@
   },
   "air-canada": {
    "airport_short": "FRA",
-   "changed": "2026-10-18",
+   "changed": "2026-10-21",
    "code": "AC",
    "deps_day": 4.0,
    "dests": [
@@ -38905,9 +38933,9 @@
     "B48"
    ],
    "gone": false,
-   "hash": "928ea5a4d738",
-   "last_seen": "2026-10-10",
-   "last_seen_str": "Oct 10, 2026",
+   "hash": "ce393f030404",
+   "last_seen": "2026-10-21",
+   "last_seen_str": "Oct 21, 2026",
    "name": "Air Canada",
    "published": "2026-10-11",
    "short": "Air Canada",
@@ -40129,7 +40157,7 @@
   },
   "lufthansa": {
    "airport_short": "FRA",
-   "changed": "2026-10-20",
+   "changed": "2026-10-21",
    "code": "LH",
    "deps_day": 287.3,
    "dests": [
@@ -40151,9 +40179,9 @@
     "A11"
    ],
    "gone": false,
-   "hash": "a96f517862e5",
-   "last_seen": "2026-10-20",
-   "last_seen_str": "Oct 20, 2026",
+   "hash": "bb06d15ade38",
+   "last_seen": "2026-10-21",
+   "last_seen_str": "Oct 21, 2026",
    "name": "Lufthansa",
    "published": "2026-10-11",
    "short": "Lufthansa",
@@ -48074,7 +48102,7 @@
   },
   "air-canada": {
    "airport_short": "IAD",
-   "changed": "2026-10-20",
+   "changed": "2026-10-21",
    "code": "AC",
    "deps_day": 5.3,
    "dests": [
@@ -48091,9 +48119,9 @@
     "B75"
    ],
    "gone": false,
-   "hash": "22259fd1f622",
-   "last_seen": "2026-10-19",
-   "last_seen_str": "Oct 19, 2026",
+   "hash": "0ce367356cb8",
+   "last_seen": "2026-10-20",
+   "last_seen_str": "Oct 20, 2026",
    "name": "Air Canada",
    "published": "2026-10-06",
    "short": "Air Canada",
@@ -49213,7 +49241,7 @@
   },
   "united": {
    "airport_short": "IAD",
-   "changed": "2026-10-20",
+   "changed": "2026-10-21",
    "code": "UA",
    "deps_day": 264.8,
    "dests": [
@@ -49235,7 +49263,7 @@
     "D1"
    ],
    "gone": false,
-   "hash": "6fbec02e6ddc",
+   "hash": "551479ae25e7",
    "last_seen": "2026-10-20",
    "last_seen_str": "Oct 20, 2026",
    "name": "United Airlines",
@@ -49384,7 +49412,7 @@
   },
   "air-canada-rouge": {
    "airport_short": "IAH",
-   "changed": "2026-10-20",
+   "changed": "2026-10-21",
    "code": "RV",
    "deps_day": 2.1,
    "dests": [
@@ -49395,9 +49423,9 @@
     "D1"
    ],
    "gone": false,
-   "hash": "3908b62485e8",
-   "last_seen": "2026-10-19",
-   "last_seen_str": "Oct 19, 2026",
+   "hash": "27231b8eaf5d",
+   "last_seen": "2026-10-20",
+   "last_seen_str": "Oct 20, 2026",
    "name": "Air Canada Rouge",
    "published": "2026-10-06",
    "short": "Air Canada Rouge",
@@ -49580,7 +49608,7 @@
   },
   "avianca-el-salvador": {
    "airport_short": "IAH",
-   "changed": "2026-10-20",
+   "changed": "2026-10-21",
    "code": "TA",
    "deps_day": 1.8,
    "dests": [
@@ -49592,7 +49620,7 @@
     "D17"
    ],
    "gone": false,
-   "hash": "9206bd944f0c",
+   "hash": "ede79e6fdb4d",
    "last_seen": "2026-10-19",
    "last_seen_str": "Oct 19, 2026",
    "name": "Avianca El Salvador",
@@ -53483,7 +53511,7 @@
   },
   "united": {
    "airport_short": "IND",
-   "changed": "2026-10-20",
+   "changed": "2026-10-21",
    "code": "UA",
    "deps_day": 26.7,
    "dests": [
@@ -53504,7 +53532,7 @@
     "A25"
    ],
    "gone": false,
-   "hash": "8c50b01db35a",
+   "hash": "6fa7573b2741",
    "last_seen": "2026-10-20",
    "last_seen_str": "Oct 20, 2026",
    "name": "United Airlines",
@@ -55375,7 +55403,7 @@
   },
   "turkish-airlines": {
    "airport_short": "IST",
-   "changed": "2026-10-20",
+   "changed": "2026-10-21",
    "code": "TK",
    "deps_day": 574.3,
    "dests": [
@@ -55397,9 +55425,9 @@
     "A2"
    ],
    "gone": false,
-   "hash": "28647cdd3090",
-   "last_seen": "2026-10-20",
-   "last_seen_str": "Oct 20, 2026",
+   "hash": "07be6431b063",
+   "last_seen": "2026-10-21",
+   "last_seen_str": "Oct 21, 2026",
    "name": "Turkish Airlines",
    "published": "2026-10-10",
    "short": "Turkish Airlines",
@@ -61802,7 +61830,7 @@
   },
   "air-canada-rouge": {
    "airport_short": "LAS",
-   "changed": "2026-10-20",
+   "changed": "2026-10-21",
    "code": "RV",
    "deps_day": 4.0,
    "dests": [
@@ -61817,9 +61845,9 @@
     "E7"
    ],
    "gone": false,
-   "hash": "a1deec2e2703",
-   "last_seen": "2026-10-12",
-   "last_seen_str": "Oct 12, 2026",
+   "hash": "171bef84d302",
+   "last_seen": "2026-10-20",
+   "last_seen_str": "Oct 20, 2026",
    "name": "Air Canada Rouge",
    "published": "2026-10-05",
    "short": "Air Canada Rouge",
@@ -62586,7 +62614,7 @@
   },
   "air-canada": {
    "airport_short": "LAX",
-   "changed": "2026-10-20",
+   "changed": "2026-10-21",
    "code": "AC",
    "deps_day": 8.1,
    "dests": [
@@ -62605,9 +62633,9 @@
     "69A"
    ],
    "gone": false,
-   "hash": "6907c045af28",
-   "last_seen": "2026-10-19",
-   "last_seen_str": "Oct 19, 2026",
+   "hash": "e8e31c1394c6",
+   "last_seen": "2026-10-20",
+   "last_seen_str": "Oct 20, 2026",
    "name": "Air Canada",
    "published": "2026-10-05",
    "short": "Air Canada",
@@ -65007,7 +65035,7 @@
  "LGA": {
   "air-canada": {
    "airport_short": "LGA",
-   "changed": "2026-10-20",
+   "changed": "2026-10-21",
    "code": "AC",
    "deps_day": 18.7,
    "dests": [
@@ -65022,9 +65050,9 @@
     "55"
    ],
    "gone": false,
-   "hash": "d4dfbd72c0a3",
-   "last_seen": "2026-10-06",
-   "last_seen_str": "Oct 6, 2026",
+   "hash": "d4a667e5d94c",
+   "last_seen": "2026-10-20",
+   "last_seen_str": "Oct 20, 2026",
    "name": "Air Canada",
    "published": "2026-10-06",
    "short": "Air Canada",
@@ -65039,7 +65067,7 @@
   },
   "american": {
    "airport_short": "LGA",
-   "changed": "2026-10-20",
+   "changed": "2026-10-21",
    "code": "AA",
    "deps_day": 136.7,
    "dests": [
@@ -65061,9 +65089,9 @@
     "19"
    ],
    "gone": false,
-   "hash": "fc4aaf77700c",
-   "last_seen": "2026-10-19",
-   "last_seen_str": "Oct 19, 2026",
+   "hash": "14d17e0d9180",
+   "last_seen": "2026-10-20",
+   "last_seen_str": "Oct 20, 2026",
    "name": "American Airlines",
    "published": "2026-10-06",
    "short": "American",
@@ -65078,7 +65106,7 @@
   },
   "delta": {
    "airport_short": "LGA",
-   "changed": "2026-10-20",
+   "changed": "2026-10-21",
    "code": "DL",
    "deps_day": 216.3,
    "dests": [
@@ -65100,9 +65128,9 @@
     "68"
    ],
    "gone": false,
-   "hash": "0271391ead87",
-   "last_seen": "2026-10-19",
-   "last_seen_str": "Oct 19, 2026",
+   "hash": "b61c53336ce9",
+   "last_seen": "2026-10-20",
+   "last_seen_str": "Oct 20, 2026",
    "name": "Delta Air Lines",
    "published": "2026-10-06",
    "short": "Delta",
@@ -65465,7 +65493,7 @@
   },
   "air-canada": {
    "airport_short": "LHR",
-   "changed": "2026-10-20",
+   "changed": "2026-10-21",
    "code": "AC",
    "deps_day": 8.0,
    "dests": [
@@ -65486,9 +65514,9 @@
     "2-B43"
    ],
    "gone": false,
-   "hash": "967b5b4a9928",
-   "last_seen": "2026-10-09",
-   "last_seen_str": "Oct 9, 2026",
+   "hash": "f87b95cf61b6",
+   "last_seen": "2026-10-21",
+   "last_seen_str": "Oct 21, 2026",
    "name": "Air Canada",
    "published": "2026-10-10",
    "short": "Air Canada",
@@ -65909,7 +65937,7 @@
   },
   "british-airways": {
    "airport_short": "LHR",
-   "changed": "2026-10-20",
+   "changed": "2026-10-21",
    "code": "BA",
    "deps_day": 333.3,
    "dests": [
@@ -65931,9 +65959,9 @@
     "5-4B"
    ],
    "gone": false,
-   "hash": "6af0d2807be9",
-   "last_seen": "2026-10-20",
-   "last_seen_str": "Oct 20, 2026",
+   "hash": "1e9b6f713b3c",
+   "last_seen": "2026-10-21",
+   "last_seen_str": "Oct 21, 2026",
    "name": "British Airways",
    "published": "2026-10-10",
    "short": "British Airways",
@@ -68563,7 +68591,7 @@
   },
   "air-canada-rouge": {
    "airport_short": "MCO",
-   "changed": "2026-10-18",
+   "changed": "2026-10-21",
    "code": "RV",
    "deps_day": 3.0,
    "dests": [
@@ -68576,9 +68604,9 @@
     "B97"
    ],
    "gone": false,
-   "hash": "76f44f0b7aad",
-   "last_seen": "2026-10-06",
-   "last_seen_str": "Oct 6, 2026",
+   "hash": "6b094bd3de0f",
+   "last_seen": "2026-10-20",
+   "last_seen_str": "Oct 20, 2026",
    "name": "Air Canada Rouge",
    "published": "2026-10-06",
    "short": "Air Canada Rouge",
@@ -71339,7 +71367,7 @@
  "MEX": {
   "aeromexico": {
    "airport_short": "MEX",
-   "changed": "2026-10-20",
+   "changed": "2026-10-21",
    "code": "AM",
    "deps_day": 168.3,
    "dests": [
@@ -71361,9 +71389,9 @@
     "55"
    ],
    "gone": false,
-   "hash": "33a50af45363",
-   "last_seen": "2026-10-19",
-   "last_seen_str": "Oct 19, 2026",
+   "hash": "ff5273de1752",
+   "last_seen": "2026-10-20",
+   "last_seen_str": "Oct 20, 2026",
    "name": "Aerom\u00e9xico",
    "published": "2026-10-18",
    "short": "Aerom\u00e9xico",
@@ -71416,7 +71444,7 @@
   },
   "air-canada-rouge": {
    "airport_short": "MEX",
-   "changed": "2026-10-20",
+   "changed": "2026-10-21",
    "code": "RV",
    "deps_day": 3.7,
    "dests": [
@@ -71432,9 +71460,9 @@
     "34"
    ],
    "gone": false,
-   "hash": "71c201cd17ce",
-   "last_seen": "2026-10-17",
-   "last_seen_str": "Oct 17, 2026",
+   "hash": "932969e0e808",
+   "last_seen": "2026-10-20",
+   "last_seen_str": "Oct 20, 2026",
    "name": "Air Canada Rouge",
    "published": "2026-10-18",
    "short": "Air Canada Rouge",
@@ -72578,7 +72606,7 @@
   },
   "air-canada-rouge": {
    "airport_short": "MIA",
-   "changed": "2026-10-20",
+   "changed": "2026-10-21",
    "code": "RV",
    "deps_day": 3.0,
    "dests": [
@@ -72597,9 +72625,9 @@
     "J12"
    ],
    "gone": false,
-   "hash": "4cb2fca7d1ff",
-   "last_seen": "2026-10-19",
-   "last_seen_str": "Oct 19, 2026",
+   "hash": "70aa9ce5c4d7",
+   "last_seen": "2026-10-20",
+   "last_seen_str": "Oct 20, 2026",
    "name": "Air Canada Rouge",
    "published": "2026-10-06",
    "short": "Air Canada Rouge",
@@ -74792,7 +74820,7 @@
   },
   "air-canada": {
    "airport_short": "MSP",
-   "changed": "2026-10-20",
+   "changed": "2026-10-21",
    "code": "AC",
    "deps_day": 2.6,
    "dests": [
@@ -74805,9 +74833,9 @@
     "E5"
    ],
    "gone": false,
-   "hash": "41f9ade379e4",
-   "last_seen": "2026-10-19",
-   "last_seen_str": "Oct 19, 2026",
+   "hash": "52d924624247",
+   "last_seen": "2026-10-20",
+   "last_seen_str": "Oct 20, 2026",
    "name": "Air Canada",
    "published": "2026-10-06",
    "short": "Air Canada",
@@ -74888,7 +74916,7 @@
   },
   "delta": {
    "airport_short": "MSP",
-   "changed": "2026-10-20",
+   "changed": "2026-10-21",
    "code": "DL",
    "deps_day": 324.8,
    "dests": [
@@ -74910,7 +74938,7 @@
     "G2"
    ],
    "gone": false,
-   "hash": "25162b60bb48",
+   "hash": "def9b2271a7f",
    "last_seen": "2026-10-20",
    "last_seen_str": "Oct 20, 2026",
    "name": "Delta Air Lines",
@@ -75726,7 +75754,7 @@
   },
   "air-canada": {
    "airport_short": "MXP",
-   "changed": "2026-10-20",
+   "changed": "2026-10-21",
    "code": "AC",
    "deps_day": 1.0,
    "dests": [
@@ -75737,9 +75765,9 @@
     "B58"
    ],
    "gone": false,
-   "hash": "c67e26968653",
-   "last_seen": "2026-10-19",
-   "last_seen_str": "Oct 19, 2026",
+   "hash": "958b87e83464",
+   "last_seen": "2026-10-21",
+   "last_seen_str": "Oct 21, 2026",
    "name": "Air Canada",
    "published": "2026-10-17",
    "short": "Air Canada",
@@ -78382,7 +78410,7 @@
   },
   "air-canada": {
    "airport_short": "NRT",
-   "changed": "2026-10-18",
+   "changed": "2026-10-21",
    "code": "AC",
    "deps_day": 3.0,
    "dests": [
@@ -78397,9 +78425,9 @@
     "47"
    ],
    "gone": false,
-   "hash": "2e6d39a26898",
-   "last_seen": "2026-10-07",
-   "last_seen_str": "Oct 7, 2026",
+   "hash": "1df7b2d2c50d",
+   "last_seen": "2026-10-21",
+   "last_seen_str": "Oct 21, 2026",
    "name": "Air Canada",
    "published": "2026-10-11",
    "short": "Air Canada",
@@ -79030,7 +79058,7 @@
   },
   "ethiopian": {
    "airport_short": "NRT",
-   "changed": "2026-10-18",
+   "changed": "2026-10-21",
    "code": "ET",
    "deps_day": 1.0,
    "dests": [
@@ -79040,7 +79068,7 @@
     "43"
    ],
    "gone": false,
-   "hash": "b95057568a38",
+   "hash": "aa3d07ecfb68",
    "last_seen": "2026-10-05",
    "last_seen_str": "Oct 5, 2026",
    "name": "Ethiopian Airlines",
@@ -79553,7 +79581,7 @@
   },
   "lot": {
    "airport_short": "NRT",
-   "changed": "2026-10-18",
+   "changed": "2026-10-21",
    "code": "LO",
    "deps_day": 1.3,
    "dests": [
@@ -79564,7 +79592,7 @@
     "43"
    ],
    "gone": false,
-   "hash": "f54dddc7b7fe",
+   "hash": "2b5885afea6c",
    "last_seen": "2026-10-05",
    "last_seen_str": "Oct 5, 2026",
    "name": "LOT Polish Airlines",
@@ -81692,7 +81720,7 @@
   },
   "air-canada": {
    "airport_short": "ORD",
-   "changed": "2026-10-20",
+   "changed": "2026-10-21",
    "code": "AC",
    "deps_day": 8.8,
    "dests": [
@@ -81712,9 +81740,9 @@
     "E8"
    ],
    "gone": false,
-   "hash": "b387c9ae700c",
-   "last_seen": "2026-10-19",
-   "last_seen_str": "Oct 19, 2026",
+   "hash": "8c0e3b212095",
+   "last_seen": "2026-10-20",
+   "last_seen_str": "Oct 20, 2026",
    "name": "Air Canada",
    "published": "2026-10-05",
    "short": "Air Canada",
@@ -81841,7 +81869,7 @@
   },
   "american": {
    "airport_short": "ORD",
-   "changed": "2026-10-20",
+   "changed": "2026-10-21",
    "code": "AA",
    "deps_day": 502.2,
    "dests": [
@@ -81863,7 +81891,7 @@
     "L2C"
    ],
    "gone": false,
-   "hash": "33473e9055cf",
+   "hash": "a0b252e1cfb7",
    "last_seen": "2026-10-20",
    "last_seen_str": "Oct 20, 2026",
    "name": "American Airlines",
@@ -82830,7 +82858,7 @@
   },
   "united": {
    "airport_short": "ORD",
-   "changed": "2026-10-20",
+   "changed": "2026-10-21",
    "code": "UA",
    "deps_day": 652.1,
    "dests": [
@@ -82852,7 +82880,7 @@
     "E3"
    ],
    "gone": false,
-   "hash": "4310da90e12a",
+   "hash": "0d2cb31ce391",
    "last_seen": "2026-10-20",
    "last_seen_str": "Oct 20, 2026",
    "name": "United Airlines",
@@ -86165,7 +86193,7 @@
   },
   "air-canada": {
    "airport_short": "PHL",
-   "changed": "2026-10-20",
+   "changed": "2026-10-21",
    "code": "AC",
    "deps_day": 4.7,
    "dests": [
@@ -86178,9 +86206,9 @@
     "D5"
    ],
    "gone": false,
-   "hash": "76d4c2225f37",
-   "last_seen": "2026-10-19",
-   "last_seen_str": "Oct 19, 2026",
+   "hash": "ea5dbc130a3a",
+   "last_seen": "2026-10-20",
+   "last_seen_str": "Oct 20, 2026",
    "name": "Air Canada",
    "published": "2026-10-06",
    "short": "Air Canada",
@@ -86250,7 +86278,7 @@
   },
   "american": {
    "airport_short": "PHL",
-   "changed": "2026-10-20",
+   "changed": "2026-10-21",
    "code": "AA",
    "deps_day": 326.7,
    "dests": [
@@ -86272,7 +86300,7 @@
     "A4"
    ],
    "gone": false,
-   "hash": "aba2c5a20a53",
+   "hash": "18521c9f8c5c",
    "last_seen": "2026-10-20",
    "last_seen_str": "Oct 20, 2026",
    "name": "American Airlines",
@@ -90604,7 +90632,7 @@
   },
   "air-canada": {
    "airport_short": "RDU",
-   "changed": "2026-10-19",
+   "changed": "2026-10-21",
    "code": "AC",
    "deps_day": 3.7,
    "dests": [
@@ -90619,9 +90647,9 @@
     "C24"
    ],
    "gone": false,
-   "hash": "faa339b35a70",
-   "last_seen": "2026-10-09",
-   "last_seen_str": "Oct 9, 2026",
+   "hash": "8a078410452c",
+   "last_seen": "2026-10-20",
+   "last_seen_str": "Oct 20, 2026",
    "name": "Air Canada",
    "published": "2026-10-07",
    "short": "Air Canada",
@@ -95037,7 +95065,7 @@
   },
   "air-canada": {
    "airport_short": "SFO",
-   "changed": "2026-10-20",
+   "changed": "2026-10-21",
    "code": "AC",
    "deps_day": 8.6,
    "dests": [
@@ -95056,9 +95084,9 @@
     "D14"
    ],
    "gone": false,
-   "hash": "ecba3b56fde3",
-   "last_seen": "2026-10-19",
-   "last_seen_str": "Oct 19, 2026",
+   "hash": "b68bb8182fa2",
+   "last_seen": "2026-10-20",
+   "last_seen_str": "Oct 20, 2026",
    "name": "Air Canada",
    "published": "2026-10-06",
    "short": "Air Canada",
@@ -96464,7 +96492,7 @@
   },
   "united": {
    "airport_short": "SFO",
-   "changed": "2026-10-20",
+   "changed": "2026-10-21",
    "code": "UA",
    "deps_day": 300.3,
    "dests": [
@@ -96486,7 +96514,7 @@
     "A4"
    ],
    "gone": false,
-   "hash": "750b25f74b2d",
+   "hash": "042de7e80d0d",
    "last_seen": "2026-10-20",
    "last_seen_str": "Oct 20, 2026",
    "name": "United Airlines",
@@ -101554,7 +101582,7 @@
  "STL": {
   "air-canada": {
    "airport_short": "STL",
-   "changed": "2026-10-18",
+   "changed": "2026-10-21",
    "code": "AC",
    "deps_day": 3.0,
    "dests": [
@@ -101566,9 +101594,9 @@
     "A17"
    ],
    "gone": false,
-   "hash": "04f6857d90e4",
-   "last_seen": "2026-10-06",
-   "last_seen_str": "Oct 6, 2026",
+   "hash": "c20121854a59",
+   "last_seen": "2026-10-20",
+   "last_seen_str": "Oct 20, 2026",
    "name": "Air Canada",
    "published": "2026-10-07",
    "short": "Air Canada",
@@ -102848,7 +102876,7 @@
  "TPA": {
   "air-canada-rouge": {
    "airport_short": "TPA",
-   "changed": "2026-10-20",
+   "changed": "2026-10-21",
    "code": "RV",
    "deps_day": 2.0,
    "dests": [
@@ -102859,13 +102887,13 @@
     "E73"
    ],
    "gone": false,
-   "hash": "f57f4dd129c6",
+   "hash": "b49cc5028f78",
    "last_seen": "2026-10-06",
    "last_seen_str": "Oct 6, 2026",
    "name": "Air Canada Rouge",
    "published": "2026-10-06",
    "short": "Air Canada Rouge",
-   "sig": "{\"drawing\": \"814dd1cacfe0\", \"focus\": [\"E73\"], \"held\": [], \"held_n\": 0, \"main\": [\"E73\"]}",
+   "sig": "{\"drawing\": \"62a02a50f8d3\", \"focus\": [\"E73\"], \"held\": [], \"held_n\": 0, \"main\": [\"E73\"]}",
    "slug": "air-canada-rouge",
    "types": [
     "A320",
@@ -102875,7 +102903,7 @@
   },
   "alaska": {
    "airport_short": "TPA",
-   "changed": "2026-10-20",
+   "changed": "2026-10-21",
    "code": "AS",
    "deps_day": 2.0,
    "dests": [
@@ -102886,13 +102914,13 @@
     "C43"
    ],
    "gone": false,
-   "hash": "faeae021c76e",
+   "hash": "2fbadbad75d6",
    "last_seen": "2026-10-19",
    "last_seen_str": "Oct 19, 2026",
    "name": "Alaska Airlines",
    "published": "2026-10-06",
    "short": "Alaska",
-   "sig": "{\"drawing\": \"814dd1cacfe0\", \"focus\": [\"C43\"], \"held\": [\"C43\"], \"held_n\": 1, \"main\": [\"C43\"]}",
+   "sig": "{\"drawing\": \"62a02a50f8d3\", \"focus\": [\"C43\"], \"held\": [\"C43\"], \"held_n\": 1, \"main\": [\"C43\"]}",
    "slug": "alaska",
    "types": [
     "737-800",
@@ -102903,7 +102931,7 @@
   },
   "american": {
    "airport_short": "TPA",
-   "changed": "2026-10-20",
+   "changed": "2026-10-21",
    "code": "AA",
    "deps_day": 38.7,
    "dests": [
@@ -102925,13 +102953,13 @@
     "F85"
    ],
    "gone": false,
-   "hash": "c3fd17763399",
+   "hash": "d608b26b61b0",
    "last_seen": "2026-10-20",
    "last_seen_str": "Oct 20, 2026",
    "name": "American Airlines",
    "published": "2026-10-06",
    "short": "American",
-   "sig": "{\"drawing\": \"814dd1cacfe0\", \"focus\": [\"F78\", \"F79\", \"F80\", \"F81\", \"F82\", \"F83\", \"F84\", \"F85\", \"F86\", \"F88\", \"F89\", \"F90\"], \"held\": [\"F78\", \"F79\", \"F80\", \"F81\", \"F82\", \"F83\", \"F84\", \"F85\", \"F86\", \"F88\", \"F89\", \"F90\"], \"held_n\": 12, \"main\": [\"F78\", \"F79\", \"F80\", \"F81\", \"F82\", \"F83\", \"F84\", \"F85\", \"F86\", \"F87\", \"F88\", \"F89\", \"F90\"]}",
+   "sig": "{\"drawing\": \"62a02a50f8d3\", \"focus\": [\"F78\", \"F79\", \"F80\", \"F81\", \"F82\", \"F83\", \"F84\", \"F85\", \"F86\", \"F88\", \"F89\", \"F90\"], \"held\": [\"F78\", \"F79\", \"F80\", \"F81\", \"F82\", \"F83\", \"F84\", \"F85\", \"F86\", \"F88\", \"F89\", \"F90\"], \"held_n\": 12, \"main\": [\"F78\", \"F79\", \"F80\", \"F81\", \"F82\", \"F83\", \"F84\", \"F85\", \"F86\", \"F87\", \"F88\", \"F89\", \"F90\"]}",
    "slug": "american",
    "types": [
     "737-800",
@@ -102942,7 +102970,7 @@
   },
   "avelo": {
    "airport_short": "TPA",
-   "changed": "2026-10-18",
+   "changed": "2026-10-21",
    "code": "XP",
    "deps_day": 2.0,
    "dests": [
@@ -102954,13 +102982,13 @@
     "C44"
    ],
    "gone": false,
-   "hash": "2705764b7370",
+   "hash": "8dd1eab907f7",
    "last_seen": "2026-10-05",
    "last_seen_str": "Oct 5, 2026",
    "name": "Avelo Airlines",
    "published": "2026-10-06",
    "short": "Avelo",
-   "sig": "{\"drawing\": \"814dd1cacfe0\", \"focus\": [\"C44\"], \"held\": [\"C44\"], \"held_n\": 1, \"main\": [\"C44\"]}",
+   "sig": "{\"drawing\": \"62a02a50f8d3\", \"focus\": [\"C44\"], \"held\": [\"C44\"], \"held_n\": 1, \"main\": [\"C44\"]}",
    "slug": "avelo",
    "types": [
     "737-800"
@@ -102969,7 +102997,7 @@
   },
   "breeze": {
    "airport_short": "TPA",
-   "changed": "2026-10-20",
+   "changed": "2026-10-21",
    "code": "MX",
    "deps_day": 21.3,
    "dests": [
@@ -102989,13 +103017,13 @@
     "A18"
    ],
    "gone": false,
-   "hash": "a33ad03cee9f",
+   "hash": "e6de5d07120a",
    "last_seen": "2026-10-12",
    "last_seen_str": "Oct 12, 2026",
    "name": "Breeze Airways",
    "published": "2026-10-06",
    "short": "Breeze",
-   "sig": "{\"drawing\": \"814dd1cacfe0\", \"focus\": [\"A3\", \"A4\", \"A15\", \"A16\", \"A17\", \"A18\"], \"held\": [\"A15\", \"A16\", \"A17\", \"A18\"], \"held_n\": 4, \"main\": [\"A3\", \"A4\", \"A15\", \"A16\", \"A17\", \"A18\"]}",
+   "sig": "{\"drawing\": \"62a02a50f8d3\", \"focus\": [\"A3\", \"A4\", \"A15\", \"A16\", \"A17\", \"A18\"], \"held\": [\"A15\", \"A16\", \"A17\", \"A18\"], \"held_n\": 4, \"main\": [\"A3\", \"A4\", \"A15\", \"A16\", \"A17\", \"A18\"]}",
    "slug": "breeze",
    "types": [
     "A220-300"
@@ -103004,7 +103032,7 @@
   },
   "cayman-airways": {
    "airport_short": "TPA",
-   "changed": "2026-10-20",
+   "changed": "2026-10-21",
    "code": "KX",
    "deps_day": 1.0,
    "dests": [
@@ -103015,13 +103043,13 @@
     "F85"
    ],
    "gone": false,
-   "hash": "3a16b90b38ac",
+   "hash": "8e5764f74f8e",
    "last_seen": "2026-10-05",
    "last_seen_str": "Oct 5, 2026",
    "name": "Cayman Airways",
    "published": "2026-10-07",
    "short": "Cayman Airways",
-   "sig": "{\"drawing\": \"814dd1cacfe0\", \"focus\": [\"F83\", \"F85\"], \"held\": [], \"held_n\": 0, \"main\": [\"F83\", \"F85\"]}",
+   "sig": "{\"drawing\": \"62a02a50f8d3\", \"focus\": [\"F83\", \"F85\"], \"held\": [], \"held_n\": 0, \"main\": [\"F83\", \"F85\"]}",
    "slug": "cayman-airways",
    "types": [
     "737 MAX 8"
@@ -103030,7 +103058,7 @@
   },
   "copa": {
    "airport_short": "TPA",
-   "changed": "2026-10-18",
+   "changed": "2026-10-21",
    "code": "CM",
    "deps_day": 1.7,
    "dests": [
@@ -103040,13 +103068,13 @@
     "F87"
    ],
    "gone": false,
-   "hash": "f8ec1bfd4a9a",
+   "hash": "562a3aabf181",
    "last_seen": "2026-10-05",
    "last_seen_str": "Oct 5, 2026",
    "name": "Copa Airlines",
    "published": "2026-10-06",
    "short": "Copa",
-   "sig": "{\"drawing\": \"814dd1cacfe0\", \"focus\": [\"F87\"], \"held\": [], \"held_n\": 0, \"main\": [\"F87\"]}",
+   "sig": "{\"drawing\": \"62a02a50f8d3\", \"focus\": [\"F87\"], \"held\": [], \"held_n\": 0, \"main\": [\"F87\"]}",
    "slug": "copa",
    "types": [
     "737-800",
@@ -103056,7 +103084,7 @@
   },
   "delta": {
    "airport_short": "TPA",
-   "changed": "2026-10-20",
+   "changed": "2026-10-21",
    "code": "DL",
    "deps_day": 40.0,
    "dests": [
@@ -103078,13 +103106,13 @@
     "E72"
    ],
    "gone": false,
-   "hash": "031bdbabd744",
+   "hash": "7062663c4fa4",
    "last_seen": "2026-10-20",
    "last_seen_str": "Oct 20, 2026",
    "name": "Delta Air Lines",
    "published": "2026-10-06",
    "short": "Delta",
-   "sig": "{\"drawing\": \"814dd1cacfe0\", \"focus\": [\"E62\", \"E64\", \"E65\", \"E66\", \"E67\", \"E68\", \"E69\", \"E72\", \"E73\", \"TBA\"], \"held\": [\"E62\", \"E64\", \"E65\", \"E66\", \"E67\", \"E68\", \"E69\", \"E72\", \"E73\"], \"held_n\": 10, \"main\": [\"E62\", \"E64\", \"E65\", \"E66\", \"E67\", \"E68\", \"E69\", \"E72\", \"E73\", \"F88\", \"TBA\"]}",
+   "sig": "{\"drawing\": \"62a02a50f8d3\", \"focus\": [\"E62\", \"E64\", \"E65\", \"E66\", \"E67\", \"E68\", \"E69\", \"E72\", \"E73\", \"TBA\"], \"held\": [\"E62\", \"E64\", \"E65\", \"E66\", \"E67\", \"E68\", \"E69\", \"E72\"], \"held_n\": 9, \"main\": [\"E62\", \"E64\", \"E65\", \"E66\", \"E67\", \"E68\", \"E69\", \"E72\", \"E73\", \"F88\", \"TBA\"]}",
    "slug": "delta",
    "types": [
     "A321",
@@ -103095,7 +103123,7 @@
   },
   "frontier": {
    "airport_short": "TPA",
-   "changed": "2026-10-20",
+   "changed": "2026-10-21",
    "code": "F9",
    "deps_day": 18.0,
    "dests": [
@@ -103113,13 +103141,13 @@
     "E75"
    ],
    "gone": false,
-   "hash": "a975d2dd2fac",
+   "hash": "218a5231ea26",
    "last_seen": "2026-10-20",
    "last_seen_str": "Oct 20, 2026",
    "name": "Frontier Airlines",
    "published": "2026-10-06",
    "short": "Frontier",
-   "sig": "{\"drawing\": \"814dd1cacfe0\", \"focus\": [\"E70\", \"E71\", \"E74\", \"E75\"], \"held\": [\"E70\", \"E71\", \"E74\", \"E75\"], \"held_n\": 4, \"main\": [\"E70\", \"E71\", \"E74\", \"E75\"]}",
+   "sig": "{\"drawing\": \"62a02a50f8d3\", \"focus\": [\"E70\", \"E71\", \"E74\", \"E75\"], \"held\": [\"E70\", \"E71\", \"E74\", \"E75\"], \"held_n\": 4, \"main\": [\"E70\", \"E71\", \"E74\", \"E75\"]}",
    "slug": "frontier",
    "types": [
     "A321",
@@ -103130,7 +103158,7 @@
   },
   "jetblue": {
    "airport_short": "TPA",
-   "changed": "2026-10-20",
+   "changed": "2026-10-21",
    "code": "B6",
    "deps_day": 10.3,
    "dests": [
@@ -103148,13 +103176,13 @@
     "F85"
    ],
    "gone": false,
-   "hash": "7fe4a03838f5",
+   "hash": "a675b985b28e",
    "last_seen": "2026-10-19",
    "last_seen_str": "Oct 19, 2026",
    "name": "JetBlue",
    "published": "2026-10-06",
    "short": "JetBlue",
-   "sig": "{\"drawing\": \"814dd1cacfe0\", \"focus\": [\"A11\", \"A12\", \"A14\", \"F85\"], \"held\": [\"A11\", \"A12\", \"A14\"], \"held_n\": 3, \"main\": [\"A11\", \"A12\", \"A14\", \"F85\"]}",
+   "sig": "{\"drawing\": \"62a02a50f8d3\", \"focus\": [\"A11\", \"A12\", \"A14\", \"F85\"], \"held\": [\"A11\", \"A12\", \"A14\"], \"held_n\": 3, \"main\": [\"A11\", \"A12\", \"A14\", \"F85\"]}",
    "slug": "jetblue",
    "types": [
     "A320",
@@ -103180,7 +103208,7 @@
   },
   "southwest": {
    "airport_short": "TPA",
-   "changed": "2026-10-20",
+   "changed": "2026-10-21",
    "code": "WN",
    "deps_day": 69.0,
    "dests": [
@@ -103202,13 +103230,13 @@
     "C37"
    ],
    "gone": false,
-   "hash": "937decdda167",
+   "hash": "4c761c36be4f",
    "last_seen": "2026-10-20",
    "last_seen_str": "Oct 20, 2026",
    "name": "Southwest Airlines",
    "published": "2026-10-06",
    "short": "Southwest",
-   "sig": "{\"drawing\": \"814dd1cacfe0\", \"focus\": [\"C30\", \"C31\", \"C32\", \"C33\", \"C34\", \"C35\", \"C36\", \"C37\", \"C38\", \"C39\", \"C40\", \"C41\", \"C42\"], \"held\": [\"C30\", \"C31\", \"C32\", \"C33\", \"C34\", \"C35\", \"C36\", \"C37\", \"C38\", \"C39\", \"C40\", \"C41\", \"C42\"], \"held_n\": 13, \"main\": [\"C30\", \"C31\", \"C32\", \"C33\", \"C34\", \"C35\", \"C36\", \"C37\", \"C38\", \"C39\", \"C40\", \"C41\", \"C42\", \"C43\", \"F88\"]}",
+   "sig": "{\"drawing\": \"62a02a50f8d3\", \"focus\": [\"C30\", \"C31\", \"C32\", \"C33\", \"C34\", \"C35\", \"C36\", \"C37\", \"C38\", \"C39\", \"C40\", \"C41\", \"C42\"], \"held\": [\"C30\", \"C31\", \"C32\", \"C33\", \"C34\", \"C35\", \"C36\", \"C37\", \"C38\", \"C39\", \"C40\", \"C41\", \"C42\"], \"held_n\": 13, \"main\": [\"C30\", \"C31\", \"C32\", \"C33\", \"C34\", \"C35\", \"C36\", \"C37\", \"C38\", \"C39\", \"C40\", \"C41\", \"C42\", \"C43\", \"F88\"]}",
    "slug": "southwest",
    "types": [
     "737 MAX 8",
@@ -103219,7 +103247,7 @@
   },
   "sun-country": {
    "airport_short": "TPA",
-   "changed": "2026-10-20",
+   "changed": "2026-10-21",
    "code": "SY",
    "deps_day": 0.7,
    "dests": [
@@ -103229,13 +103257,13 @@
     "A4"
    ],
    "gone": false,
-   "hash": "13c5c8d66ba5",
+   "hash": "833f942ea386",
    "last_seen": "2026-10-19",
    "last_seen_str": "Oct 19, 2026",
    "name": "Sun Country Airlines",
    "published": "2026-10-06",
    "short": "Sun Country",
-   "sig": "{\"drawing\": \"814dd1cacfe0\", \"focus\": [\"A4\"], \"held\": [\"A4\"], \"held_n\": 1, \"main\": [\"A4\"]}",
+   "sig": "{\"drawing\": \"62a02a50f8d3\", \"focus\": [\"A4\"], \"held\": [\"A4\"], \"held_n\": 1, \"main\": [\"A4\"]}",
    "slug": "sun-country",
    "types": [
     "737-800"
@@ -103244,7 +103272,7 @@
   },
   "united": {
    "airport_short": "TPA",
-   "changed": "2026-10-20",
+   "changed": "2026-10-21",
    "code": "UA",
    "deps_day": 25.0,
    "dests": [
@@ -103264,13 +103292,13 @@
     "A10"
    ],
    "gone": false,
-   "hash": "112444991954",
+   "hash": "a5b5b5af52e0",
    "last_seen": "2026-10-20",
    "last_seen_str": "Oct 20, 2026",
    "name": "United Airlines",
    "published": "2026-10-06",
    "short": "United",
-   "sig": "{\"drawing\": \"814dd1cacfe0\", \"focus\": [\"A5\", \"A6\", \"A7\", \"A8\", \"A9\", \"A10\"], \"held\": [\"A5\", \"A6\", \"A7\", \"A8\", \"A9\", \"A10\"], \"held_n\": 6, \"main\": [\"A5\", \"A6\", \"A7\", \"A8\", \"A9\", \"A10\"]}",
+   "sig": "{\"drawing\": \"62a02a50f8d3\", \"focus\": [\"A5\", \"A6\", \"A7\", \"A8\", \"A9\", \"A10\"], \"held\": [\"A5\", \"A6\", \"A7\", \"A8\", \"A9\", \"A10\"], \"held_n\": 6, \"main\": [\"A5\", \"A6\", \"A7\", \"A8\", \"A9\", \"A10\"]}",
    "slug": "united",
    "types": [
     "737 MAX 9",
@@ -103281,7 +103309,7 @@
   },
   "virgin-atlantic": {
    "airport_short": "TPA",
-   "changed": "2026-10-20",
+   "changed": "2026-10-21",
    "code": "VS",
    "deps_day": 1.0,
    "dests": [
@@ -103291,13 +103319,13 @@
     "F83"
    ],
    "gone": false,
-   "hash": "d60044258473",
+   "hash": "edc1d0fa6537",
    "last_seen": "2026-10-09",
    "last_seen_str": "Oct 9, 2026",
    "name": "Virgin Atlantic",
    "published": "2026-10-06",
    "short": "Virgin Atlantic",
-   "sig": "{\"drawing\": \"814dd1cacfe0\", \"focus\": [\"F83\"], \"held\": [], \"held_n\": 0, \"main\": [\"F83\"]}",
+   "sig": "{\"drawing\": \"62a02a50f8d3\", \"focus\": [\"F83\"], \"held\": [], \"held_n\": 0, \"main\": [\"F83\"]}",
    "slug": "virgin-atlantic",
    "types": [
     "A330-900neo",
@@ -103307,7 +103335,7 @@
   },
   "westjet": {
    "airport_short": "TPA",
-   "changed": "2026-10-18",
+   "changed": "2026-10-21",
    "code": "WS",
    "deps_day": 0.7,
    "dests": [
@@ -103318,13 +103346,13 @@
     "C45"
    ],
    "gone": false,
-   "hash": "552aa81d2ea6",
+   "hash": "c7bf8b61aee0",
    "last_seen": "2026-10-05",
    "last_seen_str": "Oct 5, 2026",
    "name": "WestJet",
    "published": "2026-10-06",
    "short": "WestJet",
-   "sig": "{\"drawing\": \"814dd1cacfe0\", \"focus\": [\"C45\"], \"held\": [], \"held_n\": 0, \"main\": [\"C45\"]}",
+   "sig": "{\"drawing\": \"62a02a50f8d3\", \"focus\": [\"C45\"], \"held\": [], \"held_n\": 0, \"main\": [\"C45\"]}",
    "slug": "westjet",
    "types": [
     "737-800",
@@ -106361,7 +106389,7 @@
   },
   "austrian": {
    "airport_short": "VIE",
-   "changed": "2026-10-20",
+   "changed": "2026-10-21",
    "code": "OS",
    "deps_day": 194.3,
    "dests": [
@@ -106383,9 +106411,9 @@
     "F10"
    ],
    "gone": false,
-   "hash": "92e008aee1f4",
-   "last_seen": "2026-10-20",
-   "last_seen_str": "Oct 20, 2026",
+   "hash": "88a6012fd469",
+   "last_seen": "2026-10-21",
+   "last_seen_str": "Oct 21, 2026",
    "name": "Austrian Airlines",
    "published": "2026-10-17",
    "short": "Austrian",
@@ -108043,6 +108071,7 @@
    "updated": "2026-10-21"
   }
  },
+ "YUL": {},
  "YYZ": {
   "aer-lingus": {
    "airport_short": "YYZ",
@@ -108098,7 +108127,7 @@
   },
   "air-canada": {
    "airport_short": "YYZ",
-   "changed": "2026-10-20",
+   "changed": "2026-10-21",
    "code": "AC",
    "deps_day": 187.0,
    "dests": [
@@ -108120,13 +108149,13 @@
     "D28"
    ],
    "gone": false,
-   "hash": "e853c7ac2458",
-   "last_seen": "2026-10-20",
-   "last_seen_str": "Oct 20, 2026",
+   "hash": "a988688aa7e5",
+   "last_seen": "2026-10-21",
+   "last_seen_str": "Oct 21, 2026",
    "name": "Air Canada",
    "published": "2026-10-12",
    "short": "Air Canada",
-   "sig": "{\"drawing\": \"b4cc2dce39ff\", \"focus\": [\"D3\", \"D5\", \"D7\", \"D20\", \"D22\", \"D24\", \"D26\", \"D31\", \"D32\", \"D33\", \"D34\", \"D35\", \"D36\", \"D38\", \"D39\", \"D40\", \"D41\", \"D45\", \"D51\", \"D53\", \"D55\", \"D57\", \"F61\", \"F63\", \"F64\", \"F65\", \"E69\", \"E76\", \"F86\", \"F87\", \"F88\", \"F89\", \"F99\"], \"held\": [\"D3\", \"D5\", \"D7\", \"D20\", \"D22\", \"D24\", \"D32\", \"D33\", \"D34\", \"D35\", \"D36\", \"D38\", \"D39\", \"D40\", \"D41\", \"D51\", \"D53\", \"D55\", \"D57\", \"F61\", \"F63\", \"F65\", \"E69\", \"E76\", \"F86\", \"F87\", \"F88\", \"F89\", \"F99\"], \"held_n\": 29, \"main\": [\"D3\", \"D5\", \"D7\", \"D20\", \"D22\", \"D24\", \"D26\", \"D28\", \"D30\", \"D31\", \"D32\", \"D33\", \"D34\", \"D35\", \"D36\", \"D38\", \"D39\", \"D40\", \"D41\", \"D42\", \"D43\", \"D44\", \"D45\", \"D51\", \"D53\", \"D55\", \"D57\", \"F60\", \"F61\", \"F62\", \"F63\", \"F64\", \"F65\", \"F66\", \"E67\", \"E68\", \"E69\", \"E70\", \"E71\", \"E72\", \"E74\", \"E75\", \"E76\", \"E77\", \"E78\", \"E79\", \"E80\", \"E81\", \"F82\", \"F86\", \"F87\", \"F88\", \"F89\", \"F95\", \"F96\", \"F97\", \"F98\", \"F99\"]}",
+   "sig": "{\"drawing\": \"b4cc2dce39ff\", \"focus\": [\"D3\", \"D5\", \"D7\", \"D20\", \"D22\", \"D24\", \"D26\", \"D31\", \"D32\", \"D33\", \"D34\", \"D35\", \"D36\", \"D38\", \"D39\", \"D40\", \"D41\", \"D42\", \"D45\", \"D51\", \"D53\", \"D55\", \"D57\", \"F61\", \"F63\", \"F64\", \"F65\", \"E69\", \"E76\", \"F86\", \"F87\", \"F88\", \"F89\", \"F99\"], \"held\": [\"D3\", \"D5\", \"D7\", \"D20\", \"D22\", \"D24\", \"D32\", \"D33\", \"D34\", \"D35\", \"D36\", \"D38\", \"D39\", \"D40\", \"D41\", \"D42\", \"D51\", \"D53\", \"D55\", \"D57\", \"F61\", \"F63\", \"F65\", \"E69\", \"E76\", \"F86\", \"F87\", \"F88\", \"F89\", \"F99\"], \"held_n\": 30, \"main\": [\"D3\", \"D5\", \"D7\", \"D20\", \"D22\", \"D24\", \"D26\", \"D28\", \"D30\", \"D31\", \"D32\", \"D33\", \"D34\", \"D35\", \"D36\", \"D38\", \"D39\", \"D40\", \"D41\", \"D42\", \"D43\", \"D44\", \"D45\", \"D51\", \"D53\", \"D55\", \"D57\", \"F60\", \"F61\", \"F62\", \"F63\", \"F64\", \"F65\", \"F66\", \"E67\", \"E68\", \"E69\", \"E70\", \"E71\", \"E72\", \"E74\", \"E75\", \"E76\", \"E77\", \"E78\", \"E79\", \"E80\", \"E81\", \"F82\", \"F86\", \"F87\", \"F88\", \"F89\", \"F95\", \"F96\", \"F97\", \"F98\", \"F99\"]}",
    "slug": "air-canada",
    "types": [
     "A220-300",
@@ -108137,7 +108166,7 @@
   },
   "air-canada-rouge": {
    "airport_short": "YYZ",
-   "changed": "2026-10-20",
+   "changed": "2026-10-21",
    "code": "RV",
    "deps_day": 61.0,
    "dests": [
@@ -108159,7 +108188,7 @@
     "D31"
    ],
    "gone": false,
-   "hash": "a7e1651284d9",
+   "hash": "55f38de0b88e",
    "last_seen": "2026-10-20",
    "last_seen_str": "Oct 20, 2026",
    "name": "Air Canada Rouge",
@@ -108228,7 +108257,7 @@
   },
   "air-transat": {
    "airport_short": "YYZ",
-   "changed": "2026-10-20",
+   "changed": "2026-10-21",
    "code": "TS",
    "deps_day": 10.7,
    "dests": [
@@ -108250,9 +108279,9 @@
     "C33"
    ],
    "gone": false,
-   "hash": "2b60a8838e7e",
-   "last_seen": "2026-10-09",
-   "last_seen_str": "Oct 9, 2026",
+   "hash": "115a98d64176",
+   "last_seen": "2026-10-20",
+   "last_seen_str": "Oct 20, 2026",
    "name": "Air Transat",
    "published": "2026-10-12",
    "short": "Air Transat",
@@ -108473,7 +108502,7 @@
   },
   "cathay-pacific": {
    "airport_short": "YYZ",
-   "changed": "2026-10-20",
+   "changed": "2026-10-21",
    "code": "CX",
    "deps_day": 2.7,
    "dests": [
@@ -108485,7 +108514,7 @@
     "C35"
    ],
    "gone": false,
-   "hash": "977e74c4a9e6",
+   "hash": "75293eed56dc",
    "last_seen": "2026-10-19",
    "last_seen_str": "Oct 19, 2026",
    "name": "Cathay Pacific",
@@ -108747,7 +108776,7 @@
   },
   "flair": {
    "airport_short": "YYZ",
-   "changed": "2026-10-19",
+   "changed": "2026-10-21",
    "code": "F8",
    "deps_day": 16.0,
    "dests": [
@@ -108769,7 +108798,7 @@
     "B20"
    ],
    "gone": false,
-   "hash": "0a14a062bd59",
+   "hash": "8529c214a35f",
    "last_seen": "2026-10-16",
    "last_seen_str": "Oct 16, 2026",
    "name": "Flair Airlines",
@@ -108889,7 +108918,7 @@
   },
   "korean-air": {
    "airport_short": "YYZ",
-   "changed": "2026-10-20",
+   "changed": "2026-10-21",
    "code": "KE",
    "deps_day": 1.0,
    "dests": [
@@ -108900,7 +108929,7 @@
     "C35"
    ],
    "gone": false,
-   "hash": "8791961d2eac",
+   "hash": "e66a19909a89",
    "last_seen": "2026-10-19",
    "last_seen_str": "Oct 19, 2026",
    "name": "Korean Air",
@@ -108974,7 +109003,7 @@
   },
   "pia": {
    "airport_short": "YYZ",
-   "changed": "2026-10-18",
+   "changed": "2026-10-21",
    "code": "PK",
    "deps_day": 0.7,
    "dests": [
@@ -108986,7 +109015,7 @@
     "C35"
    ],
    "gone": false,
-   "hash": "68909479a8d9",
+   "hash": "d52d92b9f24f",
    "last_seen": "2026-10-06",
    "last_seen_str": "Oct 6, 2026",
    "name": "Pakistan International Airlines",
@@ -109001,7 +109030,7 @@
   },
   "porter": {
    "airport_short": "YYZ",
-   "changed": "2026-10-20",
+   "changed": "2026-10-21",
    "code": "PD",
    "deps_day": 46.0,
    "dests": [
@@ -109023,13 +109052,13 @@
     "A12"
    ],
    "gone": false,
-   "hash": "644db6aa347c",
-   "last_seen": "2026-10-19",
-   "last_seen_str": "Oct 19, 2026",
+   "hash": "b14ffa6a8943",
+   "last_seen": "2026-10-20",
+   "last_seen_str": "Oct 20, 2026",
    "name": "Porter Airlines",
    "published": "2026-10-12",
    "short": "Porter",
-   "sig": "{\"drawing\": \"b4cc2dce39ff\", \"focus\": [\"B2A\", \"B2C\", \"B3\", \"B4\", \"B5\", \"A11\", \"A12\", \"A13\", \"A15\", \"B17\", \"B18\", \"B19\", \"B20\", \"B24\", \"B25\", \"B28\", \"B29\", \"B37\", \"B38\", \"B39\"], \"held\": [], \"held_n\": 0, \"main\": [\"B2A\", \"B2C\", \"B3\", \"B4\", \"B5\", \"A10\", \"A11\", \"A12\", \"A13\", \"A15\", \"A16\", \"B17\", \"B18\", \"B19\", \"B20\", \"B24\", \"B25\", \"B27\", \"B28\", \"B29\", \"C35\", \"C36\", \"B37\", \"B38\", \"B39\"]}",
+   "sig": "{\"drawing\": \"b4cc2dce39ff\", \"focus\": [\"B2A\", \"B2C\", \"B3\", \"B4\", \"B5\", \"A11\", \"A12\", \"A13\", \"A15\", \"B17\", \"B18\", \"B19\", \"B20\", \"B24\", \"B25\", \"B28\", \"B29\", \"B37\", \"B38\", \"B39\"], \"held\": [\"B2A\"], \"held_n\": 1, \"main\": [\"B2A\", \"B2C\", \"B3\", \"B4\", \"B5\", \"A10\", \"A11\", \"A12\", \"A13\", \"A15\", \"A16\", \"B17\", \"B18\", \"B19\", \"B20\", \"B24\", \"B25\", \"B27\", \"B28\", \"B29\", \"C35\", \"C36\", \"B37\", \"B38\", \"B39\"]}",
    "slug": "porter",
    "types": [
     "E195-E2",
@@ -109039,7 +109068,7 @@
   },
   "qatar-airways": {
    "airport_short": "YYZ",
-   "changed": "2026-10-20",
+   "changed": "2026-10-21",
    "code": "QR",
    "deps_day": 1.0,
    "dests": [
@@ -109050,7 +109079,7 @@
     "C35"
    ],
    "gone": false,
-   "hash": "cd816c0e4c1a",
+   "hash": "1e8252474bd1",
    "last_seen": "2026-10-06",
    "last_seen_str": "Oct 6, 2026",
    "name": "Qatar Airways",
@@ -109260,7 +109289,7 @@
   },
   "westjet": {
    "airport_short": "YYZ",
-   "changed": "2026-10-20",
+   "changed": "2026-10-21",
    "code": "WS",
    "deps_day": 45.3,
    "dests": [
@@ -109282,9 +109311,9 @@
     "B19"
    ],
    "gone": false,
-   "hash": "b46447e44f80",
-   "last_seen": "2026-10-06",
-   "last_seen_str": "Oct 6, 2026",
+   "hash": "4fd7d1df4e89",
+   "last_seen": "2026-10-20",
+   "last_seen_str": "Oct 20, 2026",
    "name": "WestJet",
    "published": "2026-10-12",
    "short": "WestJet",
