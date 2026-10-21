@@ -1022,10 +1022,10 @@
   "updated": "2026-10-21"
  },
  "ELP": {
-  "changed": "2026-10-20",
+  "changed": "2026-10-21",
   "flights_day": 120,
   "gates": 15,
-  "hash": "b3cf704cb8d6",
+  "hash": "684a5911f28f",
   "name": "El Paso Intl",
   "published": "2026-10-07",
   "seats_day": 7817,
@@ -1102,6 +1102,20 @@
   "short": "Key West",
   "sig": "{\"common\": 1, \"drawing\": \"c658cf54f152\", \"gates\": 8, \"held\": {\"AA\": 3, \"DL\": 1, \"G4\": 1, \"UA\": 1}, \"low\": 1}",
   "top": "AA",
+  "top_gates": 3,
+  "updated": "2026-10-21"
+ },
+ "FAI": {
+  "changed": "2026-10-21",
+  "flights_day": 23,
+  "gates": 6,
+  "hash": "fa2d77119475",
+  "name": "Fairbanks Intl",
+  "published": "2026-10-21",
+  "seats_day": 1521,
+  "short": "Fairbanks",
+  "sig": "{\"common\": 0, \"drawing\": \"376c35e632f5\", \"gates\": 6, \"held\": {\"AS\": 3, \"DL\": 1}, \"low\": 2}",
+  "top": "AS",
   "top_gates": 3,
   "updated": "2026-10-21"
  },
@@ -1302,13 +1316,13 @@
   "updated": "2026-10-21"
  },
  "GRK": {
-  "changed": "2026-10-20",
-  "flights_day": 10,
+  "changed": "2026-10-21",
+  "flights_day": 11,
   "gates": 5,
-  "hash": "6c7234a74632",
+  "hash": "7e7205fdad36",
   "name": "Robert Gray Aaf, Fort Hood (Killeen)",
   "published": "2026-10-20",
-  "seats_day": 326,
+  "seats_day": 332,
   "short": "Killeen",
   "sig": "{\"common\": 0, \"drawing\": \"652da4abea43\", \"gates\": 5, \"held\": {\"AA\": 2}, \"low\": 3}",
   "top": "AA",
@@ -1442,10 +1456,10 @@
   "updated": "2026-10-21"
  },
  "HRL": {
-  "changed": "2026-10-20",
+  "changed": "2026-10-21",
   "flights_day": 27,
   "gates": 7,
-  "hash": "2b31a1b9340a",
+  "hash": "6797dd5de2f6",
   "name": "Valley Intl, Harlingen",
   "published": "2026-10-14",
   "seats_day": 1171,
@@ -1498,13 +1512,13 @@
   "updated": "2026-10-21"
  },
  "IAH": {
-  "changed": "2026-10-20",
+  "changed": "2026-10-21",
   "flights_day": 1206,
   "gates": 147,
-  "hash": "45a021b05642",
+  "hash": "1095043bae65",
   "name": "Houston Bush Int'ctl",
   "published": "2026-10-06",
-  "seats_day": 75898,
+  "seats_day": 75901,
   "short": "Houston Bush",
   "sig": "{\"common\": 6, \"drawing\": \"974f59ba7ec1\", \"gates\": 147, \"held\": {\"AA\": 6, \"AM\": 1, \"AS\": 1, \"B6\": 2, \"BA\": 1, \"DL\": 5, \"F9\": 3, \"KL\": 1, \"NZ\": 1, \"QR\": 1, \"UA\": 85, \"Y4\": 1}, \"low\": 33}",
   "top": "UA",
@@ -1568,10 +1582,10 @@
   "updated": "2026-10-21"
  },
  "IND": {
-  "changed": "2026-10-20",
+  "changed": "2026-10-21",
   "flights_day": 337,
   "gates": 40,
-  "hash": "82738ff26108",
+  "hash": "ee731720546d",
   "name": "Indianapolis Intl",
   "published": "2026-10-07",
   "seats_day": 21199,
@@ -2422,10 +2436,10 @@
   "updated": "2026-10-21"
  },
  "PDX": {
-  "changed": "2026-10-20",
+  "changed": "2026-10-21",
   "flights_day": 518,
   "gates": 55,
-  "hash": "f526713d0c52",
+  "hash": "96d447b5728c",
   "name": "Portland Intl",
   "published": "2026-10-06",
   "seats_day": 35739,
@@ -2632,10 +2646,10 @@
   "updated": "2026-10-21"
  },
  "RDU": {
-  "changed": "2026-10-20",
+  "changed": "2026-10-21",
   "flights_day": 422,
   "gates": 45,
-  "hash": "00119913aa02",
+  "hash": "1616846be1f0",
   "name": "Raleigh-Durham Intl, Raleigh/Durham",
   "published": "2026-10-07",
   "seats_day": 29394,
