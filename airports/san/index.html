@@ -173,7 +173,100 @@
 </script>
   <div class="tiles"><div class="tile"><b>51</b><span>gates mapped</span></div><div class="tile"><b>644</b><span>flights a day</span></div><div class="tile"><b>46,990</b><span>seats out a day</span></div><div class="tile"><b>60 min</b><span>median turn at the gate</span></div><div class="tile"><b>111</b><span>tows a week</span></div><div class="tile"><b>18%</b><span>departures on regional jets</span></div></div>
   <figure><img class="shot" src="https://chockwise.com/airports/san-gates.png?v=4d182301" width="1600" height="900" loading="lazy" alt="Map of San Diego Airport (SAN) with all 51 gates colored by the airline that uses each most: Southwest 15, Alaska 10, United 5, 7 common use."><figcaption>Every gate at SAN, colored by the airline that holds it.</figcaption></figure>
-  <h2>Gates, seats and flights by airline at SAN</h2>
+  <style>
+  .tv-pill { display:inline-flex; align-items:center; gap:6px; font-size:12px; font-weight:700; letter-spacing:0;
+             text-transform:none; color:#7A5B00; background:#FFF6D6; border:1px dashed #E2B93B; border-radius:999px;
+             padding:3px 10px; }
+  .tv-pill::before { content:""; width:7px; height:7px; border-radius:50%; background:#E2A500; }
+  .tv-meta { display:flex; flex-wrap:wrap; gap:6px 18px; font-size:13px; color:var(--muted); margin:-12px 0 24px; }
+  .tv-meta span + span::before { content:"·"; margin-right:18px; color:#B9B4A6; }
+  .tv-box { background:#fff; border:1px solid var(--line); border-radius:14px; padding:18px; }
+  .tv-strip { overflow-x:auto; padding:6px 2px 4px; }
+  .tv-grid { display:grid; grid-auto-flow:column; grid-auto-columns:minmax(58px, 1fr); grid-template-rows:auto 44px auto;
+             position:relative; min-width:max-content; }
+  .tv-grid::before { content:""; position:absolute; left:0; right:0; top:calc(50% - 22px); height:44px;
+                     border:2px solid var(--navy); border-radius:22px; background:#fff; }
+  .tv-col { display:contents; }
+  .tv-g { justify-self:center; font:700 12px/1 'Archivo', system-ui, sans-serif; border:1.5px solid var(--navy); background:#fff;
+          color:var(--ink); border-radius:6px; padding:6px 8px; margin:2px 4px; cursor:pointer; min-width:44px; }
+  .tv-g.sel { background:var(--chock); }
+  .tv-g.blank { visibility:hidden; }
+  .tv-ic { position:relative; display:flex; gap:3px; align-items:center; justify-content:center; z-index:1; }
+  .ico { display:inline-flex; align-items:center; justify-content:center; width:22px; height:22px; border-radius:50%; flex:none; }
+  .ico svg { width:14px; height:14px; fill:none; stroke:#fff; stroke-width:2; stroke-linecap:round; stroke-linejoin:round; }
+  .ico.big { width:36px; height:36px; border-radius:10px; }
+  .ico.big svg { width:20px; height:20px; }
+  .ico.lounge svg, .ico.amenity svg { fill:#fff; stroke:none; }
+  .tv-more { font-size:11px; color:var(--muted); font-weight:700; }
+  .tv-legend { display:flex; flex-wrap:wrap; gap:4px 14px; font-size:12px; color:var(--muted); }
+  .tv-legend i { display:inline-block; width:9px; height:9px; border-radius:50%; margin-right:5px; }
+  .tv-cols { display:grid; grid-template-columns:320px 1fr; gap:24px; margin-top:28px; align-items:start; }
+  .tv-near h3 { margin:2px 0 12px; font-size:22px; }
+  .tv-near select { width:100%; font:600 15px 'Archivo', system-ui, sans-serif; padding:10px; border:2px solid var(--navy); border-radius:9px; background:#fff; }
+  .tv-gates { display:grid; grid-template-columns:repeat(6, 1fr); gap:6px; margin:12px 0 6px; }
+  .tv-gates .tv-g { margin:0; padding:7px 0; min-width:0; }
+  .tv-nearest { border-top:1px solid #EFECE4; padding:12px 0; display:grid; grid-template-columns:auto 1fr auto; gap:10px; align-items:center; }
+  .tv-nearest small { display:block; font-size:11px; font-weight:700; letter-spacing:1px; text-transform:uppercase; color:var(--muted); }
+  .tv-nearest b { display:block; }
+  .tv-nearest .w { text-align:right; font-size:20px; font-weight:800; white-space:nowrap; }
+  .tv-nearest .w span { display:block; font-size:12px; font-weight:400; color:var(--muted); }
+  .tv-chips { display:flex; flex-wrap:wrap; gap:8px; margin:10px 0 14px; }
+  .tv-chip { font:700 13px 'Archivo', system-ui, sans-serif; border:1px solid var(--line); background:#fff; border-radius:999px;
+             padding:6px 12px; cursor:pointer; color:var(--ink); }
+  .tv-chip.on { background:var(--navy); color:#fff; border-color:var(--navy); }
+  .tv-chip i { display:inline-block; width:8px; height:8px; border-radius:50%; margin-right:6px; }
+  .tv-cards { display:grid; grid-template-columns:repeat(auto-fill, minmax(250px, 1fr)); gap:12px; }
+  .tv-card { background:#fff; border:1px solid var(--line); border-radius:12px; padding:14px; display:grid;
+             grid-template-columns:auto 1fr auto; gap:4px 10px; align-content:start; }
+  .tv-card h3 { margin:0; font-size:16px; line-height:1.25; }
+  .tv-card .k { color:var(--muted); font-size:13px; grid-column:2; }
+  .tv-card .w { font-weight:800; font-size:14px; white-space:nowrap; }
+  .tv-card .tags { grid-column:1 / -1; display:flex; flex-wrap:wrap; gap:6px; margin-top:8px; }
+  .tv-card .hrs { grid-column:1 / -1; font-size:13px; color:var(--muted); margin-top:4px; }
+  .tag { font-size:12px; font-weight:700; padding:2px 8px; border-radius:6px; background:#F1EFE8; color:var(--muted); }
+  .tag.u { background:#FFF6D6; color:#7A5B00; }
+  .tv-card.hide, .tv-card.cut { display:none; }
+  .tv-showall { display:block; margin:14px auto 0; font:700 14px 'Archivo', system-ui, sans-serif; background:#fff;
+                border:1px solid var(--line); border-radius:999px; padding:8px 16px; cursor:pointer; }
+  .tv-walk { display:grid; grid-template-columns:1fr 1fr; gap:10px; }
+  .tv-walk select { font:600 15px 'Archivo', system-ui, sans-serif; padding:8px; border:2px solid var(--navy); border-radius:9px; background:#fff; width:100%; }
+  .tv-res { margin-top:12px; background:var(--navy); color:#fff; border-radius:12px; padding:14px 16px; }
+  .tv-res b { font-size:28px; font-weight:800; }
+  .tv-check { background:#FFFBEA; border:1px solid #F0D98C; border-radius:12px; padding:14px 18px; font-size:14px; color:#5A4A12; margin-top:28px; }
+  .tv-links { display:grid; grid-template-columns:repeat(auto-fill, minmax(240px, 1fr)); gap:10px; }
+  .tv-links a { display:block; background:#fff; border:1px solid var(--line); border-radius:12px; padding:12px 14px;
+                color:var(--ink); text-decoration:none; font-weight:700; }
+  .tv-links a span { display:block; font-weight:400; font-size:13px; color:var(--muted); }
+  .tv-yes { display:grid; grid-template-columns:1.2fr 1fr; border:2px solid var(--navy); border-radius:16px; overflow:hidden; background:#fff; }
+  .tv-yes .l { background:var(--navy); color:#fff; padding:26px; }
+  .tv-yes .l b.big { display:block; font-size:56px; line-height:1; color:var(--chock); margin-bottom:12px; }
+  .tv-yes .l p { color:#C9D0DD; margin:8px 0 0; }
+  .tv-yes .r { padding:18px; display:grid; gap:10px; align-content:start; }
+  .tv-loc { border:1px solid var(--line); border-radius:12px; padding:10px 14px; }
+  .tv-loc b { display:block; }
+  .tv-loc span { color:var(--muted); font-size:13px; }
+  .tv-area { display:block; background:#fff; border:1px solid var(--line); border-radius:12px; padding:16px; color:var(--ink); text-decoration:none; }
+  .tv-area b { font-size:18px; }
+  .tv-area p { margin:6px 0 0; color:var(--muted); font-size:14px; }
+  .tv-traveler { margin-top:48px; border:2px solid var(--chock); border-radius:16px; background:#FFFDF5; padding:22px; }
+  .tv-traveler h2 { margin:8px 0 6px; }
+  .tv-traveler .row { display:grid; grid-template-columns:1fr 1fr; gap:22px; margin-top:16px; }
+  .tv-q { display:flex; justify-content:space-between; gap:10px; background:#fff; border:1px solid var(--line); border-radius:10px;
+          padding:10px 14px; color:var(--ink); text-decoration:none; font-weight:700; font-size:14px; margin-bottom:8px; }
+  .tv-q span { font-weight:400; color:var(--muted); white-space:nowrap; }
+  .tv-list { margin:0; padding:0; list-style:none; }
+  .tv-list li { display:grid; grid-template-columns:auto 1fr auto; gap:10px; align-items:center; padding:9px 0; border-bottom:1px solid #EFECE4; }
+  .tv-list li span { color:var(--muted); font-size:13px; display:block; }
+  .tv-cta { margin-top:48px; background:var(--navy); color:#fff; border-radius:16px; padding:26px; display:flex; flex-wrap:wrap;
+            gap:16px; align-items:center; justify-content:space-between; }
+  .tv-cta h2 { color:#fff; margin:0 0 6px; font-size:20px; }
+  .tv-cta p { color:#C9D0DD; margin:0; max-width:60ch; }
+  .tv-wgrid { display:grid; grid-template-columns:repeat(auto-fill, minmax(118px, 1fr)); gap:8px; }
+  .tv-wc { display:flex; justify-content:space-between; background:#fff; border:1px solid var(--line); border-radius:9px; padding:8px 12px; font-size:14px; }
+  .tv-wc span { color:var(--muted); }
+  .tv-wc.here { background:#FFF6D6; border-color:#E2B93B; }
+  @media (max-width: 860px) { .tv-cols, .tv-yes, .tv-traveler .row { grid-template-columns:1fr; } }
+</style><section class="tv-traveler" aria-label="Chockwise Traveler"><div style="display:flex;flex-wrap:wrap;justify-content:space-between;gap:10px;align-items:center"><p class="kicker" style="margin:0">New · Chockwise Traveler <span class="tv-pill">Unverified listings</span></p><a class="button" style="padding:10px 16px;background:var(--navy);color:#fff" href="/traveler/san">Open the SAN traveler guide →</a></div><h2>Flying from San Diego Airport? Food, coffee and amenities at SAN</h2><p style="margin:0;color:var(--muted)">125 listed places matched to the nearest gate on this map, with estimated walking times.</p><div class="row"><div><div class="tiles" style="margin:0 0 12px"><div class="tile"><b>49</b><span>places to eat and drink</span></div><div class="tile"><b>1</b><span>Starbucks listings</span></div><div class="tile"><b>2</b><span>lounges</span></div><div class="tile"><b>2</b><span>terminals and concourses</span></div></div><ul class="tv-list"><li><span class="ico coffee" style="background:#8B5A2B"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 9h11v4a5 5 0 0 1-5 5h-1a5 5 0 0 1-5-5z"/><path d="M16 10h1.5a2.5 2.5 0 0 1 0 5H16"/><path d="M9 4v2M12 4v2"/></svg></span><div><b>Better Buzz Coffee</b><span>Terminal 1 · near gate 118</span></div><span class="tag u">Unverified</span></li><li><span class="ico food" style="background:#E8662E"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M7 3v7M5 3v5a2 2 0 0 0 4 0V3M7 10v11"/><path d="M17 3c-2 1-3 4-3 8h3v10"/></svg></span><div><b>McDonald&#x27;s</b><span>Terminal 1 · near gate 115</span></div><span class="tag u">Unverified</span></li></ul></div><div><p class="kicker" style="margin:0 0 10px">Top traveler questions at SAN</p><a class="tv-q" href="/traveler/san/starbucks">Does SAN have a Starbucks?<span>Yes · 1 →</span></a><a class="tv-q" href="/traveler/san">Where are the lounges at SAN?<span>2 lounges →</span></a><a class="tv-q" href="/traveler/san/terminal-2">What food is in Terminal 2?<span>93 places →</span></a></div></div></section><h2>Gates, seats and flights by airline at SAN</h2>
   <div class="tablewrap"><table>
     <tr><th>Airline</th><th>Gates held</th><th>Departures a day</th><th>Seats out a day</th><th>Share of seats</th>
         <th>Seats per departure</th><th>Regional jets</th><th>Median turn</th><th>Tows a week</th></tr>
