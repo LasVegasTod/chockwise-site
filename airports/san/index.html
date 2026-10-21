@@ -203,8 +203,15 @@
   .tv-cols { display:grid; grid-template-columns:320px 1fr; gap:24px; margin-top:28px; align-items:start; }
   .tv-near h3 { margin:2px 0 12px; font-size:22px; }
   .tv-near select { width:100%; font:600 15px 'Archivo', system-ui, sans-serif; padding:10px; border:2px solid var(--navy); border-radius:9px; background:#fff; }
-  .tv-gates { display:grid; grid-template-columns:repeat(6, 1fr); gap:6px; margin:12px 0 6px; }
-  .tv-gates .tv-g { margin:0; padding:7px 0; min-width:0; }
+  .tv-gates { display:grid; grid-template-columns:repeat(auto-fill, minmax(52px, 1fr)); gap:6px; margin:12px 0 6px; }
+  .tv-gates .tv-g { margin:0; padding:7px 0; min-width:0; justify-self:stretch; }
+  .tv-g { display:inline-flex; flex-direction:column; align-items:center; }
+  .tv-g .air { display:block; font-size:10px; font-weight:700; line-height:1; margin-top:3px; color:var(--muted); white-space:nowrap; }
+  .tv-g.sel .air { color:var(--ink); }
+  .tv-owners { display:flex; flex-wrap:wrap; align-items:center; gap:4px 12px; font-size:12px; color:var(--muted); margin:-2px 0 10px; }
+  .tv-owners > span:first-child { font-weight:700; color:var(--ink); }
+  .tv-owners .lg i { display:inline-block; width:10px; height:10px; border-radius:3px; margin-right:5px; vertical-align:-1px; }
+  .tv-own { margin:-6px 0 10px; font-weight:700; }
   .tv-nearest { border-top:1px solid #EFECE4; padding:12px 0; display:grid; grid-template-columns:auto 1fr auto; gap:10px; align-items:center; }
   .tv-nearest small { display:block; font-size:11px; font-weight:700; letter-spacing:1px; text-transform:uppercase; color:var(--muted); }
   .tv-nearest b { display:block; }
