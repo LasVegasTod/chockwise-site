@@ -2116,13 +2116,13 @@
  "MLB": {
   "changed": "2026-10-23",
   "flights_day": 19,
-  "gates": 7,
-  "hash": "a9c230e61c6c",
+  "gates": 8,
+  "hash": "3d9b6f082226",
   "name": "Melbourne Orlando Intl",
   "published": "2026-10-19",
   "seats_day": 649,
   "short": "Melbourne, FL",
-  "sig": "{\"common\": 0, \"drawing\": \"70e91abeabd2\", \"gates\": 7, \"held\": {\"AA\": 1, \"DL\": 1, \"G4\": 1}, \"low\": 4}",
+  "sig": "{\"common\": 0, \"drawing\": \"ad6cd8d5b3ec\", \"gates\": 8, \"held\": {\"AA\": 1, \"DL\": 1, \"G4\": 1}, \"low\": 5}",
   "top": "DL",
   "top_gates": 1,
   "updated": "2026-10-23"

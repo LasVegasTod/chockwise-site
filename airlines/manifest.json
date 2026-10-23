@@ -74737,13 +74737,13 @@
     "2"
    ],
    "gone": false,
-   "hash": "1a08d7ee2d6b",
+   "hash": "42b824e951cc",
    "last_seen": "2026-10-22",
    "last_seen_str": "Oct 22, 2026",
    "name": "Allegiant Air",
    "published": "2026-10-23",
    "short": "Allegiant",
-   "sig": "{\"drawing\": \"70e91abeabd2\", \"focus\": [\"2\"], \"held\": [\"2\"], \"held_n\": 1, \"main\": [\"2\"]}",
+   "sig": "{\"drawing\": \"ad6cd8d5b3ec\", \"focus\": [\"2\"], \"held\": [\"2\"], \"held_n\": 1, \"main\": [\"2\"]}",
    "slug": "allegiant",
    "types": [
     "A320",
@@ -74763,13 +74763,13 @@
     "4"
    ],
    "gone": false,
-   "hash": "6b3f30388d8d",
+   "hash": "3d5d76731197",
    "last_seen": "2026-10-22",
    "last_seen_str": "Oct 22, 2026",
    "name": "American Airlines",
    "published": "2026-10-19",
    "short": "American",
-   "sig": "{\"drawing\": \"70e91abeabd2\", \"focus\": [\"4\"], \"held\": [\"4\"], \"held_n\": 1, \"main\": [\"4\"]}",
+   "sig": "{\"drawing\": \"ad6cd8d5b3ec\", \"focus\": [\"4\"], \"held\": [\"4\"], \"held_n\": 1, \"main\": [\"4\"]}",
    "slug": "american",
    "types": [
     "CRJ-900"
@@ -74789,13 +74789,13 @@
     "8"
    ],
    "gone": false,
-   "hash": "5f517145039b",
+   "hash": "556d95adee63",
    "last_seen": "2026-10-22",
    "last_seen_str": "Oct 22, 2026",
    "name": "Delta Air Lines",
    "published": "2026-10-19",
    "short": "Delta",
-   "sig": "{\"drawing\": \"70e91abeabd2\", \"focus\": [\"7\", \"8\"], \"held\": [\"7\"], \"held_n\": 1, \"main\": [\"7\", \"8\"]}",
+   "sig": "{\"drawing\": \"ad6cd8d5b3ec\", \"focus\": [\"7\", \"8\"], \"held\": [\"7\"], \"held_n\": 1, \"main\": [\"7\", \"8\"]}",
    "slug": "delta",
    "types": [
     "717"
