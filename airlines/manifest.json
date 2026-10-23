@@ -27139,7 +27139,7 @@
     "A22"
    ],
    "gone": false,
-   "hash": "2cc983f4fb81",
+   "hash": "fc706939a9e8",
    "last_seen": "2026-10-22",
    "last_seen_str": "Oct 22, 2026",
    "name": "Allegiant Air",
@@ -39045,7 +39045,7 @@
     "G3"
    ],
    "gone": false,
-   "hash": "ca3188adce10",
+   "hash": "12b46dacde3a",
    "last_seen": "2026-10-23",
    "last_seen_str": "Oct 23, 2026",
    "name": "JetBlue",
@@ -74723,11 +74723,39 @@
   }
  },
  "MLB": {
+  "allegiant": {
+   "airport_short": "MLB",
+   "changed": "2026-10-23",
+   "code": "G4",
+   "deps_day": 0.8,
+   "dests": [
+    "ABE",
+    "PIT",
+    "CVG"
+   ],
+   "gates": [
+    "2"
+   ],
+   "gone": false,
+   "hash": "1a08d7ee2d6b",
+   "last_seen": "2026-10-22",
+   "last_seen_str": "Oct 22, 2026",
+   "name": "Allegiant Air",
+   "published": "2026-10-23",
+   "short": "Allegiant",
+   "sig": "{\"drawing\": \"70e91abeabd2\", \"focus\": [\"2\"], \"held\": [\"2\"], \"held_n\": 1, \"main\": [\"2\"]}",
+   "slug": "allegiant",
+   "types": [
+    "A320",
+    "737 MAX 8"
+   ],
+   "updated": "2026-10-23"
+  },
   "american": {
    "airport_short": "MLB",
    "changed": "2026-10-23",
    "code": "AA",
-   "deps_day": 2.6,
+   "deps_day": 2.8,
    "dests": [
     "CLT"
    ],
@@ -74735,13 +74763,13 @@
     "4"
    ],
    "gone": false,
-   "hash": "511b4a36a236",
+   "hash": "6b3f30388d8d",
    "last_seen": "2026-10-22",
    "last_seen_str": "Oct 22, 2026",
    "name": "American Airlines",
    "published": "2026-10-19",
    "short": "American",
-   "sig": "{\"drawing\": \"0e4d6a9abc06\", \"focus\": [\"4\"], \"held\": [\"4\"], \"held_n\": 1, \"main\": [\"4\"]}",
+   "sig": "{\"drawing\": \"70e91abeabd2\", \"focus\": [\"4\"], \"held\": [\"4\"], \"held_n\": 1, \"main\": [\"4\"]}",
    "slug": "american",
    "types": [
     "CRJ-900"
@@ -74757,18 +74785,17 @@
     "ATL"
    ],
    "gates": [
-    "6",
     "7",
     "8"
    ],
    "gone": false,
-   "hash": "03646e50321e",
+   "hash": "5f517145039b",
    "last_seen": "2026-10-22",
    "last_seen_str": "Oct 22, 2026",
    "name": "Delta Air Lines",
    "published": "2026-10-19",
    "short": "Delta",
-   "sig": "{\"drawing\": \"0e4d6a9abc06\", \"focus\": [\"6\", \"7\", \"8\"], \"held\": [\"7\"], \"held_n\": 1, \"main\": [\"6\", \"7\", \"8\"]}",
+   "sig": "{\"drawing\": \"70e91abeabd2\", \"focus\": [\"7\", \"8\"], \"held\": [\"7\"], \"held_n\": 1, \"main\": [\"7\", \"8\"]}",
    "slug": "delta",
    "types": [
     "717"
@@ -88001,7 +88028,7 @@
  "PIE": {
   "allegiant": {
    "airport_short": "PIE",
-   "changed": "2026-10-21",
+   "changed": "2026-10-23",
    "code": "G4",
    "deps_day": 24.9,
    "dests": [
@@ -88023,7 +88050,7 @@
     "8"
    ],
    "gone": false,
-   "hash": "cd43175f7f74",
+   "hash": "7690c08f6a5e",
    "last_seen": "2026-10-20",
    "last_seen_str": "Oct 20, 2026",
    "name": "Allegiant Air",
@@ -88098,7 +88125,7 @@
   },
   "allegiant": {
    "airport_short": "PIT",
-   "changed": "2026-10-20",
+   "changed": "2026-10-23",
    "code": "G4",
    "deps_day": 4.3,
    "dests": [
@@ -88116,9 +88143,9 @@
     "A22"
    ],
    "gone": false,
-   "hash": "90294b683010",
-   "last_seen": "2026-10-12",
-   "last_seen_str": "Oct 12, 2026",
+   "hash": "9c3897b78e4d",
+   "last_seen": "2026-10-22",
+   "last_seen_str": "Oct 22, 2026",
    "name": "Allegiant Air",
    "published": "2026-10-07",
    "short": "Allegiant",
@@ -88155,7 +88182,7 @@
     "B12"
    ],
    "gone": false,
-   "hash": "799a627f5d3f",
+   "hash": "6aefab135b78",
    "last_seen": "2026-10-23",
    "last_seen_str": "Oct 23, 2026",
    "name": "American Airlines",
@@ -88225,7 +88252,7 @@
     "D7"
    ],
    "gone": false,
-   "hash": "eedf0cc68051",
+   "hash": "2a80634e11a7",
    "last_seen": "2026-10-23",
    "last_seen_str": "Oct 23, 2026",
    "name": "Delta Air Lines",
@@ -88318,13 +88345,13 @@
     "A17"
    ],
    "gone": false,
-   "hash": "1245a6d1009b",
+   "hash": "9d6b1bc0e088",
    "last_seen": "2026-10-23",
    "last_seen_str": "Oct 23, 2026",
    "name": "Southwest Airlines",
    "published": "2026-10-07",
    "short": "Southwest",
-   "sig": "{\"drawing\": \"58b59b1cbb21\", \"focus\": [\"A1\", \"A3\", \"A5\", \"A7\", \"A9\", \"A11\", \"A13\", \"A17\", \"A19\", \"A21\"], \"held\": [\"A1\", \"A3\", \"A5\", \"A7\", \"A9\", \"A11\", \"A13\", \"A15\", \"A17\", \"A19\"], \"held_n\": 10, \"main\": [\"A1\", \"A3\", \"A5\", \"A7\", \"A9\", \"A11\", \"A13\", \"A17\", \"A19\", \"A21\"]}",
+   "sig": "{\"drawing\": \"58b59b1cbb21\", \"focus\": [\"A1\", \"A3\", \"A5\", \"A7\", \"A9\", \"A11\", \"A13\", \"A17\", \"A19\", \"A21\"], \"held\": [\"A1\", \"A3\", \"A5\", \"A7\", \"A9\", \"A11\", \"A13\", \"A15\", \"A17\"], \"held_n\": 9, \"main\": [\"A1\", \"A3\", \"A5\", \"A7\", \"A9\", \"A11\", \"A13\", \"A17\", \"A19\", \"A21\"]}",
    "slug": "southwest",
    "types": [
     "737 MAX 8",
@@ -88357,7 +88384,7 @@
     "A16"
    ],
    "gone": false,
-   "hash": "b3597cb42aec",
+   "hash": "80611deb0ccd",
    "last_seen": "2026-10-23",
    "last_seen_str": "Oct 23, 2026",
    "name": "United Airlines",
@@ -92909,7 +92936,7 @@
     "B9"
    ],
    "gone": false,
-   "hash": "af6c95968faf",
+   "hash": "d9e2daa8f226",
    "last_seen": "2026-10-22",
    "last_seen_str": "Oct 22, 2026",
    "name": "Sun Country Airlines",
@@ -104093,7 +104120,7 @@
     "A10"
    ],
    "gone": false,
-   "hash": "d96ddf8a9b88",
+   "hash": "21ca8fd8fe60",
    "last_seen": "2026-10-23",
    "last_seen_str": "Oct 23, 2026",
    "name": "United Airlines",
@@ -109054,7 +109081,7 @@
     "D28"
    ],
    "gone": false,
-   "hash": "052219f98f0b",
+   "hash": "5382045fe591",
    "last_seen": "2026-10-23",
    "last_seen_str": "Oct 23, 2026",
    "name": "Air Canada",
