@@ -1528,15 +1528,15 @@
  "IAH": {
   "changed": "2026-10-23",
   "flights_day": 1206,
-  "gates": 147,
-  "hash": "1846b926ccc3",
+  "gates": 169,
+  "hash": "743da4ee8aae",
   "name": "Houston Bush Int'ctl",
   "published": "2026-10-06",
   "seats_day": 75790,
   "short": "Houston Bush",
-  "sig": "{\"common\": 6, \"drawing\": \"974f59ba7ec1\", \"gates\": 147, \"held\": {\"AA\": 6, \"AM\": 1, \"AS\": 1, \"B6\": 2, \"BA\": 1, \"DL\": 5, \"F9\": 3, \"KL\": 1, \"NZ\": 1, \"QR\": 1, \"UA\": 85, \"Y4\": 1}, \"low\": 33}",
+  "sig": "{\"common\": 6, \"drawing\": \"5105df3bfd15\", \"gates\": 169, \"held\": {\"AA\": 6, \"AM\": 1, \"AS\": 1, \"B6\": 2, \"BA\": 1, \"DL\": 5, \"F9\": 3, \"KL\": 1, \"NZ\": 1, \"QR\": 1, \"UA\": 87, \"Y4\": 1}, \"low\": 53}",
   "top": "UA",
-  "top_gates": 85,
+  "top_gates": 87,
   "updated": "2026-10-23"
  },
  "ICN": {
