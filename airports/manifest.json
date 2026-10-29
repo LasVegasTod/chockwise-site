@@ -2435,6 +2435,20 @@
   "top_gates": 7,
   "updated": "2026-10-29"
  },
+ "OTP": {
+  "changed": "2026-10-29",
+  "flights_day": 296,
+  "gates": 34,
+  "hash": "9ce8e66c041f",
+  "name": "Bucharest Henri Coand\u0103 Int'l",
+  "published": "2026-10-29",
+  "seats_day": 10267,
+  "short": "Bucharest",
+  "sig": "{\"common\": 27, \"drawing\": \"23714597f84a\", \"gates\": 34, \"held\": {\"TK\": 1}, \"low\": 6}",
+  "top": "TK",
+  "top_gates": 1,
+  "updated": "2026-10-29"
+ },
  "PBH": {
   "changed": "2026-10-19",
   "flights_day": 25,
