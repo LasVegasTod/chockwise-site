@@ -8667,7 +8667,7 @@
     "2"
    ],
    "gone": false,
-   "hash": "54d6e74add2a",
+   "hash": "959849d2fb68",
    "last_seen": "2026-10-20",
    "last_seen_str": "Oct 20, 2026",
    "name": "Air Canada",
@@ -8695,7 +8695,7 @@
     "36"
    ],
    "gone": false,
-   "hash": "5c3a4ca90cdf",
+   "hash": "3290aea32032",
    "last_seen": "2026-10-30",
    "last_seen_str": "Oct 30, 2026",
    "name": "Alaska Airlines",
@@ -8712,7 +8712,7 @@
   },
   "allegiant": {
    "airport_short": "AUS",
-   "changed": "2026-10-29",
+   "changed": "2026-10-31",
    "code": "G4",
    "deps_day": 2.0,
    "dests": [
@@ -8728,7 +8728,7 @@
     "37"
    ],
    "gone": false,
-   "hash": "330fd8588abd",
+   "hash": "622c2e136ee2",
    "last_seen": "2026-10-05",
    "last_seen_str": "Oct 5, 2026",
    "name": "Allegiant Air",
@@ -8765,7 +8765,7 @@
     "35"
    ],
    "gone": false,
-   "hash": "421334dc314c",
+   "hash": "ef54857b30aa",
    "last_seen": "2026-10-31",
    "last_seen_str": "Oct 31, 2026",
    "name": "American Airlines",
@@ -8782,7 +8782,7 @@
   },
   "copa": {
    "airport_short": "AUS",
-   "changed": "2026-10-29",
+   "changed": "2026-10-31",
    "code": "CM",
    "deps_day": 0.7,
    "dests": [
@@ -8793,7 +8793,7 @@
     "6"
    ],
    "gone": false,
-   "hash": "ca135e76c682",
+   "hash": "dfc161b453ba",
    "last_seen": "2026-10-05",
    "last_seen_str": "Oct 5, 2026",
    "name": "Copa Airlines",
@@ -8831,7 +8831,7 @@
     "8"
    ],
    "gone": false,
-   "hash": "57852a4e1063",
+   "hash": "944f61f1fc61",
    "last_seen": "2026-10-30",
    "last_seen_str": "Oct 30, 2026",
    "name": "Delta Air Lines",
@@ -8863,7 +8863,7 @@
     "37"
    ],
    "gone": false,
-   "hash": "9a6085d3996a",
+   "hash": "09d1b072edd7",
    "last_seen": "2026-10-30",
    "last_seen_str": "Oct 30, 2026",
    "name": "Frontier Airlines",
@@ -8894,7 +8894,7 @@
     "36"
    ],
    "gone": false,
-   "hash": "2dc39ff212ec",
+   "hash": "068657804df0",
    "last_seen": "2026-10-30",
    "last_seen_str": "Oct 30, 2026",
    "name": "JetBlue",
@@ -8910,7 +8910,7 @@
   },
   "lufthansa": {
    "airport_short": "AUS",
-   "changed": "2026-10-29",
+   "changed": "2026-10-31",
    "code": "LH",
    "deps_day": 0.7,
    "dests": [
@@ -8920,7 +8920,7 @@
     "6"
    ],
    "gone": false,
-   "hash": "eed2e3290b7e",
+   "hash": "953b3a828675",
    "last_seen": "2026-10-10",
    "last_seen_str": "Oct 10, 2026",
    "name": "Lufthansa",
@@ -8957,7 +8957,7 @@
     "18"
    ],
    "gone": false,
-   "hash": "8e0a5ee3bf8c",
+   "hash": "154ab113361b",
    "last_seen": "2026-10-31",
    "last_seen_str": "Oct 31, 2026",
    "name": "Southwest Airlines",
@@ -8995,7 +8995,7 @@
     "35"
    ],
    "gone": false,
-   "hash": "7cb26a71efd6",
+   "hash": "89372ecac776",
    "last_seen": "2026-10-30",
    "last_seen_str": "Oct 30, 2026",
    "name": "United Airlines",
@@ -9023,7 +9023,7 @@
     "4"
    ],
    "gone": false,
-   "hash": "6bc7c3adbc79",
+   "hash": "55fa111d4fb9",
    "last_seen": "2026-10-05",
    "last_seen_str": "Oct 5, 2026",
    "name": "Viva Aerobus",
@@ -28945,7 +28945,7 @@
     "A47"
    ],
    "gone": false,
-   "hash": "4032c2674314",
+   "hash": "92ec81167023",
    "last_seen": "2026-10-30",
    "last_seen_str": "Oct 30, 2026",
    "name": "Air Canada",
@@ -28977,7 +28977,7 @@
     "A47"
    ],
    "gone": false,
-   "hash": "cf925db525fc",
+   "hash": "7c11c2e4a7ed",
    "last_seen": "2026-10-24",
    "last_seen_str": "Oct 24, 2026",
    "name": "Air Canada Rouge",
@@ -29002,7 +29002,7 @@
     "A33"
    ],
    "gone": false,
-   "hash": "82b4743b9e4e",
+   "hash": "490170cd350c",
    "last_seen": "2026-10-10",
    "last_seen_str": "Oct 10, 2026",
    "name": "Air France",
@@ -29036,7 +29036,7 @@
     "A47"
    ],
    "gone": false,
-   "hash": "b90470eeb0bd",
+   "hash": "82a52ededb6f",
    "last_seen": "2026-10-31",
    "last_seen_str": "Oct 31, 2026",
    "name": "Alaska Airlines",
@@ -29075,7 +29075,7 @@
     "47"
    ],
    "gone": false,
-   "hash": "2ebb1110c43a",
+   "hash": "539ef8149162",
    "last_seen": "2026-10-30",
    "last_seen_str": "Oct 30, 2026",
    "name": "Allegiant Air",
@@ -29113,7 +29113,7 @@
     "C38"
    ],
    "gone": false,
-   "hash": "c4a2ab3c952b",
+   "hash": "c5a55248320e",
    "last_seen": "2026-10-31",
    "last_seen_str": "Oct 31, 2026",
    "name": "American Airlines",
@@ -29144,7 +29144,7 @@
     "A43"
    ],
    "gone": false,
-   "hash": "ff0c15e63b94",
+   "hash": "2dc75967fbda",
    "last_seen": "2026-10-30",
    "last_seen_str": "Oct 30, 2026",
    "name": "Copa Airlines",
@@ -29182,7 +29182,7 @@
     "A45"
    ],
    "gone": false,
-   "hash": "6a73db4ecfae",
+   "hash": "9f8ee028bbd2",
    "last_seen": "2026-10-30",
    "last_seen_str": "Oct 30, 2026",
    "name": "Delta Air Lines",
@@ -29221,7 +29221,7 @@
     "A76"
    ],
    "gone": false,
-   "hash": "214924d3f163",
+   "hash": "e7cac39eb746",
    "last_seen": "2026-10-30",
    "last_seen_str": "Oct 30, 2026",
    "name": "Frontier Airlines",
@@ -29255,7 +29255,7 @@
     "A39"
    ],
    "gone": false,
-   "hash": "0f7aecadc6cd",
+   "hash": "1ef63ca26ac7",
    "last_seen": "2026-10-30",
    "last_seen_str": "Oct 30, 2026",
    "name": "JetBlue",
@@ -29284,7 +29284,7 @@
     "A45"
    ],
    "gone": false,
-   "hash": "424a1999b682",
+   "hash": "91e7ade76ab6",
    "last_seen": "2026-10-30",
    "last_seen_str": "Oct 30, 2026",
    "name": "Lufthansa",
@@ -29322,7 +29322,7 @@
     "C31"
    ],
    "gone": false,
-   "hash": "559c68355238",
+   "hash": "81ab34db5010",
    "last_seen": "2026-10-31",
    "last_seen_str": "Oct 31, 2026",
    "name": "Southwest Airlines",
@@ -29356,7 +29356,7 @@
     "A42"
    ],
    "gone": false,
-   "hash": "8cdc3fcdd94e",
+   "hash": "7fd858ed60e3",
    "last_seen": "2026-10-30",
    "last_seen_str": "Oct 30, 2026",
    "name": "Sun Country Airlines",
@@ -29393,7 +29393,7 @@
     "B12"
    ],
    "gone": false,
-   "hash": "28be31445500",
+   "hash": "418b17ab43d8",
    "last_seen": "2026-10-31",
    "last_seen_str": "Oct 31, 2026",
    "name": "United Airlines",
@@ -29427,7 +29427,7 @@
     "A47"
    ],
    "gone": false,
-   "hash": "52f0096ab7d9",
+   "hash": "ae9f19c15a3c",
    "last_seen": "2026-10-30",
    "last_seen_str": "Oct 30, 2026",
    "name": "Volaris",
@@ -72159,7 +72159,7 @@
  "MDW": {
   "allegiant": {
    "airport_short": "MDW",
-   "changed": "2026-10-29",
+   "changed": "2026-10-31",
    "code": "G4",
    "deps_day": 1.0,
    "dests": [
@@ -72171,7 +72171,7 @@
     "A12"
    ],
    "gone": false,
-   "hash": "c16ed1d45ca3",
+   "hash": "9361df9bb61f",
    "last_seen": "2026-10-09",
    "last_seen_str": "Oct 9, 2026",
    "name": "Allegiant Air",
@@ -72200,7 +72200,7 @@
     "A7"
    ],
    "gone": false,
-   "hash": "30c642474fd2",
+   "hash": "79d46f5aedfc",
    "last_seen": "2026-10-30",
    "last_seen_str": "Oct 30, 2026",
    "name": "Delta Air Lines",
@@ -72228,7 +72228,7 @@
     "C2"
    ],
    "gone": false,
-   "hash": "5b39a0fbacda",
+   "hash": "ab6f3011c508",
    "last_seen": "2026-10-30",
    "last_seen_str": "Oct 30, 2026",
    "name": "Frontier Airlines",
@@ -72265,7 +72265,7 @@
     "A4B"
    ],
    "gone": false,
-   "hash": "b899253d9cfd",
+   "hash": "f237db13601a",
    "last_seen": "2026-10-31",
    "last_seen_str": "Oct 31, 2026",
    "name": "Southwest Airlines",
@@ -72282,7 +72282,7 @@
   },
   "volaris": {
    "airport_short": "MDW",
-   "changed": "2026-10-29",
+   "changed": "2026-10-31",
    "code": "Y4",
    "deps_day": 4.3,
    "dests": [
@@ -72298,7 +72298,7 @@
     "A2"
    ],
    "gone": false,
-   "hash": "67da24640710",
+   "hash": "d3bc2f2d0fb7",
    "last_seen": "2026-10-05",
    "last_seen_str": "Oct 5, 2026",
    "name": "Volaris",
