@@ -9714,6 +9714,2973 @@
    "updated": "2026-11-02"
   }
  },
+ "BCN": {
+  "aegean": {
+   "airport_short": "BCN",
+   "changed": "2026-11-02",
+   "code": "A3",
+   "data": "2026-11-02",
+   "deps_day": 2.4,
+   "dests": [
+    "ATH",
+    "SKG",
+    "LIS"
+   ],
+   "gates": [
+    "B24",
+    "B25",
+    "B28",
+    "B32",
+    "B36",
+    "B37",
+    "B40",
+    "B41"
+   ],
+   "gone": false,
+   "hash": "451aaaf96b0f",
+   "last_seen": "2026-11-01",
+   "last_seen_str": "Nov 1, 2026",
+   "name": "Aegean Airlines",
+   "published": "2026-11-02",
+   "short": "Aegean",
+   "sig": "{\"drawing\": \"caa1535ac516\", \"focus\": [\"B24\", \"B28\", \"B32\", \"B36\", \"B40\", \"B44\", \"B48\", \"B52\", \"B56\", \"B63\", \"C70\", \"C72\"], \"held\": [], \"held_n\": 0, \"main\": [\"B24\", \"B25\", \"B28\", \"B32\", \"B36\", \"B37\", \"B40\", \"B41\", \"B44\", \"B48\", \"B52\", \"B56\", \"B63\", \"C70\", \"C72\", \"C74\"]}",
+   "slug": "aegean",
+   "types": [
+    "A321neo",
+    "A320",
+    "A320neo"
+   ],
+   "updated": "2026-11-02"
+  },
+  "aer-lingus": {
+   "airport_short": "BCN",
+   "changed": "2026-11-02",
+   "code": "EI",
+   "data": "2026-11-02",
+   "deps_day": 1.8,
+   "dests": [
+    "DUB"
+   ],
+   "gates": [
+    "W42",
+    "W43",
+    "W44",
+    "W45",
+    "W46",
+    "W48",
+    "Y53",
+    "Y54"
+   ],
+   "gone": false,
+   "hash": "bd6f0fd3a30b",
+   "last_seen": "2026-11-01",
+   "last_seen_str": "Nov 1, 2026",
+   "name": "Aer Lingus",
+   "published": "2026-11-02",
+   "short": "Aer Lingus",
+   "sig": "{\"drawing\": \"caa1535ac516\", \"focus\": [\"W42\", \"W43\", \"W44\", \"W45\", \"W46\", \"W48\", \"Y53\", \"Y54\", \"Y55\", \"Y57\", \"Y58\"], \"held\": [], \"held_n\": 0, \"main\": [\"W42\", \"W43\", \"W44\", \"W45\", \"W46\", \"W48\", \"Y53\", \"Y54\", \"Y55\", \"Y57\", \"Y58\"]}",
+   "slug": "aer-lingus",
+   "types": [
+    "A320",
+    "A320neo",
+    "A321neo"
+   ],
+   "updated": "2026-11-02"
+  },
+  "aer-lingus-regional": {
+   "airport_short": "BCN",
+   "changed": "2026-11-02",
+   "code": "EA",
+   "data": "2026-11-02",
+   "deps_day": 0.1,
+   "dests": [
+    "VAR",
+    "MAD"
+   ],
+   "gates": [
+    "R14",
+    "U37"
+   ],
+   "gone": false,
+   "hash": "1c2cc4f8b528",
+   "last_seen": "2026-10-20",
+   "last_seen_str": "Oct 20, 2026",
+   "name": "Aer Lingus Regional (Emerald Airlines)",
+   "published": "2026-11-02",
+   "short": "Aer Lingus Regional",
+   "sig": "{\"drawing\": \"caa1535ac516\", \"focus\": [\"R14\", \"U37\"], \"held\": [], \"held_n\": 0, \"main\": [\"R14\", \"U37\"]}",
+   "slug": "aer-lingus-regional",
+   "types": [
+    "A320"
+   ],
+   "updated": "2026-11-02"
+  },
+  "aeromexico": {
+   "airport_short": "BCN",
+   "changed": "2026-11-02",
+   "code": "AM",
+   "data": "2026-11-02",
+   "deps_day": 1.2,
+   "dests": [
+    "MEX",
+    "AMS",
+    "KTW",
+    "BCN"
+   ],
+   "gates": [
+    "B28",
+    "E70",
+    "C74",
+    "E76",
+    "C78",
+    "E80",
+    "C82",
+    "C84"
+   ],
+   "gone": false,
+   "hash": "55262308e9cd",
+   "last_seen": "2026-11-01",
+   "last_seen_str": "Nov 1, 2026",
+   "name": "Aerom\u00e9xico",
+   "published": "2026-11-02",
+   "short": "Aerom\u00e9xico",
+   "sig": "{\"drawing\": \"caa1535ac516\", \"focus\": [\"B28\", \"E70\", \"C74\", \"E76\", \"C78\", \"E80\", \"C82\", \"C84\"], \"held\": [], \"held_n\": 0, \"main\": [\"B28\", \"E70\", \"C74\", \"E76\", \"C78\", \"E80\", \"C82\", \"C84\"]}",
+   "slug": "aeromexico",
+   "types": [
+    "787-9",
+    "A320",
+    "787-8"
+   ],
+   "updated": "2026-11-02"
+  },
+  "air-algerie": {
+   "airport_short": "BCN",
+   "changed": "2026-11-02",
+   "code": "AH",
+   "data": "2026-11-02",
+   "deps_day": 1.3,
+   "dests": [
+    "ALG",
+    "ORN"
+   ],
+   "gates": [
+    "D03",
+    "D06",
+    "D07",
+    "D09",
+    "D11",
+    "D13",
+    "A16",
+    "A17"
+   ],
+   "gone": false,
+   "hash": "106be9a8e6bf",
+   "last_seen": "2026-11-01",
+   "last_seen_str": "Nov 1, 2026",
+   "name": "Air Alg\u00e9rie",
+   "published": "2026-11-02",
+   "short": "Air Alg\u00e9rie",
+   "sig": "{\"drawing\": \"caa1535ac516\", \"focus\": [\"D03\", \"D06\", \"D07\", \"D09\", \"D11\", \"D13\", \"A16\", \"A17\", \"D19\", \"D21\"], \"held\": [], \"held_n\": 0, \"main\": [\"D03\", \"D06\", \"D07\", \"D09\", \"D11\", \"D13\", \"A16\", \"A17\", \"D19\", \"D21\"]}",
+   "slug": "air-algerie",
+   "types": [
+    "737-800",
+    "737 MAX 8"
+   ],
+   "updated": "2026-11-02"
+  },
+  "air-arabia-maroc": {
+   "airport_short": "BCN",
+   "changed": "2026-11-02",
+   "code": "3O",
+   "data": "2026-11-02",
+   "deps_day": 2.8,
+   "dests": [
+    "TNG",
+    "NDR",
+    "CMN",
+    "RBA"
+   ],
+   "gates": [
+    "W43",
+    "W44",
+    "W45",
+    "W46",
+    "Y53",
+    "Y54",
+    "Y55",
+    "Y57"
+   ],
+   "gone": false,
+   "hash": "1fe4ae11c8c9",
+   "last_seen": "2026-11-01",
+   "last_seen_str": "Nov 1, 2026",
+   "name": "Air Arabia Maroc",
+   "published": "2026-11-02",
+   "short": "Air Arabia Maroc",
+   "sig": "{\"drawing\": \"caa1535ac516\", \"focus\": [\"W43\", \"W44\", \"W46\", \"Y53\", \"Y54\", \"Y55\", \"Y57\", \"Y58\"], \"held\": [], \"held_n\": 0, \"main\": [\"W43\", \"W44\", \"W45\", \"W46\", \"Y53\", \"Y54\", \"Y55\", \"Y57\", \"Y58\"]}",
+   "slug": "air-arabia-maroc",
+   "types": [
+    "A320"
+   ],
+   "updated": "2026-11-02"
+  },
+  "air-cairo": {
+   "airport_short": "BCN",
+   "changed": "2026-11-02",
+   "code": "SM",
+   "data": "2026-11-02",
+   "deps_day": 0.1,
+   "dests": [
+    "LXR"
+   ],
+   "gates": [
+    "W43",
+    "W46",
+    "Y54"
+   ],
+   "gone": false,
+   "hash": "58c1c6b52d99",
+   "last_seen": "2026-10-31",
+   "last_seen_str": "Oct 31, 2026",
+   "name": "Air Cairo",
+   "published": "2026-11-02",
+   "short": "Air Cairo",
+   "sig": "{\"drawing\": \"caa1535ac516\", \"focus\": [\"W43\", \"W46\", \"Y54\"], \"held\": [], \"held_n\": 0, \"main\": [\"W43\", \"W46\", \"Y54\"]}",
+   "slug": "air-cairo",
+   "types": [
+    "A320",
+    "A320neo"
+   ],
+   "updated": "2026-11-02"
+  },
+  "air-canada": {
+   "airport_short": "BCN",
+   "changed": "2026-11-02",
+   "code": "AC",
+   "data": "2026-11-02",
+   "deps_day": 1.8,
+   "dests": [
+    "YUL",
+    "YYZ",
+    "LIS",
+    "EWR"
+   ],
+   "gates": [
+    "D03",
+    "D07",
+    "D09",
+    "D11",
+    "D13",
+    "D15",
+    "A17",
+    "D21"
+   ],
+   "gone": false,
+   "hash": "cd407e92befa",
+   "last_seen": "2026-11-01",
+   "last_seen_str": "Nov 1, 2026",
+   "name": "Air Canada",
+   "published": "2026-11-02",
+   "short": "Air Canada",
+   "sig": "{\"drawing\": \"caa1535ac516\", \"focus\": [\"D03\", \"D07\", \"D09\", \"D11\", \"D13\", \"D15\", \"A17\", \"D21\", \"E70\", \"C72\", \"E76\", \"E80\", \"C82\", \"C84\"], \"held\": [], \"held_n\": 0, \"main\": [\"D03\", \"D07\", \"D09\", \"D11\", \"D13\", \"D15\", \"A17\", \"D21\", \"E70\", \"C72\", \"E76\", \"E80\", \"C82\", \"C84\"]}",
+   "slug": "air-canada",
+   "types": [
+    "777-300ER",
+    "A330-300",
+    "A320"
+   ],
+   "updated": "2026-11-02"
+  },
+  "air-china": {
+   "airport_short": "BCN",
+   "changed": "2026-11-02",
+   "code": "CA",
+   "data": "2026-11-02",
+   "deps_day": 2.0,
+   "dests": [
+    "PVG",
+    "PEK"
+   ],
+   "gates": [
+    "D07",
+    "D11",
+    "D13",
+    "D15",
+    "A17",
+    "D21",
+    "C72",
+    "C74"
+   ],
+   "gone": false,
+   "hash": "c208fbac694f",
+   "last_seen": "2026-11-01",
+   "last_seen_str": "Nov 1, 2026",
+   "name": "Air China",
+   "published": "2026-11-02",
+   "short": "Air China",
+   "sig": "{\"drawing\": \"caa1535ac516\", \"focus\": [\"D07\", \"D11\", \"D13\", \"D15\", \"A17\", \"D21\", \"C72\", \"C74\", \"E76\", \"E80\", \"C82\"], \"held\": [], \"held_n\": 0, \"main\": [\"D07\", \"D11\", \"D13\", \"D15\", \"A17\", \"D21\", \"C72\", \"C74\", \"E76\", \"C78\", \"E80\", \"C82\", \"C84\"]}",
+   "slug": "air-china",
+   "types": [
+    "A350-900",
+    "A350"
+   ],
+   "updated": "2026-11-02"
+  },
+  "air-europa": {
+   "airport_short": "BCN",
+   "changed": "2026-11-02",
+   "code": "UX",
+   "data": "2026-11-02",
+   "deps_day": 7.9,
+   "dests": [
+    "PMI",
+    "MAD",
+    "BEG",
+    "SVQ"
+   ],
+   "gates": [
+    "A01",
+    "B24",
+    "B28",
+    "B32",
+    "B33",
+    "B36",
+    "B40",
+    "B44"
+   ],
+   "gone": false,
+   "hash": "d6a3833fb2fb",
+   "last_seen": "2026-11-01",
+   "last_seen_str": "Nov 1, 2026",
+   "name": "Air Europa",
+   "published": "2026-11-02",
+   "short": "Air Europa",
+   "sig": "{\"drawing\": \"caa1535ac516\", \"focus\": [\"B24\", \"B28\", \"B32\", \"B36\", \"B40\", \"B44\", \"B48\", \"B52\", \"B56\", \"B62\", \"C72\"], \"held\": [], \"held_n\": 0, \"main\": [\"A01\", \"B24\", \"B28\", \"B32\", \"B33\", \"B36\", \"B40\", \"B44\", \"B48\", \"B49\", \"B52\", \"B56\", \"B62\", \"B67\", \"B68\", \"C72\", \"C74\", \"C80\", \"C82\", \"C84\"]}",
+   "slug": "air-europa",
+   "types": [
+    "737-800",
+    "787-9",
+    "787-8"
+   ],
+   "updated": "2026-11-02"
+  },
+  "air-france": {
+   "airport_short": "BCN",
+   "changed": "2026-11-02",
+   "code": "AF",
+   "data": "2026-11-02",
+   "deps_day": 7.7,
+   "dests": [
+    "CDG",
+    "JFK",
+    "BOS"
+   ],
+   "gates": [
+    "B24",
+    "B28",
+    "B32",
+    "B33",
+    "B36",
+    "B40",
+    "B41",
+    "B44"
+   ],
+   "gone": false,
+   "hash": "960169483aa3",
+   "last_seen": "2026-11-01",
+   "last_seen_str": "Nov 1, 2026",
+   "name": "Air France",
+   "published": "2026-11-02",
+   "short": "Air France",
+   "sig": "{\"drawing\": \"caa1535ac516\", \"focus\": [\"B24\", \"B28\", \"B32\", \"B36\", \"B40\", \"B44\", \"B48\", \"B52\", \"B56\", \"C72\", \"C74\", \"C80\"], \"held\": [], \"held_n\": 0, \"main\": [\"B24\", \"B28\", \"B32\", \"B33\", \"B36\", \"B40\", \"B41\", \"B44\", \"B48\", \"B52\", \"B56\", \"B62\", \"B68\", \"C70\", \"C72\", \"C74\", \"C76\", \"C78\", \"C80\", \"C82\"]}",
+   "slug": "air-france",
+   "types": [
+    "A320",
+    "A220-300",
+    "E190"
+   ],
+   "updated": "2026-11-02"
+  },
+  "air-serbia": {
+   "airport_short": "BCN",
+   "changed": "2026-11-02",
+   "code": "JU",
+   "data": "2026-11-02",
+   "deps_day": 1.5,
+   "dests": [
+    "BEG"
+   ],
+   "gates": [
+    "W43",
+    "W44",
+    "W45",
+    "W46",
+    "Y53",
+    "Y54",
+    "Y55",
+    "Y57"
+   ],
+   "gone": false,
+   "hash": "8bb6fc1bb7bf",
+   "last_seen": "2026-11-01",
+   "last_seen_str": "Nov 1, 2026",
+   "name": "Air Serbia",
+   "published": "2026-11-02",
+   "short": "Air Serbia",
+   "sig": "{\"drawing\": \"caa1535ac516\", \"focus\": [\"W43\", \"W44\", \"W45\", \"W46\", \"Y53\", \"Y54\", \"Y55\", \"Y57\", \"Y58\"], \"held\": [], \"held_n\": 0, \"main\": [\"W43\", \"W44\", \"W45\", \"W46\", \"Y53\", \"Y54\", \"Y55\", \"Y57\", \"Y58\"]}",
+   "slug": "air-serbia",
+   "types": [
+    "A320",
+    "A319",
+    "A220-300"
+   ],
+   "updated": "2026-11-02"
+  },
+  "air-transat": {
+   "airport_short": "BCN",
+   "changed": "2026-11-02",
+   "code": "TS",
+   "data": "2026-11-02",
+   "deps_day": 0.8,
+   "dests": [
+    "YUL"
+   ],
+   "gates": [
+    "W43",
+    "W45",
+    "W46",
+    "Y53",
+    "Y54",
+    "Y55",
+    "Y57",
+    "Y58"
+   ],
+   "gone": false,
+   "hash": "4b505c72bfde",
+   "last_seen": "2026-11-01",
+   "last_seen_str": "Nov 1, 2026",
+   "name": "Air Transat",
+   "published": "2026-11-02",
+   "short": "Air Transat",
+   "sig": "{\"drawing\": \"caa1535ac516\", \"focus\": [\"W43\", \"W45\", \"W46\", \"Y53\", \"Y54\", \"Y55\", \"Y57\", \"Y58\", \"Y59\"], \"held\": [], \"held_n\": 0, \"main\": [\"W43\", \"W45\", \"W46\", \"Y53\", \"Y54\", \"Y55\", \"Y57\", \"Y58\", \"Y59\"]}",
+   "slug": "air-transat",
+   "types": [
+    "A321neo",
+    "A321"
+   ],
+   "updated": "2026-11-02"
+  },
+  "airbaltic": {
+   "airport_short": "BCN",
+   "changed": "2026-11-02",
+   "code": "BT",
+   "data": "2026-11-02",
+   "deps_day": 1.1,
+   "dests": [
+    "RIX",
+    "TLL"
+   ],
+   "gates": [
+    "R10",
+    "R13",
+    "R14",
+    "S20",
+    "S21",
+    "S22",
+    "S23",
+    "S24"
+   ],
+   "gone": false,
+   "hash": "daa1d95d22d6",
+   "last_seen": "2026-11-01",
+   "last_seen_str": "Nov 1, 2026",
+   "name": "airBaltic",
+   "published": "2026-11-02",
+   "short": "airBaltic",
+   "sig": "{\"drawing\": \"caa1535ac516\", \"focus\": [\"R10\", \"R13\", \"R14\", \"S20\", \"S21\", \"S22\", \"S23\", \"S24\", \"U31\", \"U32\", \"U33\", \"U34\", \"U35\", \"U36\"], \"held\": [], \"held_n\": 0, \"main\": [\"R10\", \"R13\", \"R14\", \"S20\", \"S21\", \"S22\", \"S23\", \"S24\", \"U31\", \"U32\", \"U33\", \"U34\", \"U35\", \"U36\"]}",
+   "slug": "airbaltic",
+   "types": [
+    "A220-300"
+   ],
+   "updated": "2026-11-02"
+  },
+  "ajet": {
+   "airport_short": "BCN",
+   "changed": "2026-11-02",
+   "code": "VF",
+   "data": "2026-11-02",
+   "deps_day": 0.8,
+   "dests": [
+    "ESB"
+   ],
+   "gates": [
+    "W44",
+    "W45",
+    "W46",
+    "Y53",
+    "Y55",
+    "Y57",
+    "Y58"
+   ],
+   "gone": false,
+   "hash": "6422c913a214",
+   "last_seen": "2026-11-01",
+   "last_seen_str": "Nov 1, 2026",
+   "name": "AJet",
+   "published": "2026-11-02",
+   "short": "AJet",
+   "sig": "{\"drawing\": \"caa1535ac516\", \"focus\": [\"W44\", \"W45\", \"W46\", \"Y53\", \"Y55\", \"Y57\", \"Y58\"], \"held\": [], \"held_n\": 0, \"main\": [\"W44\", \"W45\", \"W46\", \"Y53\", \"Y55\", \"Y57\", \"Y58\"]}",
+   "slug": "ajet",
+   "types": [
+    "737 MAX 8",
+    "737-800"
+   ],
+   "updated": "2026-11-02"
+  },
+  "american": {
+   "airport_short": "BCN",
+   "changed": "2026-11-02",
+   "code": "AA",
+   "data": "2026-11-02",
+   "deps_day": 5.4,
+   "dests": [
+    "ORD",
+    "DFW",
+    "MIA",
+    "PHL",
+    "JFK",
+    "LHR"
+   ],
+   "gates": [
+    "D03",
+    "D07",
+    "D09",
+    "D11",
+    "D15",
+    "A17",
+    "E70",
+    "C72"
+   ],
+   "gone": false,
+   "hash": "5fb794371d9a",
+   "last_seen": "2026-11-02",
+   "last_seen_str": "Nov 2, 2026",
+   "name": "American Airlines",
+   "published": "2026-11-02",
+   "short": "American",
+   "sig": "{\"drawing\": \"caa1535ac516\", \"focus\": [\"D09\", \"D11\", \"E70\", \"C72\", \"C74\", \"E76\", \"C78\", \"E80\", \"C82\", \"C84\"], \"held\": [], \"held_n\": 0, \"main\": [\"D03\", \"D07\", \"D09\", \"D11\", \"D15\", \"A17\", \"E70\", \"C72\", \"C74\", \"E76\", \"C78\", \"E80\", \"C82\", \"C84\"]}",
+   "slug": "american",
+   "types": [
+    "777-200",
+    "787-8",
+    "A321"
+   ],
+   "updated": "2026-11-02"
+  },
+  "arkia": {
+   "airport_short": "BCN",
+   "changed": "2026-11-02",
+   "code": "IZ",
+   "data": "2026-11-02",
+   "deps_day": 0.4,
+   "dests": [
+    "TLV"
+   ],
+   "gates": [
+    "D07",
+    "D09",
+    "D11",
+    "D13",
+    "A16",
+    "D21"
+   ],
+   "gone": false,
+   "hash": "79d4df154929",
+   "last_seen": "2026-11-01",
+   "last_seen_str": "Nov 1, 2026",
+   "name": "Arkia Israeli Airlines",
+   "published": "2026-11-02",
+   "short": "Arkia",
+   "sig": "{\"drawing\": \"caa1535ac516\", \"focus\": [\"D07\", \"D09\", \"D11\", \"D13\", \"A16\", \"D21\"], \"held\": [], \"held_n\": 0, \"main\": [\"D07\", \"D09\", \"D11\", \"D13\", \"A16\", \"D21\"]}",
+   "slug": "arkia",
+   "types": [
+    "A320",
+    "A321",
+    "A321neo"
+   ],
+   "updated": "2026-11-02"
+  },
+  "asiana": {
+   "airport_short": "BCN",
+   "changed": "2026-11-02",
+   "code": "OZ",
+   "data": "2026-11-02",
+   "deps_day": 1.1,
+   "dests": [
+    "ICN"
+   ],
+   "gates": [
+    "E70",
+    "C72",
+    "C74",
+    "E76",
+    "C82"
+   ],
+   "gone": false,
+   "hash": "315cc03f9e40",
+   "last_seen": "2026-11-01",
+   "last_seen_str": "Nov 1, 2026",
+   "name": "Asiana Airlines",
+   "published": "2026-11-02",
+   "short": "Asiana",
+   "sig": "{\"drawing\": \"caa1535ac516\", \"focus\": [\"E70\", \"C72\", \"C74\", \"E76\", \"C82\"], \"held\": [], \"held_n\": 0, \"main\": [\"E70\", \"C72\", \"C74\", \"E76\", \"C82\"]}",
+   "slug": "asiana",
+   "types": [
+    "A350-900",
+    "A350"
+   ],
+   "updated": "2026-11-02"
+  },
+  "austrian": {
+   "airport_short": "BCN",
+   "changed": "2026-11-02",
+   "code": "OS",
+   "data": "2026-11-02",
+   "deps_day": 2.8,
+   "dests": [
+    "VIE"
+   ],
+   "gates": [
+    "B24",
+    "B28",
+    "B32",
+    "B36",
+    "B40",
+    "B44",
+    "B48",
+    "B52"
+   ],
+   "gone": false,
+   "hash": "95c1043a4e66",
+   "last_seen": "2026-11-01",
+   "last_seen_str": "Nov 1, 2026",
+   "name": "Austrian Airlines",
+   "published": "2026-11-02",
+   "short": "Austrian",
+   "sig": "{\"drawing\": \"caa1535ac516\", \"focus\": [\"B24\", \"B28\", \"B32\", \"B36\", \"B40\", \"B44\", \"B48\", \"B52\", \"B56\", \"B68\", \"C72\", \"C76\"], \"held\": [], \"held_n\": 0, \"main\": [\"B24\", \"B28\", \"B32\", \"B36\", \"B40\", \"B44\", \"B48\", \"B52\", \"B56\", \"B67\", \"B68\", \"C72\", \"C76\", \"C84\"]}",
+   "slug": "austrian",
+   "types": [
+    "A320",
+    "A321",
+    "A320neo"
+   ],
+   "updated": "2026-11-02"
+  },
+  "avianca": {
+   "airport_short": "BCN",
+   "changed": "2026-11-02",
+   "code": "AV",
+   "data": "2026-11-02",
+   "deps_day": 1.1,
+   "dests": [
+    "BOG",
+    "MAD"
+   ],
+   "gates": [
+    "D03",
+    "D09",
+    "A17",
+    "D21"
+   ],
+   "gone": false,
+   "hash": "2586d328e12f",
+   "last_seen": "2026-11-01",
+   "last_seen_str": "Nov 1, 2026",
+   "name": "Avianca",
+   "published": "2026-11-02",
+   "short": "Avianca",
+   "sig": "{\"drawing\": \"caa1535ac516\", \"focus\": [\"D03\", \"D09\", \"A17\", \"D21\"], \"held\": [], \"held_n\": 0, \"main\": [\"D03\", \"D09\", \"A17\", \"D21\"]}",
+   "slug": "avianca",
+   "types": [
+    "787-8",
+    "A321"
+   ],
+   "updated": "2026-11-02"
+  },
+  "azerbaijan-airlines": {
+   "airport_short": "BCN",
+   "changed": "2026-11-02",
+   "code": "J2",
+   "data": "2026-11-02",
+   "deps_day": 0.6,
+   "dests": [
+    "GYD"
+   ],
+   "gates": [
+    "W42",
+    "W46",
+    "Y53",
+    "Y54",
+    "Y55",
+    "Y58",
+    "Y59"
+   ],
+   "gone": false,
+   "hash": "088010afeb8d",
+   "last_seen": "2026-11-01",
+   "last_seen_str": "Nov 1, 2026",
+   "name": "Azerbaijan Airlines",
+   "published": "2026-11-02",
+   "short": "Azerbaijan Airlines",
+   "sig": "{\"drawing\": \"caa1535ac516\", \"focus\": [\"W42\", \"W46\", \"Y53\", \"Y54\", \"Y55\", \"Y58\", \"Y59\"], \"held\": [], \"held_n\": 0, \"main\": [\"W42\", \"W46\", \"Y53\", \"Y54\", \"Y55\", \"Y58\", \"Y59\"]}",
+   "slug": "azerbaijan-airlines",
+   "types": [
+    "A320neo"
+   ],
+   "updated": "2026-11-02"
+  },
+  "azores-airlines": {
+   "airport_short": "BCN",
+   "changed": "2026-11-02",
+   "code": "S4",
+   "data": "2026-11-02",
+   "deps_day": 0.3,
+   "dests": [
+    "PDL"
+   ],
+   "gates": [
+    "S20",
+    "S23",
+    "S25",
+    "U31",
+    "U32",
+    "U34",
+    "U35",
+    "U36"
+   ],
+   "gone": false,
+   "hash": "eba9b6b6bc9e",
+   "last_seen": "2026-10-24",
+   "last_seen_str": "Oct 24, 2026",
+   "name": "Azores Airlines",
+   "published": "2026-11-02",
+   "short": "Azores Airlines",
+   "sig": "{\"drawing\": \"caa1535ac516\", \"focus\": [\"S20\", \"S23\", \"S25\", \"U31\", \"U32\", \"U34\", \"U35\", \"U36\"], \"held\": [], \"held_n\": 0, \"main\": [\"S20\", \"S23\", \"S25\", \"U31\", \"U32\", \"U34\", \"U35\", \"U36\"]}",
+   "slug": "azores-airlines",
+   "types": [
+    "A321neo",
+    "A321",
+    "A320neo"
+   ],
+   "updated": "2026-11-02"
+  },
+  "blue-bird": {
+   "airport_short": "BCN",
+   "changed": "2026-11-02",
+   "code": "BZ",
+   "data": "2026-11-02",
+   "deps_day": 1.2,
+   "dests": [
+    "TLV"
+   ],
+   "gates": [
+    "W44",
+    "W45",
+    "W46",
+    "Y54",
+    "Y55",
+    "Y57",
+    "Y58",
+    "Y59"
+   ],
+   "gone": false,
+   "hash": "ecb5eba8da6c",
+   "last_seen": "2026-11-01",
+   "last_seen_str": "Nov 1, 2026",
+   "name": "Blue Bird Airways",
+   "published": "2026-11-02",
+   "short": "Blue Bird",
+   "sig": "{\"drawing\": \"caa1535ac516\", \"focus\": [\"W44\", \"W45\", \"W46\", \"Y54\", \"Y55\", \"Y57\", \"Y58\", \"Y59\"], \"held\": [], \"held_n\": 0, \"main\": [\"W44\", \"W45\", \"W46\", \"Y54\", \"Y55\", \"Y57\", \"Y58\", \"Y59\"]}",
+   "slug": "blue-bird",
+   "types": [
+    "A320",
+    "737-800"
+   ],
+   "updated": "2026-11-02"
+  },
+  "british-airways": {
+   "airport_short": "BCN",
+   "changed": "2026-11-02",
+   "code": "BA",
+   "data": "2026-11-02",
+   "deps_day": 8.5,
+   "dests": [
+    "LHR",
+    "LCY",
+    "LGW",
+    "MAN",
+    "MAD",
+    "BHX"
+   ],
+   "gates": [
+    "A01",
+    "D03",
+    "D06",
+    "D07",
+    "D09",
+    "D11",
+    "D13",
+    "D15"
+   ],
+   "gone": false,
+   "hash": "4b79ab5a3e8d",
+   "last_seen": "2026-11-01",
+   "last_seen_str": "Nov 1, 2026",
+   "name": "British Airways",
+   "published": "2026-11-02",
+   "short": "British Airways",
+   "sig": "{\"drawing\": \"caa1535ac516\", \"focus\": [\"D03\", \"D06\", \"D07\", \"D09\", \"D11\", \"D13\", \"A16\", \"A17\", \"D19\", \"D21\"], \"held\": [], \"held_n\": 0, \"main\": [\"A01\", \"D03\", \"D06\", \"D07\", \"D09\", \"D11\", \"D13\", \"D15\", \"A16\", \"A17\", \"D19\", \"D21\", \"C84\", \"D\"]}",
+   "slug": "british-airways",
+   "types": [
+    "A320",
+    "A320neo",
+    "A321neo"
+   ],
+   "updated": "2026-11-02"
+  },
+  "brussels-airlines": {
+   "airport_short": "BCN",
+   "changed": "2026-11-02",
+   "code": "SN",
+   "data": "2026-11-02",
+   "deps_day": 2.6,
+   "dests": [
+    "BRU"
+   ],
+   "gates": [
+    "B24",
+    "B28",
+    "B32",
+    "B36",
+    "B40",
+    "B44",
+    "B45",
+    "B48"
+   ],
+   "gone": false,
+   "hash": "8f4df39cef31",
+   "last_seen": "2026-11-01",
+   "last_seen_str": "Nov 1, 2026",
+   "name": "Brussels Airlines",
+   "published": "2026-11-02",
+   "short": "Brussels Airlines",
+   "sig": "{\"drawing\": \"caa1535ac516\", \"focus\": [\"B24\", \"B28\", \"B32\", \"B36\", \"B40\", \"B44\", \"B45\", \"B48\", \"B49\", \"B52\", \"B56\", \"B68\", \"C72\"], \"held\": [], \"held_n\": 0, \"main\": [\"B24\", \"B28\", \"B32\", \"B36\", \"B40\", \"B44\", \"B45\", \"B48\", \"B49\", \"B52\", \"B56\", \"B62\", \"B63\", \"B68\", \"C72\"]}",
+   "slug": "brussels-airlines",
+   "types": [
+    "A320",
+    "A319",
+    "A320neo"
+   ],
+   "updated": "2026-11-02"
+  },
+  "bulgaria-air": {
+   "airport_short": "BCN",
+   "changed": "2026-11-02",
+   "code": "FB",
+   "data": "2026-11-02",
+   "deps_day": 0.1,
+   "dests": [
+    "SOF"
+   ],
+   "gates": [
+    "S21",
+    "S23",
+    "U31",
+    "U35"
+   ],
+   "gone": false,
+   "hash": "40e8869523f0",
+   "last_seen": "2026-10-20",
+   "last_seen_str": "Oct 20, 2026",
+   "name": "Bulgaria Air",
+   "published": "2026-11-02",
+   "short": "Bulgaria Air",
+   "sig": "{\"drawing\": \"caa1535ac516\", \"focus\": [\"S21\", \"S23\", \"U31\", \"U35\"], \"held\": [], \"held_n\": 0, \"main\": [\"S21\", \"S23\", \"U31\", \"U35\"]}",
+   "slug": "bulgaria-air",
+   "types": [
+    "A220-300"
+   ],
+   "updated": "2026-11-02"
+  },
+  "cathay-pacific": {
+   "airport_short": "BCN",
+   "changed": "2026-11-02",
+   "code": "CX",
+   "data": "2026-11-02",
+   "deps_day": 0.4,
+   "dests": [
+    "HKG"
+   ],
+   "gates": [
+    "W43",
+    "W44",
+    "Y55"
+   ],
+   "gone": false,
+   "hash": "05e6ad138aa1",
+   "last_seen": "2026-10-24",
+   "last_seen_str": "Oct 24, 2026",
+   "name": "Cathay Pacific",
+   "published": "2026-11-02",
+   "short": "Cathay Pacific",
+   "sig": "{\"drawing\": \"caa1535ac516\", \"focus\": [\"W43\", \"W44\", \"Y55\"], \"held\": [], \"held_n\": 0, \"main\": [\"W43\", \"W44\", \"Y55\"]}",
+   "slug": "cathay-pacific",
+   "types": [
+    "A350-900",
+    "A350"
+   ],
+   "updated": "2026-11-02"
+  },
+  "china-eastern": {
+   "airport_short": "BCN",
+   "changed": "2026-11-02",
+   "code": "MU",
+   "data": "2026-11-02",
+   "deps_day": 1.0,
+   "dests": [
+    "PVG"
+   ],
+   "gates": [
+    "D06",
+    "D07",
+    "D11",
+    "D15",
+    "A17",
+    "D21",
+    "C78",
+    "E80"
+   ],
+   "gone": false,
+   "hash": "579969a9aed5",
+   "last_seen": "2026-11-01",
+   "last_seen_str": "Nov 1, 2026",
+   "name": "China Eastern",
+   "published": "2026-11-02",
+   "short": "China Eastern",
+   "sig": "{\"drawing\": \"caa1535ac516\", \"focus\": [\"D06\", \"D07\", \"D11\", \"D15\", \"A17\", \"D21\", \"C78\", \"E80\"], \"held\": [], \"held_n\": 0, \"main\": [\"D06\", \"D07\", \"D11\", \"D15\", \"A17\", \"D21\", \"C78\", \"E80\"]}",
+   "slug": "china-eastern",
+   "types": [
+    "A350-900",
+    "A350"
+   ],
+   "updated": "2026-11-02"
+  },
+  "condor": {
+   "airport_short": "BCN",
+   "changed": "2026-11-02",
+   "code": "DE",
+   "data": "2026-11-02",
+   "deps_day": 3.0,
+   "dests": [
+    "FRA"
+   ],
+   "gates": [
+    "R10",
+    "R11",
+    "R12",
+    "R13",
+    "R14",
+    "S20",
+    "S21",
+    "S22"
+   ],
+   "gone": false,
+   "hash": "3908b604f2c4",
+   "last_seen": "2026-11-01",
+   "last_seen_str": "Nov 1, 2026",
+   "name": "Condor",
+   "published": "2026-11-02",
+   "short": "Condor",
+   "sig": "{\"drawing\": \"caa1535ac516\", \"focus\": [\"R10\", \"R11\", \"R12\", \"R13\", \"R14\", \"S20\", \"S21\", \"S22\", \"S23\", \"S24\", \"S25\", \"U31\", \"U32\", \"U33\", \"U34\", \"U35\", \"U36\", \"U37\"], \"held\": [], \"held_n\": 0, \"main\": [\"R10\", \"R11\", \"R12\", \"R13\", \"R14\", \"S20\", \"S21\", \"S22\", \"S23\", \"S24\", \"S25\", \"S26\", \"U31\", \"U32\", \"U33\", \"U34\", \"U35\", \"U36\", \"U37\"]}",
+   "slug": "condor",
+   "types": [
+    "A321neo",
+    "A319",
+    "A321"
+   ],
+   "updated": "2026-11-02"
+  },
+  "croatia-airlines": {
+   "airport_short": "BCN",
+   "changed": "2026-11-02",
+   "code": "OU",
+   "data": "2026-11-02",
+   "deps_day": 0.5,
+   "dests": [
+    "ZAG"
+   ],
+   "gates": [
+    "A14",
+    "B25",
+    "B28",
+    "B36",
+    "B37",
+    "B41",
+    "B45",
+    "B53"
+   ],
+   "gone": false,
+   "hash": "a67e2aa632f7",
+   "last_seen": "2026-11-01",
+   "last_seen_str": "Nov 1, 2026",
+   "name": "Croatia Airlines",
+   "published": "2026-11-02",
+   "short": "Croatia Airlines",
+   "sig": "{\"drawing\": \"caa1535ac516\", \"focus\": [\"A14\", \"B25\", \"B28\", \"B36\", \"B37\", \"B41\", \"B45\", \"B53\", \"B59\", \"B63\", \"B68\", \"C72\"], \"held\": [], \"held_n\": 0, \"main\": [\"A14\", \"B25\", \"B28\", \"B36\", \"B37\", \"B41\", \"B45\", \"B53\", \"B59\", \"B63\", \"B68\", \"C72\"]}",
+   "slug": "croatia-airlines",
+   "types": [
+    "A220-300"
+   ],
+   "updated": "2026-11-02"
+  },
+  "cyprus-airways": {
+   "airport_short": "BCN",
+   "changed": "2026-11-02",
+   "code": "CY",
+   "data": "2026-11-02",
+   "deps_day": 0.6,
+   "dests": [
+    "LCA"
+   ],
+   "gates": [
+    "W45",
+    "W46"
+   ],
+   "gone": false,
+   "hash": "27cff982a382",
+   "last_seen": "2026-11-01",
+   "last_seen_str": "Nov 1, 2026",
+   "name": "Cyprus Airways",
+   "published": "2026-11-02",
+   "short": "Cyprus Airways",
+   "sig": "{\"drawing\": \"caa1535ac516\", \"focus\": [\"W45\", \"W46\"], \"held\": [], \"held_n\": 0, \"main\": [\"W45\", \"W46\"]}",
+   "slug": "cyprus-airways",
+   "types": [
+    "A220-300"
+   ],
+   "updated": "2026-11-02"
+  },
+  "delta": {
+   "airport_short": "BCN",
+   "changed": "2026-11-02",
+   "code": "DL",
+   "data": "2026-11-02",
+   "deps_day": 3.0,
+   "dests": [
+    "ATL",
+    "JFK",
+    "BOS",
+    "SEA"
+   ],
+   "gates": [
+    "D07",
+    "D09",
+    "D11",
+    "D13",
+    "D15",
+    "E70",
+    "C72",
+    "C74"
+   ],
+   "gone": false,
+   "hash": "1d7a77cc293e",
+   "last_seen": "2026-11-02",
+   "last_seen_str": "Nov 2, 2026",
+   "name": "Delta Air Lines",
+   "published": "2026-11-02",
+   "short": "Delta",
+   "sig": "{\"drawing\": \"caa1535ac516\", \"focus\": [\"D07\", \"D09\", \"D11\", \"D13\", \"D15\", \"E70\", \"C72\", \"C74\", \"E76\", \"C78\", \"E80\", \"C82\", \"C84\"], \"held\": [], \"held_n\": 0, \"main\": [\"D07\", \"D09\", \"D11\", \"D13\", \"D15\", \"E70\", \"C72\", \"C74\", \"E76\", \"C78\", \"E80\", \"C82\", \"C84\"]}",
+   "slug": "delta",
+   "types": [
+    "A330-300",
+    "767-400",
+    "A330-900neo"
+   ],
+   "updated": "2026-11-02"
+  },
+  "easyjet": {
+   "airport_short": "BCN",
+   "changed": "2026-11-02",
+   "code": "U2",
+   "data": "2026-11-02",
+   "deps_day": 29.2,
+   "dests": [
+    "GVA",
+    "LGW",
+    "BSL",
+    "MXP",
+    "LTN",
+    "BRS"
+   ],
+   "gates": [
+    "M01",
+    "M02",
+    "M03",
+    "M06",
+    "M08",
+    "R10",
+    "R11",
+    "R12"
+   ],
+   "gone": false,
+   "hash": "98f1b2e578da",
+   "last_seen": "2026-11-01",
+   "last_seen_str": "Nov 1, 2026",
+   "name": "easyJet",
+   "published": "2026-11-02",
+   "short": "easyJet",
+   "sig": "{\"drawing\": \"caa1535ac516\", \"focus\": [\"M01\", \"M02\", \"M03\", \"M06\", \"M08\", \"R10\", \"R11\", \"R12\", \"R13\", \"R14\"], \"held\": [\"M01\", \"M02\", \"M03\", \"M06\", \"M08\"], \"held_n\": 5, \"main\": [\"M01\", \"M02\", \"M03\", \"M06\", \"M08\", \"R10\", \"R11\", \"R12\", \"R13\", \"R14\", \"R15\", \"RSU\"]}",
+   "slug": "easyjet",
+   "types": [
+    "A319",
+    "A320",
+    "A320neo"
+   ],
+   "updated": "2026-11-02"
+  },
+  "egyptair": {
+   "airport_short": "BCN",
+   "changed": "2026-11-02",
+   "code": "MS",
+   "data": "2026-11-02",
+   "deps_day": 1.0,
+   "dests": [
+    "CAI",
+    "LXR"
+   ],
+   "gates": [
+    "D03",
+    "D06",
+    "D07",
+    "D09",
+    "D11",
+    "D13",
+    "A16",
+    "A17"
+   ],
+   "gone": false,
+   "hash": "1904487c2c08",
+   "last_seen": "2026-11-01",
+   "last_seen_str": "Nov 1, 2026",
+   "name": "EgyptAir",
+   "published": "2026-11-02",
+   "short": "EgyptAir",
+   "sig": "{\"drawing\": \"caa1535ac516\", \"focus\": [\"D03\", \"D06\", \"D07\", \"D09\", \"D11\", \"D13\", \"A16\", \"A17\", \"D21\", \"E70\"], \"held\": [], \"held_n\": 0, \"main\": [\"D03\", \"D06\", \"D07\", \"D09\", \"D11\", \"D13\", \"A16\", \"A17\", \"D21\", \"E70\"]}",
+   "slug": "egyptair",
+   "types": [
+    "737 MAX 8",
+    "A321neo",
+    "737-800"
+   ],
+   "updated": "2026-11-02"
+  },
+  "el-al": {
+   "airport_short": "BCN",
+   "changed": "2026-11-02",
+   "code": "LY",
+   "data": "2026-11-02",
+   "deps_day": 1.6,
+   "dests": [
+    "TLV"
+   ],
+   "gates": [
+    "D09",
+    "D11",
+    "D13",
+    "A16"
+   ],
+   "gone": false,
+   "hash": "6bd06acfd95d",
+   "last_seen": "2026-11-01",
+   "last_seen_str": "Nov 1, 2026",
+   "name": "El Al",
+   "published": "2026-11-02",
+   "short": "El Al",
+   "sig": "{\"drawing\": \"caa1535ac516\", \"focus\": [\"D09\", \"D11\", \"D13\", \"A16\"], \"held\": [], \"held_n\": 0, \"main\": [\"D09\", \"D11\", \"D13\", \"A16\"]}",
+   "slug": "el-al",
+   "types": [
+    "737-800",
+    "737-900"
+   ],
+   "updated": "2026-11-02"
+  },
+  "emirates": {
+   "airport_short": "BCN",
+   "changed": "2026-11-02",
+   "code": "EK",
+   "data": "2026-11-02",
+   "deps_day": 4.0,
+   "dests": [
+    "DXB",
+    "MEX"
+   ],
+   "gates": [
+    "D03",
+    "D07",
+    "D09",
+    "D11",
+    "D15",
+    "A17",
+    "C74",
+    "E76"
+   ],
+   "gone": false,
+   "hash": "c411e848ff59",
+   "last_seen": "2026-11-01",
+   "last_seen_str": "Nov 1, 2026",
+   "name": "Emirates",
+   "published": "2026-11-02",
+   "short": "Emirates",
+   "sig": "{\"drawing\": \"caa1535ac516\", \"focus\": [\"D11\", \"A17\", \"C74\", \"E76\", \"C78\", \"E80\", \"C82\", \"C84\"], \"held\": [], \"held_n\": 0, \"main\": [\"D03\", \"D07\", \"D09\", \"D11\", \"D15\", \"A17\", \"C74\", \"E76\", \"C78\", \"E80\", \"C82\", \"C84\"]}",
+   "slug": "emirates",
+   "types": [
+    "777-200",
+    "A380",
+    "777-200LR"
+   ],
+   "updated": "2026-11-02"
+  },
+  "etihad": {
+   "airport_short": "BCN",
+   "changed": "2026-11-02",
+   "code": "EY",
+   "data": "2026-11-02",
+   "deps_day": 1.7,
+   "dests": [
+    "AUH"
+   ],
+   "gates": [
+    "D15",
+    "E70",
+    "C74",
+    "E76",
+    "C78",
+    "E80",
+    "C82",
+    "C84"
+   ],
+   "gone": false,
+   "hash": "116a20087153",
+   "last_seen": "2026-11-01",
+   "last_seen_str": "Nov 1, 2026",
+   "name": "Etihad Airways",
+   "published": "2026-11-02",
+   "short": "Etihad",
+   "sig": "{\"drawing\": \"caa1535ac516\", \"focus\": [\"D15\", \"E70\", \"C74\", \"E76\", \"C78\", \"E80\", \"C82\", \"C84\"], \"held\": [], \"held_n\": 0, \"main\": [\"D15\", \"E70\", \"C74\", \"E76\", \"C78\", \"E80\", \"C82\", \"C84\"]}",
+   "slug": "etihad",
+   "types": [
+    "787-9",
+    "787-10",
+    "787-8"
+   ],
+   "updated": "2026-11-02"
+  },
+  "eurowings": {
+   "airport_short": "BCN",
+   "changed": "2026-11-02",
+   "code": "EW",
+   "data": "2026-11-02",
+   "deps_day": 8.5,
+   "dests": [
+    "DUS",
+    "CGN",
+    "STR",
+    "HAM",
+    "SZG",
+    "PRG"
+   ],
+   "gates": [
+    "R10",
+    "R11",
+    "R12",
+    "R13",
+    "R14",
+    "S20",
+    "S21",
+    "S22"
+   ],
+   "gone": false,
+   "hash": "f880ab656b34",
+   "last_seen": "2026-11-01",
+   "last_seen_str": "Nov 1, 2026",
+   "name": "Eurowings",
+   "published": "2026-11-02",
+   "short": "Eurowings",
+   "sig": "{\"drawing\": \"caa1535ac516\", \"focus\": [\"R10\", \"R13\", \"R14\", \"S20\", \"S21\", \"S22\", \"S23\", \"S24\", \"S25\", \"U31\", \"U32\", \"U33\", \"U34\", \"U35\", \"U36\"], \"held\": [], \"held_n\": 0, \"main\": [\"R10\", \"R11\", \"R12\", \"R13\", \"R14\", \"S20\", \"S21\", \"S22\", \"S23\", \"S24\", \"S25\", \"U31\", \"U32\", \"U33\", \"U34\", \"U35\", \"U36\"]}",
+   "slug": "eurowings",
+   "types": [
+    "A320",
+    "A319",
+    "A321"
+   ],
+   "updated": "2026-11-02"
+  },
+  "finnair": {
+   "airport_short": "BCN",
+   "changed": "2026-11-02",
+   "code": "AY",
+   "data": "2026-11-02",
+   "deps_day": 1.8,
+   "dests": [
+    "HEL"
+   ],
+   "gates": [
+    "A01",
+    "A05",
+    "D07",
+    "B24",
+    "B33",
+    "B40"
+   ],
+   "gone": false,
+   "hash": "d20f0f6b95eb",
+   "last_seen": "2026-11-01",
+   "last_seen_str": "Nov 1, 2026",
+   "name": "Finnair",
+   "published": "2026-11-02",
+   "short": "Finnair",
+   "sig": "{\"drawing\": \"caa1535ac516\", \"focus\": [\"A01\", \"A05\", \"D07\", \"B24\", \"B33\", \"B40\"], \"held\": [], \"held_n\": 0, \"main\": [\"A01\", \"A05\", \"D07\", \"B24\", \"B33\", \"B40\"]}",
+   "slug": "finnair",
+   "types": [
+    "A321"
+   ],
+   "updated": "2026-11-02"
+  },
+  "flyone-armenia": {
+   "airport_short": "BCN",
+   "changed": "2026-11-02",
+   "code": "3F",
+   "data": "2026-11-02",
+   "deps_day": 0.3,
+   "dests": [
+    "EVN"
+   ],
+   "gates": [
+    "W42",
+    "Y53",
+    "Y54",
+    "Y55",
+    "Y57",
+    "Y58"
+   ],
+   "gone": false,
+   "hash": "d7104a2721a2",
+   "last_seen": "2026-10-30",
+   "last_seen_str": "Oct 30, 2026",
+   "name": "FLYONE Armenia",
+   "published": "2026-11-02",
+   "short": "FLYONE Armenia",
+   "sig": "{\"drawing\": \"caa1535ac516\", \"focus\": [\"W42\", \"Y53\", \"Y54\", \"Y55\", \"Y57\", \"Y58\"], \"held\": [], \"held_n\": 0, \"main\": [\"W42\", \"Y53\", \"Y54\", \"Y55\", \"Y57\", \"Y58\"]}",
+   "slug": "flyone-armenia",
+   "types": [
+    "A320"
+   ],
+   "updated": "2026-11-02"
+  },
+  "iberia": {
+   "airport_short": "BCN",
+   "changed": "2026-11-02",
+   "code": "IB",
+   "data": "2026-11-02",
+   "deps_day": 34.1,
+   "dests": [
+    "MAD",
+    "BJZ",
+    "LEN",
+    "VLC",
+    "BIO",
+    "MIA"
+   ],
+   "gates": [
+    "A01",
+    "D03",
+    "A05",
+    "D07",
+    "A10",
+    "A12",
+    "A14",
+    "A16"
+   ],
+   "gone": false,
+   "hash": "a422fdbb70c3",
+   "last_seen": "2026-11-01",
+   "last_seen_str": "Nov 1, 2026",
+   "name": "Iberia",
+   "published": "2026-11-02",
+   "short": "Iberia",
+   "sig": "{\"drawing\": \"caa1535ac516\", \"focus\": [\"A01\", \"D03\", \"A05\", \"C70\", \"C78\"], \"held\": [\"A01\"], \"held_n\": 1, \"main\": [\"A01\", \"D03\", \"A05\", \"D07\", \"A10\", \"A12\", \"A14\", \"A16\", \"A17\", \"A19\", \"A21\", \"B24\", \"B25\", \"B33\", \"B36\", \"B37\", \"B40\", \"B41\", \"B45\", \"B52\", \"B56\", \"B59\", \"B63\", \"B67\", \"B68\", \"C70\", \"C72\", \"C76\", \"C78\", \"C84\", \"A\", \"B\"]}",
+   "slug": "iberia",
+   "types": [
+    "A320neo",
+    "A320",
+    "A321"
+   ],
+   "updated": "2026-11-02"
+  },
+  "iberojet": {
+   "airport_short": "BCN",
+   "changed": "2026-11-02",
+   "code": "E9",
+   "data": "2026-11-02",
+   "deps_day": 0.3,
+   "dests": [
+    "SAL",
+    "XPL",
+    "MAD"
+   ],
+   "gates": [
+    "Y55",
+    "Y58"
+   ],
+   "gone": false,
+   "hash": "197134c32d1b",
+   "last_seen": "2026-10-28",
+   "last_seen_str": "Oct 28, 2026",
+   "name": "Iberojet",
+   "published": "2026-11-02",
+   "short": "Iberojet",
+   "sig": "{\"drawing\": \"caa1535ac516\", \"focus\": [\"Y55\", \"Y58\"], \"held\": [], \"held_n\": 0, \"main\": [\"Y55\", \"Y58\"]}",
+   "slug": "iberojet",
+   "types": [
+    "A350-900",
+    "A350",
+    "A320"
+   ],
+   "updated": "2026-11-02"
+  },
+  "icelandair": {
+   "airport_short": "BCN",
+   "changed": "2026-11-02",
+   "code": "FI",
+   "data": "2026-11-02",
+   "deps_day": 0.8,
+   "dests": [
+    "KEF",
+    "DXB"
+   ],
+   "gates": [
+    "S21",
+    "S22",
+    "S24",
+    "S25",
+    "U32",
+    "U33",
+    "U35",
+    "U36"
+   ],
+   "gone": false,
+   "hash": "3cdd7bf91b38",
+   "last_seen": "2026-11-01",
+   "last_seen_str": "Nov 1, 2026",
+   "name": "Icelandair",
+   "published": "2026-11-02",
+   "short": "Icelandair",
+   "sig": "{\"drawing\": \"caa1535ac516\", \"focus\": [\"S21\", \"S22\", \"S24\", \"S25\", \"U32\", \"U33\", \"U35\", \"U36\"], \"held\": [], \"held_n\": 0, \"main\": [\"S21\", \"S22\", \"S24\", \"S25\", \"U32\", \"U33\", \"U35\", \"U36\"]}",
+   "slug": "icelandair",
+   "types": [
+    "737 MAX 8",
+    "767-300",
+    "A321neo"
+   ],
+   "updated": "2026-11-02"
+  },
+  "ita-airways": {
+   "airport_short": "BCN",
+   "changed": "2026-11-02",
+   "code": "AZ",
+   "data": "2026-11-02",
+   "deps_day": 2.9,
+   "dests": [
+    "FCO"
+   ],
+   "gates": [
+    "A21",
+    "B24",
+    "B28",
+    "B32",
+    "B33",
+    "B36",
+    "B40",
+    "B44"
+   ],
+   "gone": false,
+   "hash": "3b7f06c3d25c",
+   "last_seen": "2026-11-01",
+   "last_seen_str": "Nov 1, 2026",
+   "name": "ITA Airways",
+   "published": "2026-11-02",
+   "short": "ITA Airways",
+   "sig": "{\"drawing\": \"caa1535ac516\", \"focus\": [\"B24\", \"B28\", \"B32\", \"B36\", \"B40\", \"B44\", \"B48\", \"B52\", \"B59\", \"C72\", \"C74\", \"C76\", \"C80\", \"C82\", \"C84\"], \"held\": [], \"held_n\": 0, \"main\": [\"A21\", \"B24\", \"B28\", \"B32\", \"B33\", \"B36\", \"B40\", \"B44\", \"B45\", \"B48\", \"B52\", \"B56\", \"B59\", \"B62\", \"C72\", \"C74\", \"C76\", \"C78\", \"C80\", \"C82\", \"C84\"]}",
+   "slug": "ita-airways",
+   "types": [
+    "A320neo",
+    "A320",
+    "A220-300"
+   ],
+   "updated": "2026-11-02"
+  },
+  "jet2": {
+   "airport_short": "BCN",
+   "changed": "2026-11-02",
+   "code": "LS",
+   "data": "2026-11-02",
+   "deps_day": 2.0,
+   "dests": [
+    "MAN",
+    "BHX",
+    "LBA",
+    "STN",
+    "EMA",
+    "LPL"
+   ],
+   "gates": [
+    "W42",
+    "W43",
+    "W44",
+    "W45",
+    "W46",
+    "Y53",
+    "Y54",
+    "Y55"
+   ],
+   "gone": false,
+   "hash": "c6f6aa4ed8c9",
+   "last_seen": "2026-11-01",
+   "last_seen_str": "Nov 1, 2026",
+   "name": "Jet2.com",
+   "published": "2026-11-02",
+   "short": "Jet2",
+   "sig": "{\"drawing\": \"caa1535ac516\", \"focus\": [\"W42\", \"W43\", \"W44\", \"W45\", \"W46\", \"Y53\", \"Y54\", \"Y55\", \"Y57\", \"Y58\", \"Y59\", \"Y61\"], \"held\": [], \"held_n\": 0, \"main\": [\"W42\", \"W43\", \"W44\", \"W45\", \"W46\", \"Y53\", \"Y54\", \"Y55\", \"Y57\", \"Y58\", \"Y59\", \"Y61\"]}",
+   "slug": "jet2",
+   "types": [
+    "737-800",
+    "B733",
+    "A321"
+   ],
+   "updated": "2026-11-02"
+  },
+  "jetblue": {
+   "airport_short": "BCN",
+   "changed": "2026-11-02",
+   "code": "B6",
+   "data": "2026-11-02",
+   "deps_day": 0.8,
+   "dests": [
+    "BOS"
+   ],
+   "gates": [
+    "W45",
+    "W46",
+    "Y53",
+    "Y54",
+    "Y58",
+    "Y59"
+   ],
+   "gone": false,
+   "hash": "67e5d39fe117",
+   "last_seen": "2026-10-24",
+   "last_seen_str": "Oct 24, 2026",
+   "name": "JetBlue",
+   "published": "2026-11-02",
+   "short": "JetBlue",
+   "sig": "{\"drawing\": \"caa1535ac516\", \"focus\": [\"W45\", \"W46\", \"Y53\", \"Y54\", \"Y58\", \"Y59\", \"Y63\"], \"held\": [], \"held_n\": 0, \"main\": [\"W45\", \"W46\", \"Y53\", \"Y54\", \"Y58\", \"Y59\", \"Y63\"]}",
+   "slug": "jetblue",
+   "types": [
+    "A321neo",
+    "A321"
+   ],
+   "updated": "2026-11-02"
+  },
+  "klm": {
+   "airport_short": "BCN",
+   "changed": "2026-11-02",
+   "code": "KL",
+   "data": "2026-11-02",
+   "deps_day": 5.5,
+   "dests": [
+    "AMS",
+    "MAD"
+   ],
+   "gates": [
+    "B24",
+    "B28",
+    "B32",
+    "B36",
+    "U37",
+    "B40",
+    "B44",
+    "B48"
+   ],
+   "gone": false,
+   "hash": "37263f27104a",
+   "last_seen": "2026-11-01",
+   "last_seen_str": "Nov 1, 2026",
+   "name": "KLM",
+   "published": "2026-11-02",
+   "short": "KLM",
+   "sig": "{\"drawing\": \"caa1535ac516\", \"focus\": [\"B24\", \"B28\", \"B32\", \"B36\", \"B40\", \"B44\", \"B48\", \"B52\", \"C70\", \"C72\", \"C74\", \"C80\"], \"held\": [], \"held_n\": 0, \"main\": [\"B24\", \"B28\", \"B32\", \"B36\", \"U37\", \"B40\", \"B44\", \"B48\", \"B52\", \"B56\", \"B62\", \"C70\", \"C72\", \"C74\", \"C76\", \"C80\", \"C82\", \"B\"]}",
+   "slug": "klm",
+   "types": [
+    "A321neo",
+    "737-800",
+    "E195"
+   ],
+   "updated": "2026-11-02"
+  },
+  "kuwait-airways": {
+   "airport_short": "BCN",
+   "changed": "2026-11-02",
+   "code": "KU",
+   "data": "2026-11-02",
+   "deps_day": 0.6,
+   "dests": [
+    "MAD",
+    "KWI"
+   ],
+   "gates": [
+    "W43",
+    "W44",
+    "Y54",
+    "Y55",
+    "Y58"
+   ],
+   "gone": false,
+   "hash": "f74e0748485f",
+   "last_seen": "2026-11-01",
+   "last_seen_str": "Nov 1, 2026",
+   "name": "Kuwait Airways",
+   "published": "2026-11-02",
+   "short": "Kuwait Airways",
+   "sig": "{\"drawing\": \"caa1535ac516\", \"focus\": [\"W43\", \"W44\", \"Y54\", \"Y55\", \"Y58\"], \"held\": [], \"held_n\": 0, \"main\": [\"W43\", \"W44\", \"Y54\", \"Y55\", \"Y58\"]}",
+   "slug": "kuwait-airways",
+   "types": [
+    "A330",
+    "A330-900neo",
+    "A330-800neo"
+   ],
+   "updated": "2026-11-02"
+  },
+  "latam-brasil": {
+   "airport_short": "BCN",
+   "changed": "2026-11-02",
+   "code": "JJ",
+   "data": "2026-11-02",
+   "deps_day": 0.9,
+   "dests": [
+    "GRU"
+   ],
+   "gates": [
+    "D03",
+    "D11",
+    "D13",
+    "D15",
+    "A17",
+    "D21",
+    "E70",
+    "C74"
+   ],
+   "gone": false,
+   "hash": "5d66d56d88f3",
+   "last_seen": "2026-10-31",
+   "last_seen_str": "Oct 31, 2026",
+   "name": "LATAM Brasil",
+   "published": "2026-11-02",
+   "short": "LATAM Brasil",
+   "sig": "{\"drawing\": \"caa1535ac516\", \"focus\": [\"D03\", \"D11\", \"D13\", \"D15\", \"A17\", \"D21\", \"E70\", \"C74\", \"E76\", \"C78\", \"E80\", \"C82\", \"C84\"], \"held\": [], \"held_n\": 0, \"main\": [\"D03\", \"D11\", \"D13\", \"D15\", \"A17\", \"D21\", \"E70\", \"C74\", \"E76\", \"C78\", \"E80\", \"C82\", \"C84\"]}",
+   "slug": "latam-brasil",
+   "types": [
+    "787-9",
+    "777-300ER",
+    "B773"
+   ],
+   "updated": "2026-11-02"
+  },
+  "level": {
+   "airport_short": "BCN",
+   "changed": "2026-11-02",
+   "code": "LL",
+   "data": "2026-11-02",
+   "deps_day": 3.4,
+   "dests": [
+    "EZE",
+    "SCL",
+    "JFK",
+    "LIM",
+    "LAX",
+    "MIA"
+   ],
+   "gates": [
+    "D03",
+    "D07",
+    "D09",
+    "D11",
+    "D13",
+    "D15",
+    "A16",
+    "D21"
+   ],
+   "gone": false,
+   "hash": "521cd1ac1d52",
+   "last_seen": "2026-11-01",
+   "last_seen_str": "Nov 1, 2026",
+   "name": "LEVEL",
+   "published": "2026-11-02",
+   "short": "LEVEL",
+   "sig": "{\"drawing\": \"caa1535ac516\", \"focus\": [\"D03\", \"D07\", \"D09\", \"D11\", \"D13\", \"D15\", \"A16\", \"D21\", \"B45\", \"B49\", \"E70\", \"C72\", \"C74\", \"C78\", \"C84\"], \"held\": [], \"held_n\": 0, \"main\": [\"D03\", \"D07\", \"D09\", \"D11\", \"D13\", \"D15\", \"A16\", \"D21\", \"B45\", \"B49\", \"E70\", \"C72\", \"C74\", \"C78\", \"C84\"]}",
+   "slug": "level",
+   "types": [
+    "A330-200",
+    "A321",
+    "A320"
+   ],
+   "updated": "2026-11-02"
+  },
+  "lot": {
+   "airport_short": "BCN",
+   "changed": "2026-11-02",
+   "code": "LO",
+   "data": "2026-11-02",
+   "deps_day": 2.1,
+   "dests": [
+    "WAW",
+    "KRK"
+   ],
+   "gates": [
+    "B24",
+    "B28",
+    "B32",
+    "B36",
+    "B40",
+    "B44",
+    "B45",
+    "B48"
+   ],
+   "gone": false,
+   "hash": "17f74976932a",
+   "last_seen": "2026-11-01",
+   "last_seen_str": "Nov 1, 2026",
+   "name": "LOT Polish Airlines",
+   "published": "2026-11-02",
+   "short": "LOT",
+   "sig": "{\"drawing\": \"caa1535ac516\", \"focus\": [\"B24\", \"B28\", \"B32\", \"B36\", \"B40\", \"B44\", \"B48\", \"B49\", \"B52\", \"B67\", \"C70\", \"C72\", \"C80\"], \"held\": [], \"held_n\": 0, \"main\": [\"B24\", \"B28\", \"B32\", \"B36\", \"B40\", \"B44\", \"B45\", \"B48\", \"B49\", \"B52\", \"B56\", \"B67\", \"B68\", \"C70\", \"C72\", \"C74\", \"C76\", \"C78\", \"C80\"]}",
+   "slug": "lot",
+   "types": [
+    "737 MAX 8",
+    "737-800"
+   ],
+   "updated": "2026-11-02"
+  },
+  "lufthansa": {
+   "airport_short": "BCN",
+   "changed": "2026-11-02",
+   "code": "LH",
+   "data": "2026-11-02",
+   "deps_day": 13.3,
+   "dests": [
+    "FRA",
+    "MUC",
+    "GRO"
+   ],
+   "gates": [
+    "B24",
+    "B28",
+    "B32",
+    "B36",
+    "B37",
+    "B40",
+    "B41",
+    "B44"
+   ],
+   "gone": false,
+   "hash": "3213227e40e9",
+   "last_seen": "2026-11-01",
+   "last_seen_str": "Nov 1, 2026",
+   "name": "Lufthansa",
+   "published": "2026-11-02",
+   "short": "Lufthansa",
+   "sig": "{\"drawing\": \"caa1535ac516\", \"focus\": [\"B24\", \"B28\", \"B32\", \"B36\", \"B40\", \"B44\", \"B48\", \"B52\", \"B56\", \"B62\", \"C72\", \"C74\", \"C76\"], \"held\": [], \"held_n\": 0, \"main\": [\"B24\", \"B28\", \"B32\", \"B36\", \"B37\", \"B40\", \"B41\", \"B44\", \"B48\", \"B49\", \"B52\", \"B53\", \"B56\", \"B59\", \"B62\", \"B67\", \"B68\", \"C70\", \"C72\", \"C74\", \"C76\", \"C78\", \"C80\", \"C82\", \"C84\"]}",
+   "slug": "lufthansa",
+   "types": [
+    "A321",
+    "A320",
+    "A321neo"
+   ],
+   "updated": "2026-11-02"
+  },
+  "lufthansa-city": {
+   "airport_short": "BCN",
+   "changed": "2026-11-02",
+   "code": "VL",
+   "data": "2026-11-02",
+   "deps_day": 1.3,
+   "dests": [
+    "MUC"
+   ],
+   "gates": [
+    "B24",
+    "B28",
+    "B29",
+    "B32",
+    "B36",
+    "B40",
+    "B44",
+    "B45"
+   ],
+   "gone": false,
+   "hash": "66535f51971e",
+   "last_seen": "2026-10-30",
+   "last_seen_str": "Oct 30, 2026",
+   "name": "Lufthansa City Airlines",
+   "published": "2026-11-02",
+   "short": "Lufthansa City",
+   "sig": "{\"drawing\": \"caa1535ac516\", \"focus\": [\"B24\", \"B28\", \"B29\", \"B32\", \"B36\", \"B40\", \"B44\", \"B45\", \"B48\", \"B52\", \"B53\", \"B56\", \"B62\"], \"held\": [], \"held_n\": 0, \"main\": [\"B24\", \"B28\", \"B29\", \"B32\", \"B36\", \"B40\", \"B44\", \"B45\", \"B48\", \"B52\", \"B53\", \"B56\", \"B62\"]}",
+   "slug": "lufthansa-city",
+   "types": [
+    "A319",
+    "A320neo"
+   ],
+   "updated": "2026-11-02"
+  },
+  "luxair": {
+   "airport_short": "BCN",
+   "changed": "2026-11-02",
+   "code": "LG",
+   "data": "2026-11-02",
+   "deps_day": 1.1,
+   "dests": [
+    "LUX"
+   ],
+   "gates": [
+    "R12",
+    "S20",
+    "S21",
+    "S22",
+    "S23",
+    "S24",
+    "S25",
+    "U31"
+   ],
+   "gone": false,
+   "hash": "9036f18c767f",
+   "last_seen": "2026-11-01",
+   "last_seen_str": "Nov 1, 2026",
+   "name": "Luxair",
+   "published": "2026-11-02",
+   "short": "Luxair",
+   "sig": "{\"drawing\": \"caa1535ac516\", \"focus\": [\"R12\", \"S20\", \"S21\", \"S22\", \"S23\", \"S24\", \"S25\", \"U31\", \"U32\", \"U33\", \"U34\", \"U37\"], \"held\": [], \"held_n\": 0, \"main\": [\"R12\", \"S20\", \"S21\", \"S22\", \"S23\", \"S24\", \"S25\", \"U31\", \"U32\", \"U33\", \"U34\", \"U37\"]}",
+   "slug": "luxair",
+   "types": [
+    "E195",
+    "737-700",
+    "Q400"
+   ],
+   "updated": "2026-11-02"
+  },
+  "nile-air": {
+   "airport_short": "BCN",
+   "changed": "2026-11-02",
+   "code": "NP",
+   "data": "2026-11-02",
+   "deps_day": 0.3,
+   "dests": [
+    "LXR",
+    "ASW"
+   ],
+   "gates": [
+    "W45",
+    "W46",
+    "Y53",
+    "Y55",
+    "Y57",
+    "Y58"
+   ],
+   "gone": false,
+   "hash": "5e034081fae5",
+   "last_seen": "2026-10-30",
+   "last_seen_str": "Oct 30, 2026",
+   "name": "Nile Air",
+   "published": "2026-11-02",
+   "short": "Nile Air",
+   "sig": "{\"drawing\": \"caa1535ac516\", \"focus\": [\"W45\", \"W46\", \"Y53\", \"Y55\", \"Y57\", \"Y58\"], \"held\": [], \"held_n\": 0, \"main\": [\"W45\", \"W46\", \"Y53\", \"Y55\", \"Y57\", \"Y58\"]}",
+   "slug": "nile-air",
+   "types": [
+    "A320"
+   ],
+   "updated": "2026-11-02"
+  },
+  "norwegian-air": {
+   "airport_short": "BCN",
+   "changed": "2026-11-02",
+   "code": "DY",
+   "data": "2026-11-02",
+   "deps_day": 6.6,
+   "dests": [
+    "CPH",
+    "OSL",
+    "ARN",
+    "HEL",
+    "GOT",
+    "SVG"
+   ],
+   "gates": [
+    "R10",
+    "R11",
+    "R12",
+    "R13",
+    "R14",
+    "R15",
+    "R19"
+   ],
+   "gone": false,
+   "hash": "a172d8ad69ef",
+   "last_seen": "2026-11-01",
+   "last_seen_str": "Nov 1, 2026",
+   "name": "Norwegian Air Shuttle",
+   "published": "2026-11-02",
+   "short": "Norwegian Air",
+   "sig": "{\"drawing\": \"caa1535ac516\", \"focus\": [\"R10\", \"R11\", \"R12\", \"R13\", \"R14\"], \"held\": [], \"held_n\": 0, \"main\": [\"R10\", \"R11\", \"R12\", \"R13\", \"R14\", \"R15\", \"R19\"]}",
+   "slug": "norwegian-air",
+   "types": [
+    "737-800",
+    "737 MAX 8",
+    "A320"
+   ],
+   "updated": "2026-11-02"
+  },
+  "nouvelair": {
+   "airport_short": "BCN",
+   "changed": "2026-11-02",
+   "code": "BJ",
+   "data": "2026-11-02",
+   "deps_day": 0.3,
+   "dests": [
+    "TUN"
+   ],
+   "gates": [
+    "W42",
+    "W44",
+    "W46",
+    "Y55",
+    "Y57",
+    "Y58"
+   ],
+   "gone": false,
+   "hash": "4a38399b37d0",
+   "last_seen": "2026-10-29",
+   "last_seen_str": "Oct 29, 2026",
+   "name": "Nouvelair",
+   "published": "2026-11-02",
+   "short": "Nouvelair",
+   "sig": "{\"drawing\": \"caa1535ac516\", \"focus\": [\"W42\", \"W44\", \"W46\", \"Y55\", \"Y57\", \"Y58\"], \"held\": [], \"held_n\": 0, \"main\": [\"W42\", \"W44\", \"W46\", \"Y55\", \"Y57\", \"Y58\"]}",
+   "slug": "nouvelair",
+   "types": [
+    "A320",
+    "A320neo"
+   ],
+   "updated": "2026-11-02"
+  },
+  "pegasus": {
+   "airport_short": "BCN",
+   "changed": "2026-11-02",
+   "code": "PC",
+   "data": "2026-11-02",
+   "deps_day": 2.1,
+   "dests": [
+    "SAW",
+    "ADB"
+   ],
+   "gates": [
+    "M01",
+    "M03",
+    "M06",
+    "M08"
+   ],
+   "gone": false,
+   "hash": "3b0ec297db5a",
+   "last_seen": "2026-11-01",
+   "last_seen_str": "Nov 1, 2026",
+   "name": "Pegasus Airlines",
+   "published": "2026-11-02",
+   "short": "Pegasus",
+   "sig": "{\"drawing\": \"caa1535ac516\", \"focus\": [\"M01\", \"M03\", \"M06\", \"M08\"], \"held\": [], \"held_n\": 0, \"main\": [\"M01\", \"M03\", \"M06\", \"M08\"]}",
+   "slug": "pegasus",
+   "types": [
+    "A321neo",
+    "A321",
+    "A320neo"
+   ],
+   "updated": "2026-11-02"
+  },
+  "qatar-airways": {
+   "airport_short": "BCN",
+   "changed": "2026-11-02",
+   "code": "QR",
+   "data": "2026-11-02",
+   "deps_day": 3.4,
+   "dests": [
+    "DOH",
+    "IBZ",
+    "MAH",
+    "GOA",
+    "PMI",
+    "GRX"
+   ],
+   "gates": [
+    "D07",
+    "D09",
+    "D11",
+    "D15",
+    "A17",
+    "A21",
+    "B25",
+    "B53"
+   ],
+   "gone": false,
+   "hash": "4c004c0b1a58",
+   "last_seen": "2026-11-01",
+   "last_seen_str": "Nov 1, 2026",
+   "name": "Qatar Airways",
+   "published": "2026-11-02",
+   "short": "Qatar Airways",
+   "sig": "{\"drawing\": \"caa1535ac516\", \"focus\": [\"D07\", \"D11\", \"A17\", \"E70\", \"C74\", \"E76\", \"C78\", \"C82\", \"C84\"], \"held\": [], \"held_n\": 0, \"main\": [\"D07\", \"D09\", \"D11\", \"D15\", \"A17\", \"A21\", \"B25\", \"B53\", \"E70\", \"C74\", \"E76\", \"C78\", \"E80\", \"C82\", \"C84\"]}",
+   "slug": "qatar-airways",
+   "types": [
+    "787-9",
+    "A320",
+    "777-300ER"
+   ],
+   "updated": "2026-11-02"
+  },
+  "royal-air-maroc": {
+   "airport_short": "BCN",
+   "changed": "2026-11-02",
+   "code": "AT",
+   "data": "2026-11-02",
+   "deps_day": 2.8,
+   "dests": [
+    "CMN",
+    "TTU",
+    "TNG",
+    "NDR"
+   ],
+   "gates": [
+    "D03",
+    "D06",
+    "D07",
+    "D09",
+    "D11",
+    "D13",
+    "A16",
+    "A17"
+   ],
+   "gone": false,
+   "hash": "f05c2aafdfab",
+   "last_seen": "2026-11-01",
+   "last_seen_str": "Nov 1, 2026",
+   "name": "Royal Air Maroc",
+   "published": "2026-11-02",
+   "short": "Royal Air Maroc",
+   "sig": "{\"drawing\": \"caa1535ac516\", \"focus\": [\"D03\", \"D06\", \"D07\", \"D09\", \"D11\", \"D13\", \"A16\", \"A17\", \"D19\", \"D21\"], \"held\": [], \"held_n\": 0, \"main\": [\"D03\", \"D06\", \"D07\", \"D09\", \"D11\", \"D13\", \"A16\", \"A17\", \"D19\", \"D21\"]}",
+   "slug": "royal-air-maroc",
+   "types": [
+    "737-800",
+    "737 MAX 8",
+    "E190"
+   ],
+   "updated": "2026-11-02"
+  },
+  "royal-jordanian": {
+   "airport_short": "BCN",
+   "changed": "2026-11-02",
+   "code": "RJ",
+   "data": "2026-11-02",
+   "deps_day": 0.3,
+   "dests": [
+    "AMM"
+   ],
+   "gates": [
+    "D06",
+    "D09",
+    "D11",
+    "A17",
+    "C84"
+   ],
+   "gone": false,
+   "hash": "061f181248bd",
+   "last_seen": "2026-11-01",
+   "last_seen_str": "Nov 1, 2026",
+   "name": "Royal Jordanian",
+   "published": "2026-11-02",
+   "short": "Royal Jordanian",
+   "sig": "{\"drawing\": \"caa1535ac516\", \"focus\": [\"D06\", \"D09\", \"D11\", \"A17\", \"C84\"], \"held\": [], \"held_n\": 0, \"main\": [\"D06\", \"D09\", \"D11\", \"A17\", \"C84\"]}",
+   "slug": "royal-jordanian",
+   "types": [
+    "A320neo"
+   ],
+   "updated": "2026-11-02"
+  },
+  "ryanair": {
+   "airport_short": "BCN",
+   "changed": "2026-11-02",
+   "code": "FR",
+   "data": "2026-11-02",
+   "deps_day": 85.5,
+   "dests": [
+    "PMI",
+    "STN",
+    "FCO",
+    "DUB",
+    "OPO",
+    "IBZ"
+   ],
+   "gates": [
+    "R10",
+    "R11",
+    "R12",
+    "R13",
+    "R14",
+    "R15",
+    "R16",
+    "R19"
+   ],
+   "gone": false,
+   "hash": "d1524d9b31dc",
+   "last_seen": "2026-11-01",
+   "last_seen_str": "Nov 1, 2026",
+   "name": "Ryanair",
+   "published": "2026-11-02",
+   "short": "Ryanair",
+   "sig": "{\"drawing\": \"caa1535ac516\", \"focus\": [\"R10\", \"R12\", \"R13\", \"R14\", \"R19\", \"S20\", \"S21\", \"S22\", \"S23\", \"S24\", \"S25\", \"U31\", \"U32\", \"U33\", \"U34\", \"U35\", \"U36\", \"U41\", \"W42\", \"W43\", \"W44\", \"W45\", \"W46\", \"W48\", \"W52\", \"Y57\", \"Y58\"], \"held\": [\"R19\", \"U41\", \"W42\", \"W48\", \"W52\"], \"held_n\": 5, \"main\": [\"R10\", \"R11\", \"R12\", \"R13\", \"R14\", \"R15\", \"R16\", \"R19\", \"S20\", \"S21\", \"S22\", \"S23\", \"S24\", \"S25\", \"S26\", \"S30\", \"U31\", \"U32\", \"U33\", \"U34\", \"U35\", \"U36\", \"U37\", \"U41\", \"W42\", \"W43\", \"W44\", \"W45\", \"W46\", \"W48\", \"W52\", \"Y53\", \"Y54\", \"Y55\", \"Y57\", \"Y58\", \"Y59\", \"Y61\", \"Y63\"]}",
+   "slug": "ryanair",
+   "types": [
+    "737-800",
+    "737 MAX 8",
+    "A320"
+   ],
+   "updated": "2026-11-02"
+  },
+  "ryanair-uk": {
+   "airport_short": "BCN",
+   "changed": "2026-11-02",
+   "code": "RK",
+   "data": "2026-11-02",
+   "deps_day": 0.4,
+   "dests": [
+    "STN",
+    "EDI",
+    "MAN"
+   ],
+   "gates": [
+    "W45",
+    "W46",
+    "Y53",
+    "Y57",
+    "Y58"
+   ],
+   "gone": false,
+   "hash": "3aad17113374",
+   "last_seen": "2026-10-30",
+   "last_seen_str": "Oct 30, 2026",
+   "name": "Ryanair UK",
+   "published": "2026-11-02",
+   "short": "Ryanair UK",
+   "sig": "{\"drawing\": \"caa1535ac516\", \"focus\": [\"W45\", \"W46\", \"Y53\", \"Y57\", \"Y58\"], \"held\": [], \"held_n\": 0, \"main\": [\"W45\", \"W46\", \"Y53\", \"Y57\", \"Y58\"]}",
+   "slug": "ryanair-uk",
+   "types": [
+    "737-800"
+   ],
+   "updated": "2026-11-02"
+  },
+  "sas": {
+   "airport_short": "BCN",
+   "changed": "2026-11-02",
+   "code": "SK",
+   "data": "2026-11-02",
+   "deps_day": 2.0,
+   "dests": [
+    "CPH",
+    "ARN"
+   ],
+   "gates": [
+    "B24",
+    "B28",
+    "B32",
+    "B36",
+    "B37",
+    "B40",
+    "B41",
+    "B44"
+   ],
+   "gone": false,
+   "hash": "b1585322b4d7",
+   "last_seen": "2026-11-01",
+   "last_seen_str": "Nov 1, 2026",
+   "name": "SAS Scandinavian Airlines",
+   "published": "2026-11-02",
+   "short": "SAS",
+   "sig": "{\"drawing\": \"caa1535ac516\", \"focus\": [\"B24\", \"B28\", \"B32\", \"B36\", \"B40\", \"B41\", \"B44\", \"B45\", \"B48\", \"B52\", \"B56\", \"B63\", \"C72\"], \"held\": [], \"held_n\": 0, \"main\": [\"B24\", \"B28\", \"B32\", \"B36\", \"B37\", \"B40\", \"B41\", \"B44\", \"B45\", \"B48\", \"B52\", \"B56\", \"B62\", \"B63\", \"C72\", \"C74\", \"C76\"]}",
+   "slug": "sas",
+   "types": [
+    "A320neo",
+    "A321",
+    "A320"
+   ],
+   "updated": "2026-11-02"
+  },
+  "saudia": {
+   "airport_short": "BCN",
+   "changed": "2026-11-02",
+   "code": "SV",
+   "data": "2026-11-02",
+   "deps_day": 0.6,
+   "dests": [
+    "JED",
+    "TRN"
+   ],
+   "gates": [
+    "D07",
+    "A17",
+    "E70",
+    "C72",
+    "E76",
+    "C78",
+    "C84"
+   ],
+   "gone": false,
+   "hash": "892dd1e98372",
+   "last_seen": "2026-10-31",
+   "last_seen_str": "Oct 31, 2026",
+   "name": "Saudia",
+   "published": "2026-11-02",
+   "short": "Saudia",
+   "sig": "{\"drawing\": \"caa1535ac516\", \"focus\": [\"D07\", \"A17\", \"E70\", \"C72\", \"E76\", \"C78\", \"C84\"], \"held\": [], \"held_n\": 0, \"main\": [\"D07\", \"A17\", \"E70\", \"C72\", \"E76\", \"C78\", \"C84\"]}",
+   "slug": "saudia",
+   "types": [
+    "787-9",
+    "A321",
+    "787-10"
+   ],
+   "updated": "2026-11-02"
+  },
+  "shenzhen-airlines": {
+   "airport_short": "BCN",
+   "changed": "2026-11-02",
+   "code": "ZH",
+   "data": "2026-11-02",
+   "deps_day": 0.5,
+   "dests": [
+    "SZX",
+    "BCN"
+   ],
+   "gates": [
+    "D03",
+    "D06",
+    "D09",
+    "D11",
+    "D19",
+    "C84"
+   ],
+   "gone": false,
+   "hash": "b2b61ec6b375",
+   "last_seen": "2026-10-30",
+   "last_seen_str": "Oct 30, 2026",
+   "name": "Shenzhen Airlines",
+   "published": "2026-11-02",
+   "short": "Shenzhen Airlines",
+   "sig": "{\"drawing\": \"caa1535ac516\", \"focus\": [\"D03\", \"D06\", \"D09\", \"D11\", \"D19\", \"C84\"], \"held\": [], \"held_n\": 0, \"main\": [\"D03\", \"D06\", \"D09\", \"D11\", \"D19\", \"C84\"]}",
+   "slug": "shenzhen-airlines",
+   "types": [
+    "A330",
+    "A330-300"
+   ],
+   "updated": "2026-11-02"
+  },
+  "singapore-airlines": {
+   "airport_short": "BCN",
+   "changed": "2026-11-02",
+   "code": "SQ",
+   "data": "2026-11-02",
+   "deps_day": 0.8,
+   "dests": [
+    "SIN",
+    "MXP",
+    "MAD"
+   ],
+   "gates": [
+    "D07",
+    "D13",
+    "E70",
+    "C74",
+    "E76",
+    "C78",
+    "C84"
+   ],
+   "gone": false,
+   "hash": "5b1b5a89b1e7",
+   "last_seen": "2026-11-01",
+   "last_seen_str": "Nov 1, 2026",
+   "name": "Singapore Airlines",
+   "published": "2026-11-02",
+   "short": "Singapore Airlines",
+   "sig": "{\"drawing\": \"caa1535ac516\", \"focus\": [\"D07\", \"D13\", \"E70\", \"C74\", \"E76\", \"C78\", \"C84\"], \"held\": [], \"held_n\": 0, \"main\": [\"D07\", \"D13\", \"E70\", \"C74\", \"E76\", \"C78\", \"C84\"]}",
+   "slug": "singapore-airlines",
+   "types": [
+    "A350-900",
+    "A350"
+   ],
+   "updated": "2026-11-02"
+  },
+  "sky-express": {
+   "airport_short": "BCN",
+   "changed": "2026-11-02",
+   "code": "GQ",
+   "data": "2026-11-02",
+   "deps_day": 0.3,
+   "dests": [
+    "ATH"
+   ],
+   "gates": [
+    "S22",
+    "S23",
+    "U34",
+    "U35",
+    "U36"
+   ],
+   "gone": false,
+   "hash": "8ee78f035752",
+   "last_seen": "2026-11-01",
+   "last_seen_str": "Nov 1, 2026",
+   "name": "Sky Express",
+   "published": "2026-11-02",
+   "short": "Sky Express",
+   "sig": "{\"drawing\": \"caa1535ac516\", \"focus\": [\"S22\", \"S23\", \"U34\", \"U35\", \"U36\"], \"held\": [], \"held_n\": 0, \"main\": [\"S22\", \"S23\", \"U34\", \"U35\", \"U36\"]}",
+   "slug": "sky-express",
+   "types": [
+    "A320neo",
+    "A321neo"
+   ],
+   "updated": "2026-11-02"
+  },
+  "skyup": {
+   "airport_short": "BCN",
+   "changed": "2026-11-02",
+   "code": "U5",
+   "data": "2026-11-02",
+   "deps_day": 0.2,
+   "dests": [
+    "RMO"
+   ],
+   "gates": [
+    "Y57",
+    "Y59"
+   ],
+   "gone": false,
+   "hash": "f633eb593594",
+   "last_seen": "2026-10-21",
+   "last_seen_str": "Oct 21, 2026",
+   "name": "SkyUp",
+   "published": "2026-11-02",
+   "short": "SkyUp",
+   "sig": "{\"drawing\": \"caa1535ac516\", \"focus\": [\"Y57\", \"Y59\"], \"held\": [], \"held_n\": 0, \"main\": [\"Y57\", \"Y59\"]}",
+   "slug": "skyup",
+   "types": [
+    "737-800",
+    "737-700"
+   ],
+   "updated": "2026-11-02"
+  },
+  "smartwings": {
+   "airport_short": "BCN",
+   "changed": "2026-11-02",
+   "code": "QS",
+   "data": "2026-11-02",
+   "deps_day": 0.7,
+   "dests": [
+    "PRG"
+   ],
+   "gates": [
+    "S20",
+    "S21",
+    "S22",
+    "S23",
+    "S24",
+    "S25",
+    "U31",
+    "U33"
+   ],
+   "gone": false,
+   "hash": "bebf8efdcea1",
+   "last_seen": "2026-11-01",
+   "last_seen_str": "Nov 1, 2026",
+   "name": "Smartwings",
+   "published": "2026-11-02",
+   "short": "Smartwings",
+   "sig": "{\"drawing\": \"caa1535ac516\", \"focus\": [\"S20\", \"S21\", \"S22\", \"S23\", \"S24\", \"S25\", \"U31\", \"U33\", \"U34\"], \"held\": [], \"held_n\": 0, \"main\": [\"S20\", \"S21\", \"S22\", \"S23\", \"S24\", \"S25\", \"U31\", \"U33\", \"U34\"]}",
+   "slug": "smartwings",
+   "types": [
+    "737-800",
+    "737 MAX 8",
+    "A220-300"
+   ],
+   "updated": "2026-11-02"
+  },
+  "sunexpress": {
+   "airport_short": "BCN",
+   "changed": "2026-11-02",
+   "code": "XQ",
+   "data": "2026-11-02",
+   "deps_day": 0.6,
+   "dests": [
+    "ADB"
+   ],
+   "gates": [
+    "W44",
+    "W45",
+    "Y53",
+    "Y54",
+    "Y55",
+    "Y57"
+   ],
+   "gone": false,
+   "hash": "53be510f1ee5",
+   "last_seen": "2026-11-01",
+   "last_seen_str": "Nov 1, 2026",
+   "name": "SunExpress",
+   "published": "2026-11-02",
+   "short": "SunExpress",
+   "sig": "{\"drawing\": \"caa1535ac516\", \"focus\": [\"W44\", \"W45\", \"Y53\", \"Y54\", \"Y55\", \"Y57\"], \"held\": [], \"held_n\": 0, \"main\": [\"W44\", \"W45\", \"Y53\", \"Y54\", \"Y55\", \"Y57\"]}",
+   "slug": "sunexpress",
+   "types": [
+    "737-800",
+    "737 MAX 8"
+   ],
+   "updated": "2026-11-02"
+  },
+  "swiss": {
+   "airport_short": "BCN",
+   "changed": "2026-11-02",
+   "code": "LX",
+   "data": "2026-11-02",
+   "deps_day": 4.7,
+   "dests": [
+    "ZRH",
+    "QSA",
+    "BYJ",
+    "FAB"
+   ],
+   "gates": [
+    "B24",
+    "B28",
+    "B32",
+    "B36",
+    "B40",
+    "B44",
+    "B48",
+    "B52"
+   ],
+   "gone": false,
+   "hash": "271ea3534644",
+   "last_seen": "2026-11-01",
+   "last_seen_str": "Nov 1, 2026",
+   "name": "SWISS",
+   "published": "2026-11-02",
+   "short": "SWISS",
+   "sig": "{\"drawing\": \"caa1535ac516\", \"focus\": [\"B24\", \"B28\", \"B32\", \"B36\", \"B40\", \"B44\", \"B48\", \"B52\", \"B56\", \"C72\", \"C74\", \"C76\", \"C78\", \"C80\"], \"held\": [], \"held_n\": 0, \"main\": [\"B24\", \"B28\", \"B32\", \"B36\", \"B40\", \"B44\", \"B48\", \"B52\", \"B56\", \"B62\", \"B68\", \"C70\", \"C72\", \"C74\", \"C76\", \"C78\", \"C80\", \"C82\"]}",
+   "slug": "swiss",
+   "types": [
+    "A321",
+    "A321neo",
+    "A320neo"
+   ],
+   "updated": "2026-11-02"
+  },
+  "t-way": {
+   "airport_short": "BCN",
+   "changed": "2026-11-02",
+   "code": "TW",
+   "data": "2026-11-02",
+   "deps_day": 0.5,
+   "dests": [
+    "ICN"
+   ],
+   "gates": [
+    "W43",
+    "Y54"
+   ],
+   "gone": false,
+   "hash": "e4f98a428c5f",
+   "last_seen": "2026-10-31",
+   "last_seen_str": "Oct 31, 2026",
+   "name": "T'way Air",
+   "published": "2026-11-02",
+   "short": "T'way",
+   "sig": "{\"drawing\": \"caa1535ac516\", \"focus\": [\"W43\", \"Y54\"], \"held\": [], \"held_n\": 0, \"main\": [\"W43\", \"Y54\"]}",
+   "slug": "t-way",
+   "types": [
+    "B777",
+    "A330",
+    "A330-200"
+   ],
+   "updated": "2026-11-02"
+  },
+  "tap": {
+   "airport_short": "BCN",
+   "changed": "2026-11-02",
+   "code": "TP",
+   "data": "2026-11-02",
+   "deps_day": 5.6,
+   "dests": [
+    "LIS",
+    "MEX"
+   ],
+   "gates": [
+    "A16",
+    "A19",
+    "A21",
+    "B24",
+    "B28",
+    "B29",
+    "B32",
+    "B36"
+   ],
+   "gone": false,
+   "hash": "43d1a5ee7a41",
+   "last_seen": "2026-11-01",
+   "last_seen_str": "Nov 1, 2026",
+   "name": "TAP Air Portugal",
+   "published": "2026-11-02",
+   "short": "TAP",
+   "sig": "{\"drawing\": \"caa1535ac516\", \"focus\": [\"B24\", \"B28\", \"B32\", \"B36\", \"B40\", \"B44\", \"B48\", \"B56\", \"C70\", \"C72\", \"C74\", \"C78\"], \"held\": [], \"held_n\": 0, \"main\": [\"A16\", \"A19\", \"A21\", \"B24\", \"B28\", \"B29\", \"B32\", \"B36\", \"B40\", \"B44\", \"B48\", \"B52\", \"B53\", \"B56\", \"B62\", \"B68\", \"C70\", \"C72\", \"C74\", \"C76\", \"C78\", \"C80\", \"C82\"]}",
+   "slug": "tap",
+   "types": [
+    "E190",
+    "A320",
+    "E195"
+   ],
+   "updated": "2026-11-02"
+  },
+  "transavia": {
+   "airport_short": "BCN",
+   "changed": "2026-11-02",
+   "code": "TO",
+   "data": "2026-11-02",
+   "deps_day": 3.4,
+   "dests": [
+    "ORY",
+    "PRG"
+   ],
+   "gates": [
+    "R10",
+    "R11",
+    "R14",
+    "S20",
+    "S21",
+    "S22",
+    "S23",
+    "S24"
+   ],
+   "gone": false,
+   "hash": "697a4bccaa58",
+   "last_seen": "2026-11-01",
+   "last_seen_str": "Nov 1, 2026",
+   "name": "Transavia France",
+   "published": "2026-11-02",
+   "short": "Transavia",
+   "sig": "{\"drawing\": \"caa1535ac516\", \"focus\": [\"R11\", \"R14\", \"S20\", \"S21\", \"S22\", \"S23\", \"S24\", \"S25\", \"U31\", \"U32\", \"U33\", \"U34\", \"U35\", \"U36\"], \"held\": [], \"held_n\": 0, \"main\": [\"R10\", \"R11\", \"R14\", \"S20\", \"S21\", \"S22\", \"S23\", \"S24\", \"S25\", \"S26\", \"U31\", \"U32\", \"U33\", \"U34\", \"U35\", \"U36\", \"U37\"]}",
+   "slug": "transavia",
+   "types": [
+    "A320neo",
+    "737-800",
+    "A321"
+   ],
+   "updated": "2026-11-02"
+  },
+  "transavia-nl": {
+   "airport_short": "BCN",
+   "changed": "2026-11-02",
+   "code": "HV",
+   "data": "2026-11-02",
+   "deps_day": 3.9,
+   "dests": [
+    "AMS",
+    "EIN",
+    "RTM",
+    "BCN"
+   ],
+   "gates": [
+    "R10",
+    "R11",
+    "R12",
+    "R13",
+    "S20",
+    "S21",
+    "S22",
+    "S23"
+   ],
+   "gone": false,
+   "hash": "2f57c02addc1",
+   "last_seen": "2026-11-01",
+   "last_seen_str": "Nov 1, 2026",
+   "name": "Transavia",
+   "published": "2026-11-02",
+   "short": "Transavia NL",
+   "sig": "{\"drawing\": \"caa1535ac516\", \"focus\": [\"R11\", \"R12\", \"S20\", \"S21\", \"S22\", \"S23\", \"S24\", \"S25\", \"U31\", \"U32\", \"U33\", \"U34\", \"U35\", \"U36\"], \"held\": [], \"held_n\": 0, \"main\": [\"R10\", \"R11\", \"R12\", \"R13\", \"S20\", \"S21\", \"S22\", \"S23\", \"S24\", \"S25\", \"U31\", \"U32\", \"U33\", \"U34\", \"U35\", \"U36\", \"U37\"]}",
+   "slug": "transavia-nl",
+   "types": [
+    "737-800",
+    "A321neo"
+   ],
+   "updated": "2026-11-02"
+  },
+  "tunisair": {
+   "airport_short": "BCN",
+   "changed": "2026-11-02",
+   "code": "TU",
+   "data": "2026-11-02",
+   "deps_day": 0.5,
+   "dests": [
+    "TUN"
+   ],
+   "gates": [
+    "D07",
+    "D11",
+    "D13",
+    "A16",
+    "A17",
+    "D19",
+    "D21",
+    "E70"
+   ],
+   "gone": false,
+   "hash": "f2b3ab951291",
+   "last_seen": "2026-11-01",
+   "last_seen_str": "Nov 1, 2026",
+   "name": "Tunisair",
+   "published": "2026-11-02",
+   "short": "Tunisair",
+   "sig": "{\"drawing\": \"caa1535ac516\", \"focus\": [\"D07\", \"D11\", \"D13\", \"A16\", \"A17\", \"D19\", \"D21\", \"E70\"], \"held\": [], \"held_n\": 0, \"main\": [\"D07\", \"D11\", \"D13\", \"A16\", \"A17\", \"D19\", \"D21\", \"E70\"]}",
+   "slug": "tunisair",
+   "types": [
+    "A320",
+    "A320neo"
+   ],
+   "updated": "2026-11-02"
+  },
+  "turkish-airlines": {
+   "airport_short": "BCN",
+   "changed": "2026-11-02",
+   "code": "TK",
+   "data": "2026-11-02",
+   "deps_day": 4.4,
+   "dests": [
+    "IST",
+    "BCN",
+    "CDG"
+   ],
+   "gates": [
+    "A01",
+    "D06",
+    "D07",
+    "D09",
+    "D11",
+    "D13",
+    "D15",
+    "A16"
+   ],
+   "gone": false,
+   "hash": "604646163e22",
+   "last_seen": "2026-11-01",
+   "last_seen_str": "Nov 1, 2026",
+   "name": "Turkish Airlines",
+   "published": "2026-11-02",
+   "short": "Turkish Airlines",
+   "sig": "{\"drawing\": \"caa1535ac516\", \"focus\": [\"D06\", \"D09\", \"D11\", \"D13\", \"D15\", \"A16\", \"E70\", \"C72\", \"C74\", \"E76\", \"C78\", \"E80\", \"C82\", \"C84\"], \"held\": [], \"held_n\": 0, \"main\": [\"A01\", \"D06\", \"D07\", \"D09\", \"D11\", \"D13\", \"D15\", \"A16\", \"A17\", \"D21\", \"E70\", \"C72\", \"C74\", \"E76\", \"C78\", \"E80\", \"C82\", \"C84\"]}",
+   "slug": "turkish-airlines",
+   "types": [
+    "A330-300",
+    "A321neo",
+    "A321"
+   ],
+   "updated": "2026-11-02"
+  },
+  "united": {
+   "airport_short": "BCN",
+   "changed": "2026-11-02",
+   "code": "UA",
+   "data": "2026-11-02",
+   "deps_day": 3.2,
+   "dests": [
+    "IAD",
+    "ORD",
+    "EWR",
+    "SFO"
+   ],
+   "gates": [
+    "D07",
+    "D09",
+    "D13",
+    "D15",
+    "A17",
+    "D19",
+    "D21",
+    "E70"
+   ],
+   "gone": false,
+   "hash": "57b9053552f5",
+   "last_seen": "2026-11-02",
+   "last_seen_str": "Nov 2, 2026",
+   "name": "United Airlines",
+   "published": "2026-11-02",
+   "short": "United",
+   "sig": "{\"drawing\": \"caa1535ac516\", \"focus\": [\"D07\", \"D09\", \"D13\", \"A17\", \"D21\", \"E70\", \"C72\", \"C74\", \"E76\", \"C78\", \"E80\", \"C82\", \"C84\"], \"held\": [], \"held_n\": 0, \"main\": [\"D07\", \"D09\", \"D13\", \"D15\", \"A17\", \"D19\", \"D21\", \"E70\", \"C72\", \"C74\", \"E76\", \"C78\", \"E80\", \"C82\", \"C84\"]}",
+   "slug": "united",
+   "types": [
+    "767-400",
+    "787-8",
+    "787-9"
+   ],
+   "updated": "2026-11-02"
+  },
+  "volotea": {
+   "airport_short": "BCN",
+   "changed": "2026-11-02",
+   "code": "V7",
+   "data": "2026-11-02",
+   "deps_day": 5.4,
+   "dests": [
+    "NTE",
+    "VIT",
+    "OVD",
+    "MRS",
+    "RMU",
+    "VRN"
+   ],
+   "gates": [
+    "R10",
+    "R11",
+    "R12",
+    "R13",
+    "R14",
+    "S20",
+    "S21",
+    "S22"
+   ],
+   "gone": false,
+   "hash": "e4fb5101e283",
+   "last_seen": "2026-11-01",
+   "last_seen_str": "Nov 1, 2026",
+   "name": "Volotea",
+   "published": "2026-11-02",
+   "short": "Volotea",
+   "sig": "{\"drawing\": \"caa1535ac516\", \"focus\": [\"R10\", \"R11\", \"R12\", \"R13\", \"R14\", \"S20\", \"S21\", \"S22\", \"S23\", \"S24\", \"S25\", \"U31\", \"U32\", \"U33\", \"U34\", \"U35\", \"U36\"], \"held\": [], \"held_n\": 0, \"main\": [\"R10\", \"R11\", \"R12\", \"R13\", \"R14\", \"S20\", \"S21\", \"S22\", \"S23\", \"S24\", \"S25\", \"U31\", \"U32\", \"U33\", \"U34\", \"U35\", \"U36\"]}",
+   "slug": "volotea",
+   "types": [
+    "A320",
+    "A319"
+   ],
+   "updated": "2026-11-02"
+  },
+  "vueling": {
+   "airport_short": "BCN",
+   "changed": "2026-11-02",
+   "code": "VY",
+   "data": "2026-11-02",
+   "deps_day": 188.8,
+   "dests": [
+    "PMI",
+    "ORY",
+    "MXP",
+    "SVQ",
+    "IBZ",
+    "BIO"
+   ],
+   "gates": [
+    "A01",
+    "D03",
+    "A05",
+    "D06",
+    "D07",
+    "D09",
+    "A10",
+    "D11"
+   ],
+   "gone": false,
+   "hash": "d857fcbfa440",
+   "last_seen": "2026-11-01",
+   "last_seen_str": "Nov 1, 2026",
+   "name": "Vueling",
+   "published": "2026-11-02",
+   "short": "Vueling",
+   "sig": "{\"drawing\": \"caa1535ac516\", \"focus\": [\"D07\", \"A10\", \"A12\", \"A14\", \"A17\", \"A19\", \"A21\", \"B25\", \"B29\", \"B33\", \"B37\", \"B40\", \"B41\", \"B44\", \"B45\", \"B48\", \"B49\", \"B53\", \"B56\", \"B59\", \"B63\", \"B67\", \"B68\", \"C84\"], \"held\": [\"A10\", \"A12\", \"A14\", \"A19\", \"A21\", \"B25\", \"B29\", \"B33\", \"B37\", \"B41\", \"B45\", \"B49\", \"B53\", \"B59\", \"B63\", \"B67\", \"B68\"], \"held_n\": 17, \"main\": [\"A01\", \"D03\", \"A05\", \"D06\", \"D07\", \"D09\", \"A10\", \"D11\", \"A12\", \"D13\", \"A14\", \"D15\", \"A16\", \"A17\", \"A19\", \"D19\", \"A21\", \"D21\", \"B24\", \"B25\", \"B28\", \"B29\", \"B32\", \"B33\", \"B36\", \"B37\", \"B40\", \"B41\", \"B44\", \"B45\", \"B48\", \"B49\", \"B52\", \"B53\", \"B56\", \"B59\", \"B62\", \"B63\", \"B67\", \"B68\", \"C70\", \"E70\", \"C72\", \"C74\", \"C76\", \"E76\", \"C78\", \"C80\", \"E80\", \"C82\", \"C84\"]}",
+   "slug": "vueling",
+   "types": [
+    "A320",
+    "A321",
+    "A321neo"
+   ],
+   "updated": "2026-11-02"
+  },
+  "westjet": {
+   "airport_short": "BCN",
+   "changed": "2026-11-02",
+   "code": "WS",
+   "data": "2026-11-02",
+   "deps_day": 0.5,
+   "dests": [
+    "YYC",
+    "YHZ",
+    "CDG"
+   ],
+   "gates": [
+    "W43",
+    "W44",
+    "W45",
+    "W46",
+    "Y55",
+    "Y58"
+   ],
+   "gone": false,
+   "hash": "aed720518745",
+   "last_seen": "2026-10-25",
+   "last_seen_str": "Oct 25, 2026",
+   "name": "WestJet",
+   "published": "2026-11-02",
+   "short": "WestJet",
+   "sig": "{\"drawing\": \"caa1535ac516\", \"focus\": [\"W43\", \"W44\", \"W45\", \"W46\", \"Y55\", \"Y58\"], \"held\": [], \"held_n\": 0, \"main\": [\"W43\", \"W44\", \"W45\", \"W46\", \"Y55\", \"Y58\"]}",
+   "slug": "westjet",
+   "types": [
+    "787-9",
+    "737 MAX 8",
+    "A321"
+   ],
+   "updated": "2026-11-02"
+  },
+  "wizz-air": {
+   "airport_short": "BCN",
+   "changed": "2026-11-02",
+   "code": "W6",
+   "data": "2026-11-02",
+   "deps_day": 15.6,
+   "dests": [
+    "BUD",
+    "WAW",
+    "KRK",
+    "SOF",
+    "WRO",
+    "BTS"
+   ],
+   "gates": [
+    "R10",
+    "R11",
+    "R12",
+    "R13",
+    "R14",
+    "S20",
+    "S21",
+    "S22"
+   ],
+   "gone": false,
+   "hash": "968cbac45961",
+   "last_seen": "2026-11-01",
+   "last_seen_str": "Nov 1, 2026",
+   "name": "Wizz Air",
+   "published": "2026-11-02",
+   "short": "Wizz Air",
+   "sig": "{\"drawing\": \"caa1535ac516\", \"focus\": [\"R11\", \"R14\", \"S20\", \"S21\", \"S22\", \"S23\", \"S24\", \"S25\", \"U31\", \"U32\", \"U33\", \"U34\", \"U35\", \"U36\", \"W45\", \"W46\"], \"held\": [], \"held_n\": 0, \"main\": [\"R10\", \"R11\", \"R12\", \"R13\", \"R14\", \"S20\", \"S21\", \"S22\", \"S23\", \"S24\", \"S25\", \"S26\", \"U31\", \"U32\", \"U33\", \"U34\", \"U35\", \"U36\", \"U37\", \"U38\", \"U39\", \"W42\", \"W43\", \"W44\", \"W45\", \"W46\", \"Y53\", \"Y54\", \"Y55\", \"Y57\", \"Y58\"]}",
+   "slug": "wizz-air",
+   "types": [
+    "A321neo",
+    "A321",
+    "A320"
+   ],
+   "updated": "2026-11-02"
+  },
+  "wizz-air-malta": {
+   "airport_short": "BCN",
+   "changed": "2026-11-02",
+   "code": "W4",
+   "data": "2026-11-02",
+   "deps_day": 13.2,
+   "dests": [
+    "FCO",
+    "OTP",
+    "TIA",
+    "CLJ",
+    "MXP",
+    "TRN"
+   ],
+   "gates": [
+    "R10",
+    "R11",
+    "R12",
+    "R13",
+    "R14",
+    "S20",
+    "S21",
+    "S22"
+   ],
+   "gone": false,
+   "hash": "62d151ecdb78",
+   "last_seen": "2026-11-01",
+   "last_seen_str": "Nov 1, 2026",
+   "name": "Wizz Air Malta",
+   "published": "2026-11-02",
+   "short": "Wizz Air Malta",
+   "sig": "{\"drawing\": \"caa1535ac516\", \"focus\": [\"R10\", \"R14\", \"S20\", \"S21\", \"S22\", \"S23\", \"S24\", \"S25\", \"U31\", \"U32\", \"U33\", \"U34\", \"U35\", \"U36\", \"W43\", \"W45\", \"W46\"], \"held\": [], \"held_n\": 0, \"main\": [\"R10\", \"R11\", \"R12\", \"R13\", \"R14\", \"S20\", \"S21\", \"S22\", \"S23\", \"S24\", \"S25\", \"U31\", \"U32\", \"U33\", \"U34\", \"U35\", \"U36\", \"U38\", \"W42\", \"W43\", \"W44\", \"W45\", \"W46\", \"Y53\", \"Y55\", \"Y57\"]}",
+   "slug": "wizz-air-malta",
+   "types": [
+    "A321neo",
+    "A321",
+    "A320"
+   ],
+   "updated": "2026-11-02"
+  },
+  "wizz-air-uk": {
+   "airport_short": "BCN",
+   "changed": "2026-11-02",
+   "code": "W9",
+   "data": "2026-11-02",
+   "deps_day": 2.2,
+   "dests": [
+    "LTN"
+   ],
+   "gates": [
+    "W43",
+    "W44",
+    "W45",
+    "W46",
+    "Y53",
+    "Y54",
+    "Y55",
+    "Y57"
+   ],
+   "gone": false,
+   "hash": "08268917f91b",
+   "last_seen": "2026-11-01",
+   "last_seen_str": "Nov 1, 2026",
+   "name": "Wizz Air UK",
+   "published": "2026-11-02",
+   "short": "Wizz Air UK",
+   "sig": "{\"drawing\": \"caa1535ac516\", \"focus\": [\"W43\", \"W44\", \"W45\", \"W46\", \"Y53\", \"Y54\", \"Y55\", \"Y57\", \"Y58\", \"Y59\"], \"held\": [], \"held_n\": 0, \"main\": [\"W43\", \"W44\", \"W45\", \"W46\", \"Y53\", \"Y54\", \"Y55\", \"Y57\", \"Y58\", \"Y59\"]}",
+   "slug": "wizz-air-uk",
+   "types": [
+    "A321neo",
+    "A320",
+    "A321"
+   ],
+   "updated": "2026-11-02"
+  }
+ },
  "BDL": {
   "american": {
    "airport_short": "BDL",

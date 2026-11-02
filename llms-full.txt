@@ -1,6 +1,6 @@
 # Chockwise
 
-> Airport gate data by airline, from flight data: how many gates each airline has at 246 airports, which terminal it uses, departures a day and nonstop routes. Data as of Nov 2, 2026.
+> Airport gate data by airline, from flight data: how many gates each airline has at 247 airports, which terminal it uses, departures a day and nonstop routes. Data as of Nov 2, 2026.
 
 How we count: a gate is an airline's when that airline (including its regional partners) flies at least 70% of the arrivals and departures there over the data window shown on each page. Gates no airline dominates are "common use". Counts on the airport page and the airline-at-airport page are always the same number. Each page says the days its numbers come from.
 
@@ -297,6 +297,91 @@ How we count: a gate is an airline's when that airline (including its regional p
 - United at AVL: shared gates; 5/day; https://chockwise.com/airports/avl/united
 - American at AVP: 2 gates; 5-6/day; https://chockwise.com/airports/avp/american
 - United at AVP: 2 gates; 4/day; https://chockwise.com/airports/avp/united
+- Vueling at BCN: 17 gates, Terminal 1; 189/day; https://chockwise.com/airports/bcn/vueling
+- Ryanair at BCN: 5 gates, Terminal 2; 86/day; https://chockwise.com/airports/bcn/ryanair
+- Iberia at BCN: 1 gate, Terminal 1; 34/day; https://chockwise.com/airports/bcn/iberia
+- easyJet at BCN: 5 gates, Terminal 2; 29/day; https://chockwise.com/airports/bcn/easyjet
+- Wizz Air at BCN: shared gates; 16/day; https://chockwise.com/airports/bcn/wizz-air
+- Lufthansa at BCN: shared gates; 13/day; https://chockwise.com/airports/bcn/lufthansa
+- Wizz Air Malta at BCN: shared gates; 13/day; https://chockwise.com/airports/bcn/wizz-air-malta
+- British Airways at BCN: shared gates; 8-9/day; https://chockwise.com/airports/bcn/british-airways
+- Eurowings at BCN: shared gates; 8-9/day; https://chockwise.com/airports/bcn/eurowings
+- Air Europa at BCN: shared gates; 8/day; https://chockwise.com/airports/bcn/air-europa
+- Air France at BCN: shared gates; 7-8/day; https://chockwise.com/airports/bcn/air-france
+- Norwegian Air at BCN: shared gates; 6-7/day; https://chockwise.com/airports/bcn/norwegian-air
+- TAP at BCN: shared gates; 5-6/day; https://chockwise.com/airports/bcn/tap
+- KLM at BCN: shared gates; 5-6/day; https://chockwise.com/airports/bcn/klm
+- American at BCN: shared gates; 5-6/day; https://chockwise.com/airports/bcn/american
+- Volotea at BCN: shared gates; 5-6/day; https://chockwise.com/airports/bcn/volotea
+- SWISS at BCN: shared gates; 4-5/day; https://chockwise.com/airports/bcn/swiss
+- Turkish Airlines at BCN: shared gates; 4-5/day; https://chockwise.com/airports/bcn/turkish-airlines
+- Emirates at BCN: shared gates; 4/day; https://chockwise.com/airports/bcn/emirates
+- Transavia NL at BCN: shared gates; 4/day; https://chockwise.com/airports/bcn/transavia-nl
+- LEVEL at BCN: shared gates; 3-4/day; https://chockwise.com/airports/bcn/level
+- Transavia at BCN: shared gates; 3-4/day; https://chockwise.com/airports/bcn/transavia
+- Qatar Airways at BCN: shared gates; 3-4/day; https://chockwise.com/airports/bcn/qatar-airways
+- United at BCN: shared gates; 3-4/day; https://chockwise.com/airports/bcn/united
+- Condor at BCN: shared gates; 3/day; https://chockwise.com/airports/bcn/condor
+- Delta at BCN: shared gates; 3/day; https://chockwise.com/airports/bcn/delta
+- ITA Airways at BCN: shared gates; 3/day; https://chockwise.com/airports/bcn/ita-airways
+- Air Arabia Maroc at BCN: shared gates; 2-3/day; https://chockwise.com/airports/bcn/air-arabia-maroc
+- Austrian at BCN: shared gates; 2-3/day; https://chockwise.com/airports/bcn/austrian
+- Royal Air Maroc at BCN: shared gates; 2-3/day; https://chockwise.com/airports/bcn/royal-air-maroc
+- Brussels Airlines at BCN: shared gates; 2-3/day; https://chockwise.com/airports/bcn/brussels-airlines
+- Aegean at BCN: shared gates; 2-3/day; https://chockwise.com/airports/bcn/aegean
+- Wizz Air UK at BCN: shared gates; 2-3/day; https://chockwise.com/airports/bcn/wizz-air-uk
+- LOT at BCN: shared gates; 2/day; https://chockwise.com/airports/bcn/lot
+- Pegasus at BCN: shared gates; 2/day; https://chockwise.com/airports/bcn/pegasus
+- Jet2 at BCN: shared gates; 2/day; https://chockwise.com/airports/bcn/jet2
+- Air China at BCN: shared gates; 2/day; https://chockwise.com/airports/bcn/air-china
+- SAS at BCN: shared gates; 2/day; https://chockwise.com/airports/bcn/sas
+- Air Canada at BCN: shared gates; 1-2/day; https://chockwise.com/airports/bcn/air-canada
+- Finnair at BCN: shared gates; 1-2/day; https://chockwise.com/airports/bcn/finnair
+- Aer Lingus at BCN: shared gates; 1-2/day; https://chockwise.com/airports/bcn/aer-lingus
+- Etihad at BCN: shared gates; 1-2/day; https://chockwise.com/airports/bcn/etihad
+- El Al at BCN: shared gates; 1-2/day; https://chockwise.com/airports/bcn/el-al
+- Air Serbia at BCN: shared gates; 1-2/day; https://chockwise.com/airports/bcn/air-serbia
+- Lufthansa City at BCN: shared gates; 1-2/day; https://chockwise.com/airports/bcn/lufthansa-city
+- Air Algérie at BCN: shared gates; 1-2/day; https://chockwise.com/airports/bcn/air-algerie
+- Aeroméxico at BCN: shared gates; 1-2/day; https://chockwise.com/airports/bcn/aeromexico
+- Blue Bird at BCN: shared gates; 1-2/day; https://chockwise.com/airports/bcn/blue-bird
+- Luxair at BCN: shared gates; 1/day; https://chockwise.com/airports/bcn/luxair
+- airBaltic at BCN: shared gates; 1/day; https://chockwise.com/airports/bcn/airbaltic
+- Avianca at BCN: shared gates; 1/day; https://chockwise.com/airports/bcn/avianca
+- Asiana at BCN: shared gates; 1/day; https://chockwise.com/airports/bcn/asiana
+- EgyptAir at BCN: shared gates; 1/day; https://chockwise.com/airports/bcn/egyptair
+- China Eastern at BCN: shared gates; 1/day; https://chockwise.com/airports/bcn/china-eastern
+- LATAM Brasil at BCN: shared gates; 6-7/week; https://chockwise.com/airports/bcn/latam-brasil
+- Singapore Airlines at BCN: shared gates; 5-6/week; https://chockwise.com/airports/bcn/singapore-airlines
+- Air Transat at BCN: shared gates; 5-6/week; https://chockwise.com/airports/bcn/air-transat
+- Icelandair at BCN: shared gates; 5-6/week; https://chockwise.com/airports/bcn/icelandair
+- AJet at BCN: shared gates; 5-6/week; https://chockwise.com/airports/bcn/ajet
+- JetBlue at BCN: shared gates; 5-6/week; https://chockwise.com/airports/bcn/jetblue
+- Smartwings at BCN: shared gates; 4-5/week; https://chockwise.com/airports/bcn/smartwings
+- SunExpress at BCN: shared gates; 4-5/week; https://chockwise.com/airports/bcn/sunexpress
+- Saudia at BCN: shared gates; 4-5/week; https://chockwise.com/airports/bcn/saudia
+- Cyprus Airways at BCN: shared gates; 4-5/week; https://chockwise.com/airports/bcn/cyprus-airways
+- Azerbaijan Airlines at BCN: shared gates; 4/week; https://chockwise.com/airports/bcn/azerbaijan-airlines
+- Kuwait Airways at BCN: shared gates; 4/week; https://chockwise.com/airports/bcn/kuwait-airways
+- Croatia Airlines at BCN: shared gates; 3-4/week; https://chockwise.com/airports/bcn/croatia-airlines
+- T'way at BCN: shared gates; 3-4/week; https://chockwise.com/airports/bcn/t-way
+- Tunisair at BCN: shared gates; 3-4/week; https://chockwise.com/airports/bcn/tunisair
+- Shenzhen Airlines at BCN: shared gates; 3-4/week; https://chockwise.com/airports/bcn/shenzhen-airlines
+- WestJet at BCN: shared gates; 3-4/week; https://chockwise.com/airports/bcn/westjet
+- Arkia at BCN: shared gates; 2-3/week; https://chockwise.com/airports/bcn/arkia
+- Cathay Pacific at BCN: shared gates; 2-3/week; https://chockwise.com/airports/bcn/cathay-pacific
+- Ryanair UK at BCN: shared gates; 2-3/week; https://chockwise.com/airports/bcn/ryanair-uk
+- Iberojet at BCN: shared gates; 2-3/week; https://chockwise.com/airports/bcn/iberojet
+- Azores Airlines at BCN: shared gates; 2-3/week; https://chockwise.com/airports/bcn/azores-airlines
+- Nile Air at BCN: shared gates; 2/week; https://chockwise.com/airports/bcn/nile-air
+- FLYONE Armenia at BCN: shared gates; 2/week; https://chockwise.com/airports/bcn/flyone-armenia
+- Nouvelair at BCN: shared gates; 2/week; https://chockwise.com/airports/bcn/nouvelair
+- Royal Jordanian at BCN: shared gates; 2/week; https://chockwise.com/airports/bcn/royal-jordanian
+- Sky Express at BCN: shared gates; 2/week; https://chockwise.com/airports/bcn/sky-express
+- SkyUp at BCN: shared gates; 1-2/week; https://chockwise.com/airports/bcn/skyup
+- Bulgaria Air at BCN: shared gates; 1/week; https://chockwise.com/airports/bcn/bulgaria-air
+- Air Cairo at BCN: shared gates; 1/week; https://chockwise.com/airports/bcn/air-cairo
+- Aer Lingus Regional at BCN: shared gates; under 1/week; https://chockwise.com/airports/bcn/aer-lingus-regional
 - American at BDL: 5 gates; 21/day; https://chockwise.com/airports/bdl/american
 - Southwest at BDL: 3 gates; 13/day; https://chockwise.com/airports/bdl/southwest
 - Delta at BDL: 4 gates; 13/day; https://chockwise.com/airports/bdl/delta

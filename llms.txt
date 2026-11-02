@@ -1,11 +1,11 @@
 # Chockwise
 
-> Airport gate data by airline, from flight data: how many gates each airline has at 246 airports, which terminal it uses, departures a day and nonstop routes. Data as of Nov 2, 2026.
+> Airport gate data by airline, from flight data: how many gates each airline has at 247 airports, which terminal it uses, departures a day and nonstop routes. Data as of Nov 2, 2026.
 
 How we count: a gate is an airline's when that airline (including its regional partners) flies at least 70% of the arrivals and departures there over the data window shown on each page. Gates no airline dominates are "common use". Counts on the airport page and the airline-at-airport page are always the same number. Each page says the days its numbers come from.
 
 ## Key pages
-- [Airports](https://chockwise.com/airports/): gates by airline at 246 airports
+- [Airports](https://chockwise.com/airports/): gates by airline at 247 airports
 - [Airlines](https://chockwise.com/airlines/): gates and terminals for 411 airlines
 - [Routes](https://chockwise.com/routes): nonstop routes and flights a day
 
@@ -28,6 +28,7 @@ How we count: a gate is an airline's when that airline (including its regional p
 - [San Francisco (SFO)](https://chockwise.com/airports/sfo): 108 gates; United 47 (Terminal 3)
 - [Hong Kong (HKG)](https://chockwise.com/airports/hkg): 91 gates; Cathay Pacific 17 (Terminal 1)
 - [Las Vegas (LAS)](https://chockwise.com/airports/las): 110 gates; Southwest 38 (Terminal 1)
+- [Barcelona (BCN)](https://chockwise.com/airports/bcn): 108 gates; Vueling 17 (Terminal 1)
 - [New York JFK](https://chockwise.com/airports/jfk): 120 gates; Delta 38 (Terminal 4)
 - [Seoul Incheon (ICN)](https://chockwise.com/airports/icn): 151 gates; Korean Air 22 (Terminal 2)
 - [Boston (BOS)](https://chockwise.com/airports/bos): 110 gates; JetBlue 27 (Terminal C)
@@ -39,4 +40,3 @@ How we count: a gate is an airline's when that airline (including its regional p
 - [Dubai (DXB)](https://chockwise.com/airports/dxb): 117 gates; Emirates 72 (Terminal 3)
 - [Jakarta (CGK)](https://chockwise.com/airports/cgk): 78 gates; Garuda 12 (Terminal 3)
 - [New York LaGuardia (LGA)](https://chockwise.com/airports/lga): 80 gates; Delta 38 (Terminal C)
-- [Minneapolis/St. Paul (MSP)](https://chockwise.com/airports/msp): 121 gates; Delta 75 (Terminal 1)

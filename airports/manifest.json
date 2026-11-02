@@ -299,6 +299,22 @@
   "top_gates": 2,
   "updated": "2026-11-02"
  },
+ "BCN": {
+  "changed": "2026-11-02",
+  "data": "2026-11-02",
+  "data_last": "2026-11-01",
+  "flights_day": 1119,
+  "gates": 108,
+  "hash": "c9cab4175f34",
+  "name": "Barcelona Int'l",
+  "published": "2026-11-02",
+  "seats_day": 71387,
+  "short": "Barcelona",
+  "sig": "{\"common\": 64, \"drawing\": \"caa1535ac516\", \"gates\": 108, \"held\": {\"FR\": 5, \"IB\": 1, \"U2\": 5, \"VY\": 17}, \"low\": 16}",
+  "top": "VY",
+  "top_gates": 17,
+  "updated": "2026-11-02"
+ },
  "BDL": {
   "changed": "2026-11-02",
   "data": "2026-10-06",
