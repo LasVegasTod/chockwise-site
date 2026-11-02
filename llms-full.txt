@@ -1,6 +1,6 @@
 # Chockwise
 
-> Airport gate data by airline, from flight data: how many gates each airline has at 247 airports, which terminal it uses, departures a day and nonstop routes. Data as of Nov 2, 2026.
+> Airport gate data by airline, from flight data: how many gates each airline has at 248 airports, which terminal it uses, departures a day and nonstop routes. Data as of Nov 2, 2026.
 
 How we count: a gate is an airline's when that airline (including its regional partners) flies at least 70% of the arrivals and departures there over the data window shown on each page. Gates no airline dominates are "common use". Counts on the airport page and the airline-at-airport page are always the same number. Each page says the days its numbers come from.
 
@@ -2395,6 +2395,99 @@ How we count: a gate is an airline's when that airline (including its regional p
 - American at LNK: 2 gates; 3/day; https://chockwise.com/airports/lnk/american
 - American at LYH: 1 gate; 6-7/day; https://chockwise.com/airports/lyh/american
 - United at LYH: 1 gate; 2/day; https://chockwise.com/airports/lyh/united
+- Iberia at MAD: 32 gates, Terminal 4; 236/day; https://chockwise.com/airports/mad/iberia
+- Air Europa at MAD: shared gates; 92/day; https://chockwise.com/airports/mad/air-europa
+- Ryanair at MAD: 4 gates, Terminal 1; 63/day; https://chockwise.com/airports/mad/ryanair
+- Iberia Express at MAD: shared gates; 54/day; https://chockwise.com/airports/mad/iberia-express
+- easyJet at MAD: shared gates; 10/day; https://chockwise.com/airports/mad/easyjet
+- Wizz Air Malta at MAD: shared gates; 9/day; https://chockwise.com/airports/mad/wizz-air-malta
+- Binter at MAD: shared gates; 8/day; https://chockwise.com/airports/mad/binter
+- British Airways at MAD: shared gates; 7/day; https://chockwise.com/airports/mad/british-airways
+- American at MAD: shared gates; 6-7/day; https://chockwise.com/airports/mad/american
+- Wizz Air at MAD: shared gates; 6-7/day; https://chockwise.com/airports/mad/wizz-air
+- Vueling at MAD: shared gates; 6-7/day; https://chockwise.com/airports/mad/vueling
+- TAP at MAD: shared gates; 6-7/day; https://chockwise.com/airports/mad/tap
+- Air France at MAD: shared gates; 6-7/day; https://chockwise.com/airports/mad/air-france
+- Avianca at MAD: shared gates; 6-7/day; https://chockwise.com/airports/mad/avianca
+- Lufthansa at MAD: shared gates; 6/day; https://chockwise.com/airports/mad/lufthansa
+- Aeroméxico at MAD: shared gates; 6/day; https://chockwise.com/airports/mad/aeromexico
+- KLM at MAD: shared gates; 5-6/day; https://chockwise.com/airports/mad/klm
+- Transavia at MAD: shared gates; 4/day; https://chockwise.com/airports/mad/transavia
+- Qatar Airways at MAD: shared gates; 4/day; https://chockwise.com/airports/mad/qatar-airways
+- Turkish Airlines at MAD: shared gates; 4/day; https://chockwise.com/airports/mad/turkish-airlines
+- Air China at MAD: shared gates; 3-4/day; https://chockwise.com/airports/mad/air-china
+- Etihad at MAD: shared gates; 3-4/day; https://chockwise.com/airports/mad/etihad
+- Volotea at MAD: shared gates; 3-4/day; https://chockwise.com/airports/mad/volotea
+- ITA Airways at MAD: shared gates; 3/day; https://chockwise.com/airports/mad/ita-airways
+- Lufthansa City at MAD: shared gates; 3/day; https://chockwise.com/airports/mad/lufthansa-city
+- Brussels Airlines at MAD: shared gates; 3/day; https://chockwise.com/airports/mad/brussels-airlines
+- Royal Air Maroc at MAD: shared gates; 3/day; https://chockwise.com/airports/mad/royal-air-maroc
+- Delta at MAD: shared gates; 3/day; https://chockwise.com/airports/mad/delta
+- LATAM at MAD: shared gates; 2-3/day; https://chockwise.com/airports/mad/latam
+- LOT at MAD: shared gates; 2-3/day; https://chockwise.com/airports/mad/lot
+- Iberojet at MAD: shared gates; 2-3/day; https://chockwise.com/airports/mad/iberojet
+- Emirates at MAD: shared gates; 2/day; https://chockwise.com/airports/mad/emirates
+- SWISS at MAD: shared gates; 2/day; https://chockwise.com/airports/mad/swiss
+- SAS at MAD: shared gates; 2/day; https://chockwise.com/airports/mad/sas
+- United at MAD: shared gates; 2/day; https://chockwise.com/airports/mad/united
+- Aegean at MAD: shared gates; 2/day; https://chockwise.com/airports/mad/aegean
+- Pegasus at MAD: shared gates; 2/day; https://chockwise.com/airports/mad/pegasus
+- Azul at MAD: shared gates; 2/day; https://chockwise.com/airports/mad/azul
+- Aerolíneas Argentinas at MAD: shared gates; 1-2/day; https://chockwise.com/airports/mad/aerolineas-argentinas
+- China Eastern at MAD: shared gates; 1-2/day; https://chockwise.com/airports/mad/china-eastern
+- Finnair at MAD: shared gates; 1-2/day; https://chockwise.com/airports/mad/finnair
+- El Al at MAD: shared gates; 1-2/day; https://chockwise.com/airports/mad/el-al
+- Aer Lingus at MAD: shared gates; 1-2/day; https://chockwise.com/airports/mad/aer-lingus
+- Air Canada at MAD: shared gates; 1-2/day; https://chockwise.com/airports/mad/air-canada
+- EgyptAir at MAD: shared gates; 1-2/day; https://chockwise.com/airports/mad/egyptair
+- Ethiopian at MAD: shared gates; 1-2/day; https://chockwise.com/airports/mad/ethiopian
+- Wizz Air UK at MAD: shared gates; 1-2/day; https://chockwise.com/airports/mad/wizz-air-uk
+- LATAM Perú at MAD: shared gates; 1/day; https://chockwise.com/airports/mad/latam-peru
+- Luxair at MAD: shared gates; 1/day; https://chockwise.com/airports/mad/luxair
+- TAROM at MAD: shared gates; 1/day; https://chockwise.com/airports/mad/tarom
+- Nesma at MAD: shared gates; 1/day; https://chockwise.com/airports/mad/nesma
+- Air Serbia at MAD: shared gates; 1/day; https://chockwise.com/airports/mad/air-serbia
+- Norwegian Air at MAD: shared gates; 6-7/week; https://chockwise.com/airports/mad/norwegian-air
+- Smartwings at MAD: shared gates; 6-7/week; https://chockwise.com/airports/mad/smartwings
+- Eurowings at MAD: shared gates; 6-7/week; https://chockwise.com/airports/mad/eurowings
+- Saudia at MAD: shared gates; 6-7/week; https://chockwise.com/airports/mad/saudia
+- Cathay Pacific at MAD: shared gates; 6/week; https://chockwise.com/airports/mad/cathay-pacific
+- Sky Express at MAD: shared gates; 5-6/week; https://chockwise.com/airports/mad/sky-express
+- LATAM Brasil at MAD: shared gates; 5-6/week; https://chockwise.com/airports/mad/latam-brasil
+- Royal Jordanian at MAD: shared gates; 5-6/week; https://chockwise.com/airports/mad/royal-jordanian
+- Air Arabia Maroc at MAD: shared gates; 5-6/week; https://chockwise.com/airports/mad/air-arabia-maroc
+- JetBlue at MAD: shared gates; 5/week; https://chockwise.com/airports/mad/jetblue
+- Boliviana de Aviación at MAD: shared gates; 5/week; https://chockwise.com/airports/mad/boliviana-de-aviacion
+- Korean Air at MAD: shared gates; 5/week; https://chockwise.com/airports/mad/korean-air
+- Sichuan Airlines at MAD: shared gates; 4-5/week; https://chockwise.com/airports/mad/sichuan-airlines
+- China Southern at MAD: shared gates; 4-5/week; https://chockwise.com/airports/mad/china-southern
+- Kuwait Airways at MAD: shared gates; 4-5/week; https://chockwise.com/airports/mad/kuwait-airways
+- Bulgaria Air at MAD: shared gates; 4-5/week; https://chockwise.com/airports/mad/bulgaria-air
+- Air Algérie at MAD: shared gates; 4-5/week; https://chockwise.com/airports/mad/air-algerie
+- Tunisair at MAD: shared gates; 3-4/week; https://chockwise.com/airports/mad/tunisair
+- Middle East Airlines at MAD: shared gates; 3-4/week; https://chockwise.com/airports/mad/middle-east-airlines
+- Air Cairo at MAD: shared gates; 3-4/week; https://chockwise.com/airports/mad/air-cairo
+- Croatia Airlines at MAD: shared gates; 3/week; https://chockwise.com/airports/mad/croatia-airlines
+- AJet at MAD: shared gates; 3/week; https://chockwise.com/airports/mad/ajet
+- Ryanair UK at MAD: shared gates; 2-3/week; https://chockwise.com/airports/mad/ryanair-uk
+- KM Malta Airlines at MAD: shared gates; 2-3/week; https://chockwise.com/airports/mad/km-malta-airlines
+- airBaltic at MAD: shared gates; 2-3/week; https://chockwise.com/airports/mad/airbaltic
+- Air Transat at MAD: shared gates; 2-3/week; https://chockwise.com/airports/mad/air-transat
+- Hainan Airlines at MAD: shared gates; 2-3/week; https://chockwise.com/airports/mad/hainan-airlines
+- SunExpress at MAD: shared gates; 2/week; https://chockwise.com/airports/mad/sunexpress
+- bmi regional at MAD: shared gates; 2/week; https://chockwise.com/airports/mad/bmi-regional
+- Nile Air at MAD: shared gates; 2/week; https://chockwise.com/airports/mad/nile-air
+- Japan Airlines at MAD: shared gates; 1-2/week; https://chockwise.com/airports/mad/japan-airlines
+- Israir at MAD: shared gates; 1-2/week; https://chockwise.com/airports/mad/israir
+- Azores Airlines at MAD: shared gates; 1-2/week; https://chockwise.com/airports/mad/azores-airlines
+- China Airlines at MAD: shared gates; 1-2/week; https://chockwise.com/airports/mad/china-airlines
+- Vietnam Airlines at MAD: shared gates; 1-2/week; https://chockwise.com/airports/mad/vietnam-airlines
+- Singapore Airlines at MAD: shared gates; 1-2/week; https://chockwise.com/airports/mad/singapore-airlines
+- Kenya Airways at MAD: shared gates; 1/week; https://chockwise.com/airports/mad/kenya-airways
+- Riyadh Air at MAD: shared gates; 1/week; https://chockwise.com/airports/mad/riyadh-air
+- Beijing Capital at MAD: shared gates; 1/week; https://chockwise.com/airports/mad/beijing-capital
+- Air Mauritius at MAD: shared gates; under 1/week; https://chockwise.com/airports/mad/air-mauritius
+- GOL at MAD: shared gates; under 1/week; https://chockwise.com/airports/mad/gol
 - American at MAF: 2 gates; 11/day; https://chockwise.com/airports/maf/american
 - United at MAF: 2 gates; 10/day; https://chockwise.com/airports/maf/united
 - Southwest at MAF: 2 gates; 10/day; https://chockwise.com/airports/maf/southwest

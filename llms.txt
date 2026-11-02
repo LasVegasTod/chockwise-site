@@ -1,11 +1,11 @@
 # Chockwise
 
-> Airport gate data by airline, from flight data: how many gates each airline has at 247 airports, which terminal it uses, departures a day and nonstop routes. Data as of Nov 2, 2026.
+> Airport gate data by airline, from flight data: how many gates each airline has at 248 airports, which terminal it uses, departures a day and nonstop routes. Data as of Nov 2, 2026.
 
 How we count: a gate is an airline's when that airline (including its regional partners) flies at least 70% of the arrivals and departures there over the data window shown on each page. Gates no airline dominates are "common use". Counts on the airport page and the airline-at-airport page are always the same number. Each page says the days its numbers come from.
 
 ## Key pages
-- [Airports](https://chockwise.com/airports/): gates by airline at 247 airports
+- [Airports](https://chockwise.com/airports/): gates by airline at 248 airports
 - [Airlines](https://chockwise.com/airlines/): gates and terminals for 411 airlines
 - [Routes](https://chockwise.com/routes): nonstop routes and flights a day
 
@@ -19,6 +19,7 @@ How we count: a gate is an airline's when that airline (including its regional p
 - [Istanbul (IST)](https://chockwise.com/airports/ist): 115 gates; Turkish Airlines 83 (Concourse F)
 - [Amsterdam (AMS)](https://chockwise.com/airports/ams): 120 gates; KLM 35 (Terminal 1)
 - [Tokyo Haneda (HND)](https://chockwise.com/airports/hnd): 108 gates; ANA 26 (Terminal 2N)
+- [Madrid (MAD)](https://chockwise.com/airports/mad): 118 gates; Iberia 32 (Terminal 4)
 - [Frankfurt (FRA)](https://chockwise.com/airports/fra): 117 gates; Lufthansa 27 (Terminal 1)
 - [London Heathrow (LHR)](https://chockwise.com/airports/lhr): 145 gates; British Airways 47 (Terminal 5)
 - [Houston Bush (IAH)](https://chockwise.com/airports/iah): 169 gates; United 97 (Terminal B)
@@ -39,4 +40,3 @@ How we count: a gate is an airline's when that airline (including its regional p
 - [Toronto Pearson (YYZ)](https://chockwise.com/airports/yyz): 133 gates; Air Canada 30 (Terminal 1)
 - [Dubai (DXB)](https://chockwise.com/airports/dxb): 117 gates; Emirates 72 (Terminal 3)
 - [Jakarta (CGK)](https://chockwise.com/airports/cgk): 78 gates; Garuda 12 (Terminal 3)
-- [New York LaGuardia (LGA)](https://chockwise.com/airports/lga): 80 gates; Delta 38 (Terminal C)

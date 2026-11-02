@@ -2241,6 +2241,22 @@
   "top_gates": 1,
   "updated": "2026-11-02"
  },
+ "MAD": {
+  "changed": "2026-11-02",
+  "data": "2026-11-02",
+  "data_last": "2026-11-01",
+  "flights_day": 1322,
+  "gates": 118,
+  "hash": "ef6ced1f6f0f",
+  "name": "Adolfo Su\u00e1rez Madrid-Barajas",
+  "published": "2026-11-02",
+  "seats_day": 81423,
+  "short": "Madrid",
+  "sig": "{\"common\": 79, \"drawing\": \"b8399145b12e\", \"gates\": 118, \"held\": {\"FR\": 4, \"IB\": 32}, \"low\": 3}",
+  "top": "IB",
+  "top_gates": 32,
+  "updated": "2026-11-02"
+ },
  "MAF": {
   "changed": "2026-11-02",
   "data": "2026-10-07",
