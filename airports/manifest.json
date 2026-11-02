@@ -1959,6 +1959,20 @@
   "top_gates": 2,
   "updated": "2026-11-02"
  },
+ "MAN": {
+  "changed": "2026-11-02",
+  "flights_day": 633,
+  "gates": 66,
+  "hash": "b0af713842af",
+  "name": "Manchester",
+  "published": "2026-11-02",
+  "seats_day": 31040,
+  "short": "Manchester",
+  "sig": "{\"common\": 30, \"drawing\": \"29eb5dda3b73\", \"gates\": 66, \"held\": {\"BY\": 3, \"FR\": 14, \"LS\": 3, \"RK\": 1, \"U2\": 10}, \"low\": 5}",
+  "top": "FR",
+  "top_gates": 14,
+  "updated": "2026-11-02"
+ },
  "MCI": {
   "changed": "2026-11-01",
   "flights_day": 328,
@@ -2657,6 +2671,20 @@
   "sig": "{\"common\": 0, \"drawing\": \"97170af04706\", \"gates\": 24, \"held\": {\"AA\": 4, \"B6\": 2, \"DL\": 2, \"MX\": 4, \"UA\": 3, \"WN\": 3}, \"low\": 6}",
   "top": "AA",
   "top_gates": 4,
+  "updated": "2026-11-02"
+ },
+ "PWM": {
+  "changed": "2026-11-02",
+  "flights_day": 108,
+  "gates": 13,
+  "hash": "316774e2c32e",
+  "name": "Portland Intl Jetport",
+  "published": "2026-11-02",
+  "seats_day": 6211,
+  "short": "Portland, ME",
+  "sig": "{\"common\": 2, \"drawing\": \"d10ceb0f9167\", \"gates\": 13, \"held\": {\"AA\": 3, \"B6\": 1, \"DL\": 3, \"UA\": 3, \"WN\": 1}, \"low\": 0}",
+  "top": "AA",
+  "top_gates": 3,
   "updated": "2026-11-02"
  },
  "RAP": {
