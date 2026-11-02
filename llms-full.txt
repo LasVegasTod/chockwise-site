@@ -1240,8 +1240,8 @@ How we count: a gate is an airline's when that airline (including its regional p
 - Turkish Airlines at DTW: shared gates; 1/day; https://chockwise.com/airports/dtw/turkish-airlines
 - Lufthansa at DTW: shared gates; 1/day; https://chockwise.com/airports/dtw/lufthansa
 - Royal Jordanian at DTW: shared gates; 4-5/week; https://chockwise.com/airports/dtw/royal-jordanian
-- Ryanair at DUB: 15 gates, Terminal 1; 136/day; https://chockwise.com/airports/dub/ryanair
-- Aer Lingus at DUB: 15 gates, Terminal 2; 86/day; https://chockwise.com/airports/dub/aer-lingus
+- Ryanair at DUB: 17 gates, Terminal 1; 136/day; https://chockwise.com/airports/dub/ryanair
+- Aer Lingus at DUB: 17 gates, Terminal 2; 86/day; https://chockwise.com/airports/dub/aer-lingus
 - Aer Lingus Regional at DUB: 5 gates, Terminal 2; 33/day; https://chockwise.com/airports/dub/aer-lingus-regional
 - BA CityFlyer at DUB: shared gates; 7/day; https://chockwise.com/airports/dub/ba-cityflyer
 - British Airways at DUB: shared gates; 5/day; https://chockwise.com/airports/dub/british-airways
@@ -1426,7 +1426,7 @@ How we count: a gate is an airline's when that airline (including its regional p
 - WestJet at FLL: shared gates; 3-4/week; https://chockwise.com/airports/fll/westjet
 - Caribbean Airlines at FLL: shared gates; 3-4/week; https://chockwise.com/airports/fll/caribbean-airlines
 - Contour at FLL: shared gates; 3-4/week; https://chockwise.com/airports/fll/contour
-- Lufthansa at FRA: 26 gates, Terminal 1; 287/day; https://chockwise.com/airports/fra/lufthansa
+- Lufthansa at FRA: 23 gates, Terminal 1; 287/day; https://chockwise.com/airports/fra/lufthansa
 - Condor at FRA: 3 gates, Terminal 1; 78/day; https://chockwise.com/airports/fra/condor
 - Air Dolomiti at FRA: shared gates; 44/day; https://chockwise.com/airports/fra/air-dolomiti
 - Discover at FRA: 2 gates, Terminal 1; 29/day; https://chockwise.com/airports/fra/discover
@@ -2643,8 +2643,8 @@ How we count: a gate is an airline's when that airline (including its regional p
 - United at MEM: 4 gates; 13/day; https://chockwise.com/airports/mem/united
 - Allegiant at MEM: shared gates; 2/day; https://chockwise.com/airports/mem/allegiant
 - Aeroméxico at MEX: 26 gates, Terminal 2; 168/day; https://chockwise.com/airports/mex/aeromexico
-- Volaris at MEX: 3 gates, Terminal 1; 58/day; https://chockwise.com/airports/mex/volaris
-- Viva Aerobus at MEX: 3 gates, Terminal 1; 47/day; https://chockwise.com/airports/mex/viva-aerobus
+- Volaris at MEX: 7 gates, Terminal 1; 58/day; https://chockwise.com/airports/mex/volaris
+- Viva Aerobus at MEX: 2 gates, Terminal 1; 47/day; https://chockwise.com/airports/mex/viva-aerobus
 - Aeroméxico Connect at MEX: 2 gates, Terminal 2; 44/day; https://chockwise.com/airports/mex/aeromexico-connect
 - United at MEX: shared gates; 13/day; https://chockwise.com/airports/mex/united
 - American at MEX: shared gates; 12/day; https://chockwise.com/airports/mex/american
@@ -2883,8 +2883,8 @@ How we count: a gate is an airline's when that airline (including its regional p
 - Allegiant at MYR: 3 gates, Concourse A; 4-5/day; https://chockwise.com/airports/myr/allegiant
 - Avelo at MYR: shared gates; 1-2/day; https://chockwise.com/airports/myr/avelo
 - Frontier at MYR: shared gates; 2-3/week; https://chockwise.com/airports/myr/frontier
-- Jetstar Japan at NRT: 8 gates, Terminal 3; 39/day; https://chockwise.com/airports/nrt/jetstar-japan
-- Japan Airlines at NRT: 4 gates, Terminal 2; 30/day; https://chockwise.com/airports/nrt/japan-airlines
+- Jetstar Japan at NRT: 9 gates, Terminal 3; 39/day; https://chockwise.com/airports/nrt/jetstar-japan
+- Japan Airlines at NRT: 5 gates, Terminal 2; 30/day; https://chockwise.com/airports/nrt/japan-airlines
 - Peach at NRT: shared gates; 26/day; https://chockwise.com/airports/nrt/peach
 - ANA at NRT: 8 gates, Terminal 1; 18/day; https://chockwise.com/airports/nrt/ana
 - Spring Japan at NRT: shared gates; 11/day; https://chockwise.com/airports/nrt/spring-japan
@@ -3870,10 +3870,10 @@ How we count: a gate is an airline's when that airline (including its regional p
 - Frontier at XNA: shared gates; 4-5/week; https://chockwise.com/airports/xna/frontier
 - Air Canada at YYZ: 30 gates, Terminal 1; 187/day; https://chockwise.com/airports/yyz/air-canada
 - Air Canada Rouge at YYZ: shared gates; 61/day; https://chockwise.com/airports/yyz/air-canada-rouge
-- Porter at YYZ: 2 gates, Terminal 3; 46/day; https://chockwise.com/airports/yyz/porter
+- Porter at YYZ: shared gates; 46/day; https://chockwise.com/airports/yyz/porter
 - WestJet at YYZ: 2 gates, Terminal 3; 45/day; https://chockwise.com/airports/yyz/westjet
 - American at YYZ: 2 gates, Terminal 3; 26/day; https://chockwise.com/airports/yyz/american
-- United at YYZ: 10 gates, Terminal 1; 23/day; https://chockwise.com/airports/yyz/united
+- United at YYZ: 11 gates, Terminal 1; 23/day; https://chockwise.com/airports/yyz/united
 - Delta at YYZ: 1 gate, Terminal 3; 23/day; https://chockwise.com/airports/yyz/delta
 - Flair at YYZ: shared gates; 16/day; https://chockwise.com/airports/yyz/flair
 - Air Transat at YYZ: 1 gate, Terminal 3; 11/day; https://chockwise.com/airports/yyz/air-transat
