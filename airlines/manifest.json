@@ -4238,6 +4238,138 @@
    "updated": "2026-11-02"
   }
  },
+ "ANC": {
+  "alaska": {
+   "airport_short": "ANC",
+   "changed": "2026-11-02",
+   "code": "AS",
+   "data": "2026-10-06",
+   "deps_day": 50.0,
+   "dests": [
+    "SEA",
+    "FAI",
+    "JNU",
+    "PDX",
+    "BET",
+    "OTZ"
+   ],
+   "gates": [
+    "B1",
+    "C1",
+    "C2",
+    "B3",
+    "C3",
+    "B4",
+    "C4",
+    "C5"
+   ],
+   "gone": false,
+   "hash": "1ed73f28435e",
+   "last_seen": "2026-11-02",
+   "last_seen_str": "Nov 2, 2026",
+   "name": "Alaska Airlines",
+   "published": "2026-11-02",
+   "short": "Alaska",
+   "sig": "{\"drawing\": \"b6280c0424fe\", \"focus\": [\"B1\", \"C1\", \"C2\", \"B3\", \"C3\", \"B4\", \"C4\", \"C5\", \"C6\", \"C7\", \"C9\", \"B10\"], \"held\": [\"B1\", \"C1\", \"C2\", \"B3\", \"C3\", \"B4\", \"C4\", \"C5\", \"C6\", \"C7\", \"C9\", \"B10\"], \"held_n\": 12, \"main\": [\"B1\", \"C1\", \"C2\", \"B3\", \"C3\", \"B4\", \"C4\", \"C5\", \"C6\", \"C7\", \"C9\", \"B10\"]}",
+   "slug": "alaska",
+   "types": [
+    "737-800",
+    "737-700",
+    "737 MAX 9"
+   ],
+   "updated": "2026-11-02"
+  },
+  "american": {
+   "airport_short": "ANC",
+   "changed": "2026-11-02",
+   "code": "AA",
+   "data": "2026-10-06",
+   "deps_day": 1.7,
+   "dests": [
+    "DFW",
+    "ORD"
+   ],
+   "gates": [
+    "B7"
+   ],
+   "gone": false,
+   "hash": "714f74ebb457",
+   "last_seen": "2026-11-01",
+   "last_seen_str": "Nov 1, 2026",
+   "name": "American Airlines",
+   "published": "2026-11-02",
+   "short": "American",
+   "sig": "{\"drawing\": \"b6280c0424fe\", \"focus\": [\"B7\"], \"held\": [\"B7\"], \"held_n\": 1, \"main\": [\"B7\"]}",
+   "slug": "american",
+   "types": [
+    "A321neo"
+   ],
+   "updated": "2026-11-02"
+  },
+  "delta": {
+   "airport_short": "ANC",
+   "changed": "2026-11-02",
+   "code": "DL",
+   "data": "2026-10-06",
+   "deps_day": 7.3,
+   "dests": [
+    "SEA",
+    "MSP",
+    "ATL",
+    "MFM"
+   ],
+   "gates": [
+    "B1",
+    "B4",
+    "B6",
+    "N6",
+    "B8",
+    "B9"
+   ],
+   "gone": false,
+   "hash": "79be8a135e66",
+   "last_seen": "2026-11-02",
+   "last_seen_str": "Nov 2, 2026",
+   "name": "Delta Air Lines",
+   "published": "2026-11-02",
+   "short": "Delta",
+   "sig": "{\"drawing\": \"b6280c0424fe\", \"focus\": [\"B1\", \"B4\", \"B6\", \"N6\", \"B8\", \"B9\"], \"held\": [\"B6\", \"B8\"], \"held_n\": 2, \"main\": [\"B1\", \"B4\", \"B6\", \"N6\", \"B8\", \"B9\"]}",
+   "slug": "delta",
+   "types": [
+    "A220-300",
+    "A321neo",
+    "737-800"
+   ],
+   "updated": "2026-11-02"
+  },
+  "united": {
+   "airport_short": "ANC",
+   "changed": "2026-11-02",
+   "code": "UA",
+   "data": "2026-10-06",
+   "deps_day": 2.0,
+   "dests": [
+    "DEN",
+    "ORD"
+   ],
+   "gates": [
+    "B5"
+   ],
+   "gone": false,
+   "hash": "b5c33591f2fd",
+   "last_seen": "2026-11-01",
+   "last_seen_str": "Nov 1, 2026",
+   "name": "United Airlines",
+   "published": "2026-11-02",
+   "short": "United",
+   "sig": "{\"drawing\": \"b6280c0424fe\", \"focus\": [\"B5\"], \"held\": [\"B5\"], \"held_n\": 1, \"main\": [\"B5\"]}",
+   "slug": "united",
+   "types": [
+    "737 MAX 8"
+   ],
+   "updated": "2026-11-02"
+  }
+ },
  "ARN": {
   "adria-airways": {
    "airport_short": "ARN",

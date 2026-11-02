@@ -1,6 +1,6 @@
 # Chockwise
 
-> Airport gate data by airline, from flight data: how many gates each airline has at 245 airports, which terminal it uses, departures a day and nonstop routes. Data as of Nov 2, 2026.
+> Airport gate data by airline, from flight data: how many gates each airline has at 246 airports, which terminal it uses, departures a day and nonstop routes. Data as of Nov 2, 2026.
 
 How we count: a gate is an airline's when that airline (including its regional partners) flies at least 70% of the arrivals and departures there over the data window shown on each page. Gates no airline dominates are "common use". Counts on the airport page and the airline-at-airport page are always the same number. Each page says the days its numbers come from.
 
@@ -130,6 +130,10 @@ How we count: a gate is an airline's when that airline (including its regional p
 - Enter Air at AMS: shared gates; 1/week; https://chockwise.com/airports/ams/enter-air
 - Neos at AMS: shared gates; under 1/week; https://chockwise.com/airports/ams/neos
 - WestJet at AMS: shared gates; under 1/week; https://chockwise.com/airports/ams/westjet
+- Alaska at ANC: 12 gates, Terminal S; 50/day; https://chockwise.com/airports/anc/alaska
+- Delta at ANC: 2 gates, Terminal S; 7-8/day; https://chockwise.com/airports/anc/delta
+- United at ANC: 1 gate, Terminal S; 2/day; https://chockwise.com/airports/anc/united
+- American at ANC: 1 gate, Terminal S; 1-2/day; https://chockwise.com/airports/anc/american
 - SAS at ARN: 16 gates, Terminal 5; 114/day; https://chockwise.com/airports/arn/sas
 - Norwegian Air at ARN: 3 gates, Terminal 5; 44/day; https://chockwise.com/airports/arn/norwegian-air
 - Ryanair at ARN: 1 gate, Terminal 5; 26/day; https://chockwise.com/airports/arn/ryanair

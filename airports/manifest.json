@@ -155,6 +155,22 @@
   "top_gates": 35,
   "updated": "2026-11-02"
  },
+ "ANC": {
+  "changed": "2026-11-02",
+  "data": "2026-10-06",
+  "data_last": "2026-10-05",
+  "flights_day": 323,
+  "gates": 26,
+  "hash": "4d6f17ad2a74",
+  "name": "Anchorage Intl",
+  "published": "2026-11-02",
+  "seats_day": 8736,
+  "short": "Anchorage",
+  "sig": "{\"common\": 1, \"drawing\": \"b6280c0424fe\", \"gates\": 26, \"held\": {\"AA\": 1, \"AS\": 12, \"DL\": 2, \"UA\": 1}, \"low\": 9}",
+  "top": "AS",
+  "top_gates": 12,
+  "updated": "2026-11-02"
+ },
  "ARN": {
   "changed": "2026-11-02",
   "data": "2026-11-02",
