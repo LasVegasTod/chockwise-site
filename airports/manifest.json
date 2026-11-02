@@ -3911,6 +3911,22 @@
   "top_gates": 22,
   "updated": "2026-11-02"
  },
+ "YYC": {
+  "changed": "2026-11-02",
+  "data": "2026-11-02",
+  "data_last": "2026-11-01",
+  "flights_day": 434,
+  "gates": 58,
+  "hash": "e4d73a6de1ab",
+  "name": "Calgary Int'l",
+  "published": "2026-11-02",
+  "seats_day": 21680,
+  "short": "Calgary",
+  "sig": "{\"common\": 15, \"drawing\": \"2b7bfcb476ce\", \"gates\": 58, \"held\": {\"AC\": 3, \"DL\": 1, \"F8\": 1, \"PD\": 1, \"UA\": 2, \"WS\": 27}, \"low\": 8}",
+  "top": "WS",
+  "top_gates": 27,
+  "updated": "2026-11-02"
+ },
  "YYZ": {
   "changed": "2026-11-02",
   "data": "2026-10-07",
