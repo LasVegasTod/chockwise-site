@@ -1637,6 +1637,22 @@
   "top_gates": 2,
   "updated": "2026-11-03"
  },
+ "GVA": {
+  "changed": "2026-11-03",
+  "data": "2026-11-02",
+  "data_last": "2026-11-01",
+  "flights_day": 417,
+  "gates": 32,
+  "hash": "11c599fa307a",
+  "name": "Geneva Cointrin Int'l",
+  "published": "2026-11-03",
+  "seats_day": 25079,
+  "short": "Geneva",
+  "sig": "{\"common\": 22, \"drawing\": \"b8fe8aac4ec3\", \"gates\": 32, \"held\": {\"BA\": 1, \"LX\": 1, \"U2\": 3}, \"low\": 5}",
+  "top": "U2",
+  "top_gates": 3,
+  "updated": "2026-11-03"
+ },
  "HEL": {
   "changed": "2026-11-03",
   "data": "2026-11-02",
@@ -2191,6 +2207,22 @@
   "sig": "{\"common\": 5, \"drawing\": \"69d6679f71b9\", \"gates\": 9, \"held\": {\"AS\": 2, \"UA\": 1, \"WN\": 1}, \"low\": 0}",
   "top": "AS",
   "top_gates": 2,
+  "updated": "2026-11-03"
+ },
+ "LIM": {
+  "changed": "2026-11-03",
+  "data": "2026-11-02",
+  "data_last": "2026-11-01",
+  "flights_day": 529,
+  "gates": 48,
+  "hash": "14fce4b3664c",
+  "name": "Jorge Ch\u00e1vez Int'l",
+  "published": "2026-11-03",
+  "seats_day": 4231,
+  "short": "Lima",
+  "sig": "{\"common\": 19, \"drawing\": \"c6fad5ed45d8\", \"gates\": 48, \"held\": {\"AA\": 2, \"LP\": 12}, \"low\": 15}",
+  "top": "LP",
+  "top_gates": 12,
   "updated": "2026-11-03"
  },
  "LIT": {
@@ -3051,6 +3083,22 @@
   "sig": "{\"common\": 1, \"drawing\": \"365369ba373f\", \"gates\": 10, \"held\": {\"AA\": 3, \"DL\": 2, \"F9\": 1, \"UA\": 2, \"WN\": 1}, \"low\": 0}",
   "top": "AA",
   "top_gates": 3,
+  "updated": "2026-11-03"
+ },
+ "PRG": {
+  "changed": "2026-11-03",
+  "data": "2026-11-02",
+  "data_last": "2026-11-01",
+  "flights_day": 383,
+  "gates": 44,
+  "hash": "7dfb5e8fa4d4",
+  "name": "Ruzyne, Prague",
+  "published": "2026-11-03",
+  "seats_day": 19322,
+  "short": "Prague",
+  "sig": "{\"common\": 23, \"drawing\": \"7144cae5495e\", \"gates\": 44, \"held\": {\"BA\": 1, \"DL\": 1, \"FR\": 2, \"TK\": 2}, \"low\": 15}",
+  "top": "FR",
+  "top_gates": 2,
   "updated": "2026-11-03"
  },
  "PSC": {
