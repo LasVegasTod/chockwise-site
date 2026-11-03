@@ -1,6 +1,6 @@
 # Chockwise
 
-> Airport gate data by airline, from flight data: how many gates each airline has at 253 airports, which terminal it uses, departures a day and nonstop routes. Data as of Nov 2, 2026.
+> Airport gate data by airline, from flight data: how many gates each airline has at 256 airports, which terminal it uses, departures a day and nonstop routes. Data as of Nov 2, 2026.
 
 How we count: a gate is an airline's when that airline (including its regional partners) flies at least 70% of the arrivals and departures there over the data window shown on each page. Gates no airline dominates are "common use". Counts on the airport page and the airline-at-airport page are always the same number. Each page says the days its numbers come from.
 
@@ -3698,6 +3698,45 @@ How we count: a gate is an airline's when that airline (including its regional p
 - United at SYR: 3 gates; 7-8/day; https://chockwise.com/airports/syr/united
 - JetBlue at SYR: 3 gates, Terminal A; 5/day; https://chockwise.com/airports/syr/jetblue
 - Allegiant at SYR: 1 gate; 1-2/day; https://chockwise.com/airports/syr/allegiant
+- Shenzhen Airlines at SZX: 3 gates, Terminal 3; 152/day; https://chockwise.com/airports/szx/shenzhen-airlines
+- China Southern at SZX: shared gates; 150/day; https://chockwise.com/airports/szx/china-southern
+- Hainan Airlines at SZX: shared gates; 38/day; https://chockwise.com/airports/szx/hainan-airlines
+- China Eastern at SZX: shared gates; 28/day; https://chockwise.com/airports/szx/china-eastern
+- Air China at SZX: shared gates; 27/day; https://chockwise.com/airports/szx/air-china
+- Spring Airlines at SZX: shared gates; 15/day; https://chockwise.com/airports/szx/spring-airlines
+- XiamenAir at SZX: shared gates; 13/day; https://chockwise.com/airports/szx/xiamenair
+- Sichuan Airlines at SZX: shared gates; 8-9/day; https://chockwise.com/airports/szx/sichuan-airlines
+- Shandong Airlines at SZX: shared gates; 7-8/day; https://chockwise.com/airports/szx/shandong-airlines
+- Juneyao at SZX: shared gates; 7/day; https://chockwise.com/airports/szx/juneyao
+- Beijing Capital at SZX: shared gates; 7/day; https://chockwise.com/airports/szx/beijing-capital
+- Loong Air at SZX: shared gates; 6-7/day; https://chockwise.com/airports/szx/loong-air
+- AirAsia at SZX: shared gates; 3-4/day; https://chockwise.com/airports/szx/airasia
+- China West Air at SZX: shared gates; 3-4/day; https://chockwise.com/airports/szx/china-west-air
+- Tibet Airlines at SZX: shared gates; 2-3/day; https://chockwise.com/airports/szx/tibet-airlines
+- Chengdu Airlines at SZX: shared gates; 2-3/day; https://chockwise.com/airports/szx/chengdu-airlines
+- Okay Airways at SZX: shared gates; 2-3/day; https://chockwise.com/airports/szx/okay-airways
+- Chongqing Airlines at SZX: shared gates; 2/day; https://chockwise.com/airports/szx/chongqing-airlines
+- Kunming Airlines at SZX: shared gates; 1-2/day; https://chockwise.com/airports/szx/kunming-airlines
+- Shanghai Airlines at SZX: shared gates; 1-2/day; https://chockwise.com/airports/szx/shanghai-airlines
+- Hebei Airlines at SZX: shared gates; 1-2/day; https://chockwise.com/airports/szx/hebei-airlines
+- Lucky Air at SZX: shared gates; 1-2/day; https://chockwise.com/airports/szx/lucky-air
+- China Airlines at SZX: shared gates; 1-2/day; https://chockwise.com/airports/szx/china-airlines
+- Tianjin Airlines at SZX: shared gates; 1/day; https://chockwise.com/airports/szx/tianjin-airlines
+- Emirates at SZX: shared gates; 1/day; https://chockwise.com/airports/szx/emirates
+- Singapore Airlines at SZX: shared gates; 1/day; https://chockwise.com/airports/szx/singapore-airlines
+- Asiana at SZX: shared gates; 1/day; https://chockwise.com/airports/szx/asiana
+- Vietravel at SZX: shared gates; 1/day; https://chockwise.com/airports/szx/vietravel
+- Malaysia Airlines at SZX: shared gates; 1/day; https://chockwise.com/airports/szx/malaysia-airlines
+- Air Travel at SZX: shared gates; 1/day; https://chockwise.com/airports/szx/air-travel
+- Korean Air at SZX: shared gates; 1/day; https://chockwise.com/airports/szx/korean-air
+- ANA at SZX: shared gates; 1/day; https://chockwise.com/airports/szx/ana
+- UNI Air at SZX: shared gates; 4-5/week; https://chockwise.com/airports/szx/uni-air
+- Fuzhou Airlines at SZX: shared gates; 4/week; https://chockwise.com/airports/szx/fuzhou-airlines
+- Thai AirAsia at SZX: shared gates; 3-4/week; https://chockwise.com/airports/szx/thai-airasia
+- Air Changan at SZX: shared gates; 3/week; https://chockwise.com/airports/szx/air-changan
+- Cambodia Airways at SZX: shared gates; 2-3/week; https://chockwise.com/airports/szx/cambodia-airways
+- Himalaya Airlines at SZX: shared gates; 1/week; https://chockwise.com/airports/szx/himalaya-airlines
+- Cambodia Angkor Air at SZX: shared gates; under 1/week; https://chockwise.com/airports/szx/cambodia-angkor-air
 - American at TLH: 4 gates, Concourse A; 15/day; https://chockwise.com/airports/tlh/american
 - Delta at TLH: 2 gates, Concourse B; 6-7/day; https://chockwise.com/airports/tlh/delta
 - Breeze at TLH: shared gates; 1-2/day; https://chockwise.com/airports/tlh/breeze

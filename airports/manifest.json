@@ -1685,6 +1685,22 @@
   "top_gates": 17,
   "updated": "2026-11-03"
  },
+ "HKT": {
+  "changed": "2026-11-03",
+  "data": "2026-11-03",
+  "data_last": "2026-11-02",
+  "flights_day": 315,
+  "gates": 11,
+  "hash": "5ae0a9eba82e",
+  "name": "Phuket Int'l",
+  "published": "2026-11-03",
+  "seats_day": 3778,
+  "short": "Phuket",
+  "sig": "{\"common\": 9, \"drawing\": \"2ebba63f29a0\", \"gates\": 11, \"held\": {}, \"low\": 2}",
+  "top": "EK",
+  "top_gates": 0,
+  "updated": "2026-11-03"
+ },
  "HND": {
   "changed": "2026-11-03",
   "data": "2026-11-02",
@@ -2813,6 +2829,22 @@
   "top_gates": 8,
   "updated": "2026-11-03"
  },
+ "OKA": {
+  "changed": "2026-11-03",
+  "data": "2026-11-03",
+  "data_last": "2026-11-02",
+  "flights_day": 393,
+  "gates": 20,
+  "hash": "85343b26bc6c",
+  "name": "Naha",
+  "published": "2026-11-03",
+  "seats_day": 26263,
+  "short": "Okinawa",
+  "sig": "{\"common\": 12, \"drawing\": \"fc76e6a64bff\", \"gates\": 20, \"held\": {\"BC\": 1, \"JL\": 2, \"NH\": 4, \"NU\": 1}, \"low\": 0}",
+  "top": "NH",
+  "top_gates": 4,
+  "updated": "2026-11-03"
+ },
  "OKC": {
   "changed": "2026-11-02",
   "data": "2026-10-06",
@@ -3783,6 +3815,22 @@
   "sig": "{\"common\": 1, \"drawing\": \"35789e4831bf\", \"gates\": 20, \"held\": {\"AA\": 5, \"B6\": 3, \"DL\": 5, \"G4\": 1, \"UA\": 3}, \"low\": 2}",
   "top": "AA",
   "top_gates": 5,
+  "updated": "2026-11-03"
+ },
+ "SZX": {
+  "changed": "2026-11-03",
+  "data": "2026-11-02",
+  "data_last": "2026-11-01",
+  "flights_day": 1105,
+  "gates": 100,
+  "hash": "40d12865ca5a",
+  "name": "Shenzhen Bao'an Int'l",
+  "published": "2026-11-03",
+  "seats_day": 26203,
+  "short": "Shenzhen",
+  "sig": "{\"common\": 97, \"drawing\": \"589d1832660d\", \"gates\": 100, \"held\": {\"ZH\": 3}, \"low\": 0}",
+  "top": "ZH",
+  "top_gates": 3,
   "updated": "2026-11-03"
  },
  "TLH": {
