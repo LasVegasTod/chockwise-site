@@ -1,11 +1,11 @@
 # Chockwise
 
-> Airport gate data by airline, from flight data: how many gates each airline has at 257 airports, which terminal it uses, departures a day and nonstop routes. Data as of Nov 4, 2026.
+> Airport gate data by airline, from flight data: how many gates each airline has at 258 airports, which terminal it uses, departures a day and nonstop routes. Data as of Nov 5, 2026.
 
 How we count: a gate is an airline's when that airline (including its regional partners) flies at least 70% of the arrivals and departures there over the data window shown on each page. Gates no airline dominates are "common use". Counts on the airport page and the airline-at-airport page are always the same number. Each page says the days its numbers come from.
 
 ## Key pages
-- [Airports](https://chockwise.com/airports/): gates by airline at 257 airports
+- [Airports](https://chockwise.com/airports/): gates by airline at 258 airports
 - [Airlines](https://chockwise.com/airlines/): gates and terminals for 425 airlines
 - [Routes](https://chockwise.com/routes): nonstop routes and flights a day
 
@@ -16,11 +16,11 @@ How we count: a gate is an airline's when that airline (including its regional p
 - [Denver (DEN)](https://chockwise.com/airports/den): 176 gates; United 80 (Concourse B)
 - [Los Angeles (LAX)](https://chockwise.com/airports/lax): 148 gates; Delta 26 (Terminal 3)
 - [Charlotte (CLT)](https://chockwise.com/airports/clt): 123 gates; American 100 (Concourse E)
-- [Istanbul (IST)](https://chockwise.com/airports/ist): 115 gates; Turkish Airlines 84 (Concourse F)
+- [Istanbul (IST)](https://chockwise.com/airports/ist): 115 gates; Turkish Airlines 85 (Concourse F)
 - [Amsterdam (AMS)](https://chockwise.com/airports/ams): 120 gates; KLM 36 (Terminal 1)
 - [Tokyo Haneda (HND)](https://chockwise.com/airports/hnd): 108 gates; ANA 27 (Terminal 2N)
 - [Madrid (MAD)](https://chockwise.com/airports/mad): 118 gates; Iberia 30 (Terminal 4)
-- [Frankfurt (FRA)](https://chockwise.com/airports/fra): 117 gates; Lufthansa 22 (Terminal 1)
+- [Frankfurt (FRA)](https://chockwise.com/airports/fra): 117 gates; Lufthansa 21 (Terminal 1)
 - [London Heathrow (LHR)](https://chockwise.com/airports/lhr): 145 gates; British Airways 46 (Terminal 5)
 - [Houston Bush (IAH)](https://chockwise.com/airports/iah): 169 gates; United 97 (Terminal B)
 - [Beijing Capital (PEK)](https://chockwise.com/airports/pek): 123 gates; Air China 46 (Terminal 3)

@@ -1,6 +1,6 @@
 # Chockwise
 
-> Airport gate data by airline, from flight data: how many gates each airline has at 257 airports, which terminal it uses, departures a day and nonstop routes. Data as of Nov 4, 2026.
+> Airport gate data by airline, from flight data: how many gates each airline has at 258 airports, which terminal it uses, departures a day and nonstop routes. Data as of Nov 5, 2026.
 
 How we count: a gate is an airline's when that airline (including its regional partners) flies at least 70% of the arrivals and departures there over the data window shown on each page. Gates no airline dominates are "common use". Counts on the airport page and the airline-at-airport page are always the same number. Each page says the days its numbers come from.
 
@@ -750,6 +750,22 @@ How we count: a gate is an airline's when that airline (including its regional p
 - LEVEL at BOS: shared gates; 1/week; https://chockwise.com/airports/bos/level
 - United at BRO: 2 gates; 3-4/day; https://chockwise.com/airports/bro/united
 - American at BRO: 1 gate; 3-4/day; https://chockwise.com/airports/bro/american
+- Brussels Airlines at BRU: 27 gates, Concourse A; 91/day; https://chockwise.com/airports/bru/brussels-airlines
+- KLM at BRU: shared gates; 4/day; https://chockwise.com/airports/bru/klm
+- Austrian at BRU: shared gates; 3-4/day; https://chockwise.com/airports/bru/austrian
+- SWISS at BRU: shared gates; 3/day; https://chockwise.com/airports/bru/swiss
+- Iberia at BRU: shared gates; 3/day; https://chockwise.com/airports/bru/iberia
+- United at BRU: 4 gates, Concourse B; 3/day; https://chockwise.com/airports/bru/united
+- Ryanair at BRU: shared gates; 2/day; https://chockwise.com/airports/bru/ryanair
+- Lufthansa at BRU: shared gates; 2/day; https://chockwise.com/airports/bru/lufthansa
+- Air China at BRU: shared gates; 1-2/day; https://chockwise.com/airports/bru/air-china
+- Ethiopian at BRU: shared gates; 1-2/day; https://chockwise.com/airports/bru/ethiopian
+- Qatar Airways at BRU: shared gates; 1-2/day; https://chockwise.com/airports/bru/qatar-airways
+- Hainan Airlines at BRU: shared gates; 1/day; https://chockwise.com/airports/bru/hainan-airlines
+- Air Canada at BRU: shared gates; 1/day; https://chockwise.com/airports/bru/air-canada
+- Delta at BRU: shared gates; 3-4/week; https://chockwise.com/airports/bru/delta
+- Juneyao at BRU: shared gates; 3-4/week; https://chockwise.com/airports/bru/juneyao
+- Cathay Pacific at BRU: shared gates; 3-4/week; https://chockwise.com/airports/bru/cathay-pacific
 - American at BTR: 2 gates, Concourse B; 8-9/day; https://chockwise.com/airports/btr/american
 - United at BTR: 2 gates, Concourse A; 6-7/day; https://chockwise.com/airports/btr/united
 - Delta at BTR: 2 gates, Concourse A; 4-5/day; https://chockwise.com/airports/btr/delta
@@ -1431,14 +1447,14 @@ How we count: a gate is an airline's when that airline (including its regional p
 - WestJet at FLL: shared gates; 4-5/week; https://chockwise.com/airports/fll/westjet
 - Caribbean Airlines at FLL: shared gates; 4-5/week; https://chockwise.com/airports/fll/caribbean-airlines
 - Contour at FLL: shared gates; 4-5/week; https://chockwise.com/airports/fll/contour
-- Lufthansa at FRA: 22 gates, Terminal 1; 287/day; https://chockwise.com/airports/fra/lufthansa
+- Lufthansa at FRA: 21 gates, Terminal 1; 287/day; https://chockwise.com/airports/fra/lufthansa
 - Condor at FRA: 3 gates, Terminal 1; 78/day; https://chockwise.com/airports/fra/condor
 - Air Dolomiti at FRA: shared gates; 44/day; https://chockwise.com/airports/fra/air-dolomiti
 - Discover at FRA: 2 gates, Terminal 1; 29/day; https://chockwise.com/airports/fra/discover
 - Lufthansa City at FRA: shared gates; 21/day; https://chockwise.com/airports/fra/lufthansa-city
 - SunExpress at FRA: shared gates; 11/day; https://chockwise.com/airports/fra/sunexpress
 - Austrian at FRA: shared gates; 10/day; https://chockwise.com/airports/fra/austrian
-- United at FRA: 15 gates, Terminal 1; 9/day; https://chockwise.com/airports/fra/united
+- United at FRA: 14 gates, Terminal 1; 9/day; https://chockwise.com/airports/fra/united
 - TUIfly at FRA: shared gates; 8/day; https://chockwise.com/airports/fra/tuifly
 - Turkish Airlines at FRA: shared gates; 6-7/day; https://chockwise.com/airports/fra/turkish-airlines
 - SWISS at FRA: shared gates; 5-6/day; https://chockwise.com/airports/fra/swiss
@@ -1587,7 +1603,7 @@ How we count: a gate is an airline's when that airline (including its regional p
 - Delta at GTF: 2 gates; 3/day; https://chockwise.com/airports/gtf/delta
 - United at GTF: 1 gate; 2/day; https://chockwise.com/airports/gtf/united
 - Alaska at GTF: 1 gate; 6/week; https://chockwise.com/airports/gtf/alaska
-- easyJet at GVA: 5 gates, Terminal 1; 79/day; https://chockwise.com/airports/gva/easyjet
+- easyJet at GVA: 3 gates, Terminal 1; 79/day; https://chockwise.com/airports/gva/easyjet
 - SWISS at GVA: 1 gate, Terminal 1; 22/day; https://chockwise.com/airports/gva/swiss
 - Iberia at GVA: shared gates; 10/day; https://chockwise.com/airports/gva/iberia
 - British Airways at GVA: shared gates; 8-9/day; https://chockwise.com/airports/gva/british-airways
@@ -1621,7 +1637,7 @@ How we count: a gate is an airline's when that airline (including its regional p
 - Luxair at GVA: shared gates; 1/day; https://chockwise.com/airports/gva/luxair
 - Tunisair at GVA: shared gates; 1/day; https://chockwise.com/airports/gva/tunisair
 - Aegean at GVA: shared gates; 1/day; https://chockwise.com/airports/gva/aegean
-- Finnair at HEL: 31 gates, Terminal 2; 162/day; https://chockwise.com/airports/hel/finnair
+- Finnair at HEL: 32 gates, Terminal 2; 162/day; https://chockwise.com/airports/hel/finnair
 - Norwegian Air at HEL: shared gates; 11/day; https://chockwise.com/airports/hel/norwegian-air
 - Ryanair at HEL: shared gates; 7-8/day; https://chockwise.com/airports/hel/ryanair
 - SAS at HEL: shared gates; 6/day; https://chockwise.com/airports/hel/sas
@@ -1966,7 +1982,7 @@ How we count: a gate is an airline's when that airline (including its regional p
 - JetBlue at ISP: 1 gate, Terminal MAIN; 3-4/day; https://chockwise.com/airports/isp/jetblue
 - Frontier at ISP: shared gates; 1/day; https://chockwise.com/airports/isp/frontier
 - Avelo at ISP: shared gates; 6/week; https://chockwise.com/airports/isp/avelo
-- Turkish Airlines at IST: 84 gates, Concourse F; 574/day; https://chockwise.com/airports/ist/turkish-airlines
+- Turkish Airlines at IST: 85 gates, Concourse F; 574/day; https://chockwise.com/airports/ist/turkish-airlines
 - Aeroflot at IST: shared gates; 7-8/day; https://chockwise.com/airports/ist/aeroflot
 - Air Algérie at IST: shared gates; 5/day; https://chockwise.com/airports/ist/air-algerie
 - LOT at IST: shared gates; 4-5/day; https://chockwise.com/airports/ist/lot
