@@ -1,6 +1,6 @@
 # Chockwise
 
-> Airport gate data by airline, from flight data: how many gates each airline has at 259 airports, which terminal it uses, departures a day and nonstop routes. Data as of Nov 6, 2026.
+> Airport gate data by airline, from flight data: how many gates each airline has at 262 airports, which terminal it uses, departures a day and nonstop routes. Data as of Nov 6, 2026.
 
 How we count: a gate is an airline's when that airline (including its regional partners) flies at least 70% of the arrivals and departures there over the data window shown on each page. Gates no airline dominates are "common use". Counts on the airport page and the airline-at-airport page are always the same number. Each page says the days its numbers come from.
 
@@ -15,8 +15,40 @@ How we count: a gate is an airline's when that airline (including its regional p
 - JetBlue at ABQ: shared gates; 1/day; https://chockwise.com/airports/abq/jetblue
 - Cape Air at ACK: 1 gate; 11/day; https://chockwise.com/airports/ack/cape-air
 - JetBlue at ACK: shared gates; 4/day; https://chockwise.com/airports/ack/jetblue
+- United at ACV: 1 gate; 6/day; https://chockwise.com/airports/acv/united
+- Alaska at ACV: shared gates; 1/day; https://chockwise.com/airports/acv/alaska
 - American at AEX: 2 gates; 3/day; https://chockwise.com/airports/aex/american
 - United at AEX: 1 gate; 2/day; https://chockwise.com/airports/aex/united
+- Ryanair at AGP: 1 gate, Terminal PAX; 88/day; https://chockwise.com/airports/agp/ryanair
+- Vueling at AGP: shared gates; 24/day; https://chockwise.com/airports/agp/vueling
+- easyJet at AGP: shared gates; 24/day; https://chockwise.com/airports/agp/easyjet
+- Iberia at AGP: shared gates; 16/day; https://chockwise.com/airports/agp/iberia
+- Jet2 at AGP: shared gates; 12/day; https://chockwise.com/airports/agp/jet2
+- Transavia NL at AGP: shared gates; 10/day; https://chockwise.com/airports/agp/transavia-nl
+- Norwegian Air at AGP: shared gates; 8-9/day; https://chockwise.com/airports/agp/norwegian-air
+- SAS at AGP: shared gates; 7/day; https://chockwise.com/airports/agp/sas
+- British Airways at AGP: shared gates; 6-7/day; https://chockwise.com/airports/agp/british-airways
+- Air Europa at AGP: shared gates; 5-6/day; https://chockwise.com/airports/agp/air-europa
+- Volotea at AGP: shared gates; 5-6/day; https://chockwise.com/airports/agp/volotea
+- Eurowings at AGP: shared gates; 5-6/day; https://chockwise.com/airports/agp/eurowings
+- SWISS at AGP: shared gates; 5/day; https://chockwise.com/airports/agp/swiss
+- Wizz Air Malta at AGP: shared gates; 5/day; https://chockwise.com/airports/agp/wizz-air-malta
+- Wizz Air at AGP: shared gates; 4-5/day; https://chockwise.com/airports/agp/wizz-air
+- Finnair at AGP: shared gates; 3/day; https://chockwise.com/airports/agp/finnair
+- TAP at AGP: shared gates; 3/day; https://chockwise.com/airports/agp/tap
+- Air France at AGP: shared gates; 3/day; https://chockwise.com/airports/agp/air-france
+- Aer Lingus at AGP: shared gates; 3/day; https://chockwise.com/airports/agp/aer-lingus
+- Transavia at AGP: shared gates; 3/day; https://chockwise.com/airports/agp/transavia
+- TUI fly Belgium at AGP: shared gates; 2-3/day; https://chockwise.com/airports/agp/tui-fly-belgium
+- Brussels Airlines at AGP: shared gates; 2-3/day; https://chockwise.com/airports/agp/brussels-airlines
+- Royal Air Maroc at AGP: shared gates; 2-3/day; https://chockwise.com/airports/agp/royal-air-maroc
+- Smartwings at AGP: shared gates; 2/day; https://chockwise.com/airports/agp/smartwings
+- Turkish Airlines at AGP: shared gates; 2/day; https://chockwise.com/airports/agp/turkish-airlines
+- Wizz Air UK at AGP: shared gates; 1-2/day; https://chockwise.com/airports/agp/wizz-air-uk
+- Discover at AGP: shared gates; 1-2/day; https://chockwise.com/airports/agp/discover
+- Qatar Airways at AGP: shared gates; 1/day; https://chockwise.com/airports/agp/qatar-airways
+- LOT at AGP: shared gates; 1/day; https://chockwise.com/airports/agp/lot
+- Luxair at AGP: shared gates; 1/day; https://chockwise.com/airports/agp/luxair
 - Delta at AGS: 1 gate; 7-8/day; https://chockwise.com/airports/ags/delta
 - American at AGS: 2 gates; 6-7/day; https://chockwise.com/airports/ags/american
 - Air New Zealand at AKL: 17 gates, Terminal 2; 140/day; https://chockwise.com/airports/akl/air-new-zealand
@@ -2459,7 +2491,7 @@ How we count: a gate is an airline's when that airline (including its regional p
 - United at LIH: 1 gate; 4/day; https://chockwise.com/airports/lih/united
 - American at LIH: shared gates; 2-3/day; https://chockwise.com/airports/lih/american
 - Delta at LIH: shared gates; 2/day; https://chockwise.com/airports/lih/delta
-- LATAM Perú at LIM: 14 gates, Terminal 1; 149/day; https://chockwise.com/airports/lim/latam-peru
+- LATAM Perú at LIM: 15 gates, Terminal 1; 149/day; https://chockwise.com/airports/lim/latam-peru
 - Copa at LIM: shared gates; 7/day; https://chockwise.com/airports/lim/copa
 - LATAM at LIM: shared gates; 6-7/day; https://chockwise.com/airports/lim/latam
 - Avianca at LIM: shared gates; 5-6/day; https://chockwise.com/airports/lim/avianca
@@ -3842,7 +3874,7 @@ How we count: a gate is an airline's when that airline (including its regional p
 - Breeze at TLH: shared gates; 1-2/day; https://chockwise.com/airports/tlh/breeze
 - Southwest at TPA: 12 gates, Concourse C; 69/day; https://chockwise.com/airports/tpa/southwest
 - Delta at TPA: 9 gates, Concourse E; 40/day; https://chockwise.com/airports/tpa/delta
-- American at TPA: 13 gates, Concourse F; 39/day; https://chockwise.com/airports/tpa/american
+- American at TPA: 12 gates, Concourse F; 39/day; https://chockwise.com/airports/tpa/american
 - United at TPA: 6 gates, Concourse A; 25/day; https://chockwise.com/airports/tpa/united
 - Breeze at TPA: 4 gates, Concourse A; 21/day; https://chockwise.com/airports/tpa/breeze
 - Frontier at TPA: 4 gates, Concourse E; 18/day; https://chockwise.com/airports/tpa/frontier

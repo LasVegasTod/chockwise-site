@@ -61,6 +61,22 @@
   "top_gates": 1,
   "updated": "2026-11-08"
  },
+ "ACV": {
+  "changed": "2026-11-08",
+  "data": "2026-11-07",
+  "data_last": "2026-11-06",
+  "flights_day": 14,
+  "gates": 2,
+  "hash": "74b498cb2f41",
+  "name": "California Redwood Coast-Humboldt County, Arcata/Eureka",
+  "published": "2026-11-08",
+  "seats_day": 643,
+  "short": "Arcata/Eureka",
+  "sig": "{\"common\": 1, \"drawing\": \"04f64490db92\", \"gates\": 2, \"held\": {\"UA\": 1}, \"low\": 0}",
+  "top": "UA",
+  "top_gates": 1,
+  "updated": "2026-11-08"
+ },
  "AEX": {
   "changed": "2026-11-07",
   "data": "2026-10-21",
@@ -75,6 +91,22 @@
   "sig": "{\"common\": 0, \"drawing\": \"a0e7d5c4c192\", \"gates\": 4, \"held\": {\"AA\": 2, \"UA\": 1}, \"low\": 1}",
   "top": "AA",
   "top_gates": 2,
+  "updated": "2026-11-08"
+ },
+ "AGP": {
+  "changed": "2026-11-08",
+  "data": "2026-11-03",
+  "data_last": "2026-11-02",
+  "flights_day": 536,
+  "gates": 30,
+  "hash": "490ddace0fae",
+  "name": "Malaga",
+  "published": "2026-11-08",
+  "seats_day": 32702,
+  "short": "M\u00e1laga",
+  "sig": "{\"common\": 26, \"drawing\": \"b06e4603cb00\", \"gates\": 30, \"held\": {\"FR\": 1}, \"low\": 3}",
+  "top": "FR",
+  "top_gates": 1,
   "updated": "2026-11-08"
  },
  "AGS": {
@@ -407,6 +439,22 @@
   "sig": "{\"common\": 0, \"drawing\": \"ff9a106bd5db\", \"gates\": 19, \"held\": {\"AA\": 8, \"DL\": 4, \"UA\": 3, \"WN\": 3}, \"low\": 1}",
   "top": "AA",
   "top_gates": 8,
+  "updated": "2026-11-08"
+ },
+ "BHX": {
+  "changed": "2026-11-08",
+  "data": "2026-11-02",
+  "data_last": "2026-11-01",
+  "flights_day": 285,
+  "gates": 32,
+  "hash": "02f2b32cdd35",
+  "name": "Birmingham",
+  "published": "2026-11-08",
+  "seats_day": 15187,
+  "short": "BHX",
+  "sig": "{\"common\": 14, \"drawing\": \"e9b25ad349da\", \"gates\": 32, \"held\": {\"FR\": 2, \"LS\": 2, \"U2\": 2}, \"low\": 12}",
+  "top": "FR",
+  "top_gates": 2,
   "updated": "2026-11-08"
  },
  "BIL": {
@@ -968,12 +1016,12 @@
   "updated": "2026-11-08"
  },
  "CVG": {
-  "changed": "2026-11-07",
+  "changed": "2026-11-08",
   "data": "2026-10-06",
   "data_last": "2026-10-05",
   "flights_day": 332,
   "gates": 49,
-  "hash": "7924d46057b2",
+  "hash": "925c081d340f",
   "name": "Cincinnati/Northern Kentucky International Airport, Hebron",
   "published": "2026-10-07",
   "seats_day": 16851,
@@ -1970,12 +2018,12 @@
   "updated": "2026-11-08"
  },
  "IST": {
-  "changed": "2026-11-07",
+  "changed": "2026-11-08",
   "data": "2026-10-10",
   "data_last": "2026-10-09",
-  "flights_day": 1377,
+  "flights_day": 1376,
   "gates": 115,
-  "hash": "81b844b35d54",
+  "hash": "00f3300100f8",
   "name": "Istanbul Airport",
   "published": "2026-10-10",
   "seats_day": 47140,
@@ -2151,7 +2199,7 @@
   "data_last": "2026-11-06",
   "flights_day": 1457,
   "gates": 148,
-  "hash": "c59f6bab2c88",
+  "hash": "c28618033eb5",
   "name": "Los Angeles Intl",
   "published": "2026-10-05",
   "seats_day": 109196,
@@ -2274,19 +2322,19 @@
   "updated": "2026-11-08"
  },
  "LIM": {
-  "changed": "2026-11-07",
+  "changed": "2026-11-08",
   "data": "2026-11-03",
   "data_last": "2026-11-02",
   "flights_day": 536,
   "gates": 48,
-  "hash": "84486b78141c",
+  "hash": "935cd9f99803",
   "name": "Jorge Ch\u00e1vez Int'l",
   "published": "2026-11-03",
   "seats_day": 4082,
   "short": "Lima",
-  "sig": "{\"common\": 28, \"drawing\": \"c6fad5ed45d8\", \"gates\": 48, \"held\": {\"AA\": 2, \"LP\": 14}, \"low\": 4}",
+  "sig": "{\"common\": 27, \"drawing\": \"c6fad5ed45d8\", \"gates\": 48, \"held\": {\"AA\": 2, \"LP\": 15}, \"low\": 4}",
   "top": "LP",
-  "top_gates": 14,
+  "top_gates": 15,
   "updated": "2026-11-08"
  },
  "LIT": {
@@ -2418,12 +2466,12 @@
   "updated": "2026-11-08"
  },
  "MCO": {
-  "changed": "2026-11-07",
+  "changed": "2026-11-08",
   "data": "2026-10-05",
   "data_last": "2026-10-04",
   "flights_day": 1037,
   "gates": 116,
-  "hash": "01f9c3cc0e13",
+  "hash": "ead9012a43f2",
   "name": "Orlando Intl",
   "published": "2026-10-06",
   "seats_day": 87256,
@@ -2498,12 +2546,12 @@
   "updated": "2026-11-08"
  },
  "MEX": {
-  "changed": "2026-11-07",
+  "changed": "2026-11-08",
   "data": "2026-10-18",
   "data_last": "2026-10-17",
   "flights_day": 768,
   "gates": 71,
-  "hash": "ef46f0a538a9",
+  "hash": "a5d42d90f4a5",
   "name": "Benito Juarez Intl, Mexico City",
   "published": "2026-10-18",
   "seats_day": 37742,
@@ -2581,7 +2629,7 @@
   "data_last": "2026-11-06",
   "flights_day": 1061,
   "gates": 144,
-  "hash": "42950a2b51dc",
+  "hash": "014bf7d87f32",
   "name": "Miami Intl",
   "published": "2026-10-06",
   "seats_day": 68222,
@@ -3898,19 +3946,19 @@
   "updated": "2026-11-08"
  },
  "TPA": {
-  "changed": "2026-11-07",
+  "changed": "2026-11-08",
   "data": "2026-10-06",
   "data_last": "2026-10-05",
   "flights_day": 474,
   "gates": 59,
-  "hash": "2d5e60e96dd9",
+  "hash": "6c38e6f036f2",
   "name": "Tampa Intl",
   "published": "2026-10-06",
   "seats_day": 39152,
   "short": "Tampa",
-  "sig": "{\"common\": 2, \"drawing\": \"a5333609c443\", \"gates\": 59, \"held\": {\"AA\": 13, \"AS\": 1, \"B6\": 3, \"DL\": 9, \"F9\": 4, \"MX\": 4, \"UA\": 6, \"WN\": 12, \"XP\": 1}, \"low\": 4}",
-  "top": "AA",
-  "top_gates": 13,
+  "sig": "{\"common\": 3, \"drawing\": \"a5333609c443\", \"gates\": 59, \"held\": {\"AA\": 12, \"AS\": 1, \"B6\": 3, \"DL\": 9, \"F9\": 4, \"MX\": 4, \"UA\": 6, \"WN\": 12, \"XP\": 1}, \"low\": 4}",
+  "top": "WN",
+  "top_gates": 12,
   "updated": "2026-11-08"
  },
  "TPE": {
@@ -4056,19 +4104,19 @@
   "updated": "2026-11-08"
  },
  "YUL": {
-  "changed": "2026-11-07",
+  "changed": "2026-11-08",
   "data": "2026-10-21",
   "data_last": "2026-10-20",
-  "flights_day": 471,
+  "flights_day": 470,
   "gates": 62,
-  "hash": "4f3d3d08a9d6",
+  "hash": "1f089dd8e58f",
   "name": "Pierre Elliot Trudeau Intl, Montreal",
   "published": "2026-10-21",
   "seats_day": 18491,
   "short": "Montreal",
-  "sig": "{\"common\": 16, \"drawing\": \"39e830c8134c\", \"gates\": 62, \"held\": {\"AC\": 21, \"PD\": 2, \"UA\": 2}, \"low\": 21}",
+  "sig": "{\"common\": 15, \"drawing\": \"39e830c8134c\", \"gates\": 62, \"held\": {\"AC\": 22, \"PD\": 2, \"UA\": 2}, \"low\": 21}",
   "top": "AC",
-  "top_gates": 21,
+  "top_gates": 22,
   "updated": "2026-11-08"
  },
  "YYC": {
@@ -4088,12 +4136,12 @@
   "updated": "2026-11-08"
  },
  "YYZ": {
-  "changed": "2026-11-07",
+  "changed": "2026-11-08",
   "data": "2026-10-07",
   "data_last": "2026-10-06",
   "flights_day": 973,
   "gates": 133,
-  "hash": "eefa21f072a0",
+  "hash": "820097207406",
   "name": "Toronto Pearson Int'l",
   "published": "2026-10-12",
   "seats_day": 44376,
