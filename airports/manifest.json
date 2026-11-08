@@ -3261,6 +3261,22 @@
   "top_gates": 5,
   "updated": "2026-11-08"
  },
+ "PTY": {
+  "changed": "2026-11-08",
+  "data": "2026-11-08",
+  "data_last": "2026-11-07",
+  "flights_day": 468,
+  "gates": 56,
+  "hash": "d5fc47495dba",
+  "name": "Tocumen Intl, Panama City",
+  "published": "2026-11-08",
+  "seats_day": 32052,
+  "short": "Panama City",
+  "sig": "{\"common\": 3, \"drawing\": \"54e7af24f326\", \"gates\": 56, \"held\": {\"CM\": 47, \"UA\": 2}, \"low\": 4}",
+  "top": "CM",
+  "top_gates": 47,
+  "updated": "2026-11-08"
+ },
  "PVD": {
   "changed": "2026-11-06",
   "data": "2026-10-06",
