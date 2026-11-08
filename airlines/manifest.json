@@ -36276,7 +36276,7 @@
     "A6"
    ],
    "gone": false,
-   "hash": "03b6a5120217",
+   "hash": "0bd4acad9f6c",
    "last_seen": "2026-10-20",
    "last_seen_str": "Oct 20, 2026",
    "name": "Air Canada",
@@ -36378,7 +36378,7 @@
     "B27"
    ],
    "gone": false,
-   "hash": "214622b9497e",
+   "hash": "34f68c0ec666",
    "last_seen": "2026-11-08",
    "last_seen_str": "Nov 8, 2026",
    "name": "American Airlines",
@@ -36450,7 +36450,7 @@
     "B11"
    ],
    "gone": false,
-   "hash": "03582d75f054",
+   "hash": "8c51d87f3417",
    "last_seen": "2026-11-07",
    "last_seen_str": "Nov 7, 2026",
    "name": "Delta Air Lines",
@@ -36558,7 +36558,7 @@
     "A11"
    ],
    "gone": false,
-   "hash": "9727f5f7dd00",
+   "hash": "4bb970151b8d",
    "last_seen": "2026-11-07",
    "last_seen_str": "Nov 7, 2026",
    "name": "United Airlines",
@@ -81669,7 +81669,7 @@
     "D8"
    ],
    "gone": false,
-   "hash": "656623a576a4",
+   "hash": "e7151f906beb",
    "last_seen": "2026-11-02",
    "last_seen_str": "Nov 2, 2026",
    "name": "Aerol\u00edneas Argentinas",
@@ -81696,7 +81696,7 @@
     "D9"
    ],
    "gone": false,
-   "hash": "cc075fe55e33",
+   "hash": "3c28db1a181d",
    "last_seen": "2026-11-02",
    "last_seen_str": "Nov 2, 2026",
    "name": "Aerom\u00e9xico",
@@ -81725,7 +81725,7 @@
     "D3"
    ],
    "gone": false,
-   "hash": "c120ad23a967",
+   "hash": "760e71bad4ee",
    "last_seen": "2026-11-08",
    "last_seen_str": "Nov 8, 2026",
    "name": "Air Canada",
@@ -81752,7 +81752,7 @@
     "C7"
    ],
    "gone": false,
-   "hash": "f5fa50fbe3c1",
+   "hash": "a80fcad6a81b",
    "last_seen": "2026-11-02",
    "last_seen_str": "Nov 2, 2026",
    "name": "Air Europa",
@@ -81778,7 +81778,7 @@
     "D1"
    ],
    "gone": false,
-   "hash": "4226c3f4e90a",
+   "hash": "8c99e4d895ec",
    "last_seen": "2026-11-02",
    "last_seen_str": "Nov 2, 2026",
    "name": "Air France",
@@ -81806,7 +81806,7 @@
     "D6"
    ],
    "gone": false,
-   "hash": "405580ed9450",
+   "hash": "c0be95c4824f",
    "last_seen": "2026-11-08",
    "last_seen_str": "Nov 8, 2026",
    "name": "American Airlines",
@@ -81836,7 +81836,7 @@
     "C11"
    ],
    "gone": false,
-   "hash": "06cee62e8760",
+   "hash": "0bcef156e410",
    "last_seen": "2026-11-02",
    "last_seen_str": "Nov 2, 2026",
    "name": "Arajet",
@@ -81863,7 +81863,7 @@
     "D10"
    ],
    "gone": false,
-   "hash": "e95277b0b0ca",
+   "hash": "718f43b85f6a",
    "last_seen": "2026-11-02",
    "last_seen_str": "Nov 2, 2026",
    "name": "Avianca",
@@ -81890,7 +81890,7 @@
     "C15"
    ],
    "gone": false,
-   "hash": "f692529bc79c",
+   "hash": "f4e5c50d545f",
    "last_seen": "2026-11-02",
    "last_seen_str": "Nov 2, 2026",
    "name": "Boliviana de Aviaci\u00f3n",
@@ -81916,7 +81916,7 @@
     "D11"
    ],
    "gone": false,
-   "hash": "59c895de7a33",
+   "hash": "1939a1f01d59",
    "last_seen": "2026-11-08",
    "last_seen_str": "Nov 8, 2026",
    "name": "Copa Airlines",
@@ -81943,7 +81943,7 @@
     "C8"
    ],
    "gone": false,
-   "hash": "18e55cf48f75",
+   "hash": "ec817aefb436",
    "last_seen": "2026-11-07",
    "last_seen_str": "Nov 7, 2026",
    "name": "Delta Air Lines",
@@ -81972,7 +81972,7 @@
     "D3"
    ],
    "gone": false,
-   "hash": "bf39d99fccfe",
+   "hash": "e065107c0694",
    "last_seen": "2026-11-02",
    "last_seen_str": "Nov 2, 2026",
    "name": "Iberia",
@@ -81982,6 +81982,44 @@
    "slug": "iberia",
    "types": [
     "A350-900"
+   ],
+   "updated": "2026-11-08"
+  },
+  "jetsmart-peru": {
+   "airport_short": "LIM",
+   "changed": "2026-11-08",
+   "code": "JZ",
+   "data": "2026-11-03",
+   "deps_day": 17.0,
+   "dests": [
+    "CUZ",
+    "AQP",
+    "TPP",
+    "PIU",
+    "SCL",
+    "CJA"
+   ],
+   "gates": [
+    "A1",
+    "A2",
+    "A5",
+    "C5",
+    "C6",
+    "C15",
+    "C18"
+   ],
+   "gone": false,
+   "hash": "da8394527205",
+   "last_seen": "2026-11-02",
+   "last_seen_str": "Nov 2, 2026",
+   "name": "JetSMART Peru",
+   "published": "2026-11-08",
+   "short": "JetSMART Peru",
+   "sig": "{\"drawing\": \"c6fad5ed45d8\", \"focus\": [\"A1\", \"A2\", \"A5\", \"C5\", \"C6\", \"C15\", \"C18\"], \"held\": [], \"held_n\": 0, \"main\": [\"A1\", \"A2\", \"A5\", \"C5\", \"C6\", \"C15\", \"C18\"]}",
+   "slug": "jetsmart-peru",
+   "types": [
+    "A320",
+    "A320neo"
    ],
    "updated": "2026-11-08"
   },
@@ -81999,7 +82037,7 @@
     "C8"
    ],
    "gone": false,
-   "hash": "a21737087711",
+   "hash": "54200798c973",
    "last_seen": "2026-11-02",
    "last_seen_str": "Nov 2, 2026",
    "name": "KLM",
@@ -82029,7 +82067,7 @@
     "D9"
    ],
    "gone": false,
-   "hash": "702460ca0359",
+   "hash": "b2033e6c6d48",
    "last_seen": "2026-11-02",
    "last_seen_str": "Nov 2, 2026",
    "name": "LATAM Airlines",
@@ -82057,7 +82095,7 @@
     "D7"
    ],
    "gone": false,
-   "hash": "2888f2bd4798",
+   "hash": "42dac5724ab2",
    "last_seen": "2026-11-02",
    "last_seen_str": "Nov 2, 2026",
    "name": "LATAM Brasil",
@@ -82084,7 +82122,7 @@
     "D6"
    ],
    "gone": false,
-   "hash": "66b2e4361e0f",
+   "hash": "8cd6f0638619",
    "last_seen": "2026-11-02",
    "last_seen_str": "Nov 2, 2026",
    "name": "LATAM Airlines Colombia",
@@ -82115,7 +82153,7 @@
     "D11"
    ],
    "gone": false,
-   "hash": "acae646bbbfd",
+   "hash": "4c07225d3182",
    "last_seen": "2026-11-07",
    "last_seen_str": "Nov 7, 2026",
    "name": "LATAM Airlines Ecuador",
@@ -82125,6 +82163,33 @@
    "slug": "latam-ecuador",
    "types": [
     "A320",
+    "A319"
+   ],
+   "updated": "2026-11-08"
+  },
+  "latam-paraguay": {
+   "airport_short": "LIM",
+   "changed": "2026-11-08",
+   "code": "PZ",
+   "data": "2026-11-03",
+   "deps_day": 1.0,
+   "dests": [
+    "ASU"
+   ],
+   "gates": [
+    "C4",
+    "C18"
+   ],
+   "gone": false,
+   "hash": "fd2d612dc47d",
+   "last_seen": "2026-11-02",
+   "last_seen_str": "Nov 2, 2026",
+   "name": "LATAM Airlines Paraguay",
+   "published": "2026-11-08",
+   "short": "LATAM Paraguay",
+   "sig": "{\"drawing\": \"c6fad5ed45d8\", \"focus\": [\"C4\", \"C18\"], \"held\": [], \"held_n\": 0, \"main\": [\"C4\", \"C18\"]}",
+   "slug": "latam-paraguay",
+   "types": [
     "A319"
    ],
    "updated": "2026-11-08"
@@ -82154,7 +82219,7 @@
     "C4"
    ],
    "gone": false,
-   "hash": "5f63c1d885fb",
+   "hash": "50e70f141466",
    "last_seen": "2026-11-08",
    "last_seen_str": "Nov 8, 2026",
    "name": "LATAM Per\u00fa",
@@ -82183,7 +82248,7 @@
     "C8"
    ],
    "gone": false,
-   "hash": "332d1477d010",
+   "hash": "cdb3378ad8b6",
    "last_seen": "2026-11-02",
    "last_seen_str": "Nov 2, 2026",
    "name": "Plus Ultra L\u00edneas A\u00e9reas",
@@ -82193,6 +82258,45 @@
    "slug": "plus-ultra",
    "types": [
     "A330-200"
+   ],
+   "updated": "2026-11-08"
+  },
+  "sky-airline": {
+   "airport_short": "LIM",
+   "changed": "2026-11-08",
+   "code": "H2",
+   "data": "2026-11-03",
+   "deps_day": 37.5,
+   "dests": [
+    "CUZ",
+    "AQP",
+    "SCL",
+    "IQT",
+    "PIU",
+    "TPP"
+   ],
+   "gates": [
+    "A1",
+    "A2",
+    "A5",
+    "A6",
+    "A7",
+    "A8",
+    "A9",
+    "A10"
+   ],
+   "gone": false,
+   "hash": "6b307c7649d7",
+   "last_seen": "2026-11-02",
+   "last_seen_str": "Nov 2, 2026",
+   "name": "SKY Airline",
+   "published": "2026-11-08",
+   "short": "SKY Airline",
+   "sig": "{\"drawing\": \"c6fad5ed45d8\", \"focus\": [\"A1\", \"A2\", \"A5\", \"A6\", \"A7\", \"A8\", \"A9\", \"A10\", \"A11\", \"A12\", \"A13\", \"C13\", \"C14\", \"C16\", \"C18\", \"C20\", \"C21\"], \"held\": [], \"held_n\": 0, \"main\": [\"A1\", \"A2\", \"A5\", \"A6\", \"A7\", \"A8\", \"A9\", \"A10\", \"A11\", \"A12\", \"A13\", \"C13\", \"C14\", \"C16\", \"C18\", \"C20\", \"C21\"]}",
+   "slug": "sky-airline",
+   "types": [
+    "A320neo",
+    "A320"
    ],
    "updated": "2026-11-08"
   },
@@ -82210,7 +82314,7 @@
     "C12"
    ],
    "gone": false,
-   "hash": "0e17e61dfdac",
+   "hash": "f42dca222d2a",
    "last_seen": "2026-11-08",
    "last_seen_str": "Nov 8, 2026",
    "name": "United Airlines",
@@ -82237,7 +82341,7 @@
     "D5"
    ],
    "gone": false,
-   "hash": "22f668c9cbed",
+   "hash": "858ca33df15e",
    "last_seen": "2026-11-02",
    "last_seen_str": "Nov 2, 2026",
    "name": "Volaris",
@@ -87445,7 +87549,7 @@
   },
   "ryanair-uk": {
    "airport_short": "MAN",
-   "changed": "2026-11-04",
+   "changed": "2026-11-08",
    "code": "RK",
    "data": "2026-11-03",
    "deps_day": 12.3,
@@ -87468,7 +87572,7 @@
     "50"
    ],
    "gone": false,
-   "hash": "9d8b45a18117",
+   "hash": "8257def207a1",
    "last_seen": "2026-11-02",
    "last_seen_str": "Nov 2, 2026",
    "name": "Ryanair UK",
@@ -92495,7 +92599,7 @@
     "J16"
    ],
    "gone": false,
-   "hash": "5df3902c0629",
+   "hash": "454190fcd852",
    "last_seen": "2026-11-07",
    "last_seen_str": "Nov 7, 2026",
    "name": "Air Canada",
@@ -92661,7 +92765,7 @@
     "E5"
    ],
    "gone": false,
-   "hash": "06d13dd6a799",
+   "hash": "eceaef9a44e4",
    "last_seen": "2026-11-08",
    "last_seen_str": "Nov 8, 2026",
    "name": "American Airlines",
@@ -92694,7 +92798,7 @@
     "E33"
    ],
    "gone": false,
-   "hash": "90789b9e28bd",
+   "hash": "295a89c6e7c7",
    "last_seen": "2026-11-07",
    "last_seen_str": "Nov 7, 2026",
    "name": "Arajet",
@@ -92981,7 +93085,7 @@
     "J8"
    ],
    "gone": false,
-   "hash": "5c6a2cb20ac7",
+   "hash": "723b84cbbdcb",
    "last_seen": "2026-11-07",
    "last_seen_str": "Nov 7, 2026",
    "name": "Caribbean Airlines",
@@ -93428,7 +93532,7 @@
     "J18"
    ],
    "gone": false,
-   "hash": "9b63c513ca18",
+   "hash": "dff640426681",
    "last_seen": "2026-11-07",
    "last_seen_str": "Nov 7, 2026",
    "name": "LATAM Airlines",
@@ -93566,7 +93670,7 @@
     "J14"
    ],
    "gone": false,
-   "hash": "aa248668c368",
+   "hash": "62154813c653",
    "last_seen": "2026-11-07",
    "last_seen_str": "Nov 7, 2026",
    "name": "LATAM Per\u00fa",
@@ -125916,7 +126020,7 @@
     "566"
    ],
    "gone": false,
-   "hash": "f29777c41659",
+   "hash": "c2eb35007a25",
    "last_seen": "2026-10-31",
    "last_seen_str": "Oct 31, 2026",
    "name": "Air Changan",
@@ -125954,7 +126058,7 @@
     "322"
    ],
    "gone": false,
-   "hash": "d9d3523e8461",
+   "hash": "d4a68045522a",
    "last_seen": "2026-11-05",
    "last_seen_str": "Nov 5, 2026",
    "name": "Air China",
@@ -125990,7 +126094,7 @@
     "356"
    ],
    "gone": false,
-   "hash": "727a04d53f1a",
+   "hash": "87f13b8b9ec2",
    "last_seen": "2026-11-02",
    "last_seen_str": "Nov 2, 2026",
    "name": "Air Travel",
@@ -126024,7 +126128,7 @@
     "308"
    ],
    "gone": false,
-   "hash": "b22519cda252",
+   "hash": "a4313ac87517",
    "last_seen": "2026-11-02",
    "last_seen_str": "Nov 2, 2026",
    "name": "AirAsia",
@@ -126056,7 +126160,7 @@
     "315"
    ],
    "gone": false,
-   "hash": "dfc5ac8ea912",
+   "hash": "b5cea7013dec",
    "last_seen": "2026-11-02",
    "last_seen_str": "Nov 2, 2026",
    "name": "All Nippon Airways (ANA)",
@@ -126090,7 +126194,7 @@
     "315"
    ],
    "gone": false,
-   "hash": "a8df48052bcd",
+   "hash": "e45c4836da5a",
    "last_seen": "2026-11-02",
    "last_seen_str": "Nov 2, 2026",
    "name": "Asiana Airlines",
@@ -126130,7 +126234,7 @@
     "340"
    ],
    "gone": false,
-   "hash": "24e0793817b8",
+   "hash": "268f904e5289",
    "last_seen": "2026-11-02",
    "last_seen_str": "Nov 2, 2026",
    "name": "Beijing Capital Airlines",
@@ -126163,7 +126267,7 @@
     "319"
    ],
    "gone": false,
-   "hash": "39c5333f1c2b",
+   "hash": "d834c3f28151",
    "last_seen": "2026-10-31",
    "last_seen_str": "Oct 31, 2026",
    "name": "Cambodia Airways",
@@ -126191,7 +126295,7 @@
     "307"
    ],
    "gone": false,
-   "hash": "4cb90ad12f41",
+   "hash": "bb43dec5de4d",
    "last_seen": "2026-10-20",
    "last_seen_str": "Oct 20, 2026",
    "name": "Cambodia Angkor Air",
@@ -126226,7 +126330,7 @@
     "340"
    ],
    "gone": false,
-   "hash": "4cafca9058ec",
+   "hash": "ab9d7cefeba4",
    "last_seen": "2026-11-02",
    "last_seen_str": "Nov 2, 2026",
    "name": "Chengdu Airlines",
@@ -126262,7 +126366,7 @@
     "317"
    ],
    "gone": false,
-   "hash": "225dabe39cd4",
+   "hash": "cded4acbc43b",
    "last_seen": "2026-11-02",
    "last_seen_str": "Nov 2, 2026",
    "name": "China Airlines",
@@ -126302,7 +126406,7 @@
     "327"
    ],
    "gone": false,
-   "hash": "24235d9a1445",
+   "hash": "91851bce0e5d",
    "last_seen": "2026-11-03",
    "last_seen_str": "Nov 3, 2026",
    "name": "China Eastern",
@@ -126314,6 +126418,40 @@
     "A321",
     "A321neo",
     "A330-200"
+   ],
+   "updated": "2026-11-08"
+  },
+  "china-express": {
+   "airport_short": "SZX",
+   "changed": "2026-11-08",
+   "code": "G5",
+   "data": "2026-11-03",
+   "deps_day": 0.4,
+   "dests": [
+    "HDG"
+   ],
+   "gates": [
+    "331",
+    "335",
+    "346",
+    "359",
+    "509",
+    "521",
+    "542",
+    "564"
+   ],
+   "gone": false,
+   "hash": "25742c532ce0",
+   "last_seen": "2026-10-31",
+   "last_seen_str": "Oct 31, 2026",
+   "name": "China Express Airlines",
+   "published": "2026-11-08",
+   "short": "China Express",
+   "sig": "{\"drawing\": \"0b759077d452\", \"focus\": [\"331\", \"335\", \"346\", \"359\", \"509\", \"521\", \"542\", \"564\", \"570\"], \"held\": [], \"held_n\": 0, \"main\": [\"331\", \"335\", \"346\", \"359\", \"509\", \"521\", \"542\", \"564\", \"570\"]}",
+   "slug": "china-express",
+   "types": [
+    "A320neo",
+    "A320"
    ],
    "updated": "2026-11-08"
   },
@@ -126342,7 +126480,7 @@
     "308"
    ],
    "gone": false,
-   "hash": "1e743051d86b",
+   "hash": "875cfd51b19a",
    "last_seen": "2026-11-03",
    "last_seen_str": "Nov 3, 2026",
    "name": "China Southern",
@@ -126354,6 +126492,40 @@
     "A321",
     "A321neo",
     "A320"
+   ],
+   "updated": "2026-11-08"
+  },
+  "china-united": {
+   "airport_short": "SZX",
+   "changed": "2026-11-08",
+   "code": "KN",
+   "data": "2026-11-03",
+   "deps_day": 1.6,
+   "dests": [
+    "PKX",
+    "WNZ"
+   ],
+   "gates": [
+    "323",
+    "326",
+    "328",
+    "330",
+    "331",
+    "332",
+    "334",
+    "335"
+   ],
+   "gone": false,
+   "hash": "5a7cb4c7cb38",
+   "last_seen": "2026-11-02",
+   "last_seen_str": "Nov 2, 2026",
+   "name": "China United Airlines",
+   "published": "2026-11-08",
+   "short": "China United",
+   "sig": "{\"drawing\": \"0b759077d452\", \"focus\": [\"323\", \"326\", \"328\", \"330\", \"331\", \"332\", \"334\", \"335\", \"336\", \"339\", \"340\", \"346\", \"349\", \"354\", \"355\", \"356\", \"359\", \"360\", \"508\", \"520\", \"521\", \"523\", \"527\", \"541\", \"543\", \"548\", \"564\", \"565\", \"567\", \"570\"], \"held\": [], \"held_n\": 0, \"main\": [\"323\", \"326\", \"328\", \"330\", \"331\", \"332\", \"334\", \"335\", \"336\", \"339\", \"340\", \"346\", \"349\", \"354\", \"355\", \"356\", \"359\", \"360\", \"508\", \"520\", \"521\", \"523\", \"527\", \"541\", \"543\", \"548\", \"564\", \"565\", \"567\", \"570\"]}",
+   "slug": "china-united",
+   "types": [
+    "737-800"
    ],
    "updated": "2026-11-08"
   },
@@ -126380,7 +126552,7 @@
     "339"
    ],
    "gone": false,
-   "hash": "0abd799d2394",
+   "hash": "36051aaf3fb2",
    "last_seen": "2026-11-02",
    "last_seen_str": "Nov 2, 2026",
    "name": "China West Air",
@@ -126416,7 +126588,7 @@
     "341"
    ],
    "gone": false,
-   "hash": "febc14698331",
+   "hash": "ef3f6a5b38d7",
    "last_seen": "2026-11-02",
    "last_seen_str": "Nov 2, 2026",
    "name": "Chongqing Airlines",
@@ -126428,6 +126600,79 @@
     "A320",
     "A321neo",
     "A320neo"
+   ],
+   "updated": "2026-11-08"
+  },
+  "colorful-guizhou": {
+   "airport_short": "SZX",
+   "changed": "2026-11-08",
+   "code": "GY",
+   "data": "2026-11-03",
+   "deps_day": 1.3,
+   "dests": [
+    "TFU",
+    "HIA"
+   ],
+   "gates": [
+    "327",
+    "329",
+    "331",
+    "335",
+    "339",
+    "341",
+    "343",
+    "347"
+   ],
+   "gone": false,
+   "hash": "59addf1b6bc9",
+   "last_seen": "2026-11-02",
+   "last_seen_str": "Nov 2, 2026",
+   "name": "Colorful Guizhou Airlines",
+   "published": "2026-11-08",
+   "short": "Colorful Guizhou",
+   "sig": "{\"drawing\": \"0b759077d452\", \"focus\": [\"327\", \"329\", \"331\", \"335\", \"339\", \"341\", \"343\", \"347\", \"351\", \"353\", \"355\", \"359\", \"507\", \"508\", \"520\", \"523\", \"527\", \"549\", \"561\", \"563\", \"564\"], \"held\": [], \"held_n\": 0, \"main\": [\"327\", \"329\", \"331\", \"335\", \"339\", \"341\", \"343\", \"347\", \"351\", \"353\", \"355\", \"359\", \"507\", \"508\", \"520\", \"523\", \"527\", \"549\", \"561\", \"563\", \"564\"]}",
+   "slug": "colorful-guizhou",
+   "types": [
+    "A320neo"
+   ],
+   "updated": "2026-11-08"
+  },
+  "donghai-airlines": {
+   "airport_short": "SZX",
+   "changed": "2026-11-08",
+   "code": "DZ",
+   "data": "2026-11-03",
+   "deps_day": 24.2,
+   "dests": [
+    "CGO",
+    "YIH",
+    "HAK",
+    "HFE",
+    "TFU",
+    "LYG"
+   ],
+   "gates": [
+    "308",
+    "318",
+    "320",
+    "321",
+    "323",
+    "324",
+    "325",
+    "326"
+   ],
+   "gone": false,
+   "hash": "ccef2a82be22",
+   "last_seen": "2026-11-03",
+   "last_seen_str": "Nov 3, 2026",
+   "name": "Donghai Airlines",
+   "published": "2026-11-08",
+   "short": "Donghai Airlines",
+   "sig": "{\"drawing\": \"0b759077d452\", \"focus\": [\"327\", \"339\", \"341\", \"343\", \"344\", \"346\", \"349\", \"529\", \"530\", \"547\", \"549\", \"566\", \"570\"], \"held\": [], \"held_n\": 0, \"main\": [\"308\", \"318\", \"320\", \"321\", \"323\", \"324\", \"325\", \"326\", \"327\", \"328\", \"329\", \"330\", \"331\", \"332\", \"333\", \"334\", \"335\", \"336\", \"338\", \"339\", \"340\", \"341\", \"342\", \"343\", \"344\", \"345\", \"346\", \"347\", \"348\", \"349\", \"350A\", \"351\", \"352\", \"353\", \"354\", \"355\", \"356\", \"357\", \"358\", \"359\", \"360\", \"361A\", \"362A\", \"501\", \"502\", \"503\", \"504\", \"505\", \"506\", \"507\", \"508\", \"509\", \"510\", \"520\", \"521\", \"523\", \"525\", \"526\", \"527\", \"528\", \"529\", \"530\", \"541\", \"542\", \"545\", \"547\", \"548\", \"549\", \"560\", \"561\", \"563\", \"564\", \"565\", \"566\", \"567\", \"568\", \"569\", \"570\"]}",
+   "slug": "donghai-airlines",
+   "types": [
+    "737-800",
+    "737 MAX 8"
    ],
    "updated": "2026-11-08"
   },
@@ -126446,7 +126691,7 @@
     "309"
    ],
    "gone": false,
-   "hash": "43160d4f41d8",
+   "hash": "877b75d7fce5",
    "last_seen": "2026-11-02",
    "last_seen_str": "Nov 2, 2026",
    "name": "Emirates",
@@ -126481,7 +126726,7 @@
     "525"
    ],
    "gone": false,
-   "hash": "d8f58cec29d8",
+   "hash": "65721e6b369c",
    "last_seen": "2026-11-02",
    "last_seen_str": "Nov 2, 2026",
    "name": "Fuzhou Airlines",
@@ -126519,7 +126764,7 @@
     "321"
    ],
    "gone": false,
-   "hash": "e5ebe404fbe9",
+   "hash": "1cdc831d2a92",
    "last_seen": "2026-11-03",
    "last_seen_str": "Nov 3, 2026",
    "name": "Hainan Airlines",
@@ -126554,7 +126799,7 @@
     "347"
    ],
    "gone": false,
-   "hash": "80928cd5f259",
+   "hash": "2f2fcc44b134",
    "last_seen": "2026-11-02",
    "last_seen_str": "Nov 2, 2026",
    "name": "Hebei Airlines",
@@ -126583,7 +126828,7 @@
     "304"
    ],
    "gone": false,
-   "hash": "84f1f7571f01",
+   "hash": "c60b7012ddfe",
    "last_seen": "2026-10-28",
    "last_seen_str": "Oct 28, 2026",
    "name": "Himalaya Airlines",
@@ -126593,6 +126838,39 @@
    "slug": "himalaya-airlines",
    "types": [
     "A319"
+   ],
+   "updated": "2026-11-08"
+  },
+  "jiangxi-air": {
+   "airport_short": "SZX",
+   "changed": "2026-11-08",
+   "code": "RY",
+   "data": "2026-11-03",
+   "deps_day": 1.0,
+   "dests": [
+    "CGO"
+   ],
+   "gates": [
+    "326",
+    "330",
+    "334",
+    "336",
+    "342",
+    "343",
+    "348",
+    "350A"
+   ],
+   "gone": false,
+   "hash": "599e8ee3ec65",
+   "last_seen": "2026-11-02",
+   "last_seen_str": "Nov 2, 2026",
+   "name": "Jiangxi Air",
+   "published": "2026-11-08",
+   "short": "Jiangxi Air",
+   "sig": "{\"drawing\": \"0b759077d452\", \"focus\": [\"326\", \"330\", \"334\", \"336\", \"342\", \"343\", \"348\", \"350A\", \"353\", \"355\", \"358\", \"502\", \"508\", \"509\", \"520\", \"521\", \"530\", \"542\", \"549\", \"569\", \"570\"], \"held\": [], \"held_n\": 0, \"main\": [\"326\", \"330\", \"334\", \"336\", \"342\", \"343\", \"348\", \"350A\", \"353\", \"355\", \"358\", \"502\", \"508\", \"509\", \"520\", \"521\", \"530\", \"542\", \"549\", \"569\", \"570\"]}",
+   "slug": "jiangxi-air",
+   "types": [
+    "737-800"
    ],
    "updated": "2026-11-08"
   },
@@ -126619,7 +126897,7 @@
     "330"
    ],
    "gone": false,
-   "hash": "423def7dad0c",
+   "hash": "8b42ffd25536",
    "last_seen": "2026-11-03",
    "last_seen_str": "Nov 3, 2026",
    "name": "Juneyao Airlines",
@@ -126652,7 +126930,7 @@
     "318"
    ],
    "gone": false,
-   "hash": "1400ac25357d",
+   "hash": "1ae0843f0e02",
    "last_seen": "2026-11-02",
    "last_seen_str": "Nov 2, 2026",
    "name": "Korean Air",
@@ -126686,7 +126964,7 @@
     "353"
    ],
    "gone": false,
-   "hash": "ca9c6d057a12",
+   "hash": "fe9eeccc9587",
    "last_seen": "2026-11-02",
    "last_seen_str": "Nov 2, 2026",
    "name": "Kunming Airlines",
@@ -126696,6 +126974,41 @@
    "slug": "kunming-airlines",
    "types": [
     "737-800"
+   ],
+   "updated": "2026-11-08"
+  },
+  "longjiang-airlines": {
+   "airport_short": "SZX",
+   "changed": "2026-11-08",
+   "code": "LT",
+   "data": "2026-11-03",
+   "deps_day": 1.0,
+   "dests": [
+    "LFQ",
+    "TVS",
+    "HDG"
+   ],
+   "gates": [
+    "325",
+    "330",
+    "331",
+    "334",
+    "336",
+    "342",
+    "349",
+    "357"
+   ],
+   "gone": false,
+   "hash": "c1b0bacb4132",
+   "last_seen": "2026-11-02",
+   "last_seen_str": "Nov 2, 2026",
+   "name": "LongJiang Airlines",
+   "published": "2026-11-08",
+   "short": "LongJiang Airlines",
+   "sig": "{\"drawing\": \"0b759077d452\", \"focus\": [\"325\", \"330\", \"331\", \"334\", \"336\", \"342\", \"349\", \"357\", \"502\", \"505\", \"509\", \"510\", \"520\", \"527\", \"528\", \"529\", \"530\", \"542\", \"564\"], \"held\": [], \"held_n\": 0, \"main\": [\"325\", \"330\", \"331\", \"334\", \"336\", \"342\", \"349\", \"357\", \"502\", \"505\", \"509\", \"510\", \"520\", \"527\", \"528\", \"529\", \"530\", \"542\", \"564\"]}",
+   "slug": "longjiang-airlines",
+   "types": [
+    "A321"
    ],
    "updated": "2026-11-08"
   },
@@ -126722,7 +127035,7 @@
     "329"
    ],
    "gone": false,
-   "hash": "f95eeb7dcf12",
+   "hash": "e6aa57625852",
    "last_seen": "2026-11-02",
    "last_seen_str": "Nov 2, 2026",
    "name": "Loong Air",
@@ -126757,7 +127070,7 @@
     "345"
    ],
    "gone": false,
-   "hash": "110146a6e94b",
+   "hash": "391661d50a97",
    "last_seen": "2026-11-02",
    "last_seen_str": "Nov 2, 2026",
    "name": "Lucky Air",
@@ -126792,7 +127105,7 @@
     "309"
    ],
    "gone": false,
-   "hash": "dcd409cb3136",
+   "hash": "031ffc2a324a",
    "last_seen": "2026-11-02",
    "last_seen_str": "Nov 2, 2026",
    "name": "Malaysia Airlines",
@@ -126831,7 +127144,7 @@
     "344"
    ],
    "gone": false,
-   "hash": "9ac67175b9a8",
+   "hash": "f1934809b97d",
    "last_seen": "2026-11-02",
    "last_seen_str": "Nov 2, 2026",
    "name": "Okay Airways",
@@ -126839,6 +127152,39 @@
    "short": "Okay Airways",
    "sig": "{\"drawing\": \"0b759077d452\", \"focus\": [\"329\", \"330\", \"346\", \"348\", \"355\", \"505\", \"508\", \"509\", \"521\", \"525\", \"527\", \"528\", \"529\", \"530\", \"542\", \"545\", \"549\", \"570\"], \"held\": [], \"held_n\": 0, \"main\": [\"329\", \"330\", \"332\", \"333\", \"334\", \"335\", \"341\", \"344\", \"345\", \"346\", \"348\", \"351\", \"355\", \"360\", \"505\", \"508\", \"509\", \"521\", \"525\", \"527\", \"528\", \"529\", \"530\", \"541\", \"542\", \"545\", \"547\", \"548\", \"549\", \"561\", \"564\", \"565\", \"570\"]}",
    "slug": "okay-airways",
+   "types": [
+    "737-800"
+   ],
+   "updated": "2026-11-08"
+  },
+  "ruili-airlines": {
+   "airport_short": "SZX",
+   "changed": "2026-11-08",
+   "code": "DR",
+   "data": "2026-11-03",
+   "deps_day": 0.4,
+   "dests": [
+    "WUX"
+   ],
+   "gates": [
+    "325",
+    "327",
+    "349",
+    "505",
+    "520",
+    "545",
+    "549",
+    "561"
+   ],
+   "gone": false,
+   "hash": "38fcaa24be3d",
+   "last_seen": "2026-10-31",
+   "last_seen_str": "Oct 31, 2026",
+   "name": "Ruili Airlines",
+   "published": "2026-11-08",
+   "short": "Ruili Airlines",
+   "sig": "{\"drawing\": \"0b759077d452\", \"focus\": [\"325\", \"327\", \"349\", \"505\", \"520\", \"545\", \"549\", \"561\", \"565\", \"566\", \"568\"], \"held\": [], \"held_n\": 0, \"main\": [\"325\", \"327\", \"349\", \"505\", \"520\", \"545\", \"549\", \"561\", \"565\", \"566\", \"568\"]}",
+   "slug": "ruili-airlines",
    "types": [
     "737-800"
    ],
@@ -126869,7 +127215,7 @@
     "332"
    ],
    "gone": false,
-   "hash": "a076d173167a",
+   "hash": "e171193b7e1a",
    "last_seen": "2026-11-02",
    "last_seen_str": "Nov 2, 2026",
    "name": "Shandong Airlines",
@@ -126903,7 +127249,7 @@
     "334"
    ],
    "gone": false,
-   "hash": "2635942bdf2b",
+   "hash": "ec2b7ac8b90d",
    "last_seen": "2026-11-02",
    "last_seen_str": "Nov 2, 2026",
    "name": "Shanghai Airlines",
@@ -126943,7 +127289,7 @@
     "308"
    ],
    "gone": false,
-   "hash": "c267cf644b01",
+   "hash": "a4003b95e049",
    "last_seen": "2026-11-02",
    "last_seen_str": "Nov 2, 2026",
    "name": "Shenzhen Airlines",
@@ -126983,7 +127329,7 @@
     "333"
    ],
    "gone": false,
-   "hash": "4da488cbf011",
+   "hash": "d23abfb0e807",
    "last_seen": "2026-11-02",
    "last_seen_str": "Nov 2, 2026",
    "name": "Sichuan Airlines",
@@ -127018,7 +127364,7 @@
     "315"
    ],
    "gone": false,
-   "hash": "c7cd693e6fc0",
+   "hash": "c0fe596cfacc",
    "last_seen": "2026-11-02",
    "last_seen_str": "Nov 2, 2026",
    "name": "Singapore Airlines",
@@ -127057,7 +127403,7 @@
     "316"
    ],
    "gone": false,
-   "hash": "54b8a3516a1c",
+   "hash": "976587573327",
    "last_seen": "2026-11-03",
    "last_seen_str": "Nov 3, 2026",
    "name": "Spring Airlines",
@@ -127092,7 +127438,7 @@
     "315"
    ],
    "gone": false,
-   "hash": "af55d407cdec",
+   "hash": "90fc5ed7eba1",
    "last_seen": "2026-11-02",
    "last_seen_str": "Nov 2, 2026",
    "name": "Thai AirAsia",
@@ -127128,7 +127474,7 @@
     "346"
    ],
    "gone": false,
-   "hash": "10d8a652ad90",
+   "hash": "6037edabae3a",
    "last_seen": "2026-10-31",
    "last_seen_str": "Oct 31, 2026",
    "name": "Tianjin Airlines",
@@ -127166,7 +127512,7 @@
     "337"
    ],
    "gone": false,
-   "hash": "5b310aa1ec60",
+   "hash": "0be9094348b2",
    "last_seen": "2026-11-02",
    "last_seen_str": "Nov 2, 2026",
    "name": "Tibet Airlines",
@@ -127197,7 +127543,7 @@
     "315"
    ],
    "gone": false,
-   "hash": "2c0b9dc5462b",
+   "hash": "2ec657e6e6ad",
    "last_seen": "2026-11-02",
    "last_seen_str": "Nov 2, 2026",
    "name": "UNI Air",
@@ -127229,7 +127575,7 @@
     "315"
    ],
    "gone": false,
-   "hash": "508d094e5e55",
+   "hash": "142c448c4e12",
    "last_seen": "2026-11-02",
    "last_seen_str": "Nov 2, 2026",
    "name": "Vietravel Airlines",
@@ -127268,7 +127614,7 @@
     "330"
    ],
    "gone": false,
-   "hash": "7128665ba8b5",
+   "hash": "e6440382d1ec",
    "last_seen": "2026-11-02",
    "last_seen_str": "Nov 2, 2026",
    "name": "Xiamen Airlines",
@@ -133042,7 +133388,7 @@
  "YYC": {
   "air-canada": {
    "airport_short": "YYC",
-   "changed": "2026-11-07",
+   "changed": "2026-11-08",
    "code": "AC",
    "data": "2026-11-03",
    "deps_day": 31.5,
@@ -133065,7 +133411,7 @@
     "C54"
    ],
    "gone": false,
-   "hash": "a8c9cb982f02",
+   "hash": "8228639d1d0a",
    "last_seen": "2026-11-07",
    "last_seen_str": "Nov 7, 2026",
    "name": "Air Canada",
@@ -133096,7 +133442,7 @@
     "D89"
    ],
    "gone": false,
-   "hash": "ad07b5d28bc2",
+   "hash": "dd0aa119c64d",
    "last_seen": "2026-11-07",
    "last_seen_str": "Nov 7, 2026",
    "name": "Alaska Airlines",
@@ -133196,7 +133542,7 @@
   },
   "flair": {
    "airport_short": "YYC",
-   "changed": "2026-11-07",
+   "changed": "2026-11-08",
    "code": "F8",
    "data": "2026-11-03",
    "deps_day": 11.5,
@@ -133217,7 +133563,7 @@
     "A20"
    ],
    "gone": false,
-   "hash": "017a6ce5c08b",
+   "hash": "2df8f1c6be0f",
    "last_seen": "2026-11-02",
    "last_seen_str": "Nov 2, 2026",
    "name": "Flair Airlines",
@@ -133233,7 +133579,7 @@
   },
   "klm": {
    "airport_short": "YYC",
-   "changed": "2026-11-07",
+   "changed": "2026-11-08",
    "code": "KL",
    "data": "2026-11-03",
    "deps_day": 1.5,
@@ -133245,7 +133591,7 @@
     "D78"
    ],
    "gone": false,
-   "hash": "3afab617b390",
+   "hash": "4abffef317ac",
    "last_seen": "2026-11-02",
    "last_seen_str": "Nov 2, 2026",
    "name": "KLM",
@@ -133261,7 +133607,7 @@
   },
   "porter": {
    "airport_short": "YYC",
-   "changed": "2026-11-07",
+   "changed": "2026-11-08",
    "code": "PD",
    "data": "2026-11-03",
    "deps_day": 6.5,
@@ -133280,7 +133626,7 @@
     "A20"
    ],
    "gone": false,
-   "hash": "676836a6d82b",
+   "hash": "6ea18daf7750",
    "last_seen": "2026-11-02",
    "last_seen_str": "Nov 2, 2026",
    "name": "Porter Airlines",
@@ -133351,7 +133697,7 @@
     "A12"
    ],
    "gone": false,
-   "hash": "9bf0c231559d",
+   "hash": "a6915283713c",
    "last_seen": "2026-11-07",
    "last_seen_str": "Nov 7, 2026",
    "name": "WestJet",
