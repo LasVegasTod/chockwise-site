@@ -26909,13 +26909,13 @@
     "A3"
    ],
    "gone": false,
-   "hash": "424816f8825d",
+   "hash": "f7310704d601",
    "last_seen": "2026-11-07",
    "last_seen_str": "Nov 7, 2026",
    "name": "United Airlines",
    "published": "2026-10-09",
    "short": "United",
-   "sig": "{\"drawing\": \"4b4d3901cb33\", \"focus\": [\"A1\", \"A3\"], \"held\": [\"A1\", \"A3\"], \"held_n\": 2, \"main\": [\"A1\", \"A1B\", \"A3\"]}",
+   "sig": "{\"drawing\": \"4b4d3901cb33\", \"focus\": [\"A1\", \"A3\"], \"held\": [\"A1\"], \"held_n\": 1, \"main\": [\"A1\", \"A1B\", \"A3\"]}",
    "slug": "united",
    "types": [
     "CRJ-700",
