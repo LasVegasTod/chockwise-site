@@ -288,18 +288,34 @@
   .hero .hero-grid p strong { color: var(--ink); }
   .hero p.kicker { font-size: 13px; margin: 0 0 16px; max-width: none; }
   .hero .buttons { margin-top: 28px; }
-  .explore { margin-top: 54px; background: #fff; border: 1px solid var(--line); border-radius: 14px; padding: 12px 16px 12px 12px;
-             display: grid; grid-template-columns: 190px minmax(0, 1fr) minmax(0, 340px); gap: 18px; align-items: center; }
-  .explore-map { display: block; border-radius: 9px; overflow: hidden; border: 1px solid var(--line); }
-  .explore-map img { display: block; width: 100%; height: auto; }
-  .explore .kicker { margin: 0 0 4px; }
-  .hero p.explore-say { margin: 0; font-size: 17px; color: var(--ink); font-weight: 700; line-height: 1.35; max-width: 40ch; }
-  .explore-links { display: flex; gap: 18px; margin-top: 8px; font-weight: 700; font-size: 15px; }
-  .explore-links a { color: var(--ink); text-decoration: underline; text-decoration-color: var(--chock); text-decoration-thickness: 2px; text-underline-offset: 4px; }
+  /* Free to explore (Nov 9, 2026, Todd: option A): search first on the left, a map on the right cycling SAN, LAS, ORD */
+  .explore { margin-top: 30px; background: #fff; border: 1px solid var(--line); border-radius: 16px; padding: 18px 20px;
+             display: grid; grid-template-columns: minmax(0, 5fr) minmax(0, 6fr); gap: 30px; align-items: center; }
+  .explore .kicker { margin: 0 0 8px; }
+  .hero p.explore-say { margin: 0 0 14px; font-size: clamp(19px, 1.8vw, 22px); color: var(--ink); font-weight: 800; line-height: 1.22; letter-spacing: -0.3px; max-width: 34ch; text-wrap: balance; }
+  .explore-say b { background: linear-gradient(transparent 62%, var(--chock) 62%); }
+  .explore-form { display: flex; background: #fff; border: 2px solid var(--navy); border-radius: 12px; overflow: hidden; }
+  .explore-form:focus-within { box-shadow: 0 0 0 4px rgba(242,183,5,.45); }
+  .explore-form .picker { flex: 1; min-width: 0; position: static; }
+  .explore-form .picker input { border: 0; border-radius: 0; padding: 12px 14px; font-size: 17px; }
+  .explore-form .picker input:focus { box-shadow: none; }
+  .explore-form button { border: 0; background: var(--chock); color: var(--navy); font: inherit; font-weight: 800; font-size: 16px; padding: 0 18px; cursor: pointer; white-space: nowrap; }
+  .explore-form button:hover { background: #FFC81F; }
+  .explore-find { position: relative; }
+  .explore-try { display: flex; flex-wrap: wrap; align-items: center; gap: 8px; margin-top: 12px; font-size: 14px; color: var(--muted); }
+  .explore-try .chip { font-family: 'IBM Plex Mono', ui-monospace, Menlo, Consolas, monospace; font-weight: 500; font-size: 14px; border: 1.5px solid var(--navy); color: var(--navy); background: #fff; border-radius: 999px; padding: 2px 12px; text-decoration: none; }
+  .explore-try .chip:hover, .explore-try .chip.on { background: var(--navy); color: var(--chock); }
+  .explore-try .all { margin-left: 6px; font-weight: 700; color: var(--ink); text-decoration: underline; text-decoration-color: var(--chock); text-decoration-thickness: 2px; text-underline-offset: 4px; }
+  .explore-map { display: block; position: relative; border-radius: 12px; overflow: hidden; border: 1px solid var(--line); aspect-ratio: 940 / 342; background: #F4F3EF; max-width: 100%; }
+  .explore-map img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; opacity: 0; transition: opacity .7s; }
+  .explore-map img.on { opacity: 1; }
+  .explore-map .cap { position: absolute; left: 10px; bottom: 10px; background: var(--navy); color: #fff; font-size: 13px; font-weight: 700; padding: 5px 10px; border-radius: 8px; line-height: 1.3; }
+  .explore-map .cap em { font-style: normal; color: var(--chock); }
+  @media (prefers-reduced-motion: reduce) { .explore-map img { transition: none; } }
   @media (max-width: 1100px) { .hero .hero-grid { grid-template-columns: minmax(0, 1fr) 360px; gap: 28px; } }
   @media (max-width: 700px) { .hero .hero-grid { grid-template-columns: minmax(0, 1fr); } }
-  @media (max-width: 860px) { .explore { grid-template-columns: 150px minmax(0, 1fr); } .explore-find { grid-column: 1 / -1; } }
-  @media (max-width: 520px) { .explore { grid-template-columns: minmax(0, 1fr); } }
+  @media (max-width: 860px) { .explore { grid-template-columns: minmax(0, 1fr); gap: 20px; } }
+  @media (max-width: 420px) { .explore { padding: 16px; } .explore-form button { padding: 0 12px; } }
   .picker { position: relative; }
   .picker input { width: 100%; font: inherit; font-size: 16px; font-weight: 700; color: var(--ink); background: #fff;
                   border: 2px solid var(--navy); border-radius: 11px; padding: 8px 12px; cursor: text; }
@@ -400,16 +416,23 @@
       </div>
 
       <div class="explore">
-        <a class="explore-map" href="/airports/las" aria-label="Las Vegas gate map"><img src="images/las-gates-home.webp" width="1560" height="650"
-             alt="Las Vegas gates colored by the airline that uses each one most."></a>
         <div class="explore-text">
           <p class="kicker">Free to explore</p>
-          <p class="explore-say">Every gate at <b data-k="airports">264</b> airports, the airlines that use them, and every nonstop route.</p>
+          <p class="explore-say">Look up any of <b data-k="airports">264</b> airports. See every gate and the airline that uses it.</p>
+          <div class="explore-find">
+            <form class="explore-form" id="air-form" action="/airports/">
+              <div class="picker"><input id="air-in" autocomplete="off" placeholder="Airport, city or code" aria-label="Find an airport"><ul id="air-list" role="listbox" hidden></ul></div>
+              <button type="submit">Show gates</button>
+            </form>
+          </div>
+          <div class="explore-try">Try <a class="chip on" href="/airports/san" data-m="0">SAN</a><a class="chip" href="/airports/las" data-m="1">LAS</a><a class="chip" href="/airports/ord" data-m="2">ORD</a><a class="all" href="/airports/">All airports →</a></div>
         </div>
-        <div class="explore-find">
-          <div class="picker"><input id="air-in" autocomplete="off" placeholder="Find an airport, like LAS" aria-label="Find an airport"><ul id="air-list" role="listbox" hidden></ul></div>
-          <div class="explore-links"><a href="/airports/">All airports →</a><a href="/routes">Route finder →</a></div>
-        </div>
+        <a class="explore-map" id="explore-map" href="/airports/san">
+          <img class="on" src="images/home-san.webp" width="940" height="342" alt="San Diego gates colored by the airline that uses each one most." data-c="SAN">
+          <img src="images/home-las.webp" width="940" height="342" alt="Las Vegas gates colored by the airline that uses each one most." data-c="LAS" loading="lazy">
+          <img src="images/home-ord.webp" width="940" height="342" alt="Chicago O’Hare gates colored by the airline that uses each one most." data-c="ORD" loading="lazy">
+          <span class="cap" id="explore-cap">San Diego · <em>Southwest 15</em>, Alaska 11 →</span>
+        </a>
       </div>
     </div>
   </section>
@@ -727,6 +750,43 @@
     function restart() { clearInterval(timer); timer = setInterval(function () { show((i + 1) % items.length); }, 4500); }
     show(0); restart();
   })();
+  // Free to explore map: SAN, LAS, ORD in turn (pauses while the mouse is on the map or chips); captions from the manifest
+  (function () {
+    var box = document.getElementById('explore-map'); if (!box) return;
+    var imgs = box.querySelectorAll('img'), chips = document.querySelectorAll('.explore-try .chip'), cap = document.getElementById('explore-cap');
+    var caps = {
+      SAN: 'San Diego · <em>Southwest 15</em>, Alaska 11 →',
+      LAS: 'Las Vegas · <em>Southwest 38</em>, Frontier 13 →',
+      ORD: 'Chicago O’Hare · <em>United 90</em>, American 66 →'
+    };
+    var NAMES = { AA: 'American', AS: 'Alaska', B6: 'JetBlue', DL: 'Delta', F9: 'Frontier', G4: 'Allegiant', NK: 'Spirit', SY: 'Sun Country', UA: 'United', WN: 'Southwest' };
+    var CITY = { SAN: 'San Diego', LAS: 'Las Vegas', ORD: 'Chicago O’Hare' };
+    window.exploreCaps = function (A) {
+      Object.keys(caps).forEach(function (c) {
+        try {
+          var held = JSON.parse(A[c].sig).held, top = Object.keys(held).filter(function (k) { return NAMES[k]; })
+            .sort(function (x, y) { return held[y] - held[x]; });
+          if (top.length >= 2) caps[c] = CITY[c] + ' · <em>' + NAMES[top[0]] + ' ' + held[top[0]] + '</em>, ' + NAMES[top[1]] + ' ' + held[top[1]] + ' →';
+        } catch (e) {}
+      });
+      cap.innerHTML = caps[imgs[i].dataset.c];
+    };
+    var i = 0, paused = false;
+    function show(k) {
+      imgs[i].classList.remove('on'); chips[i].classList.remove('on');
+      i = k;
+      imgs[i].classList.add('on'); chips[i].classList.add('on');
+      var c = imgs[i].dataset.c;
+      box.href = '/airports/' + c.toLowerCase(); cap.innerHTML = caps[c];
+    }
+    chips.forEach(function (ch) { ch.addEventListener('mouseenter', function () { show(+ch.dataset.m); }); ch.addEventListener('focus', function () { show(+ch.dataset.m); }); });
+    [box, document.querySelector('.explore-try')].forEach(function (el) {
+      el.addEventListener('mouseenter', function () { paused = true; });
+      el.addEventListener('mouseleave', function () { paused = false; });
+    });
+    if (!window.matchMedia || !matchMedia('(prefers-reduced-motion: reduce)').matches)
+      setInterval(function () { if (!paused && !document.hidden) show((i + 1) % imgs.length); }, 4000);
+  })();
   // "Find an airport": the airports with a page (airports/manifest.json); picking one opens its page
   (function () {
     var input = document.getElementById('air-in'), list = document.getElementById('air-list');
@@ -750,6 +810,11 @@
       list.hidden = !items.length;
     }
     function go(c) { location.href = '/airports/' + c.toLowerCase(); }
+    document.getElementById('air-form').addEventListener('submit', function (e) {
+      e.preventDefault();
+      if (!items.length) items = search(input.value);
+      if (items.length) go(items[act] || items[0]); else if (!input.value.trim()) input.focus(); else location.href = '/airports/';
+    });
     input.addEventListener('input', function () { items = search(input.value); act = 0; draw(); });
     input.addEventListener('keydown', function (e) {
       if (e.key === 'ArrowDown' && items.length) { act = (act + 1) % items.length; draw(); e.preventDefault(); }
@@ -763,6 +828,7 @@
       .then(function (m) {
         if (!m) return;
         A = {}; Object.keys(m).forEach(function (c) { if (m[c] && m[c].published && !m[c].moved) A[c] = m[c]; });
+        if (window.exploreCaps) window.exploreCaps(A);
                 if (input.value) { items = search(input.value); draw(); }
       }).catch(function () {});
   })();
