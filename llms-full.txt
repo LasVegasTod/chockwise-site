@@ -1,6 +1,6 @@
 # Chockwise
 
-> Airport gate data by airline, from flight data: how many gates each airline has at 263 airports, which terminal it uses, departures a day and nonstop routes. Data as of Nov 7, 2026.
+> Airport gate data by airline, from flight data: how many gates each airline has at 264 airports, which terminal it uses, departures a day and nonstop routes. Data as of Nov 7, 2026.
 
 How we count: a gate is an airline's when that airline (including its regional partners) flies at least 70% of the arrivals and departures there over the data window shown on each page. Gates no airline dominates are "common use". Counts on the airport page and the airline-at-airport page are always the same number. Each page says the days its numbers come from.
 
@@ -2499,6 +2499,7 @@ How we count: a gate is an airline's when that airline (including its regional p
 - LATAM at LIM: shared gates; 6-7/day; https://chockwise.com/airports/lim/latam
 - Avianca at LIM: shared gates; 5-6/day; https://chockwise.com/airports/lim/avianca
 - LATAM Brasil at LIM: shared gates; 4/day; https://chockwise.com/airports/lim/latam-brasil
+- ATSA at LIM: shared gates; 4/day; https://chockwise.com/airports/lim/atsa
 - American at LIM: 2 gates, Terminal 1; 3/day; https://chockwise.com/airports/lim/american
 - United at LIM: shared gates; 2-3/day; https://chockwise.com/airports/lim/united
 - LATAM Ecuador at LIM: shared gates; 2-3/day; https://chockwise.com/airports/lim/latam-ecuador
@@ -2872,6 +2873,7 @@ How we count: a gate is an airline's when that airline (including its regional p
 - American at MKE: 5 gates, Concourse D; 18/day; https://chockwise.com/airports/mke/american
 - Alaska at MKE: 1 gate, Concourse D; 1/day; https://chockwise.com/airports/mke/alaska
 - JetBlue at MKE: 1 gate, Concourse D; 1/day; https://chockwise.com/airports/mke/jetblue
+- Denver Air Connection at MKL: 1 gate; 1-2/day; https://chockwise.com/airports/mkl/denver-air-connection
 - Delta at MLB: 2 gates; 4/day; https://chockwise.com/airports/mlb/delta
 - American at MLB: 1 gate; 3/day; https://chockwise.com/airports/mlb/american
 - Allegiant at MLB: 1 gate; 6/week; https://chockwise.com/airports/mlb/allegiant
@@ -3878,6 +3880,7 @@ How we count: a gate is an airline's when that airline (including its regional p
 - Cambodia Airways at SZX: shared gates; 2-3/week; https://chockwise.com/airports/szx/cambodia-airways
 - Himalaya Airlines at SZX: shared gates; 1/week; https://chockwise.com/airports/szx/himalaya-airlines
 - Cambodia Angkor Air at SZX: shared gates; under 1/week; https://chockwise.com/airports/szx/cambodia-angkor-air
+- Hunnu Air at SZX: shared gates; under 1/week; https://chockwise.com/airports/szx/hunnu-air
 - American at TLH: 4 gates, Concourse A; 15/day; https://chockwise.com/airports/tlh/american
 - Delta at TLH: 2 gates, Concourse B; 6-7/day; https://chockwise.com/airports/tlh/delta
 - Breeze at TLH: shared gates; 1-2/day; https://chockwise.com/airports/tlh/breeze
