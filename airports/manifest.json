@@ -172,12 +172,12 @@
   "updated": "2026-11-01"
  },
  "AMS": {
-  "changed": "2026-11-09",
+  "changed": "2026-11-10",
   "data": "2026-11-03",
   "data_last": "2026-11-02",
   "flights_day": 1356,
   "gates": 120,
-  "hash": "5bb021ec5c6c",
+  "hash": "b9d277a5bb32",
   "name": "Amsterdam Schiphol",
   "published": "2026-10-12",
   "seats_day": 31979,
@@ -1176,12 +1176,12 @@
   "updated": "2026-11-10"
  },
  "DOH": {
-  "changed": "2026-11-09",
+  "changed": "2026-11-10",
   "data": "2026-11-03",
   "data_last": "2026-11-02",
   "flights_day": 597,
   "gates": 63,
-  "hash": "766dfcc6bd2c",
+  "hash": "4ff80800cff2",
   "name": "Hamad Int'l, Doha",
   "published": "2026-10-17",
   "seats_day": 13467,
@@ -1256,12 +1256,12 @@
   "updated": "2026-11-10"
  },
  "DUB": {
-  "changed": "2026-11-09",
+  "changed": "2026-11-10",
   "data": "2026-10-08",
   "data_last": "2026-10-07",
   "flights_day": 686,
   "gates": 76,
-  "hash": "b7e38f3ee05d",
+  "hash": "46360c697a34",
   "name": "Dublin Int'l",
   "published": "2026-10-09",
   "seats_day": 58098,
@@ -1272,12 +1272,12 @@
   "updated": "2026-11-10"
  },
  "DXB": {
-  "changed": "2026-11-04",
+  "changed": "2026-11-10",
   "data": "2026-11-03",
   "data_last": "2026-11-02",
   "flights_day": 962,
   "gates": 117,
-  "hash": "a03f07c126aa",
+  "hash": "82470f5917d8",
   "name": "Dubai Int'l",
   "published": "2026-10-11",
   "seats_day": 105889,
@@ -1494,12 +1494,12 @@
   "updated": "2026-11-10"
  },
  "FRA": {
-  "changed": "2026-11-09",
+  "changed": "2026-11-10",
   "data": "2026-10-11",
   "data_last": "2026-10-10",
   "flights_day": 1253,
   "gates": 117,
-  "hash": "6d40f4cfe779",
+  "hash": "e7eeb995bcfa",
   "name": "Frankfurt Int'l, Frankfurt am Main",
   "published": "2026-10-11",
   "seats_day": 37358,
@@ -1750,12 +1750,12 @@
   "updated": "2026-11-10"
  },
  "HKG": {
-  "changed": "2026-11-07",
+  "changed": "2026-11-10",
   "data": "2026-11-03",
   "data_last": "2026-11-02",
   "flights_day": 1124,
   "gates": 91,
-  "hash": "d0af04d6061f",
+  "hash": "58f6efeaafa6",
   "name": "Hong Kong Int'l",
   "published": "2026-10-11",
   "seats_day": 63853,
@@ -1782,12 +1782,12 @@
   "updated": "2026-11-10"
  },
  "HND": {
-  "changed": "2026-11-09",
+  "changed": "2026-11-10",
   "data": "2026-11-03",
   "data_last": "2026-11-02",
   "flights_day": 1331,
   "gates": 108,
-  "hash": "67046b277dea",
+  "hash": "8040592ac8e5",
   "name": "Tokyo Int'l (Haneda), Ota",
   "published": "2026-10-11",
   "seats_day": 139450,
@@ -1922,12 +1922,12 @@
   "updated": "2026-11-10"
  },
  "ICN": {
-  "changed": "2026-11-09",
+  "changed": "2026-11-10",
   "data": "2026-11-03",
   "data_last": "2026-11-02",
   "flights_day": 1095,
   "gates": 151,
-  "hash": "e534dee6beae",
+  "hash": "5e804691450f",
   "name": "Incheon Int'l, Seoul (Incheon)",
   "published": "2026-10-12",
   "seats_day": 76251,
@@ -2018,12 +2018,12 @@
   "updated": "2026-11-10"
  },
  "IST": {
-  "changed": "2026-11-09",
+  "changed": "2026-11-10",
   "data": "2026-10-10",
   "data_last": "2026-10-09",
   "flights_day": 1376,
   "gates": 115,
-  "hash": "caaf5e86ca26",
+  "hash": "bf7b56f53701",
   "name": "Istanbul Airport",
   "published": "2026-10-10",
   "seats_day": 47140,
@@ -2290,12 +2290,12 @@
   "updated": "2026-11-10"
  },
  "LHR": {
-  "changed": "2026-11-09",
+  "changed": "2026-11-10",
   "data": "2026-10-27",
   "data_last": "2026-10-26",
   "flights_day": 1235,
   "gates": 145,
-  "hash": "088d727c2ab6",
+  "hash": "77b4798bb8ce",
   "name": "London Heathrow",
   "published": "2026-10-10",
   "seats_day": 85665,
@@ -2402,12 +2402,12 @@
   "updated": "2026-11-10"
  },
  "MAD": {
-  "changed": "2026-11-09",
+  "changed": "2026-11-10",
   "data": "2026-11-03",
   "data_last": "2026-11-02",
   "flights_day": 1322,
   "gates": 118,
-  "hash": "cdfb19eae351",
+  "hash": "f52fa57c59fe",
   "name": "Adolfo Su\u00e1rez Madrid-Barajas",
   "published": "2026-11-02",
   "seats_day": 81637,
@@ -2514,12 +2514,12 @@
   "updated": "2026-11-10"
  },
  "MEL": {
-  "changed": "2026-11-04",
+  "changed": "2026-11-10",
   "data": "2026-11-03",
   "data_last": "2026-11-02",
   "flights_day": 638,
   "gates": 67,
-  "hash": "3cb2e8512b85",
+  "hash": "74f5ad348a8b",
   "name": "Melbourne Tullamarine",
   "published": "2026-10-12",
   "seats_day": 41930,
@@ -3738,12 +3738,12 @@
   "updated": "2026-11-10"
  },
  "SIN": {
-  "changed": "2026-11-08",
+  "changed": "2026-11-10",
   "data": "2026-11-03",
   "data_last": "2026-11-02",
   "flights_day": 1044,
   "gates": 131,
-  "hash": "a895237bfe07",
+  "hash": "0d83c40ba06f",
   "name": "Singapore Changi",
   "published": "2026-10-11",
   "seats_day": 69051,
@@ -4168,12 +4168,12 @@
   "updated": "2026-11-10"
  },
  "YYZ": {
-  "changed": "2026-11-09",
+  "changed": "2026-11-10",
   "data": "2026-10-07",
   "data_last": "2026-10-06",
   "flights_day": 973,
   "gates": 133,
-  "hash": "a37a5266d979",
+  "hash": "52d37edd72f3",
   "name": "Toronto Pearson Int'l",
   "published": "2026-10-12",
   "seats_day": 44376,
@@ -4184,12 +4184,12 @@
   "updated": "2026-11-10"
  },
  "ZRH": {
-  "changed": "2026-11-09",
+  "changed": "2026-11-10",
   "data": "2026-11-03",
   "data_last": "2026-11-02",
   "flights_day": 774,
   "gates": 82,
-  "hash": "323bb706f775",
+  "hash": "28c2b7c5808c",
   "name": "Zurich (Kloten)",
   "published": "2026-10-15",
   "seats_day": 21989,
