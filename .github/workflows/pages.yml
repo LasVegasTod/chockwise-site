@@ -24,7 +24,7 @@ jobs:
     runs-on: ubuntu-latest
     environment:
       name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
+      url: ${{ steps.deployment.outputs.page_url || steps.deploy2.outputs.page_url || steps.deploy1.outputs.page_url }}
     steps:
       - uses: actions/checkout@v4
       - name: Add the latest airport map images
@@ -42,9 +42,17 @@ jobs:
       - uses: actions/upload-pages-artifact@v3
         with:
           path: .
-      # GitHub's file sync for ~150 MB of pages sometimes takes over its default 10 minutes
-      # (runs 380, 381, 387 on Nov 9-10, 2026 timed out at "syncing_files"); allow 30.
-      - id: deployment
+      # GitHub's file sync for the ~760 MB upload (the map images are most of it; Pages' cap is 1 GB)
+      # sometimes takes over 10 minutes, and deploy-pages never waits longer than that (a larger
+      # timeout is ignored): runs 380, 381, 387, 389 on Nov 9-10, 2026 stopped at "syncing_files"
+      # while the runs between took 3-5 minutes. So a timed-out deploy is tried again, twice.
+      - id: deploy1
         uses: actions/deploy-pages@v4
-        with:
-          timeout: 1800000
+        continue-on-error: true
+      - id: deploy2
+        if: steps.deploy1.outcome == 'failure'
+        uses: actions/deploy-pages@v4
+        continue-on-error: true
+      - id: deployment
+        if: steps.deploy1.outcome == 'failure' && steps.deploy2.outcome == 'failure'
+        uses: actions/deploy-pages@v4
