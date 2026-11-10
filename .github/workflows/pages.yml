@@ -42,5 +42,9 @@ jobs:
       - uses: actions/upload-pages-artifact@v3
         with:
           path: .
+      # GitHub's file sync for ~150 MB of pages sometimes takes over its default 10 minutes
+      # (runs 380, 381, 387 on Nov 9-10, 2026 timed out at "syncing_files"); allow 30.
       - id: deployment
         uses: actions/deploy-pages@v4
+        with:
+          timeout: 1800000
