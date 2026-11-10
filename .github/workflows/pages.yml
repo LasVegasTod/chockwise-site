@@ -9,11 +9,16 @@ on:
   push:
     branches: [main]
   workflow_dispatch:
+    inputs:
+      attempt:
+        description: "Automatic re-run number (0 = a first try; set by this workflow)"
+        default: "0"
 
 permissions:
   contents: read
   pages: write
   id-token: write
+  actions: write   # to start a fresh run when GitHub's deploy gets stuck
 
 concurrency:
   group: pages
@@ -42,9 +47,30 @@ jobs:
       - uses: actions/upload-pages-artifact@v3
         with:
           path: .
-      # deploy-pages waits at most 10 minutes (a larger `timeout` is ignored). Retrying in the same run doesn't
-      # help: it reuses the commit's cancelled deployment (run 395, Nov 10, 2026), so there is one try; a
-      # timed-out run is GitHub's side, and the next publish (the next push to main) puts the site up.
-      # Since Nov 10, 2026 the upload is ~400 MB (map images as WebP), and deploys take ~1 minute.
+      # GitHub's deploy sometimes sticks at "syncing_files" and deploy-pages gives up after 10 minutes (a larger
+      # `timeout` is ignored). It hit ~40% of publishes from Nov 9, 2026 midday, even ones changing 1-2 files,
+      # while others deployed in a minute. Retrying inside the same run doesn't help (it reuses the cancelled
+      # deployment, run 395), but a NEW run of the same commit does (run 399, a minute). So a stuck deploy
+      # starts a fresh run of this workflow, up to 2 times, and only fails (and emails) when all 3 tries stick;
+      # if main has moved on meanwhile, that push's own run publishes it.
       - id: deployment
         uses: actions/deploy-pages@v4
+        continue-on-error: true
+      - name: Start a fresh run if GitHub's deploy got stuck
+        if: steps.deployment.outcome == 'failure'
+        env:
+          GH_TOKEN: ${{ github.token }}
+          ATTEMPT: ${{ inputs.attempt || '0' }}
+          REPO: ${{ github.repository }}
+        run: |
+          if [ "$ATTEMPT" -ge 2 ]; then
+            echo "::error::GitHub's deploy got stuck on 3 tries in a row; the site keeps its last version until the next publish."
+            exit 1
+          fi
+          head=$(gh api "repos/$REPO/commits/main" --jq .sha)
+          if [ "$head" != "$GITHUB_SHA" ]; then
+            echo "main has moved on; its own run publishes the site."
+            exit 0
+          fi
+          gh workflow run pages.yml --repo "$REPO" --ref main -f attempt=$((ATTEMPT + 1))
+          echo "::warning::GitHub's deploy got stuck; started a fresh run (try $((ATTEMPT + 2)) of 3)."
