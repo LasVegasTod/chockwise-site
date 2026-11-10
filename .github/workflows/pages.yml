@@ -24,7 +24,7 @@ jobs:
     runs-on: ubuntu-latest
     environment:
       name: github-pages
-      url: ${{ steps.deployment.outputs.page_url || steps.deploy2.outputs.page_url || steps.deploy1.outputs.page_url }}
+      url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - uses: actions/checkout@v4
       - name: Add the latest airport map images
@@ -42,17 +42,9 @@ jobs:
       - uses: actions/upload-pages-artifact@v3
         with:
           path: .
-      # GitHub's file sync for the ~760 MB upload (the map images are most of it; Pages' cap is 1 GB)
-      # sometimes takes over 10 minutes, and deploy-pages never waits longer than that (a larger
-      # timeout is ignored): runs 380, 381, 387, 389 on Nov 9-10, 2026 stopped at "syncing_files"
-      # while the runs between took 3-5 minutes. So a timed-out deploy is tried again, twice.
-      - id: deploy1
-        uses: actions/deploy-pages@v4
-        continue-on-error: true
-      - id: deploy2
-        if: steps.deploy1.outcome == 'failure'
-        uses: actions/deploy-pages@v4
-        continue-on-error: true
+      # deploy-pages waits at most 10 minutes (a larger `timeout` is ignored). Retrying in the same run doesn't
+      # help: it reuses the commit's cancelled deployment (run 395, Nov 10, 2026), so there is one try; a
+      # timed-out run is GitHub's side, and the next publish (the next push to main) puts the site up.
+      # Since Nov 10, 2026 the upload is ~400 MB (map images as WebP), and deploys take ~1 minute.
       - id: deployment
-        if: steps.deploy1.outcome == 'failure' && steps.deploy2.outcome == 'failure'
         uses: actions/deploy-pages@v4
