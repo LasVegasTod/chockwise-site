@@ -35420,13 +35420,13 @@
     "3"
    ],
    "gone": false,
-   "hash": "9e29494256bb",
+   "hash": "cf71739c0ab4",
    "last_seen": "2026-11-10",
    "last_seen_str": "Nov 10, 2026",
    "name": "United Airlines",
    "published": "2026-10-14",
    "short": "United",
-   "sig": "{\"drawing\": \"fa163aee07ee\", \"focus\": [\"1\", \"3\", \"6\"], \"held\": [\"1\", \"3\"], \"held_n\": 3, \"main\": [\"1\", \"3\", \"6\"]}",
+   "sig": "{\"drawing\": \"fa163aee07ee\", \"focus\": [\"3\", \"6\"], \"held\": [\"3\"], \"held_n\": 2, \"main\": [\"1\", \"3\", \"6\"]}",
    "slug": "united",
    "types": [
     "CRJ-700",
@@ -85475,13 +85475,13 @@
     "A16"
    ],
    "gone": false,
-   "hash": "b99360c9788f",
+   "hash": "fa9c3e987a0d",
    "last_seen": "2026-11-11",
    "last_seen_str": "Nov 11, 2026",
    "name": "Delta Air Lines",
    "published": "2026-11-02",
    "short": "Delta",
-   "sig": "{\"drawing\": \"443694dc1cdf\", \"focus\": [\"A1\", \"A3\", \"A5\", \"A7\"], \"held\": [], \"held_n\": 0, \"main\": [\"A1\", \"A3\", \"A5\", \"A7\", \"A16\"]}",
+   "sig": "{\"drawing\": \"443694dc1cdf\", \"focus\": [\"A1\", \"A3\", \"A5\", \"A7\"], \"held\": [], \"held_n\": 1, \"main\": [\"A1\", \"A3\", \"A5\", \"A7\", \"A16\"]}",
    "slug": "delta",
    "types": [
     "767-400",
@@ -90843,13 +90843,13 @@
     "93"
    ],
    "gone": false,
-   "hash": "8683ae4f3c16",
+   "hash": "02b714d035ad",
    "last_seen": "2026-11-10",
    "last_seen_str": "Nov 10, 2026",
    "name": "Sun Country Airlines",
    "published": "2026-10-06",
    "short": "Sun Country",
-   "sig": "{\"drawing\": \"892825ff9320\", \"focus\": [\"91\", \"93\"], \"held\": [\"91\", \"93\"], \"held_n\": 2, \"main\": [\"91\", \"93\"]}",
+   "sig": "{\"drawing\": \"892825ff9320\", \"focus\": [\"91\", \"93\"], \"held\": [], \"held_n\": 0, \"main\": [\"91\", \"93\"]}",
    "slug": "sun-country",
    "types": [
     "737-800",
@@ -92985,13 +92985,13 @@
     "55"
    ],
    "gone": false,
-   "hash": "b2bc7cd470ed",
+   "hash": "dd70906cc8b4",
    "last_seen": "2026-11-11",
    "last_seen_str": "Nov 11, 2026",
    "name": "Aerom\u00e9xico",
    "published": "2026-10-18",
    "short": "Aerom\u00e9xico",
-   "sig": "{\"drawing\": \"fc1b10dd5023\", \"focus\": [\"48\", \"49\", \"50\", \"51\", \"52\", \"53\", \"54\", \"55\", \"56\", \"57\", \"58\", \"59\", \"60\", \"62\", \"63\", \"64\", \"65\", \"66\", \"67\", \"68\", \"69\", \"70\", \"71\", \"72\", \"73\", \"76\", \"77\", \"78\", \"79\", \"80\"], \"held\": [\"48\", \"49\", \"50\", \"51\", \"52\", \"53\", \"54\", \"55\", \"58\", \"59\", \"63\", \"64\", \"65\", \"66\", \"67\", \"68\", \"69\", \"70\", \"71\", \"72\", \"73\", \"76\", \"77\", \"78\", \"79\", \"80\", \"81\"], \"held_n\": 27, \"main\": [\"48\", \"49\", \"50\", \"51\", \"52\", \"53\", \"54\", \"55\", \"56\", \"57\", \"58\", \"59\", \"60\", \"61\", \"62\", \"63\", \"64\", \"65\", \"66\", \"67\", \"68\", \"69\", \"70\", \"71\", \"72\", \"73\", \"75\", \"76\", \"77\", \"78\", \"79\", \"80\"]}",
+   "sig": "{\"drawing\": \"fc1b10dd5023\", \"focus\": [\"48\", \"49\", \"50\", \"51\", \"52\", \"53\", \"54\", \"55\", \"56\", \"57\", \"58\", \"59\", \"60\", \"62\", \"63\", \"64\", \"65\", \"66\", \"67\", \"68\", \"69\", \"70\", \"71\", \"72\", \"73\", \"76\", \"77\", \"78\", \"79\", \"80\"], \"held\": [\"48\", \"49\", \"50\", \"51\", \"52\", \"53\", \"54\", \"55\", \"59\", \"63\", \"64\", \"65\", \"66\", \"67\", \"68\", \"69\", \"70\", \"71\", \"72\", \"73\", \"76\", \"77\", \"78\", \"79\", \"80\", \"81\"], \"held_n\": 26, \"main\": [\"48\", \"49\", \"50\", \"51\", \"52\", \"53\", \"54\", \"55\", \"56\", \"57\", \"58\", \"59\", \"60\", \"61\", \"62\", \"63\", \"64\", \"65\", \"66\", \"67\", \"68\", \"69\", \"70\", \"71\", \"72\", \"73\", \"75\", \"76\", \"77\", \"78\", \"79\", \"80\"]}",
    "slug": "aeromexico",
    "types": [
     "737 MAX 8",
@@ -94511,13 +94511,13 @@
     "J10"
    ],
    "gone": false,
-   "hash": "22f0635ae973",
+   "hash": "1d1766df12d2",
    "last_seen": "2026-11-11",
    "last_seen_str": "Nov 11, 2026",
    "name": "Avianca",
    "published": "2026-10-06",
    "short": "Avianca",
-   "sig": "{\"drawing\": \"ffdad73ad920\", \"focus\": [\"J2\", \"J3\", \"J4\", \"J5\", \"J8\", \"J11\", \"J12\"], \"held\": [], \"held_n\": 0, \"main\": [\"J2\", \"J3\", \"J4\", \"J5\", \"J7\", \"J8\", \"J9\", \"J10\", \"J11\", \"J12\", \"J14\", \"J16\", \"J18\"]}",
+   "sig": "{\"drawing\": \"ffdad73ad920\", \"focus\": [\"J2\", \"J3\", \"J4\", \"J5\", \"J8\", \"J11\", \"J12\"], \"held\": [], \"held_n\": 0, \"main\": [\"J2\", \"J3\", \"J4\", \"J5\", \"J7\", \"J8\", \"J9\", \"J10\", \"J11\", \"J12\", \"J16\", \"J18\"]}",
    "slug": "avianca",
    "types": [
     "A320",
@@ -94675,13 +94675,13 @@
     "F19"
    ],
    "gone": false,
-   "hash": "7fb4ec2af360",
+   "hash": "a125e05d1c08",
    "last_seen": "2026-11-10",
    "last_seen_str": "Nov 10, 2026",
    "name": "Boliviana de Aviaci\u00f3n",
    "published": "2026-10-07",
    "short": "Boliviana de Aviaci\u00f3n",
-   "sig": "{\"drawing\": \"ffdad73ad920\", \"focus\": [\"F15\", \"F16\", \"F17\", \"F19\"], \"held\": [\"F16\"], \"held_n\": 1, \"main\": [\"F15\", \"F16\", \"F17\", \"F19\"]}",
+   "sig": "{\"drawing\": \"ffdad73ad920\", \"focus\": [\"F15\", \"F16\", \"F19\"], \"held\": [\"F16\"], \"held_n\": 1, \"main\": [\"F15\", \"F16\", \"F19\"]}",
    "slug": "boliviana-de-aviacion",
    "types": [
     "A330-200"
@@ -94853,13 +94853,13 @@
     "G10"
    ],
    "gone": false,
-   "hash": "d72f79e8d838",
+   "hash": "ba8e497d699c",
    "last_seen": "2026-11-11",
    "last_seen_str": "Nov 11, 2026",
    "name": "Delta Air Lines",
    "published": "2026-10-06",
    "short": "Delta",
-   "sig": "{\"drawing\": \"ffdad73ad920\", \"focus\": [\"H3\", \"H4\", \"H5\", \"H7\", \"H8\", \"H9\", \"H11\", \"H12\", \"E28\"], \"held\": [\"H3\", \"H4\", \"H5\", \"H7\", \"H9\", \"H11\", \"H12\"], \"held_n\": 8, \"main\": [\"H3\", \"H4\", \"H5\", \"H6\", \"H7\", \"H8\", \"H9\", \"G10\", \"H10\", \"J10\", \"H11\", \"J11\", \"H12\", \"H15\", \"J15\", \"J17\", \"E27\", \"E28\", \"TBA\"]}",
+   "sig": "{\"drawing\": \"ffdad73ad920\", \"focus\": [\"H3\", \"H4\", \"H5\", \"H7\", \"H8\", \"H9\", \"H11\", \"H12\", \"E28\"], \"held\": [\"H3\", \"H4\", \"H5\", \"H7\", \"H9\", \"H11\", \"H12\"], \"held_n\": 8, \"main\": [\"H3\", \"H4\", \"H5\", \"H6\", \"H7\", \"H8\", \"H9\", \"G10\", \"H10\", \"J10\", \"H11\", \"J11\", \"H12\", \"H15\", \"J15\", \"J17\", \"E28\", \"TBA\"]}",
    "slug": "delta",
    "types": [
     "737-900",
@@ -95196,13 +95196,13 @@
     "J18"
    ],
    "gone": false,
-   "hash": "09e450dd0dff",
+   "hash": "f752a545f929",
    "last_seen": "2026-11-10",
    "last_seen_str": "Nov 10, 2026",
    "name": "LATAM Airlines",
    "published": "2026-10-06",
    "short": "LATAM",
-   "sig": "{\"drawing\": \"ffdad73ad920\", \"focus\": [\"J7\", \"J11\", \"J12\", \"J16\", \"J17\", \"J18\"], \"held\": [], \"held_n\": 0, \"main\": [\"J7\", \"H10\", \"J11\", \"J12\", \"J16\", \"J17\", \"J18\"]}",
+   "sig": "{\"drawing\": \"ffdad73ad920\", \"focus\": [\"J7\", \"J11\", \"J16\", \"J17\", \"J18\"], \"held\": [], \"held_n\": 0, \"main\": [\"J7\", \"H10\", \"J11\", \"J12\", \"J16\", \"J17\", \"J18\"]}",
    "slug": "latam",
    "types": [
     "787-8",
@@ -95231,13 +95231,13 @@
     "J18"
    ],
    "gone": false,
-   "hash": "683c9aae1e83",
+   "hash": "24d4792bcd59",
    "last_seen": "2026-11-10",
    "last_seen_str": "Nov 10, 2026",
    "name": "LATAM Brasil",
    "published": "2026-10-06",
    "short": "LATAM Brasil",
-   "sig": "{\"drawing\": \"ffdad73ad920\", \"focus\": [\"J5\", \"J7\", \"H10\", \"J11\", \"J16\", \"J18\"], \"held\": [], \"held_n\": 0, \"main\": [\"J5\", \"J7\", \"H10\", \"J11\", \"J16\", \"J17\", \"J18\"]}",
+   "sig": "{\"drawing\": \"ffdad73ad920\", \"focus\": [\"J5\", \"J7\", \"H10\", \"J11\", \"J16\", \"J17\", \"J18\"], \"held\": [], \"held_n\": 0, \"main\": [\"J5\", \"J7\", \"H10\", \"J11\", \"J16\", \"J17\", \"J18\"]}",
    "slug": "latam-brasil",
    "types": [
     "787-9",
@@ -95334,13 +95334,13 @@
     "J14"
    ],
    "gone": false,
-   "hash": "1aaa4a917daf",
+   "hash": "5e1f556037c2",
    "last_seen": "2026-11-10",
    "last_seen_str": "Nov 10, 2026",
    "name": "LATAM Per\u00fa",
    "published": "2026-10-06",
    "short": "LATAM Per\u00fa",
-   "sig": "{\"drawing\": \"ffdad73ad920\", \"focus\": [\"J4\", \"J8\", \"J10\", \"J11\", \"J12\", \"J15\", \"J18\"], \"held\": [\"J15\"], \"held_n\": 1, \"main\": [\"J2\", \"J4\", \"J7\", \"J8\", \"J10\", \"J11\", \"J12\", \"J14\", \"J15\", \"J18\"]}",
+   "sig": "{\"drawing\": \"ffdad73ad920\", \"focus\": [\"J2\", \"J4\", \"J8\", \"J10\", \"J11\", \"J12\", \"J15\", \"J18\"], \"held\": [\"J15\"], \"held_n\": 1, \"main\": [\"J2\", \"J4\", \"J7\", \"J8\", \"J10\", \"J11\", \"J12\", \"J14\", \"J15\", \"J18\"]}",
    "slug": "latam-peru",
    "types": [
     "767-300",
@@ -95635,13 +95635,13 @@
     "F23"
    ],
    "gone": false,
-   "hash": "51d338ec54a6",
+   "hash": "211342d5ba66",
    "last_seen": "2026-11-08",
    "last_seen_str": "Nov 8, 2026",
    "name": "Sun Country Airlines",
    "published": "2026-10-17",
    "short": "Sun Country",
-   "sig": "{\"drawing\": \"ffdad73ad920\", \"focus\": [\"F11\", \"F12\", \"F14\", \"F23\"], \"held\": [\"F14\"], \"held_n\": 1, \"main\": [\"F11\", \"F12\", \"F14\", \"F23\"]}",
+   "sig": "{\"drawing\": \"ffdad73ad920\", \"focus\": [\"F11\", \"F12\", \"F14\", \"F23\"], \"held\": [], \"held_n\": 0, \"main\": [\"F11\", \"F12\", \"F14\", \"F23\"]}",
    "slug": "sun-country",
    "types": [
     "737-800"
@@ -95665,13 +95665,13 @@
     "F15"
    ],
    "gone": false,
-   "hash": "a16c2064f407",
+   "hash": "5bcbe75a86be",
    "last_seen": "2026-11-10",
    "last_seen_str": "Nov 10, 2026",
    "name": "Surinam Airways",
    "published": "2026-10-11",
    "short": "Surinam Airways",
-   "sig": "{\"drawing\": \"ffdad73ad920\", \"focus\": [\"F3\", \"F11\", \"F12\", \"F15\"], \"held\": [\"F12\"], \"held_n\": 1, \"main\": [\"F3\", \"F11\", \"F12\", \"F15\"]}",
+   "sig": "{\"drawing\": \"ffdad73ad920\", \"focus\": [\"F3\", \"F11\", \"F12\", \"F14\", \"F15\"], \"held\": [\"F12\"], \"held_n\": 1, \"main\": [\"F3\", \"F11\", \"F12\", \"F14\", \"F15\"]}",
    "slug": "surinam-airways",
    "types": [
     "737-800",
@@ -96904,13 +96904,13 @@
     "A4"
    ],
    "gone": false,
-   "hash": "68e4d1bbdccf",
+   "hash": "77e06ac53ed1",
    "last_seen": "2026-11-10",
    "last_seen_str": "Nov 10, 2026",
    "name": "United Airlines",
    "published": "2026-10-11",
    "short": "United",
-   "sig": "{\"drawing\": \"56ad8af23d5e\", \"focus\": [\"A3\", \"A4\"], \"held\": [\"A4\"], \"held_n\": 1, \"main\": [\"B2\", \"A3\", \"A4\"]}",
+   "sig": "{\"drawing\": \"56ad8af23d5e\", \"focus\": [\"A3\", \"A4\"], \"held\": [\"A4\"], \"held_n\": 1, \"main\": [\"A3\", \"A4\"]}",
    "slug": "united",
    "types": [
     "E175",
@@ -97032,13 +97032,13 @@
     "C10"
    ],
    "gone": false,
-   "hash": "31aacd088184",
+   "hash": "b65f0c4270e2",
    "last_seen": "2026-11-10",
    "last_seen_str": "Nov 10, 2026",
    "name": "American Airlines",
    "published": "2026-10-06",
    "short": "American",
-   "sig": "{\"drawing\": \"86ae08756430\", \"focus\": [\"C8\", \"E11\", \"E12\", \"E13\", \"E14\", \"E15\", \"E16\"], \"held\": [\"E11\", \"E12\", \"E13\", \"E14\", \"E15\", \"E16\"], \"held_n\": 6, \"main\": [\"D2\", \"C3\", \"E4\", \"C5\", \"C8\", \"C9\", \"C10\", \"C11\", \"E11\", \"C12\", \"E12\", \"C13\", \"E13\", \"C14\", \"E14\", \"E15\", \"C16\", \"E16\", \"C17\"]}",
+   "sig": "{\"drawing\": \"86ae08756430\", \"focus\": [\"C8\", \"E11\", \"E12\", \"E13\", \"E14\", \"E15\", \"E16\"], \"held\": [\"E11\", \"E12\", \"E13\", \"E14\", \"E15\", \"E16\"], \"held_n\": 6, \"main\": [\"D2\", \"C3\", \"E4\", \"C5\", \"C7\", \"C8\", \"C9\", \"C10\", \"C11\", \"E11\", \"C12\", \"E12\", \"C13\", \"E13\", \"C14\", \"E14\", \"E15\", \"C16\", \"E16\", \"C17\"]}",
    "slug": "american",
    "types": [
     "737-800",
@@ -97551,13 +97551,13 @@
     "C3"
    ],
    "gone": false,
-   "hash": "2f2fa3007ae8",
+   "hash": "8858e497ad7e",
    "last_seen": "2026-11-10",
    "last_seen_str": "Nov 10, 2026",
    "name": "JetBlue",
    "published": "2026-10-07",
    "short": "JetBlue",
-   "sig": "{\"drawing\": \"bab4a4e8de05\", \"focus\": [\"C3\"], \"held\": [\"C3\", \"C12\"], \"held_n\": 2, \"main\": [\"C3\"]}",
+   "sig": "{\"drawing\": \"bab4a4e8de05\", \"focus\": [\"C3\"], \"held\": [\"C12\"], \"held_n\": 1, \"main\": [\"C3\"]}",
    "slug": "jetblue",
    "types": [
     "A320",
@@ -100809,7 +100809,7 @@
  "NRT": {
   "aero-k": {
    "airport_short": "NRT",
-   "changed": "2026-11-10",
+   "changed": "2026-11-11",
    "code": "RF",
    "data": "2026-10-06",
    "deps_day": 2.7,
@@ -100823,13 +100823,13 @@
     "155"
    ],
    "gone": false,
-   "hash": "07f612b537c7",
+   "hash": "0d3cb39051e6",
    "last_seen": "2026-10-05",
    "last_seen_str": "Oct 5, 2026",
    "name": "Aero K",
    "published": "2026-10-11",
    "short": "Aero K",
-   "sig": "{\"drawing\": \"1f320835ebb4\", \"focus\": [\"151\", \"153\", \"154\", \"155\"], \"held\": [], \"held_n\": 0, \"main\": [\"151\", \"153\", \"154\", \"155\"]}",
+   "sig": "{\"drawing\": \"93937bf13fdf\", \"focus\": [\"151\", \"153\", \"154\", \"155\"], \"held\": [], \"held_n\": 0, \"main\": [\"151\", \"153\", \"154\", \"155\"]}",
    "slug": "aero-k",
    "types": [
     "A320"
@@ -100838,7 +100838,7 @@
   },
   "aeromexico": {
    "airport_short": "NRT",
-   "changed": "2026-11-10",
+   "changed": "2026-11-11",
    "code": "AM",
    "data": "2026-10-06",
    "deps_day": 1.0,
@@ -100849,13 +100849,13 @@
     "14"
    ],
    "gone": false,
-   "hash": "f9984f668b4c",
+   "hash": "22d3b38f1351",
    "last_seen": "2026-10-17",
    "last_seen_str": "Oct 17, 2026",
    "name": "Aerom\u00e9xico",
    "published": "2026-10-11",
    "short": "Aerom\u00e9xico",
-   "sig": "{\"drawing\": \"1f320835ebb4\", \"focus\": [\"14\"], \"held\": [], \"held_n\": 0, \"main\": [\"14\"]}",
+   "sig": "{\"drawing\": \"93937bf13fdf\", \"focus\": [\"14\"], \"held\": [], \"held_n\": 0, \"main\": [\"14\"]}",
    "slug": "aeromexico",
    "types": [
     "787-9",
@@ -100865,7 +100865,7 @@
   },
   "air-busan": {
    "airport_short": "NRT",
-   "changed": "2026-11-10",
+   "changed": "2026-11-11",
    "code": "BX",
    "data": "2026-10-06",
    "deps_day": 3.3,
@@ -100880,13 +100880,13 @@
     "38"
    ],
    "gone": false,
-   "hash": "82d2c6ba35a2",
+   "hash": "2e1b4d77985d",
    "last_seen": "2026-10-05",
    "last_seen_str": "Oct 5, 2026",
    "name": "Air Busan",
    "published": "2026-10-11",
    "short": "Air Busan",
-   "sig": "{\"drawing\": \"1f320835ebb4\", \"focus\": [\"31\", \"32\", \"34\", \"38\"], \"held\": [], \"held_n\": 0, \"main\": [\"31\", \"32\", \"34\", \"38\"]}",
+   "sig": "{\"drawing\": \"93937bf13fdf\", \"focus\": [\"31\", \"32\", \"34\", \"38\"], \"held\": [], \"held_n\": 0, \"main\": [\"31\", \"32\", \"34\", \"38\"]}",
    "slug": "air-busan",
    "types": [
     "A321"
@@ -100895,7 +100895,7 @@
   },
   "air-canada": {
    "airport_short": "NRT",
-   "changed": "2026-11-10",
+   "changed": "2026-11-11",
    "code": "AC",
    "data": "2026-10-06",
    "deps_day": 3.0,
@@ -100911,13 +100911,13 @@
     "47"
    ],
    "gone": false,
-   "hash": "9d122a1953ec",
+   "hash": "b02f657585d0",
    "last_seen": "2026-10-21",
    "last_seen_str": "Oct 21, 2026",
    "name": "Air Canada",
    "published": "2026-10-11",
    "short": "Air Canada",
-   "sig": "{\"drawing\": \"1f320835ebb4\", \"focus\": [\"42\", \"43\", \"45\", \"47\"], \"held\": [], \"held_n\": 0, \"main\": [\"42\", \"43\", \"45\", \"47\"]}",
+   "sig": "{\"drawing\": \"93937bf13fdf\", \"focus\": [\"42\", \"43\", \"45\", \"47\"], \"held\": [], \"held_n\": 0, \"main\": [\"42\", \"43\", \"45\", \"47\"]}",
    "slug": "air-canada",
    "types": [
     "787-9",
@@ -100927,7 +100927,7 @@
   },
   "air-china": {
    "airport_short": "NRT",
-   "changed": "2026-11-10",
+   "changed": "2026-11-11",
    "code": "CA",
    "data": "2026-10-06",
    "deps_day": 3.3,
@@ -100943,13 +100943,13 @@
     "44"
    ],
    "gone": false,
-   "hash": "48672e3d29b3",
+   "hash": "328f7b8712ca",
    "last_seen": "2026-10-05",
    "last_seen_str": "Oct 5, 2026",
    "name": "Air China",
    "published": "2026-10-11",
    "short": "Air China",
-   "sig": "{\"drawing\": \"1f320835ebb4\", \"focus\": [\"34\", \"36\", \"38\", \"44\"], \"held\": [], \"held_n\": 0, \"main\": [\"34\", \"36\", \"38\", \"44\"]}",
+   "sig": "{\"drawing\": \"93937bf13fdf\", \"focus\": [\"34\", \"36\", \"38\", \"44\"], \"held\": [], \"held_n\": 0, \"main\": [\"34\", \"36\", \"38\", \"44\"]}",
    "slug": "air-china",
    "types": [
     "A350-900",
@@ -100960,7 +100960,7 @@
   },
   "air-japan": {
    "airport_short": "NRT",
-   "changed": "2026-11-10",
+   "changed": "2026-11-11",
    "code": "NQ",
    "data": "2026-10-06",
    "deps_day": 6.0,
@@ -100982,13 +100982,13 @@
     "58A"
    ],
    "gone": false,
-   "hash": "7918e2c60eaa",
+   "hash": "792548f6752b",
    "last_seen": "2026-10-05",
    "last_seen_str": "Oct 5, 2026",
    "name": "Air Japan",
    "published": "2026-10-11",
    "short": "Air Japan",
-   "sig": "{\"drawing\": \"1f320835ebb4\", \"focus\": [\"45\", \"51\", \"52\", \"55\", \"56\", \"57A\", \"57B\", \"58A\", \"58B\"], \"held\": [], \"held_n\": 0, \"main\": [\"45\", \"51\", \"52\", \"55\", \"56\", \"57A\", \"57B\", \"58A\", \"58B\"]}",
+   "sig": "{\"drawing\": \"93937bf13fdf\", \"focus\": [\"45\", \"51\", \"52\", \"55\", \"56\", \"57A\", \"57B\", \"58A\", \"58B\"], \"held\": [], \"held_n\": 0, \"main\": [\"45\", \"51\", \"52\", \"55\", \"56\", \"57A\", \"57B\", \"58A\", \"58B\"]}",
    "slug": "air-japan",
    "types": [
     "787-8",
@@ -100998,7 +100998,7 @@
   },
   "air-macau": {
    "airport_short": "NRT",
-   "changed": "2026-11-10",
+   "changed": "2026-11-11",
    "code": "NX",
    "data": "2026-10-06",
    "deps_day": 0.7,
@@ -101010,13 +101010,13 @@
     "99"
    ],
    "gone": false,
-   "hash": "13311113d534",
+   "hash": "1f6cd381aeb7",
    "last_seen": "2026-10-04",
    "last_seen_str": "Oct 4, 2026",
    "name": "Air Macau",
    "published": "2026-10-11",
    "short": "Air Macau",
-   "sig": "{\"drawing\": \"1f320835ebb4\", \"focus\": [\"86\", \"99\"], \"held\": [], \"held_n\": 0, \"main\": [\"86\", \"99\"]}",
+   "sig": "{\"drawing\": \"93937bf13fdf\", \"focus\": [\"86\", \"99\"], \"held\": [], \"held_n\": 0, \"main\": [\"86\", \"99\"]}",
    "slug": "air-macau",
    "types": [
     "A320neo"
@@ -101025,7 +101025,7 @@
   },
   "air-new-zealand": {
    "airport_short": "NRT",
-   "changed": "2026-11-10",
+   "changed": "2026-11-11",
    "code": "NZ",
    "data": "2026-10-06",
    "deps_day": 1.3,
@@ -101037,13 +101037,13 @@
     "45"
    ],
    "gone": false,
-   "hash": "292813b58ed4",
+   "hash": "c8dae81b78cf",
    "last_seen": "2026-10-05",
    "last_seen_str": "Oct 5, 2026",
    "name": "Air New Zealand",
    "published": "2026-10-11",
    "short": "Air New Zealand",
-   "sig": "{\"drawing\": \"1f320835ebb4\", \"focus\": [\"44\", \"45\"], \"held\": [], \"held_n\": 0, \"main\": [\"44\", \"45\"]}",
+   "sig": "{\"drawing\": \"93937bf13fdf\", \"focus\": [\"44\", \"45\"], \"held\": [], \"held_n\": 0, \"main\": [\"44\", \"45\"]}",
    "slug": "air-new-zealand",
    "types": [
     "787-9",
@@ -101053,7 +101053,7 @@
   },
   "air-premia": {
    "airport_short": "NRT",
-   "changed": "2026-11-10",
+   "changed": "2026-11-11",
    "code": "YP",
    "data": "2026-10-06",
    "deps_day": 1.3,
@@ -101067,13 +101067,13 @@
     "98"
    ],
    "gone": false,
-   "hash": "6fdddaae5bef",
+   "hash": "016cda72f7be",
    "last_seen": "2026-10-05",
    "last_seen_str": "Oct 5, 2026",
    "name": "Air Premia",
    "published": "2026-10-11",
    "short": "Air Premia",
-   "sig": "{\"drawing\": \"1f320835ebb4\", \"focus\": [\"81\", \"88\", \"91\", \"98\"], \"held\": [], \"held_n\": 0, \"main\": [\"81\", \"88\", \"91\", \"98\"]}",
+   "sig": "{\"drawing\": \"93937bf13fdf\", \"focus\": [\"81\", \"88\", \"91\", \"98\"], \"held\": [], \"held_n\": 0, \"main\": [\"81\", \"88\", \"91\", \"98\"]}",
    "slug": "air-premia",
    "types": [
     "787-9"
@@ -101082,7 +101082,7 @@
   },
   "air-seoul": {
    "airport_short": "NRT",
-   "changed": "2026-11-10",
+   "changed": "2026-11-11",
    "code": "RS",
    "data": "2026-10-06",
    "deps_day": 3.0,
@@ -101096,13 +101096,13 @@
     "47"
    ],
    "gone": false,
-   "hash": "44a5f9d8ec28",
+   "hash": "d01d061c8c7e",
    "last_seen": "2026-10-05",
    "last_seen_str": "Oct 5, 2026",
    "name": "Air Seoul",
    "published": "2026-10-11",
    "short": "Air Seoul",
-   "sig": "{\"drawing\": \"1f320835ebb4\", \"focus\": [\"41\", \"43\", \"44\", \"47\"], \"held\": [], \"held_n\": 0, \"main\": [\"41\", \"43\", \"44\", \"47\"]}",
+   "sig": "{\"drawing\": \"93937bf13fdf\", \"focus\": [\"41\", \"43\", \"44\", \"47\"], \"held\": [], \"held_n\": 0, \"main\": [\"41\", \"43\", \"44\", \"47\"]}",
    "slug": "air-seoul",
    "types": [
     "A321"
@@ -101111,7 +101111,7 @@
   },
   "alaska": {
    "airport_short": "NRT",
-   "changed": "2026-11-10",
+   "changed": "2026-11-11",
    "code": "AS",
    "data": "2026-10-06",
    "deps_day": 1.0,
@@ -101123,13 +101123,13 @@
     "95"
    ],
    "gone": false,
-   "hash": "6db740c1debe",
+   "hash": "b3295966f643",
    "last_seen": "2026-11-11",
    "last_seen_str": "Nov 11, 2026",
    "name": "Alaska Airlines",
    "published": "2026-10-11",
    "short": "Alaska",
-   "sig": "{\"drawing\": \"1f320835ebb4\", \"focus\": [\"86\", \"95\"], \"held\": [], \"held_n\": 0, \"main\": [\"86\", \"95\"]}",
+   "sig": "{\"drawing\": \"93937bf13fdf\", \"focus\": [\"86\", \"95\"], \"held\": [], \"held_n\": 0, \"main\": [\"86\", \"95\"]}",
    "slug": "alaska",
    "types": [
     "787-9",
@@ -101139,7 +101139,7 @@
   },
   "american": {
    "airport_short": "NRT",
-   "changed": "2026-11-10",
+   "changed": "2026-11-11",
    "code": "AA",
    "data": "2026-10-06",
    "deps_day": 1.0,
@@ -101150,13 +101150,13 @@
     "72"
    ],
    "gone": false,
-   "hash": "21d645be7d04",
+   "hash": "92d15efdcac7",
    "last_seen": "2026-11-11",
    "last_seen_str": "Nov 11, 2026",
    "name": "American Airlines",
    "published": "2026-10-11",
    "short": "American",
-   "sig": "{\"drawing\": \"1f320835ebb4\", \"focus\": [\"72\"], \"held\": [], \"held_n\": 0, \"main\": [\"72\"]}",
+   "sig": "{\"drawing\": \"93937bf13fdf\", \"focus\": [\"72\"], \"held\": [], \"held_n\": 0, \"main\": [\"72\"]}",
    "slug": "american",
    "types": [
     "777-200"
@@ -101188,13 +101188,13 @@
     "54"
    ],
    "gone": false,
-   "hash": "d1f0103cc945",
+   "hash": "f4a339ecd37c",
    "last_seen": "2026-11-11",
    "last_seen_str": "Nov 11, 2026",
    "name": "All Nippon Airways (ANA)",
    "published": "2026-10-11",
    "short": "ANA",
-   "sig": "{\"drawing\": \"1f320835ebb4\", \"focus\": [\"21\", \"27\", \"45\", \"46\", \"51\", \"52\", \"53\", \"54\", \"55\", \"56\", \"57A\", \"57B\", \"58A\", \"58B\"], \"held\": [\"51\", \"52\", \"53\", \"54\", \"55\", \"56\", \"57A\", \"57B\", \"58A\"], \"held_n\": 9, \"main\": [\"21\", \"27\", \"45\", \"46\", \"51\", \"52\", \"53\", \"54\", \"55\", \"56\", \"57A\", \"57B\", \"58A\", \"58B\"]}",
+   "sig": "{\"drawing\": \"93937bf13fdf\", \"focus\": [\"21\", \"27\", \"45\", \"46\", \"51\", \"52\", \"53\", \"54\", \"55\", \"56\", \"57A\", \"57B\", \"58A\", \"58B\"], \"held\": [\"51\", \"52\", \"53\", \"54\", \"55\", \"56\", \"57A\", \"57B\", \"58A\"], \"held_n\": 9, \"main\": [\"21\", \"27\", \"45\", \"46\", \"51\", \"52\", \"53\", \"54\", \"55\", \"56\", \"57A\", \"57B\", \"58A\", \"58B\"]}",
    "slug": "ana",
    "types": [
     "787-9",
@@ -101230,7 +101230,7 @@
   },
   "asiana": {
    "airport_short": "NRT",
-   "changed": "2026-11-10",
+   "changed": "2026-11-11",
    "code": "OZ",
    "data": "2026-10-06",
    "deps_day": 3.0,
@@ -101243,13 +101243,13 @@
     "46"
    ],
    "gone": false,
-   "hash": "ffb5eb7f87e4",
+   "hash": "6c1ac5b5cf3b",
    "last_seen": "2026-11-10",
    "last_seen_str": "Nov 10, 2026",
    "name": "Asiana Airlines",
    "published": "2026-10-11",
    "short": "Asiana",
-   "sig": "{\"drawing\": \"1f320835ebb4\", \"focus\": [\"31\", \"44\", \"46\"], \"held\": [], \"held_n\": 0, \"main\": [\"31\", \"44\", \"46\"]}",
+   "sig": "{\"drawing\": \"93937bf13fdf\", \"focus\": [\"31\", \"44\", \"46\"], \"held\": [], \"held_n\": 0, \"main\": [\"31\", \"44\", \"46\"]}",
    "slug": "asiana",
    "types": [
     "A330-300",
@@ -101259,7 +101259,7 @@
   },
   "austrian": {
    "airport_short": "NRT",
-   "changed": "2026-11-10",
+   "changed": "2026-11-11",
    "code": "OS",
    "data": "2026-10-06",
    "deps_day": 1.0,
@@ -101271,13 +101271,13 @@
     "38"
    ],
    "gone": false,
-   "hash": "4df27e356765",
+   "hash": "5959e10bb109",
    "last_seen": "2026-10-05",
    "last_seen_str": "Oct 5, 2026",
    "name": "Austrian Airlines",
    "published": "2026-10-11",
    "short": "Austrian",
-   "sig": "{\"drawing\": \"1f320835ebb4\", \"focus\": [\"36\", \"38\"], \"held\": [], \"held_n\": 0, \"main\": [\"36\", \"38\"]}",
+   "sig": "{\"drawing\": \"93937bf13fdf\", \"focus\": [\"36\", \"38\"], \"held\": [], \"held_n\": 0, \"main\": [\"36\", \"38\"]}",
    "slug": "austrian",
    "types": [
     "777-200"
@@ -101301,7 +101301,7 @@
   },
   "batik-air-malaysia": {
    "airport_short": "NRT",
-   "changed": "2026-11-10",
+   "changed": "2026-11-11",
    "code": "OD",
    "data": "2026-10-06",
    "deps_day": 0.7,
@@ -101313,13 +101313,13 @@
     "83"
    ],
    "gone": false,
-   "hash": "005564532b46",
+   "hash": "140b409569ad",
    "last_seen": "2026-10-05",
    "last_seen_str": "Oct 5, 2026",
    "name": "Batik Air Malaysia",
    "published": "2026-10-12",
    "short": "Batik Air Malaysia",
-   "sig": "{\"drawing\": \"1f320835ebb4\", \"focus\": [\"82\", \"83\"], \"held\": [], \"held_n\": 0, \"main\": [\"82\", \"83\"]}",
+   "sig": "{\"drawing\": \"93937bf13fdf\", \"focus\": [\"82\", \"83\"], \"held\": [], \"held_n\": 0, \"main\": [\"82\", \"83\"]}",
    "slug": "batik-air-malaysia",
    "types": [
     "737 MAX 8"
@@ -101328,7 +101328,7 @@
   },
   "cathay-pacific": {
    "airport_short": "NRT",
-   "changed": "2026-11-10",
+   "changed": "2026-11-11",
    "code": "CX",
    "data": "2026-10-06",
    "deps_day": 6.7,
@@ -101347,13 +101347,13 @@
     "82"
    ],
    "gone": false,
-   "hash": "58db2365ef1d",
+   "hash": "ab73a27299ac",
    "last_seen": "2026-10-05",
    "last_seen_str": "Oct 5, 2026",
    "name": "Cathay Pacific",
    "published": "2026-10-11",
    "short": "Cathay Pacific",
-   "sig": "{\"drawing\": \"1f320835ebb4\", \"focus\": [\"62\", \"63\", \"65\", \"72\", \"73\", \"74\", \"75\", \"82\", \"93\"], \"held\": [], \"held_n\": 0, \"main\": [\"62\", \"63\", \"65\", \"72\", \"73\", \"74\", \"75\", \"82\", \"93\"]}",
+   "sig": "{\"drawing\": \"93937bf13fdf\", \"focus\": [\"62\", \"63\", \"65\", \"72\", \"73\", \"74\", \"75\", \"82\", \"93\"], \"held\": [], \"held_n\": 0, \"main\": [\"62\", \"63\", \"65\", \"72\", \"73\", \"74\", \"75\", \"82\", \"93\"]}",
    "slug": "cathay-pacific",
    "types": [
     "B773",
@@ -101364,7 +101364,7 @@
   },
   "cebu-pacific": {
    "airport_short": "NRT",
-   "changed": "2026-11-10",
+   "changed": "2026-11-11",
    "code": "5J",
    "data": "2026-10-06",
    "deps_day": 3.0,
@@ -101383,13 +101383,13 @@
     "96"
    ],
    "gone": false,
-   "hash": "351ec3401b45",
+   "hash": "40c6f1a44235",
    "last_seen": "2026-11-02",
    "last_seen_str": "Nov 2, 2026",
    "name": "Cebu Pacific",
    "published": "2026-10-11",
    "short": "Cebu Pacific",
-   "sig": "{\"drawing\": \"1f320835ebb4\", \"focus\": [\"81\", \"82\", \"84\", \"85\", \"92\", \"93\", \"96\"], \"held\": [], \"held_n\": 0, \"main\": [\"81\", \"82\", \"84\", \"85\", \"92\", \"93\", \"96\"]}",
+   "sig": "{\"drawing\": \"93937bf13fdf\", \"focus\": [\"81\", \"82\", \"84\", \"85\", \"92\", \"93\", \"96\"], \"held\": [], \"held_n\": 0, \"main\": [\"81\", \"82\", \"84\", \"85\", \"92\", \"93\", \"96\"]}",
    "slug": "cebu-pacific",
    "types": [
     "A330-900neo",
@@ -101400,7 +101400,7 @@
   },
   "china-airlines": {
    "airport_short": "NRT",
-   "changed": "2026-11-10",
+   "changed": "2026-11-11",
    "code": "CI",
    "data": "2026-10-06",
    "deps_day": 6.3,
@@ -101419,13 +101419,13 @@
     "95"
    ],
    "gone": false,
-   "hash": "1d884702a15e",
+   "hash": "a50a0a531ba3",
    "last_seen": "2026-11-10",
    "last_seen_str": "Nov 10, 2026",
    "name": "China Airlines",
    "published": "2026-10-11",
    "short": "China Airlines",
-   "sig": "{\"drawing\": \"1f320835ebb4\", \"focus\": [\"63\", \"65\", \"67A\", \"71\", \"75\", \"83\", \"86\", \"95\"], \"held\": [], \"held_n\": 0, \"main\": [\"63\", \"65\", \"67A\", \"71\", \"75\", \"83\", \"86\", \"95\"]}",
+   "sig": "{\"drawing\": \"93937bf13fdf\", \"focus\": [\"63\", \"65\", \"67A\", \"71\", \"75\", \"83\", \"86\", \"95\"], \"held\": [], \"held_n\": 0, \"main\": [\"63\", \"65\", \"67A\", \"71\", \"75\", \"83\", \"86\", \"95\"]}",
    "slug": "china-airlines",
    "types": [
     "A321neo",
@@ -101436,7 +101436,7 @@
   },
   "china-eastern": {
    "airport_short": "NRT",
-   "changed": "2026-11-10",
+   "changed": "2026-11-11",
    "code": "MU",
    "data": "2026-10-06",
    "deps_day": 3.7,
@@ -101454,13 +101454,13 @@
     "95"
    ],
    "gone": false,
-   "hash": "f28bc5f83c4f",
+   "hash": "929e028f21fa",
    "last_seen": "2026-10-05",
    "last_seen_str": "Oct 5, 2026",
    "name": "China Eastern",
    "published": "2026-10-11",
    "short": "China Eastern",
-   "sig": "{\"drawing\": \"1f320835ebb4\", \"focus\": [\"71\", \"72\", \"83\", \"85\", \"86\", \"87\", \"92\", \"95\"], \"held\": [], \"held_n\": 0, \"main\": [\"71\", \"72\", \"83\", \"85\", \"86\", \"87\", \"92\", \"95\"]}",
+   "sig": "{\"drawing\": \"93937bf13fdf\", \"focus\": [\"71\", \"72\", \"83\", \"85\", \"86\", \"87\", \"92\", \"95\"], \"held\": [], \"held_n\": 0, \"main\": [\"71\", \"72\", \"83\", \"85\", \"86\", \"87\", \"92\", \"95\"]}",
    "slug": "china-eastern",
    "types": [
     "A350-900",
@@ -101471,7 +101471,7 @@
   },
   "china-southern": {
    "airport_short": "NRT",
-   "changed": "2026-11-10",
+   "changed": "2026-11-11",
    "code": "CZ",
    "data": "2026-10-06",
    "deps_day": 2.7,
@@ -101492,13 +101492,13 @@
     "17"
    ],
    "gone": false,
-   "hash": "10b80d751399",
+   "hash": "e03dc64c0f3a",
    "last_seen": "2026-10-05",
    "last_seen_str": "Oct 5, 2026",
    "name": "China Southern",
    "published": "2026-10-11",
    "short": "China Southern",
-   "sig": "{\"drawing\": \"1f320835ebb4\", \"focus\": [\"11A\", \"12\", \"14\", \"15\", \"16\", \"17\"], \"held\": [], \"held_n\": 0, \"main\": [\"11A\", \"12\", \"14\", \"15\", \"16\", \"17\"]}",
+   "sig": "{\"drawing\": \"93937bf13fdf\", \"focus\": [\"11A\", \"12\", \"14\", \"15\", \"16\", \"17\"], \"held\": [], \"held_n\": 0, \"main\": [\"11A\", \"12\", \"14\", \"15\", \"16\", \"17\"]}",
    "slug": "china-southern",
    "types": [
     "A321neo"
@@ -101507,7 +101507,7 @@
   },
   "eastar-jet": {
    "airport_short": "NRT",
-   "changed": "2026-11-10",
+   "changed": "2026-11-11",
    "code": "ZE",
    "data": "2026-10-06",
    "deps_day": 5.0,
@@ -101522,13 +101522,13 @@
     "155"
    ],
    "gone": false,
-   "hash": "75aeb1814c1c",
+   "hash": "ecdf71b65037",
    "last_seen": "2026-10-05",
    "last_seen_str": "Oct 5, 2026",
    "name": "Eastar Jet",
    "published": "2026-10-11",
    "short": "Eastar Jet",
-   "sig": "{\"drawing\": \"1f320835ebb4\", \"focus\": [\"151\", \"152\", \"153\", \"154\", \"155\"], \"held\": [], \"held_n\": 0, \"main\": [\"151\", \"152\", \"153\", \"154\", \"155\"]}",
+   "sig": "{\"drawing\": \"93937bf13fdf\", \"focus\": [\"151\", \"152\", \"153\", \"154\", \"155\"], \"held\": [], \"held_n\": 0, \"main\": [\"151\", \"152\", \"153\", \"154\", \"155\"]}",
    "slug": "eastar-jet",
    "types": [
     "737 MAX 8",
@@ -101538,7 +101538,7 @@
   },
   "emirates": {
    "airport_short": "NRT",
-   "changed": "2026-11-10",
+   "changed": "2026-11-11",
    "code": "EK",
    "data": "2026-10-06",
    "deps_day": 0.7,
@@ -101549,13 +101549,13 @@
     "66"
    ],
    "gone": false,
-   "hash": "f89ba9a708b0",
+   "hash": "44ca4af24fbc",
    "last_seen": "2026-10-05",
    "last_seen_str": "Oct 5, 2026",
    "name": "Emirates",
    "published": "2026-10-11",
    "short": "Emirates",
-   "sig": "{\"drawing\": \"1f320835ebb4\", \"focus\": [\"66\"], \"held\": [], \"held_n\": 0, \"main\": [\"66\"]}",
+   "sig": "{\"drawing\": \"93937bf13fdf\", \"focus\": [\"66\"], \"held\": [], \"held_n\": 0, \"main\": [\"66\"]}",
    "slug": "emirates",
    "types": [
     "A380"
@@ -101564,7 +101564,7 @@
   },
   "ethiopian": {
    "airport_short": "NRT",
-   "changed": "2026-11-10",
+   "changed": "2026-11-11",
    "code": "ET",
    "data": "2026-10-06",
    "deps_day": 1.0,
@@ -101575,13 +101575,13 @@
     "43"
    ],
    "gone": false,
-   "hash": "8c8bb5eeee71",
+   "hash": "fd57980976e0",
    "last_seen": "2026-10-05",
    "last_seen_str": "Oct 5, 2026",
    "name": "Ethiopian Airlines",
    "published": "2026-10-11",
    "short": "Ethiopian",
-   "sig": "{\"drawing\": \"1f320835ebb4\", \"focus\": [\"43\"], \"held\": [], \"held_n\": 0, \"main\": [\"43\"]}",
+   "sig": "{\"drawing\": \"93937bf13fdf\", \"focus\": [\"43\"], \"held\": [], \"held_n\": 0, \"main\": [\"43\"]}",
    "slug": "ethiopian",
    "types": [
     "A350-900"
@@ -101590,7 +101590,7 @@
   },
   "etihad": {
    "airport_short": "NRT",
-   "changed": "2026-11-10",
+   "changed": "2026-11-11",
    "code": "EY",
    "data": "2026-10-06",
    "deps_day": 1.0,
@@ -101601,13 +101601,13 @@
     "26"
    ],
    "gone": false,
-   "hash": "11c507a2d0e8",
+   "hash": "8cbc22d8a604",
    "last_seen": "2026-10-05",
    "last_seen_str": "Oct 5, 2026",
    "name": "Etihad Airways",
    "published": "2026-10-11",
    "short": "Etihad",
-   "sig": "{\"drawing\": \"1f320835ebb4\", \"focus\": [\"26\"], \"held\": [], \"held_n\": 0, \"main\": [\"26\"]}",
+   "sig": "{\"drawing\": \"93937bf13fdf\", \"focus\": [\"26\"], \"held\": [], \"held_n\": 0, \"main\": [\"26\"]}",
    "slug": "etihad",
    "types": [
     "A380"
@@ -101616,7 +101616,7 @@
   },
   "eva-air": {
    "airport_short": "NRT",
-   "changed": "2026-11-10",
+   "changed": "2026-11-11",
    "code": "BR",
    "data": "2026-10-06",
    "deps_day": 4.0,
@@ -101630,13 +101630,13 @@
     "35"
    ],
    "gone": false,
-   "hash": "4354ca172ebd",
+   "hash": "9fd07b81d686",
    "last_seen": "2026-10-05",
    "last_seen_str": "Oct 5, 2026",
    "name": "EVA Air",
    "published": "2026-10-11",
    "short": "EVA Air",
-   "sig": "{\"drawing\": \"1f320835ebb4\", \"focus\": [\"31\", \"33\", \"35\"], \"held\": [], \"held_n\": 0, \"main\": [\"31\", \"33\", \"35\"]}",
+   "sig": "{\"drawing\": \"93937bf13fdf\", \"focus\": [\"31\", \"33\", \"35\"], \"held\": [], \"held_n\": 0, \"main\": [\"31\", \"33\", \"35\"]}",
    "slug": "eva-air",
    "types": [
     "787-10",
@@ -101646,7 +101646,7 @@
   },
   "finnair": {
    "airport_short": "NRT",
-   "changed": "2026-11-10",
+   "changed": "2026-11-11",
    "code": "AY",
    "data": "2026-10-06",
    "deps_day": 1.0,
@@ -101658,13 +101658,13 @@
     "65"
    ],
    "gone": false,
-   "hash": "4610437027d5",
+   "hash": "35cc6bf1793e",
    "last_seen": "2026-10-05",
    "last_seen_str": "Oct 5, 2026",
    "name": "Finnair",
    "published": "2026-10-11",
    "short": "Finnair",
-   "sig": "{\"drawing\": \"1f320835ebb4\", \"focus\": [\"64\", \"65\"], \"held\": [], \"held_n\": 0, \"main\": [\"64\", \"65\"]}",
+   "sig": "{\"drawing\": \"93937bf13fdf\", \"focus\": [\"64\", \"65\"], \"held\": [], \"held_n\": 0, \"main\": [\"64\", \"65\"]}",
    "slug": "finnair",
    "types": [
     "A350-900"
@@ -101673,7 +101673,7 @@
   },
   "garuda": {
    "airport_short": "NRT",
-   "changed": "2026-11-10",
+   "changed": "2026-11-11",
    "code": "GA",
    "data": "2026-10-06",
    "deps_day": 2.0,
@@ -101686,13 +101686,13 @@
     "26"
    ],
    "gone": false,
-   "hash": "2cc78b27f052",
+   "hash": "d6a05d679794",
    "last_seen": "2026-10-05",
    "last_seen_str": "Oct 5, 2026",
    "name": "Garuda Indonesia",
    "published": "2026-10-11",
    "short": "Garuda",
-   "sig": "{\"drawing\": \"1f320835ebb4\", \"focus\": [\"16\", \"26\"], \"held\": [], \"held_n\": 0, \"main\": [\"16\", \"26\"]}",
+   "sig": "{\"drawing\": \"93937bf13fdf\", \"focus\": [\"16\", \"26\"], \"held\": [], \"held_n\": 0, \"main\": [\"16\", \"26\"]}",
    "slug": "garuda",
    "types": [
     "A330-300",
@@ -101702,7 +101702,7 @@
   },
   "greater-bay": {
    "airport_short": "NRT",
-   "changed": "2026-11-10",
+   "changed": "2026-11-11",
    "code": "HB",
    "data": "2026-10-06",
    "deps_day": 1.7,
@@ -101714,13 +101714,13 @@
     "67B"
    ],
    "gone": false,
-   "hash": "21a4aaa3d136",
+   "hash": "4f2a52333227",
    "last_seen": "2026-10-05",
    "last_seen_str": "Oct 5, 2026",
    "name": "Greater Bay Airlines",
    "published": "2026-10-11",
    "short": "Greater Bay",
-   "sig": "{\"drawing\": \"1f320835ebb4\", \"focus\": [\"67A\", \"67B\"], \"held\": [], \"held_n\": 0, \"main\": [\"67A\", \"67B\"]}",
+   "sig": "{\"drawing\": \"93937bf13fdf\", \"focus\": [\"67A\", \"67B\"], \"held\": [], \"held_n\": 0, \"main\": [\"67A\", \"67B\"]}",
    "slug": "greater-bay",
    "types": [
     "737-800"
@@ -101729,7 +101729,7 @@
   },
   "hainan-airlines": {
    "airport_short": "NRT",
-   "changed": "2026-11-10",
+   "changed": "2026-11-11",
    "code": "HU",
    "data": "2026-10-06",
    "deps_day": 0.7,
@@ -101742,13 +101742,13 @@
     "84"
    ],
    "gone": false,
-   "hash": "7bef17eea75b",
+   "hash": "3deda7717c64",
    "last_seen": "2026-10-05",
    "last_seen_str": "Oct 5, 2026",
    "name": "Hainan Airlines",
    "published": "2026-10-11",
    "short": "Hainan Airlines",
-   "sig": "{\"drawing\": \"1f320835ebb4\", \"focus\": [\"83\", \"84\"], \"held\": [], \"held_n\": 0, \"main\": [\"83\", \"84\"]}",
+   "sig": "{\"drawing\": \"93937bf13fdf\", \"focus\": [\"83\", \"84\"], \"held\": [], \"held_n\": 0, \"main\": [\"83\", \"84\"]}",
    "slug": "hainan-airlines",
    "types": [
     "A330-800neo",
@@ -101758,7 +101758,7 @@
   },
   "hk-express": {
    "airport_short": "NRT",
-   "changed": "2026-11-10",
+   "changed": "2026-11-11",
    "code": "UO",
    "data": "2026-10-06",
    "deps_day": 6.0,
@@ -101773,13 +101773,13 @@
     "98"
    ],
    "gone": false,
-   "hash": "2a9c7319fb83",
+   "hash": "668363a571bf",
    "last_seen": "2026-10-05",
    "last_seen_str": "Oct 5, 2026",
    "name": "HK Express",
    "published": "2026-10-11",
    "short": "HK Express",
-   "sig": "{\"drawing\": \"1f320835ebb4\", \"focus\": [\"91\", \"92\", \"93\", \"96\", \"98\"], \"held\": [], \"held_n\": 0, \"main\": [\"91\", \"92\", \"93\", \"96\", \"98\"]}",
+   "sig": "{\"drawing\": \"93937bf13fdf\", \"focus\": [\"91\", \"92\", \"93\", \"96\", \"98\"], \"held\": [], \"held_n\": 0, \"main\": [\"91\", \"92\", \"93\", \"96\", \"98\"]}",
    "slug": "hk-express",
    "types": [
     "A321neo"
@@ -101788,7 +101788,7 @@
   },
   "hong-kong-airlines": {
    "airport_short": "NRT",
-   "changed": "2026-11-10",
+   "changed": "2026-11-11",
    "code": "HX",
    "data": "2026-10-06",
    "deps_day": 4.0,
@@ -101801,13 +101801,13 @@
     "17"
    ],
    "gone": false,
-   "hash": "dc1cd3498811",
+   "hash": "7d0b3a1f3142",
    "last_seen": "2026-10-05",
    "last_seen_str": "Oct 5, 2026",
    "name": "Hong Kong Airlines",
    "published": "2026-10-11",
    "short": "Hong Kong Airlines",
-   "sig": "{\"drawing\": \"1f320835ebb4\", \"focus\": [\"12\", \"14\", \"17\"], \"held\": [\"17\"], \"held_n\": 1, \"main\": [\"12\", \"14\", \"17\"]}",
+   "sig": "{\"drawing\": \"93937bf13fdf\", \"focus\": [\"12\", \"14\", \"17\"], \"held\": [\"17\"], \"held_n\": 1, \"main\": [\"12\", \"14\", \"17\"]}",
    "slug": "hong-kong-airlines",
    "types": [
     "A320",
@@ -101818,7 +101818,7 @@
   },
   "iberia": {
    "airport_short": "NRT",
-   "changed": "2026-11-10",
+   "changed": "2026-11-11",
    "code": "IB",
    "data": "2026-10-06",
    "deps_day": 0.7,
@@ -101830,13 +101830,13 @@
     "92"
    ],
    "gone": false,
-   "hash": "04839c585b1b",
+   "hash": "6deb04336ed5",
    "last_seen": "2026-10-04",
    "last_seen_str": "Oct 4, 2026",
    "name": "Iberia",
    "published": "2026-10-11",
    "short": "Iberia",
-   "sig": "{\"drawing\": \"1f320835ebb4\", \"focus\": [\"75\", \"92\"], \"held\": [], \"held_n\": 0, \"main\": [\"75\", \"92\"]}",
+   "sig": "{\"drawing\": \"93937bf13fdf\", \"focus\": [\"75\", \"92\"], \"held\": [], \"held_n\": 0, \"main\": [\"75\", \"92\"]}",
    "slug": "iberia",
    "types": [
     "A350-900"
@@ -101868,13 +101868,13 @@
     "68"
    ],
    "gone": false,
-   "hash": "70297d48ece9",
+   "hash": "88b431c5e0bb",
    "last_seen": "2026-11-11",
    "last_seen_str": "Nov 11, 2026",
    "name": "Japan Airlines",
    "published": "2026-10-11",
    "short": "Japan Airlines",
-   "sig": "{\"drawing\": \"1f320835ebb4\", \"focus\": [\"61\", \"62\", \"63\", \"64\", \"65\", \"66\", \"67B\", \"68\", \"71\", \"73\", \"74\", \"75\", \"81\", \"82\", \"83\", \"84\", \"87\", \"88\", \"91\", \"92\", \"97\", \"99\"], \"held\": [\"61\", \"62\", \"63\", \"64\", \"68\", \"71\"], \"held_n\": 6, \"main\": [\"61\", \"62\", \"63\", \"64\", \"65\", \"66\", \"67B\", \"68\", \"71\", \"73\", \"74\", \"75\", \"81\", \"82\", \"83\", \"84\", \"87\", \"88\", \"91\", \"92\", \"93\", \"97\", \"98\", \"99\"]}",
+   "sig": "{\"drawing\": \"93937bf13fdf\", \"focus\": [\"61\", \"62\", \"63\", \"64\", \"65\", \"66\", \"67B\", \"68\", \"71\", \"73\", \"74\", \"75\", \"81\", \"82\", \"83\", \"84\", \"87\", \"88\", \"91\", \"92\", \"97\", \"99\"], \"held\": [\"61\", \"62\", \"63\", \"64\", \"68\", \"71\"], \"held_n\": 6, \"main\": [\"61\", \"62\", \"63\", \"64\", \"65\", \"66\", \"67B\", \"68\", \"71\", \"73\", \"74\", \"75\", \"81\", \"82\", \"83\", \"84\", \"87\", \"88\", \"91\", \"92\", \"93\", \"97\", \"98\", \"99\"]}",
    "slug": "japan-airlines",
    "types": [
     "767-300",
@@ -101885,7 +101885,7 @@
   },
   "jeju-air": {
    "airport_short": "NRT",
-   "changed": "2026-11-10",
+   "changed": "2026-11-11",
    "code": "7C",
    "data": "2026-10-06",
    "deps_day": 9.0,
@@ -101901,13 +101901,13 @@
     "155"
    ],
    "gone": false,
-   "hash": "b0cdcf3429a9",
+   "hash": "8d1e3cf8bb52",
    "last_seen": "2026-10-05",
    "last_seen_str": "Oct 5, 2026",
    "name": "Jeju Air",
    "published": "2026-10-11",
    "short": "Jeju Air",
-   "sig": "{\"drawing\": \"1f320835ebb4\", \"focus\": [\"151\", \"152\", \"153\", \"154\", \"155\"], \"held\": [], \"held_n\": 0, \"main\": [\"151\", \"152\", \"153\", \"154\", \"155\"]}",
+   "sig": "{\"drawing\": \"93937bf13fdf\", \"focus\": [\"151\", \"152\", \"153\", \"154\", \"155\"], \"held\": [], \"held_n\": 0, \"main\": [\"151\", \"152\", \"153\", \"154\", \"155\"]}",
    "slug": "jeju-air",
    "types": [
     "737 MAX 8",
@@ -101917,7 +101917,7 @@
   },
   "jetstar": {
    "airport_short": "NRT",
-   "changed": "2026-11-10",
+   "changed": "2026-11-11",
    "code": "JQ",
    "data": "2026-10-06",
    "deps_day": 2.0,
@@ -101929,13 +101929,13 @@
     "154"
    ],
    "gone": false,
-   "hash": "4b99b4ca897f",
+   "hash": "a47997b6794c",
    "last_seen": "2026-10-05",
    "last_seen_str": "Oct 5, 2026",
    "name": "Jetstar",
    "published": "2026-10-11",
    "short": "Jetstar",
-   "sig": "{\"drawing\": \"1f320835ebb4\", \"focus\": [\"154\"], \"held\": [], \"held_n\": 0, \"main\": [\"154\"]}",
+   "sig": "{\"drawing\": \"93937bf13fdf\", \"focus\": [\"154\"], \"held\": [], \"held_n\": 0, \"main\": [\"154\"]}",
    "slug": "jetstar",
    "types": [
     "787-8"
@@ -101944,7 +101944,7 @@
   },
   "jetstar-japan": {
    "airport_short": "NRT",
-   "changed": "2026-11-10",
+   "changed": "2026-11-11",
    "code": "GK",
    "data": "2026-10-06",
    "deps_day": 39.0,
@@ -101967,13 +101967,13 @@
     "164"
    ],
    "gone": false,
-   "hash": "1cbc894b3252",
+   "hash": "34e4aa476147",
    "last_seen": "2026-10-05",
    "last_seen_str": "Oct 5, 2026",
    "name": "Jetstar Japan",
    "published": "2026-10-11",
    "short": "Jetstar Japan",
-   "sig": "{\"drawing\": \"1f320835ebb4\", \"focus\": [\"153\", \"161\", \"162\", \"163\", \"164\", \"171\", \"172\", \"173\", \"174\", \"175\"], \"held\": [\"161\", \"162\", \"163\", \"164\", \"171\", \"172\", \"173\", \"174\", \"175\"], \"held_n\": 9, \"main\": [\"151\", \"153\", \"154\", \"155\", \"161\", \"162\", \"163\", \"164\", \"171\", \"172\", \"173\", \"174\", \"175\"]}",
+   "sig": "{\"drawing\": \"93937bf13fdf\", \"focus\": [\"153\", \"161\", \"162\", \"163\", \"164\", \"171\", \"172\", \"173\", \"174\", \"175\"], \"held\": [\"161\", \"162\", \"163\", \"164\", \"171\", \"172\", \"173\", \"174\", \"175\"], \"held_n\": 9, \"main\": [\"151\", \"153\", \"154\", \"155\", \"161\", \"162\", \"163\", \"164\", \"171\", \"172\", \"173\", \"174\", \"175\"]}",
    "slug": "jetstar-japan",
    "types": [
     "A320",
@@ -101999,13 +101999,13 @@
     "27"
    ],
    "gone": false,
-   "hash": "a68b8a811b01",
+   "hash": "61cb8e2873e3",
    "last_seen": "2026-10-05",
    "last_seen_str": "Oct 5, 2026",
    "name": "Jin Air",
    "published": "2026-10-11",
    "short": "Jin Air",
-   "sig": "{\"drawing\": \"1f320835ebb4\", \"focus\": [\"22\", \"23\", \"24\", \"25\", \"27\"], \"held\": [], \"held_n\": 0, \"main\": [\"22\", \"23\", \"24\", \"25\", \"27\"]}",
+   "sig": "{\"drawing\": \"93937bf13fdf\", \"focus\": [\"22\", \"23\", \"24\", \"25\", \"27\"], \"held\": [], \"held_n\": 0, \"main\": [\"22\", \"23\", \"24\", \"25\", \"27\"]}",
    "slug": "jin-air",
    "types": [
     "737-800",
@@ -102016,7 +102016,7 @@
   },
   "juneyao": {
    "airport_short": "NRT",
-   "changed": "2026-11-10",
+   "changed": "2026-11-11",
    "code": "HO",
    "data": "2026-10-06",
    "deps_day": 1.0,
@@ -102028,13 +102028,13 @@
     "63"
    ],
    "gone": false,
-   "hash": "e99bf3a29b99",
+   "hash": "62c49b27036a",
    "last_seen": "2026-10-05",
    "last_seen_str": "Oct 5, 2026",
    "name": "Juneyao Airlines",
    "published": "2026-10-11",
    "short": "Juneyao",
-   "sig": "{\"drawing\": \"1f320835ebb4\", \"focus\": [\"61\", \"63\"], \"held\": [], \"held_n\": 0, \"main\": [\"61\", \"63\"]}",
+   "sig": "{\"drawing\": \"93937bf13fdf\", \"focus\": [\"61\", \"63\"], \"held\": [], \"held_n\": 0, \"main\": [\"61\", \"63\"]}",
    "slug": "juneyao",
    "types": [
     "787-9"
@@ -102043,7 +102043,7 @@
   },
   "klm": {
    "airport_short": "NRT",
-   "changed": "2026-11-10",
+   "changed": "2026-11-11",
    "code": "KL",
    "data": "2026-10-06",
    "deps_day": 1.0,
@@ -102055,13 +102055,13 @@
     "15"
    ],
    "gone": false,
-   "hash": "222c1a4348be",
+   "hash": "c11988187437",
    "last_seen": "2026-10-05",
    "last_seen_str": "Oct 5, 2026",
    "name": "KLM",
    "published": "2026-10-11",
    "short": "KLM",
-   "sig": "{\"drawing\": \"1f320835ebb4\", \"focus\": [\"14\", \"15\"], \"held\": [], \"held_n\": 0, \"main\": [\"14\", \"15\"]}",
+   "sig": "{\"drawing\": \"93937bf13fdf\", \"focus\": [\"14\", \"15\"], \"held\": [], \"held_n\": 0, \"main\": [\"14\", \"15\"]}",
    "slug": "klm",
    "types": [
     "777-200",
@@ -102071,7 +102071,7 @@
   },
   "korean-air": {
    "airport_short": "NRT",
-   "changed": "2026-11-10",
+   "changed": "2026-11-11",
    "code": "KE",
    "data": "2026-10-06",
    "deps_day": 7.7,
@@ -102088,13 +102088,13 @@
     "27"
    ],
    "gone": false,
-   "hash": "483741b80e11",
+   "hash": "6231ff8429e5",
    "last_seen": "2026-11-07",
    "last_seen_str": "Nov 7, 2026",
    "name": "Korean Air",
    "published": "2026-10-11",
    "short": "Korean Air",
-   "sig": "{\"drawing\": \"1f320835ebb4\", \"focus\": [\"23\", \"24\", \"25\", \"26\", \"27\"], \"held\": [], \"held_n\": 0, \"main\": [\"23\", \"24\", \"25\", \"26\", \"27\"]}",
+   "sig": "{\"drawing\": \"93937bf13fdf\", \"focus\": [\"23\", \"24\", \"25\", \"26\", \"27\"], \"held\": [], \"held_n\": 0, \"main\": [\"23\", \"24\", \"25\", \"26\", \"27\"]}",
    "slug": "korean-air",
    "types": [
     "A321neo",
@@ -102105,7 +102105,7 @@
   },
   "lot": {
    "airport_short": "NRT",
-   "changed": "2026-11-10",
+   "changed": "2026-11-11",
    "code": "LO",
    "data": "2026-10-06",
    "deps_day": 1.3,
@@ -102117,13 +102117,13 @@
     "43"
    ],
    "gone": false,
-   "hash": "0e44f76c686c",
+   "hash": "7b6cef714c26",
    "last_seen": "2026-10-05",
    "last_seen_str": "Oct 5, 2026",
    "name": "LOT Polish Airlines",
    "published": "2026-10-11",
    "short": "LOT",
-   "sig": "{\"drawing\": \"1f320835ebb4\", \"focus\": [\"42\", \"43\"], \"held\": [], \"held_n\": 0, \"main\": [\"42\", \"43\"]}",
+   "sig": "{\"drawing\": \"93937bf13fdf\", \"focus\": [\"42\", \"43\"], \"held\": [], \"held_n\": 0, \"main\": [\"42\", \"43\"]}",
    "slug": "lot",
    "types": [
     "787-9",
@@ -102133,7 +102133,7 @@
   },
   "malaysia-airlines": {
    "airport_short": "NRT",
-   "changed": "2026-11-10",
+   "changed": "2026-11-11",
    "code": "MH",
    "data": "2026-10-06",
    "deps_day": 2.0,
@@ -102145,13 +102145,13 @@
     "97"
    ],
    "gone": false,
-   "hash": "a8d48d14582c",
+   "hash": "506a874c113f",
    "last_seen": "2026-10-05",
    "last_seen_str": "Oct 5, 2026",
    "name": "Malaysia Airlines",
    "published": "2026-10-11",
    "short": "Malaysia Airlines",
-   "sig": "{\"drawing\": \"1f320835ebb4\", \"focus\": [\"72\", \"97\"], \"held\": [], \"held_n\": 0, \"main\": [\"72\", \"97\"]}",
+   "sig": "{\"drawing\": \"93937bf13fdf\", \"focus\": [\"72\", \"97\"], \"held\": [], \"held_n\": 0, \"main\": [\"72\", \"97\"]}",
    "slug": "malaysia-airlines",
    "types": [
     "A330-300",
@@ -102161,7 +102161,7 @@
   },
   "miat": {
    "airport_short": "NRT",
-   "changed": "2026-11-10",
+   "changed": "2026-11-11",
    "code": "OM",
    "data": "2026-10-06",
    "deps_day": 1.0,
@@ -102174,13 +102174,13 @@
     "95"
    ],
    "gone": false,
-   "hash": "df62a1b6b952",
+   "hash": "639056cbc9d6",
    "last_seen": "2026-10-05",
    "last_seen_str": "Oct 5, 2026",
    "name": "MIAT Mongolian Airlines",
    "published": "2026-10-11",
    "short": "MIAT",
-   "sig": "{\"drawing\": \"1f320835ebb4\", \"focus\": [\"81\", \"87\", \"95\"], \"held\": [], \"held_n\": 0, \"main\": [\"81\", \"87\", \"95\"]}",
+   "sig": "{\"drawing\": \"93937bf13fdf\", \"focus\": [\"81\", \"87\", \"95\"], \"held\": [], \"held_n\": 0, \"main\": [\"81\", \"87\", \"95\"]}",
    "slug": "miat",
    "types": [
     "737 MAX 8",
@@ -102190,7 +102190,7 @@
   },
   "nepal-airlines": {
    "airport_short": "NRT",
-   "changed": "2026-11-10",
+   "changed": "2026-11-11",
    "code": "RA",
    "data": "2026-10-06",
    "deps_day": 0.7,
@@ -102201,13 +102201,13 @@
     "75"
    ],
    "gone": false,
-   "hash": "49c8efc9e67b",
+   "hash": "b859f34e792d",
    "last_seen": "2026-10-05",
    "last_seen_str": "Oct 5, 2026",
    "name": "Nepal Airlines",
    "published": "2026-10-11",
    "short": "Nepal Airlines",
-   "sig": "{\"drawing\": \"1f320835ebb4\", \"focus\": [\"75\"], \"held\": [], \"held_n\": 0, \"main\": [\"75\"]}",
+   "sig": "{\"drawing\": \"93937bf13fdf\", \"focus\": [\"75\"], \"held\": [], \"held_n\": 0, \"main\": [\"75\"]}",
    "slug": "nepal-airlines",
    "types": [
     "A330"
@@ -102216,7 +102216,7 @@
   },
   "parata-air": {
    "airport_short": "NRT",
-   "changed": "2026-11-10",
+   "changed": "2026-11-11",
    "code": "WE",
    "data": "2026-10-06",
    "deps_day": 2.0,
@@ -102228,13 +102228,13 @@
     "66"
    ],
    "gone": false,
-   "hash": "0765894cdc28",
+   "hash": "e65629714493",
    "last_seen": "2026-10-05",
    "last_seen_str": "Oct 5, 2026",
    "name": "Parata Air",
    "published": "2026-10-11",
    "short": "Parata Air",
-   "sig": "{\"drawing\": \"1f320835ebb4\", \"focus\": [\"65\", \"66\"], \"held\": [], \"held_n\": 0, \"main\": [\"65\", \"66\"]}",
+   "sig": "{\"drawing\": \"93937bf13fdf\", \"focus\": [\"65\", \"66\"], \"held\": [], \"held_n\": 0, \"main\": [\"65\", \"66\"]}",
    "slug": "parata-air",
    "types": [
     "A330-200"
@@ -102273,7 +102273,7 @@
   },
   "philippine-airlines": {
    "airport_short": "NRT",
-   "changed": "2026-11-10",
+   "changed": "2026-11-11",
    "code": "PR",
    "data": "2026-10-06",
    "deps_day": 2.7,
@@ -102286,13 +102286,13 @@
     "93"
    ],
    "gone": false,
-   "hash": "b8da8c65e75b",
+   "hash": "b71361efffde",
    "last_seen": "2026-11-02",
    "last_seen_str": "Nov 2, 2026",
    "name": "Philippine Airlines",
    "published": "2026-10-11",
    "short": "Philippine Airlines",
-   "sig": "{\"drawing\": \"1f320835ebb4\", \"focus\": [\"91\", \"93\"], \"held\": [], \"held_n\": 0, \"main\": [\"91\", \"93\"]}",
+   "sig": "{\"drawing\": \"93937bf13fdf\", \"focus\": [\"91\", \"93\"], \"held\": [], \"held_n\": 0, \"main\": [\"91\", \"93\"]}",
    "slug": "philippine-airlines",
    "types": [
     "A321",
@@ -102303,7 +102303,7 @@
   },
   "qantas": {
    "airport_short": "NRT",
-   "changed": "2026-11-10",
+   "changed": "2026-11-11",
    "code": "QF",
    "data": "2026-10-06",
    "deps_day": 2.0,
@@ -102317,13 +102317,13 @@
     "85"
    ],
    "gone": false,
-   "hash": "76aa24ae14f1",
+   "hash": "cc3c79446855",
    "last_seen": "2026-10-05",
    "last_seen_str": "Oct 5, 2026",
    "name": "Qantas",
    "published": "2026-10-11",
    "short": "Qantas",
-   "sig": "{\"drawing\": \"1f320835ebb4\", \"focus\": [\"81\", \"83\", \"85\"], \"held\": [], \"held_n\": 0, \"main\": [\"81\", \"83\", \"85\"]}",
+   "sig": "{\"drawing\": \"93937bf13fdf\", \"focus\": [\"81\", \"83\", \"85\"], \"held\": [], \"held_n\": 0, \"main\": [\"81\", \"83\", \"85\"]}",
    "slug": "qantas",
    "types": [
     "A330-300",
@@ -102333,7 +102333,7 @@
   },
   "qatar-airways": {
    "airport_short": "NRT",
-   "changed": "2026-11-10",
+   "changed": "2026-11-11",
    "code": "QR",
    "data": "2026-10-06",
    "deps_day": 2.0,
@@ -102346,13 +102346,13 @@
     "85"
    ],
    "gone": false,
-   "hash": "63164fa06ccf",
+   "hash": "34f719d1e307",
    "last_seen": "2026-10-05",
    "last_seen_str": "Oct 5, 2026",
    "name": "Qatar Airways",
    "published": "2026-10-11",
    "short": "Qatar Airways",
-   "sig": "{\"drawing\": \"1f320835ebb4\", \"focus\": [\"63\", \"82\", \"85\"], \"held\": [], \"held_n\": 0, \"main\": [\"63\", \"82\", \"85\"]}",
+   "sig": "{\"drawing\": \"93937bf13fdf\", \"focus\": [\"63\", \"82\", \"85\"], \"held\": [], \"held_n\": 0, \"main\": [\"63\", \"82\", \"85\"]}",
    "slug": "qatar-airways",
    "types": [
     "777-300ER"
@@ -102361,7 +102361,7 @@
   },
   "royal-brunei": {
    "airport_short": "NRT",
-   "changed": "2026-11-10",
+   "changed": "2026-11-11",
    "code": "BI",
    "data": "2026-10-06",
    "deps_day": 0.7,
@@ -102372,13 +102372,13 @@
     "12"
    ],
    "gone": false,
-   "hash": "7bc989da5bdd",
+   "hash": "1a707865d9f6",
    "last_seen": "2026-10-05",
    "last_seen_str": "Oct 5, 2026",
    "name": "Royal Brunei Airlines",
    "published": "2026-10-11",
    "short": "Royal Brunei",
-   "sig": "{\"drawing\": \"1f320835ebb4\", \"focus\": [\"12\"], \"held\": [], \"held_n\": 0, \"main\": [\"12\"]}",
+   "sig": "{\"drawing\": \"93937bf13fdf\", \"focus\": [\"12\"], \"held\": [], \"held_n\": 0, \"main\": [\"12\"]}",
    "slug": "royal-brunei",
    "types": [
     "A320neo"
@@ -102387,7 +102387,7 @@
   },
   "scoot": {
    "airport_short": "NRT",
-   "changed": "2026-11-10",
+   "changed": "2026-11-11",
    "code": "TR",
    "data": "2026-10-06",
    "deps_day": 2.7,
@@ -102401,13 +102401,13 @@
     "41"
    ],
    "gone": false,
-   "hash": "ea713afe9390",
+   "hash": "066527c6e46a",
    "last_seen": "2026-10-05",
    "last_seen_str": "Oct 5, 2026",
    "name": "Scoot",
    "published": "2026-10-11",
    "short": "Scoot",
-   "sig": "{\"drawing\": \"1f320835ebb4\", \"focus\": [\"32\", \"37\", \"41\"], \"held\": [], \"held_n\": 0, \"main\": [\"32\", \"37\", \"41\"]}",
+   "sig": "{\"drawing\": \"93937bf13fdf\", \"focus\": [\"32\", \"37\", \"41\"], \"held\": [], \"held_n\": 0, \"main\": [\"32\", \"37\", \"41\"]}",
    "slug": "scoot",
    "types": [
     "787-9"
@@ -102416,7 +102416,7 @@
   },
   "shenzhen-airlines": {
    "airport_short": "NRT",
-   "changed": "2026-11-10",
+   "changed": "2026-11-11",
    "code": "ZH",
    "data": "2026-10-06",
    "deps_day": 1.0,
@@ -102427,13 +102427,13 @@
     "37"
    ],
    "gone": false,
-   "hash": "6771c97780fe",
+   "hash": "b9c5c1c53e7c",
    "last_seen": "2026-10-05",
    "last_seen_str": "Oct 5, 2026",
    "name": "Shenzhen Airlines",
    "published": "2026-10-11",
    "short": "Shenzhen Airlines",
-   "sig": "{\"drawing\": \"1f320835ebb4\", \"focus\": [\"37\"], \"held\": [], \"held_n\": 0, \"main\": [\"37\"]}",
+   "sig": "{\"drawing\": \"93937bf13fdf\", \"focus\": [\"37\"], \"held\": [], \"held_n\": 0, \"main\": [\"37\"]}",
    "slug": "shenzhen-airlines",
    "types": [
     "737 MAX 8"
@@ -102442,7 +102442,7 @@
   },
   "sichuan-airlines": {
    "airport_short": "NRT",
-   "changed": "2026-11-10",
+   "changed": "2026-11-11",
    "code": "3U",
    "data": "2026-10-06",
    "deps_day": 1.0,
@@ -102454,13 +102454,13 @@
     "11A"
    ],
    "gone": false,
-   "hash": "363d99e3dc88",
+   "hash": "bd42e176db6b",
    "last_seen": "2026-10-05",
    "last_seen_str": "Oct 5, 2026",
    "name": "Sichuan Airlines",
    "published": "2026-10-11",
    "short": "Sichuan Airlines",
-   "sig": "{\"drawing\": \"1f320835ebb4\", \"focus\": [\"11A\"], \"held\": [], \"held_n\": 0, \"main\": [\"11A\"]}",
+   "sig": "{\"drawing\": \"93937bf13fdf\", \"focus\": [\"11A\"], \"held\": [], \"held_n\": 0, \"main\": [\"11A\"]}",
    "slug": "sichuan-airlines",
    "types": [
     "A321neo",
@@ -102470,7 +102470,7 @@
   },
   "singapore-airlines": {
    "airport_short": "NRT",
-   "changed": "2026-11-10",
+   "changed": "2026-11-11",
    "code": "SQ",
    "data": "2026-10-06",
    "deps_day": 3.0,
@@ -102483,13 +102483,13 @@
     "35"
    ],
    "gone": false,
-   "hash": "f75c53d45164",
+   "hash": "d371eb69bc84",
    "last_seen": "2026-11-11",
    "last_seen_str": "Nov 11, 2026",
    "name": "Singapore Airlines",
    "published": "2026-10-11",
    "short": "Singapore Airlines",
-   "sig": "{\"drawing\": \"1f320835ebb4\", \"focus\": [\"33\", \"35\"], \"held\": [], \"held_n\": 0, \"main\": [\"33\", \"35\"]}",
+   "sig": "{\"drawing\": \"93937bf13fdf\", \"focus\": [\"33\", \"35\"], \"held\": [], \"held_n\": 0, \"main\": [\"33\", \"35\"]}",
    "slug": "singapore-airlines",
    "types": [
     "777-300ER",
@@ -102499,7 +102499,7 @@
   },
   "spring-airlines": {
    "airport_short": "NRT",
-   "changed": "2026-11-10",
+   "changed": "2026-11-11",
    "code": "9C",
    "data": "2026-10-06",
    "deps_day": 1.0,
@@ -102511,13 +102511,13 @@
     "153"
    ],
    "gone": false,
-   "hash": "bb4dd9e898cc",
+   "hash": "05148cb63644",
    "last_seen": "2026-10-05",
    "last_seen_str": "Oct 5, 2026",
    "name": "Spring Airlines",
    "published": "2026-10-11",
    "short": "Spring Airlines",
-   "sig": "{\"drawing\": \"1f320835ebb4\", \"focus\": [\"152\", \"153\"], \"held\": [], \"held_n\": 0, \"main\": [\"152\", \"153\"]}",
+   "sig": "{\"drawing\": \"93937bf13fdf\", \"focus\": [\"152\", \"153\"], \"held\": [], \"held_n\": 0, \"main\": [\"152\", \"153\"]}",
    "slug": "spring-airlines",
    "types": [
     "A320"
@@ -102526,7 +102526,7 @@
   },
   "spring-japan": {
    "airport_short": "NRT",
-   "changed": "2026-11-10",
+   "changed": "2026-11-11",
    "code": "IJ",
    "data": "2026-10-06",
    "deps_day": 10.7,
@@ -102544,13 +102544,13 @@
     "161"
    ],
    "gone": false,
-   "hash": "61a4e712f0a4",
+   "hash": "4a2febe257b4",
    "last_seen": "2026-10-05",
    "last_seen_str": "Oct 5, 2026",
    "name": "Spring Japan",
    "published": "2026-10-11",
    "short": "Spring Japan",
-   "sig": "{\"drawing\": \"1f320835ebb4\", \"focus\": [\"151\", \"155\", \"161\"], \"held\": [], \"held_n\": 0, \"main\": [\"151\", \"155\", \"161\"]}",
+   "sig": "{\"drawing\": \"93937bf13fdf\", \"focus\": [\"151\", \"155\", \"161\"], \"held\": [], \"held_n\": 0, \"main\": [\"151\", \"155\", \"161\"]}",
    "slug": "spring-japan",
    "types": [
     "737-800",
@@ -102561,7 +102561,7 @@
   },
   "srilankan": {
    "airport_short": "NRT",
-   "changed": "2026-11-10",
+   "changed": "2026-11-11",
    "code": "UL",
    "data": "2026-10-06",
    "deps_day": 0.7,
@@ -102573,13 +102573,13 @@
     "74"
    ],
    "gone": false,
-   "hash": "7ccdc4245de8",
+   "hash": "ebfaf88d906b",
    "last_seen": "2026-10-04",
    "last_seen_str": "Oct 4, 2026",
    "name": "SriLankan Airlines",
    "published": "2026-10-11",
    "short": "SriLankan",
-   "sig": "{\"drawing\": \"1f320835ebb4\", \"focus\": [\"73\", \"74\"], \"held\": [], \"held_n\": 0, \"main\": [\"73\", \"74\"]}",
+   "sig": "{\"drawing\": \"93937bf13fdf\", \"focus\": [\"73\", \"74\"], \"held\": [], \"held_n\": 0, \"main\": [\"73\", \"74\"]}",
    "slug": "srilankan",
    "types": [
     "A330-300",
@@ -102589,7 +102589,7 @@
   },
   "starlux": {
    "airport_short": "NRT",
-   "changed": "2026-11-10",
+   "changed": "2026-11-11",
    "code": "JX",
    "data": "2026-10-06",
    "deps_day": 4.0,
@@ -102608,13 +102608,13 @@
     "81"
    ],
    "gone": false,
-   "hash": "6ae109c93bb3",
+   "hash": "d1eceb28f0b5",
    "last_seen": "2026-10-05",
    "last_seen_str": "Oct 5, 2026",
    "name": "STARLUX Airlines",
    "published": "2026-10-11",
    "short": "STARLUX",
-   "sig": "{\"drawing\": \"1f320835ebb4\", \"focus\": [\"62\", \"63\", \"67A\", \"72\", \"73\", \"74\", \"75\", \"81\", \"83\"], \"held\": [], \"held_n\": 0, \"main\": [\"62\", \"63\", \"67A\", \"72\", \"73\", \"74\", \"75\", \"81\", \"83\"]}",
+   "sig": "{\"drawing\": \"93937bf13fdf\", \"focus\": [\"62\", \"63\", \"67A\", \"72\", \"73\", \"74\", \"75\", \"81\", \"83\"], \"held\": [], \"held_n\": 0, \"main\": [\"62\", \"63\", \"67A\", \"72\", \"73\", \"74\", \"75\", \"81\", \"83\"]}",
    "slug": "starlux",
    "types": [
     "A350-1000",
@@ -102625,7 +102625,7 @@
   },
   "swiss": {
    "airport_short": "NRT",
-   "changed": "2026-11-10",
+   "changed": "2026-11-11",
    "code": "LX",
    "data": "2026-10-06",
    "deps_day": 1.0,
@@ -102636,13 +102636,13 @@
     "37"
    ],
    "gone": false,
-   "hash": "1461a85fcf15",
+   "hash": "03d807a311a1",
    "last_seen": "2026-10-05",
    "last_seen_str": "Oct 5, 2026",
    "name": "SWISS",
    "published": "2026-10-11",
    "short": "SWISS",
-   "sig": "{\"drawing\": \"1f320835ebb4\", \"focus\": [\"37\"], \"held\": [], \"held_n\": 0, \"main\": [\"37\"]}",
+   "sig": "{\"drawing\": \"93937bf13fdf\", \"focus\": [\"37\"], \"held\": [], \"held_n\": 0, \"main\": [\"37\"]}",
    "slug": "swiss",
    "types": [
     "777-300ER"
@@ -102651,7 +102651,7 @@
   },
   "t-way": {
    "airport_short": "NRT",
-   "changed": "2026-11-10",
+   "changed": "2026-11-11",
    "code": "TW",
    "data": "2026-10-06",
    "deps_day": 8.0,
@@ -102671,13 +102671,13 @@
     "95"
    ],
    "gone": false,
-   "hash": "51ba8b6cf885",
+   "hash": "bc302d71ded7",
    "last_seen": "2026-10-20",
    "last_seen_str": "Oct 20, 2026",
    "name": "T'way Air",
    "published": "2026-10-11",
    "short": "T'way",
-   "sig": "{\"drawing\": \"1f320835ebb4\", \"focus\": [\"67A\", \"82\", \"84\", \"86\", \"87\", \"91\", \"93\", \"95\", \"96\", \"97\", \"99\"], \"held\": [], \"held_n\": 0, \"main\": [\"67A\", \"82\", \"84\", \"86\", \"87\", \"91\", \"93\", \"95\", \"96\", \"97\", \"99\"]}",
+   "sig": "{\"drawing\": \"93937bf13fdf\", \"focus\": [\"67A\", \"82\", \"84\", \"86\", \"87\", \"91\", \"93\", \"95\", \"96\", \"97\", \"99\"], \"held\": [], \"held_n\": 0, \"main\": [\"67A\", \"82\", \"84\", \"86\", \"87\", \"91\", \"93\", \"95\", \"96\", \"97\", \"99\"]}",
    "slug": "t-way",
    "types": [
     "737-800",
@@ -102687,7 +102687,7 @@
   },
   "thai-airasia": {
    "airport_short": "NRT",
-   "changed": "2026-11-10",
+   "changed": "2026-11-11",
    "code": "FD",
    "data": "2026-10-06",
    "deps_day": 0.7,
@@ -102699,13 +102699,13 @@
     "95"
    ],
    "gone": false,
-   "hash": "be017ac72b9a",
+   "hash": "8eb64de06709",
    "last_seen": "2026-10-05",
    "last_seen_str": "Oct 5, 2026",
    "name": "Thai AirAsia",
    "published": "2026-10-11",
    "short": "Thai AirAsia",
-   "sig": "{\"drawing\": \"1f320835ebb4\", \"focus\": [\"68\", \"95\"], \"held\": [], \"held_n\": 0, \"main\": [\"68\", \"95\"]}",
+   "sig": "{\"drawing\": \"93937bf13fdf\", \"focus\": [\"68\", \"95\"], \"held\": [], \"held_n\": 0, \"main\": [\"68\", \"95\"]}",
    "slug": "thai-airasia",
    "types": [
     "A320neo"
@@ -102714,7 +102714,7 @@
   },
   "thai-airasia-x": {
    "airport_short": "NRT",
-   "changed": "2026-11-10",
+   "changed": "2026-11-11",
    "code": "XJ",
    "data": "2026-10-06",
    "deps_day": 2.0,
@@ -102728,13 +102728,13 @@
     "68"
    ],
    "gone": false,
-   "hash": "7a7a25bed4e2",
+   "hash": "5157f6511897",
    "last_seen": "2026-10-05",
    "last_seen_str": "Oct 5, 2026",
    "name": "Thai AirAsia X",
    "published": "2026-10-11",
    "short": "Thai AirAsia X",
-   "sig": "{\"drawing\": \"1f320835ebb4\", \"focus\": [\"64\", \"65\", \"66\", \"68\"], \"held\": [], \"held_n\": 0, \"main\": [\"64\", \"65\", \"66\", \"68\"]}",
+   "sig": "{\"drawing\": \"93937bf13fdf\", \"focus\": [\"64\", \"65\", \"66\", \"68\"], \"held\": [], \"held_n\": 0, \"main\": [\"64\", \"65\", \"66\", \"68\"]}",
    "slug": "thai-airasia-x",
    "types": [
     "A330-300"
@@ -102743,7 +102743,7 @@
   },
   "thai-airways": {
    "airport_short": "NRT",
-   "changed": "2026-11-10",
+   "changed": "2026-11-11",
    "code": "TG",
    "data": "2026-10-06",
    "deps_day": 3.0,
@@ -102756,13 +102756,13 @@
     "44"
    ],
    "gone": false,
-   "hash": "4071e253c7a7",
+   "hash": "2dc6b647f7aa",
    "last_seen": "2026-10-05",
    "last_seen_str": "Oct 5, 2026",
    "name": "Thai Airways",
    "published": "2026-10-11",
    "short": "Thai Airways",
-   "sig": "{\"drawing\": \"1f320835ebb4\", \"focus\": [\"41\", \"42\", \"44\"], \"held\": [], \"held_n\": 0, \"main\": [\"41\", \"42\", \"44\"]}",
+   "sig": "{\"drawing\": \"93937bf13fdf\", \"focus\": [\"41\", \"42\", \"44\"], \"held\": [], \"held_n\": 0, \"main\": [\"41\", \"42\", \"44\"]}",
    "slug": "thai-airways",
    "types": [
     "777-300ER",
@@ -102773,7 +102773,7 @@
   },
   "thai-lion-air": {
    "airport_short": "NRT",
-   "changed": "2026-11-10",
+   "changed": "2026-11-11",
    "code": "SL",
    "data": "2026-10-06",
    "deps_day": 0.7,
@@ -102784,13 +102784,13 @@
     "12"
    ],
    "gone": false,
-   "hash": "aa30aa099e16",
+   "hash": "db2c9fc75317",
    "last_seen": "2026-10-05",
    "last_seen_str": "Oct 5, 2026",
    "name": "Thai Lion Air",
    "published": "2026-10-11",
    "short": "Thai Lion Air",
-   "sig": "{\"drawing\": \"1f320835ebb4\", \"focus\": [\"12\"], \"held\": [], \"held_n\": 0, \"main\": [\"12\"]}",
+   "sig": "{\"drawing\": \"93937bf13fdf\", \"focus\": [\"12\"], \"held\": [], \"held_n\": 0, \"main\": [\"12\"]}",
    "slug": "thai-lion-air",
    "types": [
     "737-900"
@@ -102799,7 +102799,7 @@
   },
   "thai-vietjet": {
    "airport_short": "NRT",
-   "changed": "2026-11-10",
+   "changed": "2026-11-11",
    "code": "VZ",
    "data": "2026-10-06",
    "deps_day": 1.0,
@@ -102812,13 +102812,13 @@
     "86"
    ],
    "gone": false,
-   "hash": "02aa5c4a1d99",
+   "hash": "5de57cd266f3",
    "last_seen": "2026-10-05",
    "last_seen_str": "Oct 5, 2026",
    "name": "Thai VietJet Air",
    "published": "2026-10-11",
    "short": "Thai VietJet",
-   "sig": "{\"drawing\": \"1f320835ebb4\", \"focus\": [\"81\", \"84\", \"86\"], \"held\": [], \"held_n\": 0, \"main\": [\"81\", \"84\", \"86\"]}",
+   "sig": "{\"drawing\": \"93937bf13fdf\", \"focus\": [\"81\", \"84\", \"86\"], \"held\": [], \"held_n\": 0, \"main\": [\"81\", \"84\", \"86\"]}",
    "slug": "thai-vietjet",
    "types": [
     "737 MAX 8"
@@ -102827,7 +102827,7 @@
   },
   "tigerair-taiwan": {
    "airport_short": "NRT",
-   "changed": "2026-11-10",
+   "changed": "2026-11-11",
    "code": "IT",
    "data": "2026-10-06",
    "deps_day": 3.0,
@@ -102842,13 +102842,13 @@
     "93"
    ],
    "gone": false,
-   "hash": "c0bfd4972974",
+   "hash": "baef1db446ef",
    "last_seen": "2026-10-05",
    "last_seen_str": "Oct 5, 2026",
    "name": "Tigerair Taiwan",
    "published": "2026-10-11",
    "short": "Tigerair Taiwan",
-   "sig": "{\"drawing\": \"1f320835ebb4\", \"focus\": [\"81\", \"91\", \"92\", \"93\"], \"held\": [], \"held_n\": 0, \"main\": [\"81\", \"91\", \"92\", \"93\"]}",
+   "sig": "{\"drawing\": \"93937bf13fdf\", \"focus\": [\"81\", \"91\", \"92\", \"93\"], \"held\": [], \"held_n\": 0, \"main\": [\"81\", \"91\", \"92\", \"93\"]}",
    "slug": "tigerair-taiwan",
    "types": [
     "A320",
@@ -102858,7 +102858,7 @@
   },
   "turkish-airlines": {
    "airport_short": "NRT",
-   "changed": "2026-11-10",
+   "changed": "2026-11-11",
    "code": "TK",
    "data": "2026-10-06",
    "deps_day": 1.3,
@@ -102869,13 +102869,13 @@
     "47"
    ],
    "gone": false,
-   "hash": "d04107033510",
+   "hash": "da4c0c297e8a",
    "last_seen": "2026-10-05",
    "last_seen_str": "Oct 5, 2026",
    "name": "Turkish Airlines",
    "published": "2026-10-11",
    "short": "Turkish Airlines",
-   "sig": "{\"drawing\": \"1f320835ebb4\", \"focus\": [\"47\"], \"held\": [], \"held_n\": 0, \"main\": [\"47\"]}",
+   "sig": "{\"drawing\": \"93937bf13fdf\", \"focus\": [\"47\"], \"held\": [], \"held_n\": 0, \"main\": [\"47\"]}",
    "slug": "turkish-airlines",
    "types": [
     "787-9",
@@ -102908,13 +102908,13 @@
     "38"
    ],
    "gone": false,
-   "hash": "c2d2a17c1042",
+   "hash": "efbcc43ffa95",
    "last_seen": "2026-11-11",
    "last_seen_str": "Nov 11, 2026",
    "name": "United Airlines",
    "published": "2026-10-11",
    "short": "United",
-   "sig": "{\"drawing\": \"1f320835ebb4\", \"focus\": [\"31\", \"32\", \"33\", \"34\", \"35\", \"36\", \"37\", \"38\", \"41\", \"45\"], \"held\": [\"31\", \"32\", \"34\", \"36\", \"37\"], \"held_n\": 5, \"main\": [\"31\", \"32\", \"33\", \"34\", \"35\", \"36\", \"37\", \"38\", \"41\", \"45\"]}",
+   "sig": "{\"drawing\": \"93937bf13fdf\", \"focus\": [\"31\", \"32\", \"33\", \"34\", \"35\", \"36\", \"37\", \"38\", \"41\", \"45\"], \"held\": [\"31\", \"32\", \"34\", \"36\", \"37\"], \"held_n\": 5, \"main\": [\"31\", \"32\", \"33\", \"34\", \"35\", \"36\", \"37\", \"38\", \"41\", \"45\"]}",
    "slug": "united",
    "types": [
     "737 MAX 8",
@@ -102925,7 +102925,7 @@
   },
   "vietjet": {
    "airport_short": "NRT",
-   "changed": "2026-11-10",
+   "changed": "2026-11-11",
    "code": "VJ",
    "data": "2026-10-06",
    "deps_day": 2.7,
@@ -102943,13 +102943,13 @@
     "99"
    ],
    "gone": false,
-   "hash": "7ffbda0bc970",
+   "hash": "b0d6cc740195",
    "last_seen": "2026-10-05",
    "last_seen_str": "Oct 5, 2026",
    "name": "VietJet Air",
    "published": "2026-10-11",
    "short": "VietJet",
-   "sig": "{\"drawing\": \"1f320835ebb4\", \"focus\": [\"81\", \"83\", \"84\", \"93\", \"95\", \"97\", \"99\"], \"held\": [], \"held_n\": 0, \"main\": [\"81\", \"83\", \"84\", \"93\", \"95\", \"97\", \"99\"]}",
+   "sig": "{\"drawing\": \"93937bf13fdf\", \"focus\": [\"81\", \"83\", \"84\", \"93\", \"95\", \"97\", \"99\"], \"held\": [], \"held_n\": 0, \"main\": [\"81\", \"83\", \"84\", \"93\", \"95\", \"97\", \"99\"]}",
    "slug": "vietjet",
    "types": [
     "A321neo",
@@ -102976,13 +102976,13 @@
     "26"
    ],
    "gone": false,
-   "hash": "ac829110990e",
+   "hash": "df4e4d79ee68",
    "last_seen": "2026-10-05",
    "last_seen_str": "Oct 5, 2026",
    "name": "Vietnam Airlines",
    "published": "2026-10-11",
    "short": "Vietnam Airlines",
-   "sig": "{\"drawing\": \"1f320835ebb4\", \"focus\": [\"21\", \"22\", \"24\", \"25\", \"26\"], \"held\": [], \"held_n\": 0, \"main\": [\"21\", \"22\", \"24\", \"25\", \"26\"]}",
+   "sig": "{\"drawing\": \"93937bf13fdf\", \"focus\": [\"21\", \"22\", \"24\", \"25\", \"26\"], \"held\": [], \"held_n\": 0, \"main\": [\"21\", \"22\", \"24\", \"25\", \"26\"]}",
    "slug": "vietnam-airlines",
    "types": [
     "787-10",
@@ -102993,7 +102993,7 @@
   },
   "westjet": {
    "airport_short": "NRT",
-   "changed": "2026-11-10",
+   "changed": "2026-11-11",
    "code": "WS",
    "data": "2026-10-06",
    "deps_day": 1.0,
@@ -103005,13 +103005,13 @@
     "15"
    ],
    "gone": false,
-   "hash": "85ebf671a5e5",
+   "hash": "3fc094106cd4",
    "last_seen": "2026-10-05",
    "last_seen_str": "Oct 5, 2026",
    "name": "WestJet",
    "published": "2026-10-11",
    "short": "WestJet",
-   "sig": "{\"drawing\": \"1f320835ebb4\", \"focus\": [\"14\", \"15\"], \"held\": [], \"held_n\": 0, \"main\": [\"14\", \"15\"]}",
+   "sig": "{\"drawing\": \"93937bf13fdf\", \"focus\": [\"14\", \"15\"], \"held\": [], \"held_n\": 0, \"main\": [\"14\", \"15\"]}",
    "slug": "westjet",
    "types": [
     "787-9"
@@ -103020,7 +103020,7 @@
   },
   "xiamenair": {
    "airport_short": "NRT",
-   "changed": "2026-11-10",
+   "changed": "2026-11-11",
    "code": "MF",
    "data": "2026-10-06",
    "deps_day": 2.0,
@@ -103036,13 +103036,13 @@
     "24"
    ],
    "gone": false,
-   "hash": "8b846d9dd38d",
+   "hash": "5b6dda77e2c4",
    "last_seen": "2026-11-10",
    "last_seen_str": "Nov 10, 2026",
    "name": "Xiamen Airlines",
    "published": "2026-10-11",
    "short": "XiamenAir",
-   "sig": "{\"drawing\": \"1f320835ebb4\", \"focus\": [\"15\", \"16\", \"21\", \"23\", \"24\"], \"held\": [], \"held_n\": 0, \"main\": [\"15\", \"16\", \"21\", \"23\", \"24\"]}",
+   "sig": "{\"drawing\": \"93937bf13fdf\", \"focus\": [\"15\", \"16\", \"21\", \"23\", \"24\"], \"held\": [], \"held_n\": 0, \"main\": [\"15\", \"16\", \"21\", \"23\", \"24\"]}",
    "slug": "xiamenair",
    "types": [
     "787-9",
@@ -103075,13 +103075,13 @@
     "25"
    ],
    "gone": false,
-   "hash": "15b2e5d33c8f",
+   "hash": "9b05345c19ea",
    "last_seen": "2026-11-11",
    "last_seen_str": "Nov 11, 2026",
    "name": "ZIPAIR",
    "published": "2026-10-11",
    "short": "ZIPAIR",
-   "sig": "{\"drawing\": \"1f320835ebb4\", \"focus\": [\"14\", \"15\", \"16\", \"18\", \"22\", \"23\", \"25\"], \"held\": [\"15\", \"16\", \"18\", \"21\"], \"held_n\": 4, \"main\": [\"14\", \"15\", \"16\", \"18\", \"22\", \"23\", \"25\"]}",
+   "sig": "{\"drawing\": \"93937bf13fdf\", \"focus\": [\"14\", \"15\", \"16\", \"18\", \"22\", \"23\", \"25\"], \"held\": [\"15\", \"16\", \"18\", \"21\"], \"held_n\": 4, \"main\": [\"14\", \"15\", \"16\", \"18\", \"22\", \"23\", \"25\"]}",
    "slug": "zipair",
    "types": [
     "787-8"
@@ -103336,13 +103336,13 @@
     "29"
    ],
    "gone": false,
-   "hash": "006faa10db8d",
+   "hash": "f8bae2723138",
    "last_seen": "2026-11-10",
    "last_seen_str": "Nov 10, 2026",
    "name": "Alaska Airlines",
    "published": "2026-10-07",
    "short": "Alaska",
-   "sig": "{\"drawing\": \"ee22bf0b0c66\", \"focus\": [\"13\", \"15\", \"17\", \"19\", \"21\", \"23\", \"27\", \"29\", \"33\", \"35\"], \"held\": [\"13\", \"15\", \"17\", \"19\", \"21\", \"23\", \"27\", \"29\"], \"held_n\": 8, \"main\": [\"13\", \"15\", \"17\", \"19\", \"21\", \"23\", \"27\", \"29\", \"33\", \"35\"]}",
+   "sig": "{\"drawing\": \"ee22bf0b0c66\", \"focus\": [\"13\", \"15\", \"17\", \"19\", \"21\", \"23\", \"27\", \"29\", \"33\", \"35\"], \"held\": [\"13\", \"15\", \"17\", \"19\", \"21\", \"23\", \"29\"], \"held_n\": 7, \"main\": [\"13\", \"15\", \"17\", \"19\", \"21\", \"23\", \"27\", \"29\", \"33\", \"35\"]}",
    "slug": "alaska",
    "types": [
     "717",
@@ -104868,13 +104868,13 @@
     "401"
    ],
    "gone": false,
-   "hash": "8f00b1ed76f3",
+   "hash": "5593e8f01498",
    "last_seen": "2026-10-19",
    "last_seen_str": "Oct 19, 2026",
    "name": "JetBlue",
    "published": "2026-10-07",
    "short": "JetBlue",
-   "sig": "{\"drawing\": \"855dd7ecbdb8\", \"focus\": [\"401\"], \"held\": [\"401\"], \"held_n\": 1, \"main\": [\"401\"]}",
+   "sig": "{\"drawing\": \"855dd7ecbdb8\", \"focus\": [\"401\"], \"held\": [], \"held_n\": 0, \"main\": [\"401\"]}",
    "slug": "jetblue",
    "types": [
     "A220-300"
@@ -105449,13 +105449,13 @@
     "G21"
    ],
    "gone": false,
-   "hash": "24616a4a3c17",
+   "hash": "010988aba4a7",
    "last_seen": "2026-11-10",
    "last_seen_str": "Nov 10, 2026",
    "name": "Contour Airlines",
    "published": "2026-10-05",
    "short": "Contour",
-   "sig": "{\"drawing\": \"c8059e635245\", \"focus\": [\"G1A\", \"G5\", \"G17\", \"G19\", \"G19A\", \"G20\", \"G\"], \"held\": [], \"held_n\": 0, \"main\": [\"G1A\", \"G5\", \"G13\", \"G17\", \"G19\", \"G19A\", \"G20\", \"G21\", \"G\"]}",
+   "sig": "{\"drawing\": \"c8059e635245\", \"focus\": [\"G5\", \"G17\", \"G19\", \"G19A\", \"G20\", \"G\"], \"held\": [], \"held_n\": 0, \"main\": [\"G1A\", \"G5\", \"G13\", \"G17\", \"G19\", \"G19A\", \"G20\", \"G21\", \"G\"]}",
    "slug": "contour",
    "types": [
     "CRJ-200",
@@ -106305,13 +106305,13 @@
     "E3"
    ],
    "gone": false,
-   "hash": "474dc116e358",
+   "hash": "b8f22eac02c2",
    "last_seen": "2026-11-11",
    "last_seen_str": "Nov 11, 2026",
    "name": "United Airlines",
    "published": "2026-10-05",
    "short": "United",
-   "sig": "{\"drawing\": \"c8059e635245\", \"focus\": [\"B1\", \"E1\", \"F1\", \"B2\", \"E2\", \"G2\", \"B3\", \"E3\", \"F3\", \"B4\", \"C4\", \"E4\", \"F4\", \"G4\", \"B5\", \"E5\", \"F5\", \"B6\", \"C6\", \"E6\", \"F6\", \"B7\", \"E7\", \"F7\", \"B8\", \"C8\", \"E8\", \"B9\", \"C9\", \"E9\", \"F9\", \"B10\", \"C10\", \"C10A\", \"E10\", \"F10\", \"B11\", \"C11\", \"E11\", \"F11\", \"B12\", \"E12\", \"F12\", \"G12\", \"B14\", \"E14\", \"F14\", \"C15\", \"E15\", \"F15\", \"B16\", \"C16\", \"E16\", \"F16\", \"B17\", \"C17\", \"E17\", \"F17\", \"B18\", \"C18\", \"C18A\", \"F18\", \"B19\", \"C19\", \"F19\", \"B20\", \"C20\", \"F20\", \"B21\", \"C21\", \"F21\", \"B22\", \"C22\", \"F22\", \"B23\", \"C23\", \"F23\", \"B24\", \"C24\", \"F24\", \"C25\", \"F25\", \"C26\", \"F26\", \"C27\", \"F27\", \"C28\", \"F28\", \"C29\", \"C30\", \"C31\", \"CHTR\"], \"held\": [\"B1\", \"E1\", \"F1\", \"B2\", \"E2\", \"G2\", \"B3\", \"E3\", \"F3\", \"B4\", \"C4\", \"E4\", \"F4\", \"G4\", \"B5\", \"E5\", \"F5\", \"B6\", \"C6\", \"E6\", \"F6\", \"B7\", \"E7\", \"F7\", \"B8\", \"C8\", \"E8\", \"B9\", \"C9\", \"E9\", \"F9\", \"B10\", \"C10\", \"E10\", \"F10\", \"B11\", \"C11\", \"E11\", \"F11\", \"B12\", \"E12\", \"F12\", \"G12\", \"B14\", \"E14\", \"F14\", \"C15\", \"E15\", \"F15\", \"B16\", \"C16\", \"E16\", \"F16\", \"B17\", \"C17\", \"E17\", \"F17\", \"B18\", \"C18\", \"F18\", \"B19\", \"C19\", \"F19\", \"B20\", \"C20\", \"F20\", \"B21\", \"C21\", \"F21\", \"B22\", \"C22\", \"F22\", \"B23\", \"C23\", \"F23\", \"B24\", \"C24\", \"F24\", \"C25\", \"F25\", \"C26\", \"F26\", \"C27\", \"F27\", \"C28\", \"F28\", \"C29\", \"C30\", \"C31\"], \"held_n\": 92, \"main\": [\"B1\", \"E1\", \"F1\", \"B2\", \"E2\", \"G2\", \"HCER2\", \"HCWR2\", \"B3\", \"E3\", \"F3\", \"B4\", \"C4\", \"E4\", \"F4\", \"G4\", \"HCWR4\", \"SR4\", \"B5\", \"E5\", \"F5\", \"NR5\", \"B6\", \"C6\", \"E6\", \"F6\", \"G6\", \"B7\", \"CD7B\", \"E7\", \"F7\", \"NR7\", \"NR7A\", \"B8\", \"C8\", \"E8\", \"SR8\", \"B9\", \"C9\", \"E9\", \"F9\", \"NR9\", \"B10\", \"C10\", \"C10A\", \"CD10\", \"E10\", \"F10\", \"B11\", \"C11\", \"E11\", \"F11\", \"NR11A\", \"B12\", \"E12\", \"F12\", \"G12\", \"SR12\", \"B14\", \"E14\", \"F14\", \"G14\", \"M14\", \"C15\", \"E15\", \"F15\", \"M15\", \"NR15\", \"B16\", \"C16\", \"E16\", \"F16\", \"M16\", \"B17\", \"C17\", \"E17\", \"F17\", \"M17\", \"B18\", \"C18\", \"C18A\", \"F18\", \"M18\", \"B19\", \"C19\", \"F19\", \"M19\", \"B20\", \"C20\", \"F20\", \"M20\", \"B21\", \"C21\", \"F21\", \"M21\", \"NR21\", \"B22\", \"C22\", \"F22\", \"B23\", \"C23\", \"F23\", \"NR23\", \"B24\", \"C24\", \"F24\", \"M24\", \"C25\", \"F25\", \"M25\", \"NR25\", \"C26\", \"F26\", \"M26\", \"C27\", \"F27\", \"M27\", \"C28\", \"F28\", \"M28\", \"C29\", \"C30\", \"M30\", \"C31\", \"M32\", \"M34\", \"M35\", \"M36\", \"NR37\", \"M38\", \"NR39\", \"M40\", \"CHTR\", \"SIG\"]}",
+   "sig": "{\"drawing\": \"c8059e635245\", \"focus\": [\"B1\", \"E1\", \"F1\", \"B2\", \"E2\", \"G2\", \"B3\", \"E3\", \"F3\", \"B4\", \"C4\", \"E4\", \"F4\", \"G4\", \"B5\", \"E5\", \"F5\", \"B6\", \"C6\", \"E6\", \"F6\", \"B7\", \"E7\", \"F7\", \"B8\", \"C8\", \"E8\", \"B9\", \"C9\", \"E9\", \"F9\", \"B10\", \"C10\", \"C10A\", \"E10\", \"F10\", \"B11\", \"C11\", \"E11\", \"F11\", \"B12\", \"E12\", \"F12\", \"G12\", \"B14\", \"E14\", \"F14\", \"C15\", \"E15\", \"F15\", \"B16\", \"C16\", \"E16\", \"F16\", \"B17\", \"C17\", \"E17\", \"F17\", \"B18\", \"C18\", \"C18A\", \"F18\", \"B19\", \"C19\", \"F19\", \"B20\", \"C20\", \"F20\", \"B21\", \"C21\", \"F21\", \"B22\", \"C22\", \"F22\", \"B23\", \"C23\", \"F23\", \"B24\", \"C24\", \"F24\", \"C25\", \"F25\", \"C26\", \"F26\", \"C27\", \"F27\", \"C28\", \"F28\", \"C29\", \"C30\", \"C31\", \"CHTR\"], \"held\": [\"B1\", \"E1\", \"F1\", \"B2\", \"E2\", \"G2\", \"B3\", \"E3\", \"F3\", \"B4\", \"C4\", \"E4\", \"F4\", \"G4\", \"B5\", \"E5\", \"F5\", \"B6\", \"C6\", \"E6\", \"F6\", \"B7\", \"E7\", \"F7\", \"B8\", \"C8\", \"E8\", \"B9\", \"C9\", \"E9\", \"F9\", \"B10\", \"C10\", \"E10\", \"F10\", \"B11\", \"C11\", \"E11\", \"F11\", \"B12\", \"E12\", \"F12\", \"G12\", \"B14\", \"E14\", \"F14\", \"C15\", \"E15\", \"F15\", \"B16\", \"C16\", \"E16\", \"F16\", \"B17\", \"C17\", \"E17\", \"F17\", \"B18\", \"C18\", \"F18\", \"B19\", \"C19\", \"F19\", \"B20\", \"C20\", \"F20\", \"B21\", \"C21\", \"F21\", \"B22\", \"C22\", \"F22\", \"B23\", \"C23\", \"F23\", \"B24\", \"C24\", \"F24\", \"C25\", \"F25\", \"C26\", \"F26\", \"C27\", \"F27\", \"C28\", \"F28\", \"C29\", \"C30\", \"C31\"], \"held_n\": 92, \"main\": [\"B1\", \"E1\", \"F1\", \"B2\", \"E2\", \"G2\", \"HCER2\", \"HCWR2\", \"B3\", \"E3\", \"F3\", \"B4\", \"C4\", \"E4\", \"F4\", \"G4\", \"HCWR4\", \"SR4\", \"B5\", \"E5\", \"F5\", \"NR5\", \"B6\", \"C6\", \"E6\", \"F6\", \"G6\", \"B7\", \"CD7B\", \"E7\", \"F7\", \"NR7\", \"NR7A\", \"B8\", \"C8\", \"E8\", \"SR8\", \"B9\", \"C9\", \"E9\", \"F9\", \"NR9\", \"NR9A\", \"B10\", \"C10\", \"C10A\", \"CD10\", \"E10\", \"F10\", \"B11\", \"C11\", \"E11\", \"F11\", \"NR11A\", \"B12\", \"E12\", \"F12\", \"G12\", \"SR12\", \"B14\", \"E14\", \"F14\", \"G14\", \"M14\", \"C15\", \"E15\", \"F15\", \"M15\", \"NR15\", \"B16\", \"C16\", \"E16\", \"F16\", \"M16\", \"B17\", \"C17\", \"E17\", \"F17\", \"M17\", \"B18\", \"C18\", \"C18A\", \"F18\", \"M18\", \"B19\", \"C19\", \"F19\", \"M19\", \"B20\", \"C20\", \"F20\", \"M20\", \"B21\", \"C21\", \"F21\", \"M21\", \"NR21\", \"B22\", \"C22\", \"F22\", \"B23\", \"C23\", \"F23\", \"NR23\", \"B24\", \"C24\", \"F24\", \"M24\", \"C25\", \"F25\", \"M25\", \"NR25\", \"C26\", \"F26\", \"M26\", \"C27\", \"F27\", \"M27\", \"C28\", \"F28\", \"M28\", \"C29\", \"C30\", \"M30\", \"C31\", \"NR31\", \"M32\", \"M34\", \"M35\", \"M36\", \"NR37\", \"M38\", \"NR39\", \"M40\", \"CHTR\", \"SIG\"]}",
    "slug": "united",
    "types": [
     "E175",
@@ -106383,13 +106383,13 @@
     "M21"
    ],
    "gone": false,
-   "hash": "eb1c4f6b63d2",
+   "hash": "a2736e51c058",
    "last_seen": "2026-11-10",
    "last_seen_str": "Nov 10, 2026",
    "name": "Volaris",
    "published": "2026-10-05",
    "short": "Volaris",
-   "sig": "{\"drawing\": \"c8059e635245\", \"focus\": [\"M14\", \"M15\", \"M16\", \"M17\", \"M18\", \"M19\", \"M20\", \"M21\", \"M25\", \"M27\", \"M28\", \"M32\"], \"held\": [], \"held_n\": 0, \"main\": [\"M14\", \"M15\", \"M16\", \"M17\", \"M18\", \"M19\", \"M20\", \"M21\", \"M24\", \"M25\", \"M27\", \"M28\", \"M32\"]}",
+   "sig": "{\"drawing\": \"c8059e635245\", \"focus\": [\"M14\", \"M15\", \"M16\", \"M17\", \"M18\", \"M19\", \"M20\", \"M21\", \"M25\", \"M26\", \"M27\", \"M28\"], \"held\": [], \"held_n\": 0, \"main\": [\"M14\", \"M15\", \"M16\", \"M17\", \"M18\", \"M19\", \"M20\", \"M21\", \"M24\", \"M25\", \"M26\", \"M27\", \"M28\", \"M32\"]}",
    "slug": "volaris",
    "types": [
     "A321neo",
@@ -116147,13 +116147,13 @@
     "B15"
    ],
    "gone": false,
-   "hash": "eb79a23a94e0",
+   "hash": "ef328bb973f3",
    "last_seen": "2026-11-11",
    "last_seen_str": "Nov 11, 2026",
    "name": "Delta Air Lines",
    "published": "2026-10-07",
    "short": "Delta",
-   "sig": "{\"drawing\": \"180d6c79ab14\", \"focus\": [\"B6\", \"B10\", \"B11\", \"B12\", \"A13\", \"B13\", \"B14\", \"B15\"], \"held\": [\"A5\", \"B6\", \"B10\", \"A11\", \"B11\", \"B12\", \"B13\", \"B14\", \"B15\"], \"held_n\": 9, \"main\": [\"B6\", \"B10\", \"B11\", \"B12\", \"A13\", \"B13\", \"B14\", \"B15\"]}",
+   "sig": "{\"drawing\": \"180d6c79ab14\", \"focus\": [\"B6\", \"B10\", \"B11\", \"B12\", \"A13\", \"B13\", \"B14\", \"B15\"], \"held\": [\"B6\", \"B10\", \"A11\", \"B11\", \"B12\", \"B13\", \"B14\", \"B15\"], \"held_n\": 8, \"main\": [\"B6\", \"B10\", \"B11\", \"B12\", \"A13\", \"B13\", \"B14\", \"B15\"]}",
    "slug": "delta",
    "types": [
     "A321",
@@ -118992,13 +118992,13 @@
     "N16"
    ],
    "gone": false,
-   "hash": "7875f2f5d1f9",
+   "hash": "ed1999643f29",
    "last_seen": "2026-10-24",
    "last_seen_str": "Oct 24, 2026",
    "name": "Aer Lingus",
    "published": "2026-10-06",
    "short": "Aer Lingus",
-   "sig": "{\"drawing\": \"1e30c44b77ad\", \"focus\": [\"S3\", \"S9\", \"A10\", \"S10\", \"S11\", \"N16\"], \"held\": [], \"held_n\": 0, \"main\": [\"S3\", \"S9\", \"A10\", \"S10\", \"S11\", \"N16\"]}",
+   "sig": "{\"drawing\": \"1e30c44b77ad\", \"focus\": [\"S3\", \"S9\", \"A10\", \"S11\", \"N16\"], \"held\": [], \"held_n\": 0, \"main\": [\"S3\", \"S9\", \"A10\", \"S11\", \"N16\"]}",
    "slug": "aer-lingus",
    "types": [
     "A330-200"
@@ -119060,13 +119060,13 @@
     "A7"
    ],
    "gone": false,
-   "hash": "ad7f3b847f8c",
+   "hash": "6203336df6aa",
    "last_seen": "2026-11-10",
    "last_seen_str": "Nov 10, 2026",
    "name": "Air Canada",
    "published": "2026-10-06",
    "short": "Air Canada",
-   "sig": "{\"drawing\": \"1e30c44b77ad\", \"focus\": [\"S1\", \"S2\", \"S3\", \"S5\", \"A6\", \"S6\", \"A7\", \"A8\"], \"held\": [], \"held_n\": 0, \"main\": [\"S1\", \"S1A\", \"S2\", \"S3\", \"S4\", \"S5\", \"A6\", \"S6\", \"A7\", \"A8\", \"S9\", \"S10\"]}",
+   "sig": "{\"drawing\": \"1e30c44b77ad\", \"focus\": [\"S1\", \"S1A\", \"S2\", \"S3\", \"S5\", \"A6\", \"S6\", \"A7\", \"A8\"], \"held\": [], \"held_n\": 0, \"main\": [\"S1\", \"S1A\", \"S2\", \"S3\", \"S4\", \"S5\", \"A6\", \"S6\", \"A7\", \"A8\", \"S9\", \"S10\"]}",
    "slug": "air-canada",
    "types": [
     "CRJ-900",
@@ -119091,13 +119091,13 @@
     "S15"
    ],
    "gone": false,
-   "hash": "62533492c2bf",
+   "hash": "1bba270c1e8f",
    "last_seen": "2026-11-10",
    "last_seen_str": "Nov 10, 2026",
    "name": "Air France",
    "published": "2026-10-06",
    "short": "Air France",
-   "sig": "{\"drawing\": \"1e30c44b77ad\", \"focus\": [\"S9\", \"A10\", \"S11\", \"S12\", \"S15\"], \"held\": [], \"held_n\": 0, \"main\": [\"S9\", \"A10\", \"S11\", \"S12\", \"S15\"]}",
+   "sig": "{\"drawing\": \"1e30c44b77ad\", \"focus\": [\"S9\", \"A10\", \"S12\", \"S15\"], \"held\": [], \"held_n\": 0, \"main\": [\"S9\", \"A10\", \"S12\", \"S15\"]}",
    "slug": "air-france",
    "types": [
     "A350-900"
@@ -119204,13 +119204,13 @@
     "S12"
    ],
    "gone": false,
-   "hash": "a421dfd6dac5",
+   "hash": "c6f674a30fb1",
    "last_seen": "2026-11-10",
    "last_seen_str": "Nov 10, 2026",
    "name": "All Nippon Airways (ANA)",
    "published": "2026-10-06",
    "short": "ANA",
-   "sig": "{\"drawing\": \"1e30c44b77ad\", \"focus\": [\"S3\", \"S7\", \"A8\", \"S8\", \"S9\", \"A10\", \"S10\", \"S11\", \"S12\"], \"held\": [], \"held_n\": 0, \"main\": [\"S3\", \"S7\", \"A8\", \"S8\", \"S9\", \"A10\", \"S10\", \"S11\", \"S12\"]}",
+   "sig": "{\"drawing\": \"1e30c44b77ad\", \"focus\": [\"S3\", \"S7\", \"A8\", \"S8\", \"S9\", \"S10\", \"S11\", \"S12\"], \"held\": [], \"held_n\": 0, \"main\": [\"S3\", \"S7\", \"A8\", \"S8\", \"S9\", \"S10\", \"S11\", \"S12\"]}",
    "slug": "ana",
    "types": [
     "787-9"
@@ -119456,13 +119456,13 @@
     "S16"
    ],
    "gone": false,
-   "hash": "01609d73b193",
+   "hash": "3aa26c682703",
    "last_seen": "2026-11-10",
    "last_seen_str": "Nov 10, 2026",
    "name": "EVA Air",
    "published": "2026-10-06",
    "short": "EVA Air",
-   "sig": "{\"drawing\": \"1e30c44b77ad\", \"focus\": [\"S11\", \"S12\", \"S15\", \"S16\"], \"held\": [], \"held_n\": 0, \"main\": [\"S11\", \"S12\", \"S15\", \"S16\"]}",
+   "sig": "{\"drawing\": \"1e30c44b77ad\", \"focus\": [\"S10\", \"S11\", \"S12\", \"S15\", \"S16\"], \"held\": [], \"held_n\": 0, \"main\": [\"S10\", \"S11\", \"S12\", \"S15\", \"S16\"]}",
    "slug": "eva-air",
    "types": [
     "787-10",
@@ -119493,13 +119493,13 @@
     "S11"
    ],
    "gone": false,
-   "hash": "c7286abe0956",
+   "hash": "1cdf534a3938",
    "last_seen": "2026-11-10",
    "last_seen_str": "Nov 10, 2026",
    "name": "Frontier Airlines",
    "published": "2026-10-06",
    "short": "Frontier",
-   "sig": "{\"drawing\": \"1e30c44b77ad\", \"focus\": [\"S1\", \"S1B\", \"S2\", \"S3\", \"S3A\", \"S4\", \"S4A\", \"S5\", \"S5A\", \"S8\", \"S8A\", \"N16\", \"D24\", \"C5L1\", \"C5L2\"], \"held\": [], \"held_n\": 2, \"main\": [\"S1\", \"S1B\", \"S2\", \"S3\", \"S3A\", \"S4\", \"S4A\", \"S5\", \"S5A\", \"S6\", \"S6A\", \"S8\", \"S8A\", \"S11\", \"N16\", \"D24\", \"D26\", \"C5L1\", \"C5L2\"]}",
+   "sig": "{\"drawing\": \"1e30c44b77ad\", \"focus\": [\"S1\", \"S1B\", \"S2\", \"S3\", \"S3A\", \"S4\", \"S4A\", \"S5\", \"S5A\", \"S8\", \"S8A\", \"N16\", \"D24\", \"C5L1\", \"C5L2\"], \"held\": [], \"held_n\": 1, \"main\": [\"S1\", \"S1B\", \"S2\", \"S3\", \"S3A\", \"S4\", \"S4A\", \"S5\", \"S5A\", \"S6\", \"S6A\", \"S8\", \"S8A\", \"S11\", \"N16\", \"D24\", \"C5L1\", \"C5L2\"]}",
    "slug": "frontier",
    "types": [
     "A320neo",
@@ -119591,13 +119591,13 @@
     "S12"
    ],
    "gone": false,
-   "hash": "ff11956b4a70",
+   "hash": "fc3bc3c977e0",
    "last_seen": "2026-11-10",
    "last_seen_str": "Nov 10, 2026",
    "name": "Japan Airlines",
    "published": "2026-10-06",
    "short": "Japan Airlines",
-   "sig": "{\"drawing\": \"1e30c44b77ad\", \"focus\": [\"S7\", \"S8\", \"S10\", \"S11\", \"S12\"], \"held\": [], \"held_n\": 0, \"main\": [\"S7\", \"S8\", \"S10\", \"S11\", \"S12\"]}",
+   "sig": "{\"drawing\": \"1e30c44b77ad\", \"focus\": [\"S7\", \"S8\", \"S9\", \"S10\", \"S11\", \"S12\"], \"held\": [], \"held_n\": 0, \"main\": [\"S7\", \"S8\", \"S9\", \"S10\", \"S11\", \"S12\"]}",
    "slug": "japan-airlines",
    "types": [
     "787-9"
@@ -119659,13 +119659,13 @@
     "S12"
    ],
    "gone": false,
-   "hash": "6f665de2c137",
+   "hash": "918edcba928a",
    "last_seen": "2026-11-10",
    "last_seen_str": "Nov 10, 2026",
    "name": "Korean Air",
    "published": "2026-10-06",
    "short": "Korean Air",
-   "sig": "{\"drawing\": \"1e30c44b77ad\", \"focus\": [\"S3\", \"S7\", \"A8\", \"S8\", \"S9\", \"A10\", \"S10\", \"S11\", \"S12\", \"S15\", \"S16\"], \"held\": [], \"held_n\": 0, \"main\": [\"S3\", \"S7\", \"A8\", \"S8\", \"S9\", \"A10\", \"S10\", \"S11\", \"S12\", \"S15\", \"S16\"]}",
+   "sig": "{\"drawing\": \"1e30c44b77ad\", \"focus\": [\"S3\", \"S7\", \"A8\", \"S8\", \"S9\", \"S10\", \"S11\", \"S12\", \"S15\", \"S16\"], \"held\": [], \"held_n\": 0, \"main\": [\"S3\", \"S7\", \"A8\", \"S8\", \"S9\", \"S10\", \"S11\", \"S12\", \"S15\", \"S16\"]}",
    "slug": "korean-air",
    "types": [
     "787-10",
@@ -119848,13 +119848,13 @@
     "B14"
    ],
    "gone": false,
-   "hash": "d0424a5c9fdc",
+   "hash": "1c2a4079013b",
    "last_seen": "2026-11-10",
    "last_seen_str": "Nov 10, 2026",
    "name": "Southwest Airlines",
    "published": "2026-10-06",
    "short": "Southwest",
-   "sig": "{\"drawing\": \"1e30c44b77ad\", \"focus\": [\"S9B\", \"B10\", \"B12\", \"B14\"], \"held\": [\"B10\", \"B12\", \"B14\"], \"held_n\": 4, \"main\": [\"DH1\", \"S1B\", \"DH2\", \"S2\", \"S3A\", \"S4A\", \"S5\", \"S6A\", \"S7A\", \"S8A\", \"S9A\", \"S9B\", \"B10\", \"S10A\", \"B12\", \"B14\"]}",
+   "sig": "{\"drawing\": \"1e30c44b77ad\", \"focus\": [\"S9B\", \"B10\", \"B12\", \"B14\"], \"held\": [\"B10\", \"B12\", \"B14\"], \"held_n\": 4, \"main\": [\"DH1\", \"S1B\", \"S2\", \"S3A\", \"S4A\", \"S5\", \"S6A\", \"S7A\", \"S8A\", \"S9A\", \"S9B\", \"B10\", \"S10A\", \"B12\", \"B14\"]}",
    "slug": "southwest",
    "types": [
     "737 MAX 8",
@@ -119881,13 +119881,13 @@
     "S16"
    ],
    "gone": false,
-   "hash": "99450e40dc1a",
+   "hash": "8812550ad8a9",
    "last_seen": "2026-11-10",
    "last_seen_str": "Nov 10, 2026",
    "name": "STARLUX Airlines",
    "published": "2026-10-06",
    "short": "STARLUX",
-   "sig": "{\"drawing\": \"1e30c44b77ad\", \"focus\": [\"S9\", \"A10\", \"S10\", \"S11\", \"S12\", \"S15\", \"S16\"], \"held\": [], \"held_n\": 0, \"main\": [\"S9\", \"A10\", \"S10\", \"S11\", \"S12\", \"S15\", \"S16\"]}",
+   "sig": "{\"drawing\": \"1e30c44b77ad\", \"focus\": [\"A10\", \"S10\", \"S11\", \"S12\", \"S15\", \"S16\"], \"held\": [], \"held_n\": 0, \"main\": [\"A10\", \"S10\", \"S11\", \"S12\", \"S15\", \"S16\"]}",
    "slug": "starlux",
    "types": [
     "A350-900"
@@ -119984,13 +119984,13 @@
     "A7"
    ],
    "gone": false,
-   "hash": "cabf04c7bdbf",
+   "hash": "86e31a842d03",
    "last_seen": "2026-11-10",
    "last_seen_str": "Nov 10, 2026",
    "name": "United Airlines",
    "published": "2026-10-06",
    "short": "United",
-   "sig": "{\"drawing\": \"1e30c44b77ad\", \"focus\": [\"MF2\", \"S5\", \"B7A\", \"B9\", \"B11\", \"B15\", \"B21\"], \"held\": [\"B7A\", \"B9\", \"B11\", \"B15\", \"B21\"], \"held_n\": 6, \"main\": [\"S1\", \"MF2\", \"S2\", \"CG3\", \"MF3\", \"S3\", \"S4\", \"S5\", \"A6\", \"S6\", \"A7\", \"B7A\", \"S7\", \"A8\", \"S8\", \"A9\", \"B9\", \"S9\", \"S9A\", \"A10\", \"B11\", \"S11\", \"S12\", \"B15\", \"S16\", \"D20\", \"B21\"]}",
+   "sig": "{\"drawing\": \"1e30c44b77ad\", \"focus\": [\"MF2\", \"B7A\", \"B9\", \"B11\", \"B15\", \"B21\"], \"held\": [\"B7A\", \"B9\", \"B11\", \"B15\", \"B21\"], \"held_n\": 6, \"main\": [\"S1\", \"MF2\", \"S2\", \"CG3\", \"MF3\", \"S3\", \"S4\", \"S5\", \"A6\", \"S6\", \"A7\", \"B7A\", \"S7\", \"A8\", \"S8\", \"A9\", \"B9\", \"S9\", \"S9A\", \"A10\", \"B11\", \"S12\", \"B15\", \"S16\", \"D20\", \"B21\"]}",
    "slug": "united",
    "types": [
     "737 MAX 9",
@@ -120084,13 +120084,13 @@
     "D26"
    ],
    "gone": false,
-   "hash": "6bd8f194560b",
+   "hash": "386d51eb3c64",
    "last_seen": "2026-11-10",
    "last_seen_str": "Nov 10, 2026",
    "name": "WestJet",
    "published": "2026-10-06",
    "short": "WestJet",
-   "sig": "{\"drawing\": \"1e30c44b77ad\", \"focus\": [\"S1\", \"S1A\", \"S1B\", \"S2\", \"S3\", \"S3A\", \"S4\", \"S4A\", \"S8A\", \"D24\", \"D26\", \"C5L1\", \"C5L3\"], \"held\": [], \"held_n\": 0, \"main\": [\"S1\", \"S1A\", \"S1B\", \"S2\", \"S3\", \"S3A\", \"S4\", \"S4A\", \"S8A\", \"D24\", \"D26\", \"C5L1\", \"C5L3\"]}",
+   "sig": "{\"drawing\": \"1e30c44b77ad\", \"focus\": [\"S1\", \"S1A\", \"S1B\", \"S2\", \"S3\", \"S3A\", \"S4\", \"S4A\", \"S6\", \"S8A\", \"D24\", \"D26\", \"C5L1\", \"C5L3\"], \"held\": [], \"held_n\": 0, \"main\": [\"S1\", \"S1A\", \"S1B\", \"S2\", \"S3\", \"S3A\", \"S4\", \"S4A\", \"S6\", \"S8A\", \"D24\", \"D26\", \"C5L1\", \"C5L3\"]}",
    "slug": "westjet",
    "types": [
     "737-700",
@@ -120189,13 +120189,13 @@
     "A15"
    ],
    "gone": false,
-   "hash": "27d18ec58774",
+   "hash": "830fbf93cf72",
    "last_seen": "2026-11-10",
    "last_seen_str": "Nov 10, 2026",
    "name": "Aerom\u00e9xico",
    "published": "2026-10-06",
    "short": "Aerom\u00e9xico",
-   "sig": "{\"drawing\": \"9629f18848fa\", \"focus\": [\"A4\", \"A5\", \"A12\", \"A15\"], \"held\": [], \"held_n\": 0, \"main\": [\"A4\", \"A5\", \"A9\", \"A12\", \"A15\"]}",
+   "sig": "{\"drawing\": \"9629f18848fa\", \"focus\": [\"A4\", \"A5\", \"A12\", \"A15\"], \"held\": [], \"held_n\": 0, \"main\": [\"A4\", \"A5\", \"A12\", \"A15\"]}",
    "slug": "aeromexico",
    "types": [
     "737 MAX 8",
@@ -120665,13 +120665,13 @@
     "A11"
    ],
    "gone": false,
-   "hash": "ad803303b32f",
+   "hash": "c72e68b40d90",
    "last_seen": "2026-11-10",
    "last_seen_str": "Nov 10, 2026",
    "name": "British Airways",
    "published": "2026-10-06",
    "short": "British Airways",
-   "sig": "{\"drawing\": \"9629f18848fa\", \"focus\": [\"A6\", \"A11\"], \"held\": [], \"held_n\": 0, \"main\": [\"A1\", \"A6\", \"A11\"]}",
+   "sig": "{\"drawing\": \"9629f18848fa\", \"focus\": [\"A11\"], \"held\": [], \"held_n\": 0, \"main\": [\"A1\", \"A6\", \"A11\"]}",
    "slug": "british-airways",
    "types": [
     "A380",
@@ -121441,13 +121441,13 @@
     "A12"
    ],
    "gone": false,
-   "hash": "da8e30f113a5",
+   "hash": "6efc754ffd04",
    "last_seen": "2026-11-08",
    "last_seen_str": "Nov 8, 2026",
    "name": "Qantas",
    "published": "2026-10-07",
    "short": "Qantas",
-   "sig": "{\"drawing\": \"9629f18848fa\", \"focus\": [\"A2\", \"A8\", \"A10\", \"A12\"], \"held\": [], \"held_n\": 0, \"main\": [\"A2\", \"A8\", \"A10\", \"A12\"]}",
+   "sig": "{\"drawing\": \"9629f18848fa\", \"focus\": [\"A2\", \"A10\", \"A12\"], \"held\": [], \"held_n\": 0, \"main\": [\"A2\", \"A10\", \"A12\"]}",
    "slug": "qantas",
    "types": [
     "787-9"
@@ -121534,13 +121534,13 @@
     "A9"
    ],
    "gone": false,
-   "hash": "20eaadf4c296",
+   "hash": "c1f619cf8e8b",
    "last_seen": "2026-11-10",
    "last_seen_str": "Nov 10, 2026",
    "name": "Singapore Airlines",
    "published": "2026-10-06",
    "short": "Singapore Airlines",
-   "sig": "{\"drawing\": \"9629f18848fa\", \"focus\": [\"A1\", \"A2\", \"A5\", \"A6\", \"G6\", \"A8\", \"A9\", \"G9\", \"A11\", \"A13\"], \"held\": [], \"held_n\": 0, \"main\": [\"A1\", \"A2\", \"A5\", \"A6\", \"G6\", \"A8\", \"A9\", \"G9\", \"A11\", \"A13\"]}",
+   "sig": "{\"drawing\": \"9629f18848fa\", \"focus\": [\"A1\", \"A2\", \"A5\", \"A6\", \"G6\", \"A8\", \"A9\", \"G9\", \"A11\", \"A13\"], \"held\": [], \"held_n\": 0, \"main\": [\"A1\", \"A2\", \"A5\", \"A6\", \"G6\", \"A8\", \"G8\", \"A9\", \"G9\", \"A11\", \"A13\"]}",
    "slug": "singapore-airlines",
    "types": [
     "A350-900"
@@ -122001,13 +122001,13 @@
     "3"
    ],
    "gone": false,
-   "hash": "5f08f2d2a62d",
+   "hash": "542156f7e64b",
    "last_seen": "2026-11-10",
    "last_seen_str": "Nov 10, 2026",
    "name": "Delta Air Lines",
    "published": "2026-10-08",
    "short": "Delta",
-   "sig": "{\"drawing\": \"8942c57fb200\", \"focus\": [\"1\"], \"held\": [\"1\"], \"held_n\": 1, \"main\": [\"1\"]}",
+   "sig": "{\"drawing\": \"8942c57fb200\", \"focus\": [\"1\"], \"held\": [\"1\"], \"held_n\": 1, \"main\": [\"1\", \"3\"]}",
    "slug": "delta",
    "types": [
     "717",
@@ -125948,13 +125948,13 @@
     "B12"
    ],
    "gone": false,
-   "hash": "8806e2a80de1",
+   "hash": "29c5f87b5d89",
    "last_seen": "2026-11-10",
    "last_seen_str": "Nov 10, 2026",
    "name": "Alaska Airlines",
    "published": "2026-10-06",
    "short": "Alaska",
-   "sig": "{\"drawing\": \"469033451cce\", \"focus\": [\"B2\", \"B4\", \"B6\", \"B8\"], \"held\": [\"B2\", \"B4\", \"B6\", \"B8\"], \"held_n\": 4, \"main\": [\"B2\", \"B4\", \"B6\", \"B8\", \"B10\", \"B12\"]}",
+   "sig": "{\"drawing\": \"469033451cce\", \"focus\": [\"B2\", \"B4\", \"B6\", \"B8\"], \"held\": [\"B4\", \"B6\", \"B8\"], \"held_n\": 3, \"main\": [\"B2\", \"B4\", \"B6\", \"B8\", \"B10\", \"B12\"]}",
    "slug": "alaska",
    "types": [
     "E175",
@@ -132478,13 +132478,13 @@
     "C9"
    ],
    "gone": false,
-   "hash": "a734cc9bd3ff",
+   "hash": "c6ac73314947",
    "last_seen": "2026-11-09",
    "last_seen_str": "Nov 9, 2026",
    "name": "UNI Air",
    "published": "2026-10-15",
    "short": "UNI Air",
-   "sig": "{\"drawing\": \"1e8f0790bfbc\", \"focus\": [\"C1\", \"C3\", \"C4\", \"C5\", \"C6\", \"C9\", \"D17\"], \"held\": [], \"held_n\": 0, \"main\": [\"C1\", \"C3\", \"C4\", \"C5\", \"C6\", \"C9\", \"D17\"]}",
+   "sig": "{\"drawing\": \"1e8f0790bfbc\", \"focus\": [\"C1\", \"C2\", \"C3\", \"C4\", \"C5\", \"C6\", \"C9\"], \"held\": [], \"held_n\": 0, \"main\": [\"C1\", \"C2\", \"C3\", \"C4\", \"C5\", \"C6\", \"C9\"]}",
    "slug": "uni-air",
    "types": [
     "777-300ER",
@@ -132966,13 +132966,13 @@
     "B4"
    ],
    "gone": false,
-   "hash": "6e5ac75ed8a8",
+   "hash": "1a843fbeaaea",
    "last_seen": "2026-11-11",
    "last_seen_str": "Nov 11, 2026",
    "name": "Alaska Airlines",
    "published": "2026-10-07",
    "short": "Alaska",
-   "sig": "{\"drawing\": \"45bc9650e004\", \"focus\": [\"B3\", \"B4\"], \"held\": [\"B3\"], \"held_n\": 1, \"main\": [\"B3\", \"B4\"]}",
+   "sig": "{\"drawing\": \"45bc9650e004\", \"focus\": [\"B3\", \"B4\"], \"held\": [\"B3\", \"B4\"], \"held_n\": 2, \"main\": [\"B3\", \"B4\"]}",
    "slug": "alaska",
    "types": [
     "E175",
@@ -136027,13 +136027,13 @@
     "D95"
    ],
    "gone": false,
-   "hash": "45f574c72500",
+   "hash": "2969aabc4f80",
    "last_seen": "2026-11-10",
    "last_seen_str": "Nov 10, 2026",
    "name": "United Airlines",
    "published": "2026-11-03",
    "short": "United",
-   "sig": "{\"drawing\": \"2b7bfcb476ce\", \"focus\": [\"D88\", \"D89\", \"D95\"], \"held\": [\"D88\"], \"held_n\": 1, \"main\": [\"D88\", \"D89\", \"D95\"]}",
+   "sig": "{\"drawing\": \"2b7bfcb476ce\", \"focus\": [\"D88\", \"D89\", \"D95\"], \"held\": [\"D88\", \"D89\"], \"held_n\": 2, \"main\": [\"D88\", \"D89\", \"D95\"]}",
    "slug": "united",
    "types": [
     "737-800",
@@ -136067,13 +136067,13 @@
     "A12"
    ],
    "gone": false,
-   "hash": "5153dc63d06e",
+   "hash": "80c87b2419ac",
    "last_seen": "2026-11-10",
    "last_seen_str": "Nov 10, 2026",
    "name": "WestJet",
    "published": "2026-11-03",
    "short": "WestJet",
-   "sig": "{\"drawing\": \"2b7bfcb476ce\", \"focus\": [\"A1\", \"A2\", \"A3\", \"A4\", \"A5\", \"A6\", \"A11\", \"A12\", \"A21\", \"A22\", \"A23\", \"A24\", \"C51\", \"C53\", \"C55\", \"C57\", \"C59\", \"D70\", \"D71\", \"D72\", \"D73\", \"D74\", \"D75\", \"D76\", \"D79\", \"D80\", \"D81\", \"D82\", \"D83\", \"D84\", \"D85\", \"D86\", \"D87\"], \"held\": [\"A1\", \"A2\", \"A3\", \"A4\", \"A5\", \"A6\", \"A11\", \"A21\", \"A22\", \"A23\", \"A24\", \"C51\", \"C53\", \"C55\", \"C57\", \"C59\", \"D70\", \"D71\", \"D72\", \"D73\", \"D74\", \"D75\", \"D76\", \"D79\", \"D80\", \"D81\", \"D82\", \"D83\", \"D84\", \"D85\", \"D86\", \"D87\"], \"held_n\": 32, \"main\": [\"A1\", \"A2\", \"A3\", \"A4\", \"A5\", \"A6\", \"A11\", \"A12\", \"A13\", \"A14\", \"A15\", \"A16\", \"A17\", \"A18\", \"A19\", \"A20\", \"A21\", \"A22\", \"A23\", \"A24\", \"C50\", \"C51\", \"C52\", \"C53\", \"C54\", \"C55\", \"C56\", \"C57\", \"C58\", \"C59\", \"D70\", \"D71\", \"D72\", \"D73\", \"D74\", \"D75\", \"D76\", \"D78\", \"D79\", \"D80\", \"D81\", \"D82\", \"D83\", \"D84\", \"D85\", \"D86\", \"D87\", \"D88\", \"D89\", \"D90\", \"D91\", \"D92\", \"D94\", \"D95\"]}",
+   "sig": "{\"drawing\": \"2b7bfcb476ce\", \"focus\": [\"A1\", \"A2\", \"A3\", \"A4\", \"A5\", \"A6\", \"A11\", \"A12\", \"A13\", \"A21\", \"A22\", \"A23\", \"A24\", \"C51\", \"C53\", \"C55\", \"C57\", \"C59\", \"D70\", \"D71\", \"D72\", \"D73\", \"D74\", \"D75\", \"D76\", \"D78\", \"D79\", \"D80\", \"D81\", \"D82\", \"D83\", \"D84\", \"D85\", \"D86\", \"D87\"], \"held\": [\"A1\", \"A2\", \"A3\", \"A4\", \"A5\", \"A6\", \"A11\", \"A21\", \"A22\", \"A23\", \"A24\", \"C51\", \"C53\", \"C55\", \"C57\", \"C59\", \"D70\", \"D71\", \"D72\", \"D73\", \"D74\", \"D75\", \"D76\", \"D79\", \"D80\", \"D81\", \"D82\", \"D83\", \"D84\", \"D85\", \"D86\", \"D87\"], \"held_n\": 32, \"main\": [\"A1\", \"A2\", \"A3\", \"A4\", \"A5\", \"A6\", \"A11\", \"A12\", \"A13\", \"A14\", \"A15\", \"A16\", \"A17\", \"A18\", \"A19\", \"A20\", \"A21\", \"A22\", \"A23\", \"A24\", \"C50\", \"C51\", \"C52\", \"C53\", \"C54\", \"C55\", \"C56\", \"C57\", \"C58\", \"C59\", \"D70\", \"D71\", \"D72\", \"D73\", \"D74\", \"D75\", \"D76\", \"D78\", \"D79\", \"D80\", \"D81\", \"D82\", \"D83\", \"D84\", \"D85\", \"D86\", \"D87\", \"D88\", \"D89\", \"D92\", \"D94\", \"D95\"]}",
    "slug": "westjet",
    "types": [
     "Q400",
@@ -136663,13 +136663,13 @@
     "A15"
    ],
    "gone": false,
-   "hash": "e2fab6aba72a",
+   "hash": "55cdd47d51c1",
    "last_seen": "2026-11-10",
    "last_seen_str": "Nov 10, 2026",
    "name": "Delta Air Lines",
    "published": "2026-10-12",
    "short": "Delta",
-   "sig": "{\"drawing\": \"b4cc2dce39ff\", \"focus\": [\"A6\", \"A7\", \"A8\", \"A9\", \"A12\", \"A13\", \"B17\", \"TBA\"], \"held\": [\"A6\"], \"held_n\": 2, \"main\": [\"A6\", \"A7\", \"A8\", \"A9\", \"A11\", \"A12\", \"A13\", \"A15\", \"B17\", \"TBA\"]}",
+   "sig": "{\"drawing\": \"b4cc2dce39ff\", \"focus\": [\"A6\", \"A7\", \"A8\", \"A9\", \"A13\", \"B17\", \"TBA\"], \"held\": [\"A6\"], \"held_n\": 2, \"main\": [\"A6\", \"A7\", \"A8\", \"A9\", \"A11\", \"A12\", \"A13\", \"A15\", \"B17\", \"TBA\"]}",
    "slug": "delta",
    "types": [
     "CRJ-900",
