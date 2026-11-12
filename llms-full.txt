@@ -17,6 +17,7 @@ How we count: a gate is an airline's when that airline (including its regional p
 - JetBlue at ACK: shared gates; 4/day; https://chockwise.com/airports/ack/jetblue
 - United at ACV: 1 gate; 6/day; https://chockwise.com/airports/acv/united
 - Alaska at ACV: shared gates; 1/day; https://chockwise.com/airports/acv/alaska
+- Breeze at ACV: shared gates; under 1/week; https://chockwise.com/airports/acv/breeze
 - American at AEX: 2 gates; 3/day; https://chockwise.com/airports/aex/american
 - United at AEX: 1 gate; 2/day; https://chockwise.com/airports/aex/united
 - Ryanair at AGP: shared gates; 83/day; https://chockwise.com/airports/agp/ryanair
@@ -81,7 +82,7 @@ How we count: a gate is an airline's when that airline (including its regional p
 - United at ALB: 4 gates, Concourse A; 9-10/day; https://chockwise.com/airports/alb/united
 - Delta at ALB: 3 gates, Concourse B; 8/day; https://chockwise.com/airports/alb/delta
 - Allegiant at ALB: 1 gate, Concourse A; 2-3/day; https://chockwise.com/airports/alb/allegiant
-- JetBlue at ALB: 1 gate, Concourse B; 2/day; https://chockwise.com/airports/alb/jetblue
+- JetBlue at ALB: 2 gates, Concourse B; 2/day; https://chockwise.com/airports/alb/jetblue
 - Breeze at ALB: shared gates; 1/day; https://chockwise.com/airports/alb/breeze
 - KLM at AMS: 38 gates, Terminal 1; 354/day; https://chockwise.com/airports/ams/klm
 - Transavia NL at AMS: shared gates; 47/day; https://chockwise.com/airports/ams/transavia-nl
@@ -164,7 +165,7 @@ How we count: a gate is an airline's when that airline (including its regional p
 - Enter Air at AMS: shared gates; 1/week; https://chockwise.com/airports/ams/enter-air
 - Alaska at ANC: 12 gates, Terminal S; 50/day; https://chockwise.com/airports/anc/alaska
 - Grant Aviation at ANC: shared gates; 9/day; https://chockwise.com/airports/anc/grant-aviation
-- Delta at ANC: 3 gates, Terminal S; 7-8/day; https://chockwise.com/airports/anc/delta
+- Delta at ANC: 2 gates, Terminal S; 7-8/day; https://chockwise.com/airports/anc/delta
 - Aleutian Airways at ANC: shared gates; 4-5/day; https://chockwise.com/airports/anc/aleutian-airways
 - United at ANC: 1 gate, Terminal S; 2/day; https://chockwise.com/airports/anc/united
 - American at ANC: 1 gate, Terminal S; 1-2/day; https://chockwise.com/airports/anc/american
@@ -311,9 +312,9 @@ How we count: a gate is an airline's when that airline (including its regional p
 - Sun Country at ATL: shared gates; 3-4/week; https://chockwise.com/airports/atl/sun-country
 - Ethiopian at ATL: shared gates; under 1/week; https://chockwise.com/airports/atl/ethiopian
 - Delta at ATW: 2 gates; 7-8/day; https://chockwise.com/airports/atw/delta
-- United at ATW: 2 gates; 6/day; https://chockwise.com/airports/atw/united
+- United at ATW: 2 gates; 6-7/day; https://chockwise.com/airports/atw/united
 - American at ATW: 2 gates; 5/day; https://chockwise.com/airports/atw/american
-- Allegiant at ATW: 1 gate; 4-5/day; https://chockwise.com/airports/atw/allegiant
+- Allegiant at ATW: 1 gate; 2-3/day; https://chockwise.com/airports/atw/allegiant
 - Etihad at AUH: 33 gates, Terminal A; 132/day; https://chockwise.com/airports/auh/etihad
 - IndiGo at AUH: shared gates; 14/day; https://chockwise.com/airports/auh/indigo
 - Air India Express at AUH: shared gates; 6-7/day; https://chockwise.com/airports/auh/air-india-express
@@ -332,7 +333,7 @@ How we count: a gate is an airline's when that airline (including its regional p
 - Saudia at AUH: shared gates; 1/day; https://chockwise.com/airports/auh/saudia
 - Aeroflot at AUH: shared gates; 1/day; https://chockwise.com/airports/auh/aeroflot
 - Southwest at AUS: 10 gates, Terminal 1; 116/day; https://chockwise.com/airports/aus/southwest
-- Delta at AUS: 11 gates; 58/day; https://chockwise.com/airports/aus/delta
+- Delta at AUS: 10 gates; 58/day; https://chockwise.com/airports/aus/delta
 - American at AUS: 5 gates; 38/day; https://chockwise.com/airports/aus/american
 - United at AUS: 5 gates; 36/day; https://chockwise.com/airports/aus/united
 - Alaska at AUS: 1 gate; 9/day; https://chockwise.com/airports/aus/alaska
@@ -349,6 +350,7 @@ How we count: a gate is an airline's when that airline (including its regional p
 - United at AVL: shared gates; 5/day; https://chockwise.com/airports/avl/united
 - American at AVP: 2 gates; 5-6/day; https://chockwise.com/airports/avp/american
 - United at AVP: 1 gate; 4/day; https://chockwise.com/airports/avp/united
+- Breeze at AVP: 1 gate; 2-3/week; https://chockwise.com/airports/avp/breeze
 - Vueling at BCN: 17 gates, Terminal 1; 194/day; https://chockwise.com/airports/bcn/vueling
 - Ryanair at BCN: 4 gates, Terminal 2; 88/day; https://chockwise.com/airports/bcn/ryanair
 - Iberia at BCN: 1 gate, Terminal 1; 32/day; https://chockwise.com/airports/bcn/iberia
@@ -437,7 +439,7 @@ How we count: a gate is an airline's when that airline (including its regional p
 - American at BDL: 5 gates; 21/day; https://chockwise.com/airports/bdl/american
 - Southwest at BDL: 3 gates; 13/day; https://chockwise.com/airports/bdl/southwest
 - Delta at BDL: 4 gates; 13/day; https://chockwise.com/airports/bdl/delta
-- United at BDL: 4 gates; 11/day; https://chockwise.com/airports/bdl/united
+- United at BDL: 3 gates; 11/day; https://chockwise.com/airports/bdl/united
 - Breeze at BDL: 5 gates, Terminal C; 10/day; https://chockwise.com/airports/bdl/breeze
 - JetBlue at BDL: 4 gates; 6-7/day; https://chockwise.com/airports/bdl/jetblue
 - Frontier at BDL: shared gates; 1-2/day; https://chockwise.com/airports/bdl/frontier
@@ -514,6 +516,8 @@ How we count: a gate is an airline's when that airline (including its regional p
 - UR Airlines at BER: shared gates; 1/week; https://chockwise.com/airports/ber/ur-airlines
 - Air Algérie at BER: shared gates; 1/week; https://chockwise.com/airports/ber/air-algerie
 - Iberia Express at BER: shared gates; under 1/week; https://chockwise.com/airports/ber/iberia-express
+- United at BFL: 2 gates; 4-5/day; https://chockwise.com/airports/bfl/united
+- American at BFL: 2 gates; 4-5/day; https://chockwise.com/airports/bfl/american
 - American at BGR: 2 gates; 11/day; https://chockwise.com/airports/bgr/american
 - Delta at BGR: 1 gate; 4/day; https://chockwise.com/airports/bgr/delta
 - United at BGR: 2 gates; 3/day; https://chockwise.com/airports/bgr/united
@@ -797,6 +801,7 @@ How we count: a gate is an airline's when that airline (including its regional p
 - LEVEL at BOS: shared gates; under 1/week; https://chockwise.com/airports/bos/level
 - United at BRO: 2 gates; 4/day; https://chockwise.com/airports/bro/united
 - American at BRO: 1 gate; 3-4/day; https://chockwise.com/airports/bro/american
+- Breeze at BRO: shared gates; under 1/week; https://chockwise.com/airports/bro/breeze
 - Brussels Airlines at BRU: 26 gates, Concourse A; 91/day; https://chockwise.com/airports/bru/brussels-airlines
 - KLM at BRU: shared gates; 4/day; https://chockwise.com/airports/bru/klm
 - Austrian at BRU: shared gates; 3-4/day; https://chockwise.com/airports/bru/austrian
@@ -824,7 +829,7 @@ How we count: a gate is an airline's when that airline (including its regional p
 - Southwest at BUF: 4 gates; 17/day; https://chockwise.com/airports/buf/southwest
 - Delta at BUF: 5 gates; 17/day; https://chockwise.com/airports/buf/delta
 - United at BUF: 4 gates; 12/day; https://chockwise.com/airports/buf/united
-- JetBlue at BUF: 4 gates; 10/day; https://chockwise.com/airports/buf/jetblue
+- JetBlue at BUF: 3 gates; 10/day; https://chockwise.com/airports/buf/jetblue
 - Frontier at BUF: 1 gate; 1/day; https://chockwise.com/airports/buf/frontier
 - Southwest at BUR: 6 gates; 50/day; https://chockwise.com/airports/bur/southwest
 - Alaska at BUR: 2 gates; 13/day; https://chockwise.com/airports/bur/alaska
@@ -833,28 +838,32 @@ How we count: a gate is an airline's when that airline (including its regional p
 - American at BUR: 1 gate; 3-4/day; https://chockwise.com/airports/bur/american
 - JetBlue at BUR: shared gates; 1/day; https://chockwise.com/airports/bur/jetblue
 - Breeze at BUR: shared gates; 5-6/week; https://chockwise.com/airports/bur/breeze
-- Southwest at BWI: 36 gates, Concourse A; 202/day; https://chockwise.com/airports/bwi/southwest
-- Delta at BWI: 7 gates, Concourse D; 18/day; https://chockwise.com/airports/bwi/delta
-- American at BWI: 5 gates, Concourse C; 15/day; https://chockwise.com/airports/bwi/american
-- Frontier at BWI: 4 gates, Concourse D; 14/day; https://chockwise.com/airports/bwi/frontier
-- United at BWI: 5 gates, Concourse D; 13/day; https://chockwise.com/airports/bwi/united
-- JetBlue at BWI: 1 gate, Terminal D; 2-3/day; https://chockwise.com/airports/bwi/jetblue
-- Alaska at BWI: 1 gate, Concourse D; 2/day; https://chockwise.com/airports/bwi/alaska
-- Icelandair at BWI: shared gates; 1-2/day; https://chockwise.com/airports/bwi/icelandair
-- Contour at BWI: shared gates; 1-2/day; https://chockwise.com/airports/bwi/contour
+- Southwest at BWI: 37 gates, Concourse A; 200/day; https://chockwise.com/airports/bwi/southwest
+- Delta at BWI: 6 gates, Concourse D; 17/day; https://chockwise.com/airports/bwi/delta
+- American at BWI: 5 gates, Concourse C; 14/day; https://chockwise.com/airports/bwi/american
+- Frontier at BWI: 4 gates, Concourse D; 12/day; https://chockwise.com/airports/bwi/frontier
+- United at BWI: 5 gates, Concourse D; 12/day; https://chockwise.com/airports/bwi/united
+- JetBlue at BWI: 1 gate, Terminal D; 4/day; https://chockwise.com/airports/bwi/jetblue
+- Alaska at BWI: 1 gate, Concourse D; 1-2/day; https://chockwise.com/airports/bwi/alaska
+- Icelandair at BWI: shared gates; 1/day; https://chockwise.com/airports/bwi/icelandair
 - British Airways at BWI: 1 gate, Concourse E; 1/day; https://chockwise.com/airports/bwi/british-airways
-- Copa at BWI: shared gates; 1/day; https://chockwise.com/airports/bwi/copa
+- Contour at BWI: shared gates; 1/day; https://chockwise.com/airports/bwi/contour
+- Breeze at BWI: 1 gate, Concourse E; 6-7/week; https://chockwise.com/airports/bwi/breeze
+- BermudAir at BWI: shared gates; 4/week; https://chockwise.com/airports/bwi/bermudair
+- Copa at BWI: shared gates; 4/week; https://chockwise.com/airports/bwi/copa
+- Sun Country at BWI: shared gates; 3/week; https://chockwise.com/airports/bwi/sun-country
+- Avelo at BWI: shared gates; 3/week; https://chockwise.com/airports/bwi/avelo
 - Delta at BZN: 2 gates, Concourse A; 8/day; https://chockwise.com/airports/bzn/delta
 - United at BZN: 2 gates, Concourse B; 8/day; https://chockwise.com/airports/bzn/united
 - Alaska at BZN: 1 gate, Concourse B; 4/day; https://chockwise.com/airports/bzn/alaska
-- Southwest at BZN: 2 gates, Concourse B; 3/day; https://chockwise.com/airports/bzn/southwest
+- Southwest at BZN: 2 gates, Concourse B; 3-4/day; https://chockwise.com/airports/bzn/southwest
 - American at BZN: 1 gate, Concourse B; 1-2/day; https://chockwise.com/airports/bzn/american
-- Allegiant at BZN: shared gates; under 1/week; https://chockwise.com/airports/bzn/allegiant
+- Allegiant at BZN: shared gates; 1-2/week; https://chockwise.com/airports/bzn/allegiant
 - American at CAE: 5 gates; 20/day; https://chockwise.com/airports/cae/american
 - Delta at CAE: 3 gates; 10/day; https://chockwise.com/airports/cae/delta
 - United at CAE: 1 gate; 6/day; https://chockwise.com/airports/cae/united
 - American at CAK: 2 gates; 7-8/day; https://chockwise.com/airports/cak/american
-- Breeze at CAK: 1 gate; 4-5/day; https://chockwise.com/airports/cak/breeze
+- Breeze at CAK: 3 gates; 4-5/day; https://chockwise.com/airports/cak/breeze
 - United at CAK: 2 gates; 4/day; https://chockwise.com/airports/cak/united
 - Allegiant at CAK: 1 gate; 1-2/day; https://chockwise.com/airports/cak/allegiant
 - Garuda at CGK: 12 gates, Terminal 3; 102/day; https://chockwise.com/airports/cgk/garuda
@@ -916,24 +925,24 @@ How we count: a gate is an airline's when that airline (including its regional p
 - 9 Air at CGK: shared gates; 1-2/week; https://chockwise.com/airports/cgk/9-air
 - BASe Airlines at CGK: shared gates; under 1/week; https://chockwise.com/airports/cgk/base-airlines
 - AirBorneo at CGK: shared gates; under 1/week; https://chockwise.com/airports/cgk/airborneo
-- American at CHA: 3 gates; 14/day; https://chockwise.com/airports/cha/american
-- Delta at CHA: 3 gates; 12/day; https://chockwise.com/airports/cha/delta
-- United at CHA: 2 gates; 7/day; https://chockwise.com/airports/cha/united
-- Allegiant at CHA: shared gates; 1-2/day; https://chockwise.com/airports/cha/allegiant
+- American at CHA: 2 gates; 12/day; https://chockwise.com/airports/cha/american
+- Delta at CHA: 3 gates; 10/day; https://chockwise.com/airports/cha/delta
+- United at CHA: 2 gates; 5-6/day; https://chockwise.com/airports/cha/united
+- Allegiant at CHA: shared gates; 3-4/week; https://chockwise.com/airports/cha/allegiant
 - American at CHO: 3 gates; 8-9/day; https://chockwise.com/airports/cho/american
 - United at CHO: 2 gates; 7-8/day; https://chockwise.com/airports/cho/united
 - Delta at CHO: 2 gates; 4/day; https://chockwise.com/airports/cho/delta
 - American at CHS: 4 gates, Concourse B; 26/day; https://chockwise.com/airports/chs/american
 - Delta at CHS: 3 gates, Concourse A; 22/day; https://chockwise.com/airports/chs/delta
 - United at CHS: 3 gates, Concourse B; 15/day; https://chockwise.com/airports/chs/united
-- Breeze at CHS: 2 gates, Concourse A; 15/day; https://chockwise.com/airports/chs/breeze
+- Breeze at CHS: 3 gates, Concourse A; 15/day; https://chockwise.com/airports/chs/breeze
 - Southwest at CHS: 1 gate, Concourse B; 11/day; https://chockwise.com/airports/chs/southwest
-- JetBlue at CHS: 1 gate, Terminal 1; 4/day; https://chockwise.com/airports/chs/jetblue
+- JetBlue at CHS: shared gates; 4/day; https://chockwise.com/airports/chs/jetblue
 - Alaska at CHS: shared gates; 1/day; https://chockwise.com/airports/chs/alaska
 - American at CID: 5 gates; 13/day; https://chockwise.com/airports/cid/american
 - United at CID: 5 gates; 8-9/day; https://chockwise.com/airports/cid/united
-- Delta at CID: 2 gates; 4-5/day; https://chockwise.com/airports/cid/delta
-- Allegiant at CID: shared gates; 2-3/day; https://chockwise.com/airports/cid/allegiant
+- Delta at CID: 2 gates; 4/day; https://chockwise.com/airports/cid/delta
+- Allegiant at CID: shared gates; 5-6/week; https://chockwise.com/airports/cid/allegiant
 - Korean Air at CJU: shared gates; 42/day; https://chockwise.com/airports/cju/korean-air
 - Jeju Air at CJU: 1 gate; 38/day; https://chockwise.com/airports/cju/jeju-air
 - T'way at CJU: shared gates; 35/day; https://chockwise.com/airports/cju/t-way
@@ -955,14 +964,15 @@ How we count: a gate is an airline's when that airline (including its regional p
 - Beijing Capital at CJU: shared gates; 2-3/week; https://chockwise.com/airports/cju/beijing-capital
 - China West Air at CJU: shared gates; 1-2/week; https://chockwise.com/airports/cju/china-west-air
 - Qingdao Airlines at CJU: shared gates; under 1/week; https://chockwise.com/airports/cju/qingdao-airlines
-- United at CLE: 12 gates, Concourse C; 34/day; https://chockwise.com/airports/cle/united
-- American at CLE: 9 gates, Concourse C; 32/day; https://chockwise.com/airports/cle/american
-- Delta at CLE: 8 gates, Concourse B; 28/day; https://chockwise.com/airports/cle/delta
-- Southwest at CLE: 5 gates, Concourse B; 16/day; https://chockwise.com/airports/cle/southwest
-- Frontier at CLE: 4 gates, Concourse A; 14/day; https://chockwise.com/airports/cle/frontier
+- United at CLE: 11 gates, Concourse C; 36/day; https://chockwise.com/airports/cle/united
+- American at CLE: 9 gates, Concourse C; 33/day; https://chockwise.com/airports/cle/american
+- Delta at CLE: 7 gates, Concourse B; 27/day; https://chockwise.com/airports/cle/delta
+- Southwest at CLE: 5 gates, Concourse B; 15/day; https://chockwise.com/airports/cle/southwest
+- Frontier at CLE: 4 gates, Concourse A; 12/day; https://chockwise.com/airports/cle/frontier
 - JetBlue at CLE: 2 gates, Concourse A; 4-5/day; https://chockwise.com/airports/cle/jetblue
-- Air Canada at CLE: shared gates; 2-3/day; https://chockwise.com/airports/cle/air-canada
 - Alaska at CLE: 1 gate, Concourse A; 1/day; https://chockwise.com/airports/cle/alaska
+- Air Canada at CLE: shared gates; 6-7/week; https://chockwise.com/airports/cle/air-canada
+- Avelo at CLE: shared gates; 4-5/week; https://chockwise.com/airports/cle/avelo
 - American at CLT: 100 gates, Concourse E; 643/day; https://chockwise.com/airports/clt/american
 - Delta at CLT: 7 gates, Concourse A; 28/day; https://chockwise.com/airports/clt/delta
 - United at CLT: 5 gates, Concourse A; 18/day; https://chockwise.com/airports/clt/united
@@ -982,11 +992,11 @@ How we count: a gate is an airline's when that airline (including its regional p
 - Air Canada at CMH: shared gates; 3/day; https://chockwise.com/airports/cmh/air-canada
 - Frontier at CMH: 1 gate, Concourse C; 1-2/day; https://chockwise.com/airports/cmh/frontier
 - Alaska at CMH: 1 gate, Concourse C; 1/day; https://chockwise.com/airports/cmh/alaska
-- United at COS: 3 gates; 17/day; https://chockwise.com/airports/cos/united
-- Southwest at COS: 4 gates, Terminal 1; 13/day; https://chockwise.com/airports/cos/southwest
-- American at COS: 2 gates; 6-7/day; https://chockwise.com/airports/cos/american
+- United at COS: 3 gates; 16/day; https://chockwise.com/airports/cos/united
+- Southwest at COS: 4 gates, Terminal 1; 10/day; https://chockwise.com/airports/cos/southwest
+- American at COS: 2 gates; 6/day; https://chockwise.com/airports/cos/american
 - Delta at COS: 1 gate; 4/day; https://chockwise.com/airports/cos/delta
-- Allegiant at COS: shared gates; 1/day; https://chockwise.com/airports/cos/allegiant
+- Allegiant at COS: shared gates; 1-2/week; https://chockwise.com/airports/cos/allegiant
 - American at COU: 1 gate; 7/day; https://chockwise.com/airports/cou/american
 - United at COU: 2 gates; 3-4/day; https://chockwise.com/airports/cou/united
 - SAS at CPH: 24 gates, Terminal 3; 182/day; https://chockwise.com/airports/cph/sas
@@ -1095,25 +1105,25 @@ How we count: a gate is an airline's when that airline (including its regional p
 - Thai VietJet at CTS: shared gates; 3/week; https://chockwise.com/airports/cts/thai-vietjet
 - AirAsia X at CTS: shared gates; 2-3/week; https://chockwise.com/airports/cts/airasia-x
 - Cebu Pacific at CTS: shared gates; 1/week; https://chockwise.com/airports/cts/cebu-pacific
-- Delta at CVG: 15 gates, Concourse B; 45/day; https://chockwise.com/airports/cvg/delta
-- American at CVG: 8 gates, Concourse B; 33/day; https://chockwise.com/airports/cvg/american
-- United at CVG: 13 gates, Concourse A; 21/day; https://chockwise.com/airports/cvg/united
-- Allegiant at CVG: 4 gates, Concourse A; 12/day; https://chockwise.com/airports/cvg/allegiant
-- Southwest at CVG: 2 gates, Concourse A; 9/day; https://chockwise.com/airports/cvg/southwest
-- Frontier at CVG: 3 gates, Concourse A; 7-8/day; https://chockwise.com/airports/cvg/frontier
-- Air Canada at CVG: shared gates; 2-3/day; https://chockwise.com/airports/cvg/air-canada
-- Breeze at CVG: 1 gate, Concourse B; 2/day; https://chockwise.com/airports/cvg/breeze
+- Delta at CVG: 15 gates, Concourse B; 44/day; https://chockwise.com/airports/cvg/delta
+- American at CVG: 9 gates, Concourse B; 31/day; https://chockwise.com/airports/cvg/american
+- United at CVG: 10 gates, Concourse A; 22/day; https://chockwise.com/airports/cvg/united
+- Southwest at CVG: 2 gates, Concourse A; 8-9/day; https://chockwise.com/airports/cvg/southwest
+- Allegiant at CVG: 4 gates, Concourse A; 6-7/day; https://chockwise.com/airports/cvg/allegiant
+- Frontier at CVG: 2 gates, Concourse A; 5-6/day; https://chockwise.com/airports/cvg/frontier
+- Breeze at CVG: 1 gate, Concourse B; 1-2/day; https://chockwise.com/airports/cvg/breeze
 - Alaska at CVG: 1 gate, Concourse A; 1/day; https://chockwise.com/airports/cvg/alaska
+- Air Canada at CVG: shared gates; 4/week; https://chockwise.com/airports/cvg/air-canada
 - Delta at DAB: 1 gate; 4/day; https://chockwise.com/airports/dab/delta
 - American at DAB: 2 gates; 3-4/day; https://chockwise.com/airports/dab/american
 - Breeze at DAB: shared gates; under 1/week; https://chockwise.com/airports/dab/breeze
 - Southwest at DAL: 19 gates, Terminal 1; 185/day; https://chockwise.com/airports/dal/southwest
 - Delta at DAL: 1 gate, Terminal 1; 5/day; https://chockwise.com/airports/dal/delta
-- American at DAY: 5 gates, Concourse A; 15/day; https://chockwise.com/airports/day/american
+- American at DAY: 5 gates, Concourse A; 14/day; https://chockwise.com/airports/day/american
 - United at DAY: 3 gates, Concourse B; 8-9/day; https://chockwise.com/airports/day/united
-- Delta at DAY: 1 gate, Concourse B; 4/day; https://chockwise.com/airports/day/delta
-- Allegiant at DAY: 1 gate, Concourse A; 1/day; https://chockwise.com/airports/day/allegiant
-- Breeze at DAY: shared gates; 1-2/week; https://chockwise.com/airports/day/breeze
+- Delta at DAY: 1 gate, Concourse B; 3-4/day; https://chockwise.com/airports/day/delta
+- Allegiant at DAY: 1 gate, Concourse A; 3-4/week; https://chockwise.com/airports/day/allegiant
+- Breeze at DAY: 1 gate, Concourse A; 1-2/week; https://chockwise.com/airports/day/breeze
 - American at DCA: 36 gates, Terminal 2; 244/day; https://chockwise.com/airports/dca/american
 - Delta at DCA: 7 gates, Terminal 2; 54/day; https://chockwise.com/airports/dca/delta
 - Southwest at DCA: 7 gates, Terminal 1; 40/day; https://chockwise.com/airports/dca/southwest
@@ -1288,27 +1298,29 @@ How we count: a gate is an airline's when that airline (including its regional p
 - Animawings at DPS: shared gates; under 1/week; https://chockwise.com/airports/dps/animawings
 - Air China at DPS: shared gates; under 1/week; https://chockwise.com/airports/dps/air-china
 - United at DRO: 4 gates; 6/day; https://chockwise.com/airports/dro/united
-- American at DRO: 1 gate; 3-4/day; https://chockwise.com/airports/dro/american
+- American at DRO: 1 gate; 4-5/day; https://chockwise.com/airports/dro/american
 - American at DSM: 3 gates; 18/day; https://chockwise.com/airports/dsm/american
 - United at DSM: 3 gates; 13/day; https://chockwise.com/airports/dsm/united
 - Delta at DSM: 2 gates; 12/day; https://chockwise.com/airports/dsm/delta
 - Southwest at DSM: 1 gate; 5-6/day; https://chockwise.com/airports/dsm/southwest
 - Allegiant at DSM: 2 gates; 5-6/day; https://chockwise.com/airports/dsm/allegiant
 - Frontier at DSM: shared gates; 4-5/week; https://chockwise.com/airports/dsm/frontier
-- Delta at DTW: 79 gates, Terminal M; 332/day; https://chockwise.com/airports/dtw/delta
-- American at DTW: 9 gates, Terminal E; 26/day; https://chockwise.com/airports/dtw/american
-- United at DTW: 9 gates, Terminal E; 24/day; https://chockwise.com/airports/dtw/united
-- Frontier at DTW: 3 gates, Concourse D; 14/day; https://chockwise.com/airports/dtw/frontier
+- Delta at DTW: 79 gates, Terminal M; 311/day; https://chockwise.com/airports/dtw/delta
+- American at DTW: 9 gates, Terminal E; 28/day; https://chockwise.com/airports/dtw/american
+- United at DTW: 9 gates, Terminal E; 23/day; https://chockwise.com/airports/dtw/united
+- Frontier at DTW: 3 gates, Concourse D; 15/day; https://chockwise.com/airports/dtw/frontier
 - Southwest at DTW: 3 gates, Terminal E; 13/day; https://chockwise.com/airports/dtw/southwest
 - JetBlue at DTW: 3 gates, Terminal E; 6-7/day; https://chockwise.com/airports/dtw/jetblue
-- Air Canada at DTW: shared gates; 3/day; https://chockwise.com/airports/dtw/air-canada
-- WestJet at DTW: shared gates; 2/day; https://chockwise.com/airports/dtw/westjet
-- Alaska at DTW: 1 gate, Terminal E; 2/day; https://chockwise.com/airports/dtw/alaska
 - Aeroméxico Connect at DTW: shared gates; 1-2/day; https://chockwise.com/airports/dtw/aeromexico-connect
-- Air France at DTW: shared gates; 1/day; https://chockwise.com/airports/dtw/air-france
 - Turkish Airlines at DTW: shared gates; 1/day; https://chockwise.com/airports/dtw/turkish-airlines
+- Air Canada at DTW: shared gates; 1/day; https://chockwise.com/airports/dtw/air-canada
+- Alaska at DTW: 1 gate, Terminal E; 1/day; https://chockwise.com/airports/dtw/alaska
 - Lufthansa at DTW: shared gates; 1/day; https://chockwise.com/airports/dtw/lufthansa
-- Royal Jordanian at DTW: shared gates; 4-5/week; https://chockwise.com/airports/dtw/royal-jordanian
+- Sun Country at DTW: shared gates; 5-6/week; https://chockwise.com/airports/dtw/sun-country
+- Air France at DTW: shared gates; 4-5/week; https://chockwise.com/airports/dtw/air-france
+- Volaris at DTW: shared gates; 4/week; https://chockwise.com/airports/dtw/volaris
+- Royal Jordanian at DTW: shared gates; 3/week; https://chockwise.com/airports/dtw/royal-jordanian
+- Avelo at DTW: shared gates; 1-2/week; https://chockwise.com/airports/dtw/avelo
 - Ryanair at DUB: 17 gates, Terminal 1; 136/day; https://chockwise.com/airports/dub/ryanair
 - Aer Lingus at DUB: 18 gates, Terminal 2; 86/day; https://chockwise.com/airports/dub/aer-lingus
 - Aer Lingus Regional at DUB: 5 gates, Terminal 2; 33/day; https://chockwise.com/airports/dub/aer-lingus-regional
@@ -1412,16 +1424,17 @@ How we count: a gate is an airline's when that airline (including its regional p
 - Frontier at ELP: 1 gate, Concourse B; 2/day; https://chockwise.com/airports/elp/frontier
 - Delta at ELP: 1 gate, Concourse B; 2/day; https://chockwise.com/airports/elp/delta
 - Alaska at ELP: shared gates; 1/day; https://chockwise.com/airports/elp/alaska
-- Alaska at EUG: 2 gates, Concourse A; 14/day; https://chockwise.com/airports/eug/alaska
+- Alaska at EUG: 1 gate, Concourse B; 14/day; https://chockwise.com/airports/eug/alaska
 - Delta at EUG: 2 gates, Concourse B; 6/day; https://chockwise.com/airports/eug/delta
 - Southwest at EUG: 1 gate, Concourse A; 5-6/day; https://chockwise.com/airports/eug/southwest
 - United at EUG: 2 gates, Concourse A; 5-6/day; https://chockwise.com/airports/eug/united
-- American at EUG: shared gates; 1-2/day; https://chockwise.com/airports/eug/american
+- American at EUG: 1 gate, Concourse A; 1-2/day; https://chockwise.com/airports/eug/american
 - Allegiant at EUG: shared gates; 4-5/week; https://chockwise.com/airports/eug/allegiant
 - American at EVV: 3 gates, Concourse B; 7-8/day; https://chockwise.com/airports/evv/american
 - Delta at EVV: 1 gate, Concourse A; 3-4/day; https://chockwise.com/airports/evv/delta
 - Allegiant at EVV: 1 gate, Concourse B; 1-2/week; https://chockwise.com/airports/evv/allegiant
 - American at EWN: 2 gates; 5/day; https://chockwise.com/airports/ewn/american
+- Breeze at EWN: 1 gate; under 1/week; https://chockwise.com/airports/ewn/breeze
 - United at EWR: 78 gates, Terminal C; 390/day; https://chockwise.com/airports/ewr/united
 - Delta at EWR: 2 gates, Terminal A; 25/day; https://chockwise.com/airports/ewr/delta
 - American at EWR: 3 gates, Terminal A; 21/day; https://chockwise.com/airports/ewr/american
@@ -1456,47 +1469,55 @@ How we count: a gate is an airline's when that airline (including its regional p
 - Volaris El Salvador at EWR: shared gates; 3/week; https://chockwise.com/airports/ewr/volaris-el-salvador
 - Iberia at EWR: shared gates; 2-3/week; https://chockwise.com/airports/ewr/iberia
 - Breeze at EWR: shared gates; 2/week; https://chockwise.com/airports/ewr/breeze
+- American at EYW: 4 gates; 10/day; https://chockwise.com/airports/eyw/american
+- Delta at EYW: 1 gate; 3-4/day; https://chockwise.com/airports/eyw/delta
+- United at EYW: 1 gate; 2/day; https://chockwise.com/airports/eyw/united
+- Breeze at EYW: shared gates; 1-2/day; https://chockwise.com/airports/eyw/breeze
+- JetBlue at EYW: 1 gate, Terminal MAIN; 4-5/week; https://chockwise.com/airports/eyw/jetblue
+- Allegiant at EYW: shared gates; 1-2/week; https://chockwise.com/airports/eyw/allegiant
 - United at FAR: 2 gates; 8/day; https://chockwise.com/airports/far/united
 - Delta at FAR: 2 gates; 7-8/day; https://chockwise.com/airports/far/delta
 - American at FAR: 1 gate; 6/day; https://chockwise.com/airports/far/american
 - Allegiant at FAR: shared gates; 1-2/day; https://chockwise.com/airports/far/allegiant
-- United at FAT: 4 gates; 11/day; https://chockwise.com/airports/fat/united
-- Alaska at FAT: 2 gates; 10/day; https://chockwise.com/airports/fat/alaska
+- United at FAT: 3 gates; 11/day; https://chockwise.com/airports/fat/united
 - American at FAT: 1 gate; 8-9/day; https://chockwise.com/airports/fat/american
+- Alaska at FAT: 1 gate; 7/day; https://chockwise.com/airports/fat/alaska
 - Southwest at FAT: 1 gate; 6/day; https://chockwise.com/airports/fat/southwest
-- Delta at FAT: shared gates; 4/day; https://chockwise.com/airports/fat/delta
-- Volaris at FAT: shared gates; 3-4/day; https://chockwise.com/airports/fat/volaris
-- Allegiant at FAT: shared gates; 2/day; https://chockwise.com/airports/fat/allegiant
+- Delta at FAT: shared gates; 3-4/day; https://chockwise.com/airports/fat/delta
+- Allegiant at FAT: shared gates; 1-2/day; https://chockwise.com/airports/fat/allegiant
+- Volaris at FAT: shared gates; 1/day; https://chockwise.com/airports/fat/volaris
 - American at FAY: 2 gates; 5-6/day; https://chockwise.com/airports/fay/american
 - Delta at FAY: 1 gate; 3-4/day; https://chockwise.com/airports/fay/delta
 - United at FCA: 1 gate; 4/day; https://chockwise.com/airports/fca/united
 - Delta at FCA: 1 gate; 4/day; https://chockwise.com/airports/fca/delta
 - Alaska at FCA: 1 gate; 3/day; https://chockwise.com/airports/fca/alaska
 - American at FCA: 1 gate; 5/week; https://chockwise.com/airports/fca/american
-- JetBlue at FLL: 26 gates, Terminal 3; 101/day; https://chockwise.com/airports/fll/jetblue
-- Delta at FLL: 9 gates, Terminal 2; 32/day; https://chockwise.com/airports/fll/delta
-- Southwest at FLL: 6 gates, Terminal 1; 29/day; https://chockwise.com/airports/fll/southwest
-- United at FLL: 6 gates, Terminal 1; 24/day; https://chockwise.com/airports/fll/united
-- American at FLL: 5 gates, Terminal 3; 21/day; https://chockwise.com/airports/fll/american
-- Allegiant at FLL: 3 gates, Terminal 1; 18/day; https://chockwise.com/airports/fll/allegiant
-- Frontier at FLL: 3 gates, Terminal 1; 16/day; https://chockwise.com/airports/fll/frontier
-- Breeze at FLL: shared gates; 9/day; https://chockwise.com/airports/fll/breeze
-- Avianca at FLL: shared gates; 5/day; https://chockwise.com/airports/fll/avianca
-- Air Canada Rouge at FLL: shared gates; 4/day; https://chockwise.com/airports/fll/air-canada-rouge
-- Bahamasair at FLL: shared gates; 3-4/day; https://chockwise.com/airports/fll/bahamasair
-- Porter at FLL: shared gates; 2/day; https://chockwise.com/airports/fll/porter
+- JetBlue at FLL: 25 gates, Terminal 3; 119/day; https://chockwise.com/airports/fll/jetblue
+- Delta at FLL: 8 gates, Terminal 2; 36/day; https://chockwise.com/airports/fll/delta
+- Southwest at FLL: 6 gates, Terminal 1; 33/day; https://chockwise.com/airports/fll/southwest
+- United at FLL: 6 gates, Terminal 1; 31/day; https://chockwise.com/airports/fll/united
+- American at FLL: 5 gates, Terminal 3; 25/day; https://chockwise.com/airports/fll/american
+- Frontier at FLL: 3 gates, Terminal 1; 14/day; https://chockwise.com/airports/fll/frontier
+- Allegiant at FLL: 3 gates, Terminal 1; 12/day; https://chockwise.com/airports/fll/allegiant
+- Breeze at FLL: 1 gate, Terminal 1; 8-9/day; https://chockwise.com/airports/fll/breeze
+- Air Canada at FLL: shared gates; 5/day; https://chockwise.com/airports/fll/air-canada
+- Bahamasair at FLL: shared gates; 3/day; https://chockwise.com/airports/fll/bahamasair
+- Porter at FLL: shared gates; 3/day; https://chockwise.com/airports/fll/porter
+- Avianca at FLL: shared gates; 2-3/day; https://chockwise.com/airports/fll/avianca
+- Air Canada Rouge at FLL: shared gates; 2-3/day; https://chockwise.com/airports/fll/air-canada-rouge
 - Western Air at FLL: shared gates; 2/day; https://chockwise.com/airports/fll/western-air
-- Avelo at FLL: shared gates; 1-2/day; https://chockwise.com/airports/fll/avelo
-- Alaska at FLL: shared gates; 1/day; https://chockwise.com/airports/fll/alaska
-- Copa at FLL: shared gates; 1/day; https://chockwise.com/airports/fll/copa
+- WestJet at FLL: shared gates; 2/day; https://chockwise.com/airports/fll/westjet
 - Azul at FLL: shared gates; 1/day; https://chockwise.com/airports/fll/azul
-- WestJet at FLL: shared gates; 4-5/week; https://chockwise.com/airports/fll/westjet
-- Caribbean Airlines at FLL: shared gates; 4-5/week; https://chockwise.com/airports/fll/caribbean-airlines
-- Contour at FLL: shared gates; 4-5/week; https://chockwise.com/airports/fll/contour
+- Copa at FLL: shared gates; 1/day; https://chockwise.com/airports/fll/copa
+- Avelo at FLL: shared gates; 1/day; https://chockwise.com/airports/fll/avelo
+- Alaska at FLL: shared gates; 6-7/week; https://chockwise.com/airports/fll/alaska
+- Caribbean Airlines at FLL: shared gates; 3/week; https://chockwise.com/airports/fll/caribbean-airlines
+- Contour at FLL: shared gates; 3/week; https://chockwise.com/airports/fll/contour
+- Sun Country at FLL: shared gates; 2-3/week; https://chockwise.com/airports/fll/sun-country
 - Lufthansa at FRA: 21 gates, Terminal 1; 287/day; https://chockwise.com/airports/fra/lufthansa
 - Condor at FRA: 3 gates, Terminal 1; 78/day; https://chockwise.com/airports/fra/condor
 - Air Dolomiti at FRA: shared gates; 44/day; https://chockwise.com/airports/fra/air-dolomiti
-- Discover at FRA: 2 gates, Terminal 1; 29/day; https://chockwise.com/airports/fra/discover
+- Discover at FRA: 3 gates, Terminal 1; 29/day; https://chockwise.com/airports/fra/discover
 - Lufthansa City at FRA: shared gates; 21/day; https://chockwise.com/airports/fra/lufthansa-city
 - SunExpress at FRA: shared gates; 11/day; https://chockwise.com/airports/fra/sunexpress
 - Austrian at FRA: shared gates; 10/day; https://chockwise.com/airports/fra/austrian
@@ -1568,7 +1589,7 @@ How we count: a gate is an airline's when that airline (including its regional p
 - Air Algérie at FRA: shared gates; 4-5/week; https://chockwise.com/airports/fra/air-algerie
 - United at FSD: 2 gates; 9-10/day; https://chockwise.com/airports/fsd/united
 - American at FSD: 1 gate; 9/day; https://chockwise.com/airports/fsd/american
-- Delta at FSD: 2 gates; 6/day; https://chockwise.com/airports/fsd/delta
+- Delta at FSD: 1 gate; 6/day; https://chockwise.com/airports/fsd/delta
 - Allegiant at FSD: shared gates; 2/day; https://chockwise.com/airports/fsd/allegiant
 - ANA at FUK: shared gates; 46/day; https://chockwise.com/airports/fuk/ana
 - Japan Airlines at FUK: shared gates; 42/day; https://chockwise.com/airports/fuk/japan-airlines
@@ -1613,8 +1634,8 @@ How we count: a gate is an airline's when that airline (including its regional p
 - VietJet at FUK: shared gates; 4/week; https://chockwise.com/airports/fuk/vietjet
 - Thai VietJet at FUK: shared gates; 1-2/week; https://chockwise.com/airports/fuk/thai-vietjet
 - American at FWA: 3 gates; 10/day; https://chockwise.com/airports/fwa/american
-- United at FWA: 2 gates; 6/day; https://chockwise.com/airports/fwa/united
-- Delta at FWA: 1 gate; 6/day; https://chockwise.com/airports/fwa/delta
+- United at FWA: 1 gate; 6/day; https://chockwise.com/airports/fwa/united
+- Delta at FWA: 2 gates; 6/day; https://chockwise.com/airports/fwa/delta
 - Allegiant at FWA: shared gates; 3/day; https://chockwise.com/airports/fwa/allegiant
 - Alaska at GEG: 7 gates, Concourse C; 22/day; https://chockwise.com/airports/geg/alaska
 - Delta at GEG: 5 gates, Concourse B; 18/day; https://chockwise.com/airports/geg/delta
@@ -1622,10 +1643,17 @@ How we count: a gate is an airline's when that airline (including its regional p
 - United at GEG: 2 gates, Concourse B; 5-6/day; https://chockwise.com/airports/geg/united
 - American at GEG: 2 gates, Concourse C; 5/day; https://chockwise.com/airports/geg/american
 - Allegiant at GEG: shared gates; 4-5/week; https://chockwise.com/airports/geg/allegiant
+- United at GJT: 2 gates; 6-7/day; https://chockwise.com/airports/gjt/united
+- American at GJT: 2 gates; 4-5/day; https://chockwise.com/airports/gjt/american
+- Breeze at GJT: shared gates; under 1/week; https://chockwise.com/airports/gjt/breeze
 - American at GNV: 3 gates; 8/day; https://chockwise.com/airports/gnv/american
 - Delta at GNV: 2 gates; 4-5/day; https://chockwise.com/airports/gnv/delta
+- American at GPT: 2 gates; 6/day; https://chockwise.com/airports/gpt/american
+- Delta at GPT: 1 gate; 3-4/day; https://chockwise.com/airports/gpt/delta
+- United at GPT: 1 gate; 3/day; https://chockwise.com/airports/gpt/united
+- Breeze at GPT: 1 gate; 5-6/week; https://chockwise.com/airports/gpt/breeze
 - United at GRB: 3 gates, Concourse A; 6/day; https://chockwise.com/airports/grb/united
-- Delta at GRB: 5 gates, Concourse B; 5/day; https://chockwise.com/airports/grb/delta
+- Delta at GRB: 5 gates, Concourse B; 5-6/day; https://chockwise.com/airports/grb/delta
 - American at GRB: 1 gate, Concourse A; 4-5/day; https://chockwise.com/airports/grb/american
 - American at GRK: 2 gates; 5/day; https://chockwise.com/airports/grk/american
 - American at GRR: 6 gates, Concourse A; 16/day; https://chockwise.com/airports/grr/american
@@ -1886,11 +1914,11 @@ How we count: a gate is an airline's when that airline (including its regional p
 - JetBlue at HPN: shared gates; 13/day; https://chockwise.com/airports/hpn/jetblue
 - Delta at HPN: shared gates; 6/day; https://chockwise.com/airports/hpn/delta
 - Breeze at HPN: shared gates; 3/day; https://chockwise.com/airports/hpn/breeze
-- American at HSV: 4 gates; 17/day; https://chockwise.com/airports/hsv/american
-- Delta at HSV: 4 gates; 12/day; https://chockwise.com/airports/hsv/delta
-- United at HSV: 4 gates; 12/day; https://chockwise.com/airports/hsv/united
-- Breeze at HSV: shared gates; 1-2/day; https://chockwise.com/airports/hsv/breeze
-- Allegiant at HSV: shared gates; 1/day; https://chockwise.com/airports/hsv/allegiant
+- American at HSV: 4 gates; 15/day; https://chockwise.com/airports/hsv/american
+- United at HSV: 3 gates; 11/day; https://chockwise.com/airports/hsv/united
+- Delta at HSV: 4 gates; 8-9/day; https://chockwise.com/airports/hsv/delta
+- Breeze at HSV: shared gates; 2/day; https://chockwise.com/airports/hsv/breeze
+- Allegiant at HSV: shared gates; 3-4/week; https://chockwise.com/airports/hsv/allegiant
 - United at IAD: 80 gates, Concourse D; 263/day; https://chockwise.com/airports/iad/united
 - Delta at IAD: 4 gates, Concourse B; 17/day; https://chockwise.com/airports/iad/delta
 - American at IAD: 3 gates, Concourse B; 8-9/day; https://chockwise.com/airports/iad/american
@@ -2046,13 +2074,18 @@ How we count: a gate is an airline's when that airline (including its regional p
 - SWISS at ICN: shared gates; 1-2/week; https://chockwise.com/airports/icn/swiss
 - Turkmenistan Airlines at ICN: shared gates; 1/week; https://chockwise.com/airports/icn/turkmenistan-airlines
 - United at ICT: 3 gates; 14/day; https://chockwise.com/airports/ict/united
-- American at ICT: 3 gates; 13/day; https://chockwise.com/airports/ict/american
-- Southwest at ICT: 2 gates; 5-6/day; https://chockwise.com/airports/ict/southwest
+- American at ICT: 3 gates; 12/day; https://chockwise.com/airports/ict/american
 - Delta at ICT: 2 gates; 5-6/day; https://chockwise.com/airports/ict/delta
-- Alaska at ICT: shared gates; 1/day; https://chockwise.com/airports/ict/alaska
+- Southwest at ICT: 2 gates; 4/day; https://chockwise.com/airports/ict/southwest
+- Alaska at ICT: shared gates; 6-7/week; https://chockwise.com/airports/ict/alaska
+- Allegiant at ICT: shared gates; 3/week; https://chockwise.com/airports/ict/allegiant
+- United at IDA: 1 gate, Concourse B; 4/day; https://chockwise.com/airports/ida/united
+- American at IDA: 1 gate, Concourse B; 3/day; https://chockwise.com/airports/ida/american
+- Alaska at IDA: 1 gate, Concourse A; 2/day; https://chockwise.com/airports/ida/alaska
+- Allegiant at IDA: 1 gate, Concourse A; 4/week; https://chockwise.com/airports/ida/allegiant
 - American at ILM: 5 gates; 25/day; https://chockwise.com/airports/ilm/american
 - Delta at ILM: 1 gate; 7/day; https://chockwise.com/airports/ilm/delta
-- Breeze at ILM: shared gates; 3-4/day; https://chockwise.com/airports/ilm/breeze
+- Breeze at ILM: 1 gate; 3-4/day; https://chockwise.com/airports/ilm/breeze
 - United at ILM: 1 gate; 2/day; https://chockwise.com/airports/ilm/united
 - Avelo at ILM: shared gates; 1-2/day; https://chockwise.com/airports/ilm/avelo
 - JetBlue at ILM: shared gates; 1/day; https://chockwise.com/airports/ilm/jetblue
@@ -2065,7 +2098,7 @@ How we count: a gate is an airline's when that airline (including its regional p
 - Alaska at IND: 1 gate, Concourse A; 2/day; https://chockwise.com/airports/ind/alaska
 - Air Canada at IND: shared gates; 1-2/day; https://chockwise.com/airports/ind/air-canada
 - Aer Lingus at IND: shared gates; 4-5/week; https://chockwise.com/airports/ind/aer-lingus
-- Southwest at ISP: 2 gates, Concourse A; 6-7/day; https://chockwise.com/airports/isp/southwest
+- Southwest at ISP: 3 gates, Concourse A; 6-7/day; https://chockwise.com/airports/isp/southwest
 - Breeze at ISP: 1 gate, Terminal MAIN; 4/day; https://chockwise.com/airports/isp/breeze
 - JetBlue at ISP: 1 gate, Terminal MAIN; 3-4/day; https://chockwise.com/airports/isp/jetblue
 - Frontier at ISP: shared gates; 1/day; https://chockwise.com/airports/isp/frontier
@@ -2145,7 +2178,7 @@ How we count: a gate is an airline's when that airline (including its regional p
 - Delta at JAN: 2 gates; 6-7/day; https://chockwise.com/airports/jan/delta
 - United at JAN: 1 gate; 4-5/day; https://chockwise.com/airports/jan/united
 - Southwest at JAN: 1 gate; 2-3/week; https://chockwise.com/airports/jan/southwest
-- American at JAX: 5 gates, Concourse C; 26/day; https://chockwise.com/airports/jax/american
+- American at JAX: 4 gates, Concourse C; 26/day; https://chockwise.com/airports/jax/american
 - Delta at JAX: 4 gates, Concourse A; 23/day; https://chockwise.com/airports/jax/delta
 - United at JAX: 3 gates, Concourse A; 15/day; https://chockwise.com/airports/jax/united
 - Southwest at JAX: 3 gates, Concourse C; 14/day; https://chockwise.com/airports/jax/southwest
@@ -2339,31 +2372,32 @@ How we count: a gate is an airline's when that airline (including its regional p
 - United at KOA: 2 gates; 4/day; https://chockwise.com/airports/koa/united
 - Delta at KOA: 1 gate; 2/day; https://chockwise.com/airports/koa/delta
 - American at KOA: 1 gate; 2/day; https://chockwise.com/airports/koa/american
-- Southwest at LAS: 38 gates, Terminal 1; 247/day; https://chockwise.com/airports/las/southwest
-- Frontier at LAS: 13 gates, Terminal 3; 50/day; https://chockwise.com/airports/las/frontier
-- United at LAS: 9 gates, Terminal 3; 48/day; https://chockwise.com/airports/las/united
-- Delta at LAS: 9 gates, Terminal 1; 47/day; https://chockwise.com/airports/las/delta
-- American at LAS: 9 gates, Terminal 1; 44/day; https://chockwise.com/airports/las/american
-- Alaska at LAS: 5 gates, Terminal 3; 30/day; https://chockwise.com/airports/las/alaska
-- Allegiant at LAS: 8 gates, Terminal 1; 25/day; https://chockwise.com/airports/las/allegiant
-- JetBlue at LAS: 2 gates, Terminal 3; 12/day; https://chockwise.com/airports/las/jetblue
-- Breeze at LAS: shared gates; 7-8/day; https://chockwise.com/airports/las/breeze
-- WestJet at LAS: shared gates; 6-7/day; https://chockwise.com/airports/las/westjet
-- Sun Country at LAS: 1 gate, Terminal 1; 4/day; https://chockwise.com/airports/las/sun-country
-- Air Canada Rouge at LAS: shared gates; 4/day; https://chockwise.com/airports/las/air-canada-rouge
+- Southwest at LAS: 37 gates, Terminal 1; 246/day; https://chockwise.com/airports/las/southwest
+- United at LAS: 9 gates, Terminal 3; 47/day; https://chockwise.com/airports/las/united
+- American at LAS: 9 gates, Terminal 1; 43/day; https://chockwise.com/airports/las/american
+- Delta at LAS: 9 gates, Terminal 1; 43/day; https://chockwise.com/airports/las/delta
+- Frontier at LAS: 10 gates, Terminal 3; 37/day; https://chockwise.com/airports/las/frontier
+- Alaska at LAS: 5 gates, Terminal 3; 29/day; https://chockwise.com/airports/las/alaska
+- Allegiant at LAS: 11 gates, Terminal 1; 18/day; https://chockwise.com/airports/las/allegiant
+- JetBlue at LAS: 2 gates, Terminal 3; 13/day; https://chockwise.com/airports/las/jetblue
+- Breeze at LAS: shared gates; 7/day; https://chockwise.com/airports/las/breeze
+- WestJet at LAS: shared gates; 5-6/day; https://chockwise.com/airports/las/westjet
 - Volaris at LAS: shared gates; 3-4/day; https://chockwise.com/airports/las/volaris
+- Air Canada Rouge at LAS: shared gates; 3-4/day; https://chockwise.com/airports/las/air-canada-rouge
+- Sun Country at LAS: 1 gate, Terminal 1; 3/day; https://chockwise.com/airports/las/sun-country
+- Porter at LAS: shared gates; 2-3/day; https://chockwise.com/airports/las/porter
 - Viva Aerobus at LAS: shared gates; 2-3/day; https://chockwise.com/airports/las/viva-aerobus
-- British Airways at LAS: shared gates; 2/day; https://chockwise.com/airports/las/british-airways
-- Porter at LAS: shared gates; 1-2/day; https://chockwise.com/airports/las/porter
-- Virgin Atlantic at LAS: shared gates; 1-2/day; https://chockwise.com/airports/las/virgin-atlantic
-- Contour at LAS: shared gates; 1-2/day; https://chockwise.com/airports/las/contour
+- Korean Air at LAS: shared gates; 1/day; https://chockwise.com/airports/las/korean-air
+- Virgin Atlantic at LAS: shared gates; 1/day; https://chockwise.com/airports/las/virgin-atlantic
+- British Airways at LAS: shared gates; 1/day; https://chockwise.com/airports/las/british-airways
 - Aeroméxico at LAS: shared gates; 1/day; https://chockwise.com/airports/las/aeromexico
-- KLM at LAS: shared gates; 5-6/week; https://chockwise.com/airports/las/klm
-- Copa at LAS: shared gates; 5-6/week; https://chockwise.com/airports/las/copa
-- Korean Air at LAS: shared gates; 3-4/week; https://chockwise.com/airports/las/korean-air
-- Condor at LAS: shared gates; 3-4/week; https://chockwise.com/airports/las/condor
-- Discover at LAS: shared gates; 3-4/week; https://chockwise.com/airports/las/discover
-- Aer Lingus at LAS: shared gates; 3-4/week; https://chockwise.com/airports/las/aer-lingus
+- Air Canada at LAS: shared gates; 1/day; https://chockwise.com/airports/las/air-canada
+- Contour at LAS: shared gates; 6-7/week; https://chockwise.com/airports/las/contour
+- Copa at LAS: shared gates; 4-5/week; https://chockwise.com/airports/las/copa
+- Air France at LAS: shared gates; 3/week; https://chockwise.com/airports/las/air-france
+- Aer Lingus at LAS: shared gates; 3/week; https://chockwise.com/airports/las/aer-lingus
+- KLM at LAS: shared gates; 3/week; https://chockwise.com/airports/las/klm
+- Discover at LAS: shared gates; 1-2/week; https://chockwise.com/airports/las/discover
 - Delta at LAX: 27 gates, Terminal 3; 147/day; https://chockwise.com/airports/lax/delta
 - United at LAX: 24 gates, Terminal 7; 139/day; https://chockwise.com/airports/lax/united
 - American at LAX: 21 gates, Terminal 4; 138/day; https://chockwise.com/airports/lax/american
@@ -2435,15 +2469,15 @@ How we count: a gate is an airline's when that airline (including its regional p
 - American at LBB: 4 gates; 11/day; https://chockwise.com/airports/lbb/american
 - Southwest at LBB: 3 gates; 7-8/day; https://chockwise.com/airports/lbb/southwest
 - United at LBB: 2 gates; 6-7/day; https://chockwise.com/airports/lbb/united
-- American at LEX: 3 gates, Concourse B; 15/day; https://chockwise.com/airports/lex/american
-- Delta at LEX: 3 gates, Concourse B; 12/day; https://chockwise.com/airports/lex/delta
-- United at LEX: 3 gates, Concourse A; 6/day; https://chockwise.com/airports/lex/united
-- Allegiant at LEX: shared gates; 2-3/day; https://chockwise.com/airports/lex/allegiant
+- American at LEX: 3 gates, Concourse B; 13/day; https://chockwise.com/airports/lex/american
+- Delta at LEX: 3 gates, Concourse B; 10/day; https://chockwise.com/airports/lex/delta
+- United at LEX: 3 gates, Concourse A; 6-7/day; https://chockwise.com/airports/lex/united
+- Allegiant at LEX: shared gates; 6-7/week; https://chockwise.com/airports/lex/allegiant
 - United at LFT: shared gates; 6-7/day; https://chockwise.com/airports/lft/united
 - American at LFT: shared gates; 5-6/day; https://chockwise.com/airports/lft/american
 - Delta at LFT: shared gates; 3-4/day; https://chockwise.com/airports/lft/delta
 - Delta at LGA: 38 gates, Terminal C; 216/day; https://chockwise.com/airports/lga/delta
-- American at LGA: 18 gates, Terminal B; 137/day; https://chockwise.com/airports/lga/american
+- American at LGA: 17 gates, Terminal B; 137/day; https://chockwise.com/airports/lga/american
 - United at LGA: 7 gates, Terminal B; 30/day; https://chockwise.com/airports/lga/united
 - Southwest at LGA: 4 gates, Terminal B; 28/day; https://chockwise.com/airports/lga/southwest
 - Air Canada at LGA: 1 gate, Terminal B; 19/day; https://chockwise.com/airports/lga/air-canada
@@ -2453,7 +2487,7 @@ How we count: a gate is an airline's when that airline (including its regional p
 - Southwest at LGB: 8 gates; 36/day; https://chockwise.com/airports/lgb/southwest
 - Alaska at LGB: 1 gate; 3-4/day; https://chockwise.com/airports/lgb/alaska
 - Delta at LGB: 1 gate; 3/day; https://chockwise.com/airports/lgb/delta
-- British Airways at LHR: 47 gates, Terminal 5; 322/day; https://chockwise.com/airports/lhr/british-airways
+- British Airways at LHR: 48 gates, Terminal 5; 322/day; https://chockwise.com/airports/lhr/british-airways
 - Virgin Atlantic at LHR: 2 gates, Terminal 3; 28/day; https://chockwise.com/airports/lhr/virgin-atlantic
 - American at LHR: 1 gate, Terminal 3; 20/day; https://chockwise.com/airports/lhr/american
 - Aer Lingus at LHR: 2 gates, Terminal 2; 19/day; https://chockwise.com/airports/lhr/aer-lingus
@@ -2569,12 +2603,13 @@ How we count: a gate is an airline's when that airline (including its regional p
 - Aeroméxico at LIM: shared gates; 1/day; https://chockwise.com/airports/lim/aeromexico
 - Delta at LIM: shared gates; 4-5/week; https://chockwise.com/airports/lim/delta
 - bmi regional at LIM: shared gates; 4-5/week; https://chockwise.com/airports/lim/bmi-regional
-- American at LIT: 4 gates; 19/day; https://chockwise.com/airports/lit/american
+- American at LIT: 4 gates; 17/day; https://chockwise.com/airports/lit/american
 - United at LIT: 4 gates; 11/day; https://chockwise.com/airports/lit/united
-- Delta at LIT: 2 gates; 8/day; https://chockwise.com/airports/lit/delta
-- Southwest at LIT: 2 gates; 6-7/day; https://chockwise.com/airports/lit/southwest
+- Delta at LIT: 2 gates; 7-8/day; https://chockwise.com/airports/lit/delta
+- Southwest at LIT: 2 gates; 3-4/day; https://chockwise.com/airports/lit/southwest
 - United at LNK: 4 gates; 9/day; https://chockwise.com/airports/lnk/united
 - American at LNK: 2 gates; 3/day; https://chockwise.com/airports/lnk/american
+- Breeze at LNK: shared gates; under 1/week; https://chockwise.com/airports/lnk/breeze
 - American at LYH: 1 gate; 6-7/day; https://chockwise.com/airports/lyh/american
 - United at LYH: 1 gate; 1-2/day; https://chockwise.com/airports/lyh/united
 - Iberia at MAD: 27 gates, Terminal 4; 235/day; https://chockwise.com/airports/mad/iberia
@@ -2735,44 +2770,47 @@ How we count: a gate is an airline's when that airline (including its regional p
 - Alaska at MCI: 1 gate, Concourse A; 4-5/day; https://chockwise.com/airports/mci/alaska
 - Frontier at MCI: shared gates; 2/day; https://chockwise.com/airports/mci/frontier
 - Allegiant at MCI: shared gates; 1/day; https://chockwise.com/airports/mci/allegiant
-- Southwest at MCO: 22 gates, Terminal A; 176/day; https://chockwise.com/airports/mco/southwest
-- Frontier at MCO: 13 gates, Terminal A; 60/day; https://chockwise.com/airports/mco/frontier
-- Delta at MCO: 16 gates, Terminal B; 57/day; https://chockwise.com/airports/mco/delta
-- JetBlue at MCO: 10 gates, Terminal C; 51/day; https://chockwise.com/airports/mco/jetblue
-- American at MCO: 12 gates, Terminal B; 50/day; https://chockwise.com/airports/mco/american
-- United at MCO: 10 gates, Terminal B; 43/day; https://chockwise.com/airports/mco/united
-- Breeze at MCO: 5 gates, Terminal A; 23/day; https://chockwise.com/airports/mco/breeze
+- Southwest at MCO: 22 gates, Terminal A; 166/day; https://chockwise.com/airports/mco/southwest
+- Delta at MCO: 11 gates, Terminal B; 61/day; https://chockwise.com/airports/mco/delta
+- JetBlue at MCO: 9 gates, Terminal C; 56/day; https://chockwise.com/airports/mco/jetblue
+- American at MCO: 12 gates, Terminal B; 54/day; https://chockwise.com/airports/mco/american
+- Frontier at MCO: 12 gates, Terminal A; 49/day; https://chockwise.com/airports/mco/frontier
+- United at MCO: 10 gates, Terminal B; 46/day; https://chockwise.com/airports/mco/united
+- Breeze at MCO: 6 gates, Terminal A; 21/day; https://chockwise.com/airports/mco/breeze
 - Copa at MCO: 1 gate, Terminal C; 6-7/day; https://chockwise.com/airports/mco/copa
-- Alaska at MCO: 2 gates, Terminal B; 5-6/day; https://chockwise.com/airports/mco/alaska
-- Avianca at MCO: shared gates; 4/day; https://chockwise.com/airports/mco/avianca
-- Air Canada Rouge at MCO: 1 gate, Terminal B; 4/day; https://chockwise.com/airports/mco/air-canada-rouge
-- Virgin Atlantic at MCO: 1 gate, Terminal C; 3-4/day; https://chockwise.com/airports/mco/virgin-atlantic
-- Aeroméxico at MCO: shared gates; 2-3/day; https://chockwise.com/airports/mco/aeromexico
+- Alaska at MCO: 2 gates, Terminal B; 6-7/day; https://chockwise.com/airports/mco/alaska
+- Air Canada Rouge at MCO: shared gates; 5-6/day; https://chockwise.com/airports/mco/air-canada-rouge
+- Avianca at MCO: shared gates; 3-4/day; https://chockwise.com/airports/mco/avianca
+- Aeroméxico at MCO: shared gates; 3/day; https://chockwise.com/airports/mco/aeromexico
 - WestJet at MCO: shared gates; 2-3/day; https://chockwise.com/airports/mco/westjet
+- Virgin Atlantic at MCO: 1 gate, Terminal C; 2-3/day; https://chockwise.com/airports/mco/virgin-atlantic
 - Sun Country at MCO: shared gates; 2-3/day; https://chockwise.com/airports/mco/sun-country
 - Volaris at MCO: shared gates; 2-3/day; https://chockwise.com/airports/mco/volaris
 - Porter at MCO: shared gates; 2-3/day; https://chockwise.com/airports/mco/porter
-- Avelo at MCO: shared gates; 2/day; https://chockwise.com/airports/mco/avelo
-- LATAM Colombia at MCO: shared gates; 2/day; https://chockwise.com/airports/mco/latam-colombia
-- Discover at MCO: shared gates; 1-2/day; https://chockwise.com/airports/mco/discover
+- LATAM Brasil at MCO: shared gates; 2/day; https://chockwise.com/airports/mco/latam-brasil
+- Avelo at MCO: shared gates; 1-2/day; https://chockwise.com/airports/mco/avelo
 - Azul at MCO: shared gates; 1-2/day; https://chockwise.com/airports/mco/azul
-- LATAM Brasil at MCO: shared gates; 1-2/day; https://chockwise.com/airports/mco/latam-brasil
-- British Airways at MCO: shared gates; 1-2/day; https://chockwise.com/airports/mco/british-airways
-- GOL at MCO: shared gates; 1-2/day; https://chockwise.com/airports/mco/gol
+- Air Canada at MCO: shared gates; 1-2/day; https://chockwise.com/airports/mco/air-canada
 - Allegiant at MCO: shared gates; 1-2/day; https://chockwise.com/airports/mco/allegiant
-- Viva Aerobus at MCO: shared gates; 1-2/day; https://chockwise.com/airports/mco/viva-aerobus
-- Air Canada at MCO: shared gates; 1/day; https://chockwise.com/airports/mco/air-canada
+- Discover at MCO: shared gates; 1-2/day; https://chockwise.com/airports/mco/discover
+- GOL at MCO: shared gates; 1/day; https://chockwise.com/airports/mco/gol
 - Emirates at MCO: shared gates; 1/day; https://chockwise.com/airports/mco/emirates
-- Aer Lingus at MCO: shared gates; 1/day; https://chockwise.com/airports/mco/aer-lingus
-- Bahamasair at MCO: shared gates; 1/day; https://chockwise.com/airports/mco/bahamasair
-- Volaris Costa Rica at MCO: shared gates; 1/day; https://chockwise.com/airports/mco/volaris-costa-rica
-- Air France at MCO: shared gates; 4-5/week; https://chockwise.com/airports/mco/air-france
-- Caribbean Airlines at MCO: shared gates; 4-5/week; https://chockwise.com/airports/mco/caribbean-airlines
-- Avianca El Salvador at MCO: shared gates; 4-5/week; https://chockwise.com/airports/mco/avianca-el-salvador
-- Icelandair at MCO: shared gates; 4-5/week; https://chockwise.com/airports/mco/icelandair
-- American at MDT: 5 gates, Concourse C; 19/day; https://chockwise.com/airports/mdt/american
-- Delta at MDT: 2 gates, Concourse A; 7/day; https://chockwise.com/airports/mdt/delta
-- United at MDT: 3 gates, Concourse B; 5-6/day; https://chockwise.com/airports/mdt/united
+- British Airways at MCO: shared gates; 1/day; https://chockwise.com/airports/mco/british-airways
+- LATAM Colombia at MCO: shared gates; 1/day; https://chockwise.com/airports/mco/latam-colombia
+- Viva Aerobus at MCO: shared gates; 6-7/week; https://chockwise.com/airports/mco/viva-aerobus
+- Bahamasair at MCO: shared gates; 6-7/week; https://chockwise.com/airports/mco/bahamasair
+- Icelandair at MCO: shared gates; 5-6/week; https://chockwise.com/airports/mco/icelandair
+- Aer Lingus at MCO: shared gates; 4-5/week; https://chockwise.com/airports/mco/aer-lingus
+- Volaris Costa Rica at MCO: shared gates; 4-5/week; https://chockwise.com/airports/mco/volaris-costa-rica
+- Avianca El Salvador at MCO: shared gates; 4/week; https://chockwise.com/airports/mco/avianca-el-salvador
+- Caribbean Airlines at MCO: shared gates; 4/week; https://chockwise.com/airports/mco/caribbean-airlines
+- Flair at MCO: shared gates; 4/week; https://chockwise.com/airports/mco/flair
+- Air France at MCO: shared gates; 3/week; https://chockwise.com/airports/mco/air-france
+- TAP at MCO: shared gates; 3/week; https://chockwise.com/airports/mco/tap
+- Iberia at MCO: shared gates; 2-3/week; https://chockwise.com/airports/mco/iberia
+- American at MDT: 5 gates, Concourse C; 17/day; https://chockwise.com/airports/mdt/american
+- United at MDT: 3 gates, Concourse B; 6-7/day; https://chockwise.com/airports/mdt/united
+- Delta at MDT: 2 gates, Concourse A; 6/day; https://chockwise.com/airports/mdt/delta
 - Southwest at MDW: 33 gates, Concourse B; 202/day; https://chockwise.com/airports/mdw/southwest
 - Delta at MDW: 3 gates, Concourse A; 10/day; https://chockwise.com/airports/mdw/delta
 - Volaris at MDW: shared gates; 4-5/day; https://chockwise.com/airports/mdw/volaris
@@ -2822,12 +2860,12 @@ How we count: a gate is an airline's when that airline (including its regional p
 - Shenzhen Airlines at MEL: shared gates; 2-3/week; https://chockwise.com/airports/mel/shenzhen-airlines
 - Beijing Capital at MEL: shared gates; 1-2/week; https://chockwise.com/airports/mel/beijing-capital
 - Maldivian at MEL: shared gates; 1/week; https://chockwise.com/airports/mel/maldivian
-- American at MEM: 7 gates; 25/day; https://chockwise.com/airports/mem/american
+- American at MEM: 6 gates; 25/day; https://chockwise.com/airports/mem/american
 - Delta at MEM: 7 gates; 22/day; https://chockwise.com/airports/mem/delta
 - Southwest at MEM: 4 gates; 15/day; https://chockwise.com/airports/mem/southwest
 - United at MEM: 4 gates; 13/day; https://chockwise.com/airports/mem/united
 - Allegiant at MEM: shared gates; 2/day; https://chockwise.com/airports/mem/allegiant
-- Aeroméxico at MEX: 26 gates, Terminal 2; 168/day; https://chockwise.com/airports/mex/aeromexico
+- Aeroméxico at MEX: 27 gates, Terminal 2; 168/day; https://chockwise.com/airports/mex/aeromexico
 - Volaris at MEX: 8 gates, Terminal 1; 58/day; https://chockwise.com/airports/mex/volaris
 - Viva Aerobus at MEX: 2 gates, Terminal 1; 47/day; https://chockwise.com/airports/mex/viva-aerobus
 - Aeroméxico Connect at MEX: 2 gates, Terminal 2; 44/day; https://chockwise.com/airports/mex/aeromexico-connect
@@ -2852,15 +2890,18 @@ How we count: a gate is an airline's when that airline (including its regional p
 - Hainan Airlines at MEX: shared gates; 1/day; https://chockwise.com/airports/mex/hainan-airlines
 - WestJet at MEX: shared gates; 1/day; https://chockwise.com/airports/mex/westjet
 - LATAM Brasil at MEX: shared gates; 4-5/week; https://chockwise.com/airports/mex/latam-brasil
+- American at MFE: 4 gates; 7-8/day; https://chockwise.com/airports/mfe/american
+- United at MFE: 2 gates; 6/day; https://chockwise.com/airports/mfe/united
+- Allegiant at MFE: shared gates; 5-6/week; https://chockwise.com/airports/mfe/allegiant
 - Alaska at MFR: 2 gates; 10/day; https://chockwise.com/airports/mfr/alaska
 - Delta at MFR: 1 gate; 5/day; https://chockwise.com/airports/mfr/delta
 - United at MFR: 1 gate; 4-5/day; https://chockwise.com/airports/mfr/united
-- American at MFR: shared gates; 1/day; https://chockwise.com/airports/mfr/american
+- American at MFR: shared gates; 1-2/day; https://chockwise.com/airports/mfr/american
 - American at MGM: 2 gates; 5-6/day; https://chockwise.com/airports/mgm/american
 - Delta at MGM: 1 gate; 4-5/day; https://chockwise.com/airports/mgm/delta
 - United at MGM: 1 gate; 2/day; https://chockwise.com/airports/mgm/united
 - American at MHT: 4 gates; 14/day; https://chockwise.com/airports/mht/american
-- Southwest at MHT: 2 gates; 9-10/day; https://chockwise.com/airports/mht/southwest
+- Southwest at MHT: 3 gates; 9-10/day; https://chockwise.com/airports/mht/southwest
 - United at MHT: 1 gate; 2-3/day; https://chockwise.com/airports/mht/united
 - Breeze at MHT: shared gates; 4-5/week; https://chockwise.com/airports/mht/breeze
 - American at MIA: 70 gates, Concourse D; 332/day; https://chockwise.com/airports/mia/american
@@ -2922,26 +2963,33 @@ How we count: a gate is an airline's when that airline (including its regional p
 - Alaska at MKE: 1 gate, Concourse D; 1/day; https://chockwise.com/airports/mke/alaska
 - JetBlue at MKE: 1 gate, Concourse D; 1/day; https://chockwise.com/airports/mke/jetblue
 - Denver Air Connection at MKL: 1 gate; 1-2/day; https://chockwise.com/airports/mkl/denver-air-connection
-- Delta at MLB: 2 gates; 4/day; https://chockwise.com/airports/mlb/delta
-- American at MLB: 1 gate; 3/day; https://chockwise.com/airports/mlb/american
-- Allegiant at MLB: 1 gate; 6/week; https://chockwise.com/airports/mlb/allegiant
+- Delta at MLB: 2 gates; 3-4/day; https://chockwise.com/airports/mlb/delta
+- American at MLB: 1 gate; 2-3/day; https://chockwise.com/airports/mlb/american
+- Allegiant at MLB: 1 gate; 5-6/week; https://chockwise.com/airports/mlb/allegiant
 - American at MLI: 3 gates, Concourse A; 7-8/day; https://chockwise.com/airports/mli/american
 - United at MLI: 4 gates, Concourse B; 5-6/day; https://chockwise.com/airports/mli/united
 - Delta at MLI: 1 gate, Concourse B; 3/day; https://chockwise.com/airports/mli/delta
+- Allegiant at MLI: shared gates; under 1/week; https://chockwise.com/airports/mli/allegiant
 - American at MLU: 1 gate; 3/day; https://chockwise.com/airports/mlu/american
 - American at MOB: 3 gates; 6/day; https://chockwise.com/airports/mob/american
 - United at MOB: 2 gates; 5/day; https://chockwise.com/airports/mob/united
 - Delta at MOB: 1 gate; 4-5/day; https://chockwise.com/airports/mob/delta
 - Delta at MOT: 1 gate; 4/day; https://chockwise.com/airports/mot/delta
 - United at MOT: 1 gate; 3/day; https://chockwise.com/airports/mot/united
-- American at MSN: 7 gates; 21/day; https://chockwise.com/airports/msn/american
-- Delta at MSN: 5 gates; 16/day; https://chockwise.com/airports/msn/delta
-- United at MSN: 4 gates; 14/day; https://chockwise.com/airports/msn/united
+- Allegiant at MOT: 1 gate; under 1/week; https://chockwise.com/airports/mot/allegiant
+- United at MRY: 1 gate; 8-9/day; https://chockwise.com/airports/mry/united
+- American at MRY: 2 gates; 5/day; https://chockwise.com/airports/mry/american
+- Alaska at MRY: 1 gate; 2-3/day; https://chockwise.com/airports/mry/alaska
+- American at MSN: 7 gates; 17/day; https://chockwise.com/airports/msn/american
+- United at MSN: 4 gates; 13/day; https://chockwise.com/airports/msn/united
+- Delta at MSN: 4 gates; 12/day; https://chockwise.com/airports/msn/delta
 - Breeze at MSN: shared gates; 4-5/week; https://chockwise.com/airports/msn/breeze
+- Sun Country at MSN: shared gates; 1-2/week; https://chockwise.com/airports/msn/sun-country
 - United at MSO: 1 gate, Concourse A; 4-5/day; https://chockwise.com/airports/mso/united
 - Delta at MSO: 1 gate, Concourse A; 4/day; https://chockwise.com/airports/mso/delta
 - Alaska at MSO: 1 gate, Concourse A; 2-3/day; https://chockwise.com/airports/mso/alaska
 - American at MSO: 1 gate, Concourse B; 2/day; https://chockwise.com/airports/mso/american
+- Allegiant at MSO: shared gates; under 1/week; https://chockwise.com/airports/mso/allegiant
 - Delta at MSP: 75 gates, Terminal 1; 313/day; https://chockwise.com/airports/msp/delta
 - Sun Country at MSP: 7 gates, Terminal 2; 26/day; https://chockwise.com/airports/msp/sun-country
 - American at MSP: 6 gates, Terminal 1; 22/day; https://chockwise.com/airports/msp/american
@@ -3056,9 +3104,9 @@ How we count: a gate is an airline's when that airline (including its regional p
 - Blue Bird at MXP: shared gates; under 1/week; https://chockwise.com/airports/mxp/blue-bird
 - Sky Alps at MXP: shared gates; under 1/week; https://chockwise.com/airports/mxp/sky-alps
 - American at MYR: 3 gates, Concourse A; 13/day; https://chockwise.com/airports/myr/american
-- Breeze at MYR: 2 gates, Concourse B; 8/day; https://chockwise.com/airports/myr/breeze
+- Breeze at MYR: 3 gates, Concourse B; 8/day; https://chockwise.com/airports/myr/breeze
 - Delta at MYR: 2 gates, Concourse A; 6-7/day; https://chockwise.com/airports/myr/delta
-- Southwest at MYR: 2 gates, Concourse B; 6/day; https://chockwise.com/airports/myr/southwest
+- Southwest at MYR: 1 gate, Concourse B; 6/day; https://chockwise.com/airports/myr/southwest
 - United at MYR: 2 gates, Concourse A; 5/day; https://chockwise.com/airports/myr/united
 - Allegiant at MYR: 3 gates, Concourse A; 4-5/day; https://chockwise.com/airports/myr/allegiant
 - Avelo at MYR: shared gates; 1-2/day; https://chockwise.com/airports/myr/avelo
@@ -3249,9 +3297,9 @@ How we count: a gate is an airline's when that airline (including its regional p
 - American at ORF: 6 gates, Concourse A; 26/day; https://chockwise.com/airports/orf/american
 - Delta at ORF: 6 gates, Concourse B; 19/day; https://chockwise.com/airports/orf/delta
 - United at ORF: 4 gates, Concourse B; 12/day; https://chockwise.com/airports/orf/united
-- Southwest at ORF: 2 gates, Concourse A; 10/day; https://chockwise.com/airports/orf/southwest
+- Southwest at ORF: 3 gates, Concourse A; 10/day; https://chockwise.com/airports/orf/southwest
 - Breeze at ORF: 2 gates, Concourse A; 7-8/day; https://chockwise.com/airports/orf/breeze
-- JetBlue at ORF: shared gates; 2/day; https://chockwise.com/airports/orf/jetblue
+- JetBlue at ORF: 1 gate, Concourse B; 2/day; https://chockwise.com/airports/orf/jetblue
 - Frontier at ORF: shared gates; 1-2/day; https://chockwise.com/airports/orf/frontier
 - Norwegian Air at OSL: 7 gates, Concourse A; 119/day; https://chockwise.com/airports/osl/norwegian-air
 - SAS at OSL: 4 gates, Concourse A; 96/day; https://chockwise.com/airports/osl/sas
@@ -3376,44 +3424,45 @@ How we count: a gate is an airline's when that airline (including its regional p
 - Turkmenistan Airlines at PEK: shared gates; 2/week; https://chockwise.com/airports/pek/turkmenistan-airlines
 - Fuzhou Airlines at PEK: shared gates; 1-2/week; https://chockwise.com/airports/pek/fuzhou-airlines
 - Maldivian at PEK: shared gates; 1/week; https://chockwise.com/airports/pek/maldivian
-- American at PHL: 87 gates, Terminal F; 327/day; https://chockwise.com/airports/phl/american
-- Frontier at PHL: 11 gates, Terminal E; 25/day; https://chockwise.com/airports/phl/frontier
-- Delta at PHL: 6 gates, Terminal D; 24/day; https://chockwise.com/airports/phl/delta
+- American at PHL: 88 gates, Terminal F; 266/day; https://chockwise.com/airports/phl/american
+- Frontier at PHL: 10 gates, Terminal E; 24/day; https://chockwise.com/airports/phl/frontier
+- Delta at PHL: 6 gates, Terminal D; 21/day; https://chockwise.com/airports/phl/delta
 - United at PHL: 6 gates, Terminal D; 18/day; https://chockwise.com/airports/phl/united
 - Southwest at PHL: 5 gates, Terminal E; 15/day; https://chockwise.com/airports/phl/southwest
-- JetBlue at PHL: 1 gate, Terminal D; 6-7/day; https://chockwise.com/airports/phl/jetblue
-- Air Canada at PHL: 1 gate, Terminal D; 4-5/day; https://chockwise.com/airports/phl/air-canada
-- Alaska at PHL: 1 gate, Terminal D; 3/day; https://chockwise.com/airports/phl/alaska
-- Allegiant at PHL: shared gates; 1-2/day; https://chockwise.com/airports/phl/allegiant
+- JetBlue at PHL: 2 gates, Terminal D; 7/day; https://chockwise.com/airports/phl/jetblue
+- Air Canada at PHL: 1 gate, Terminal D; 2-3/day; https://chockwise.com/airports/phl/air-canada
+- Alaska at PHL: 1 gate, Terminal D; 2/day; https://chockwise.com/airports/phl/alaska
 - Qatar Airways at PHL: shared gates; 1/day; https://chockwise.com/airports/phl/qatar-airways
-- Aer Lingus at PHL: shared gates; 1/day; https://chockwise.com/airports/phl/aer-lingus
 - British Airways at PHL: shared gates; 1/day; https://chockwise.com/airports/phl/british-airways
-- Aeroméxico at PHL: shared gates; 4-5/week; https://chockwise.com/airports/phl/aeromexico
-- American at PHX: 55 gates, Terminal 4; 237/day; https://chockwise.com/airports/phx/american
-- Southwest at PHX: 31 gates, Terminal 4; 195/day; https://chockwise.com/airports/phx/southwest
-- United at PHX: 7 gates, Terminal 3; 37/day; https://chockwise.com/airports/phx/united
-- Delta at PHX: 4 gates, Terminal 3; 33/day; https://chockwise.com/airports/phx/delta
-- Alaska at PHX: 3 gates, Terminal 3; 20/day; https://chockwise.com/airports/phx/alaska
-- Frontier at PHX: 4 gates, Terminal 3; 16/day; https://chockwise.com/airports/phx/frontier
+- Aer Lingus at PHL: shared gates; 1/day; https://chockwise.com/airports/phl/aer-lingus
+- Aeroméxico at PHL: shared gates; 1/day; https://chockwise.com/airports/phl/aeromexico
+- Allegiant at PHL: shared gates; 4-5/week; https://chockwise.com/airports/phl/allegiant
+- Discover at PHL: shared gates; 3/week; https://chockwise.com/airports/phl/discover
+- American at PHX: 54 gates, Terminal 4; 260/day; https://chockwise.com/airports/phx/american
+- Southwest at PHX: 31 gates, Terminal 4; 193/day; https://chockwise.com/airports/phx/southwest
+- United at PHX: 6 gates, Terminal 3; 36/day; https://chockwise.com/airports/phx/united
+- Delta at PHX: 4 gates, Terminal 3; 34/day; https://chockwise.com/airports/phx/delta
+- Alaska at PHX: 3 gates, Terminal 3; 24/day; https://chockwise.com/airports/phx/alaska
+- Frontier at PHX: 3 gates, Terminal 3; 17/day; https://chockwise.com/airports/phx/frontier
+- WestJet at PHX: shared gates; 6/day; https://chockwise.com/airports/phx/westjet
+- JetBlue at PHX: shared gates; 3-4/day; https://chockwise.com/airports/phx/jetblue
 - Contour at PHX: 1 gate, Terminal 4; 3-4/day; https://chockwise.com/airports/phx/contour
-- WestJet at PHX: shared gates; 3-4/day; https://chockwise.com/airports/phx/westjet
 - Air Canada Rouge at PHX: shared gates; 2-3/day; https://chockwise.com/airports/phx/air-canada-rouge
-- JetBlue at PHX: shared gates; 2/day; https://chockwise.com/airports/phx/jetblue
-- Volaris at PHX: shared gates; 2/day; https://chockwise.com/airports/phx/volaris
+- Sun Country at PHX: shared gates; 2-3/day; https://chockwise.com/airports/phx/sun-country
 - Breeze at PHX: shared gates; 1-2/day; https://chockwise.com/airports/phx/breeze
-- Sun Country at PHX: shared gates; 1-2/day; https://chockwise.com/airports/phx/sun-country
-- Allegiant at PHX: shared gates; 1-2/day; https://chockwise.com/airports/phx/allegiant
+- Volaris at PHX: shared gates; 1-2/day; https://chockwise.com/airports/phx/volaris
+- Porter at PHX: shared gates; 1-2/day; https://chockwise.com/airports/phx/porter
 - British Airways at PHX: shared gates; 1/day; https://chockwise.com/airports/phx/british-airways
-- Air France at PHX: shared gates; 1/day; https://chockwise.com/airports/phx/air-france
 - Aeroméxico at PHX: shared gates; 1/day; https://chockwise.com/airports/phx/aeromexico
 - Denver Air Connection at PHX: shared gates; 1/day; https://chockwise.com/airports/phx/denver-air-connection
-- Porter at PHX: shared gates; 1/day; https://chockwise.com/airports/phx/porter
-- Southern Airways Express at PHX: shared gates; 1/day; https://chockwise.com/airports/phx/southern-airways-express
-- STARLUX at PHX: shared gates; 4-5/week; https://chockwise.com/airports/phx/starlux
+- Allegiant at PHX: shared gates; 4/week; https://chockwise.com/airports/phx/allegiant
+- STARLUX at PHX: shared gates; 4/week; https://chockwise.com/airports/phx/starlux
+- China Airlines at PHX: shared gates; 3/week; https://chockwise.com/airports/phx/china-airlines
+- Air France at PHX: shared gates; 2-3/week; https://chockwise.com/airports/phx/air-france
 - American at PIA: 3 gates; 6-7/day; https://chockwise.com/airports/pia/american
 - United at PIA: 3 gates; 5-6/day; https://chockwise.com/airports/pia/united
-- Allegiant at PIA: 1 gate; 1-2/week; https://chockwise.com/airports/pia/allegiant
-- Allegiant at PIE: 11 gates; 25/day; https://chockwise.com/airports/pie/allegiant
+- Allegiant at PIA: 1 gate; 2-3/week; https://chockwise.com/airports/pia/allegiant
+- Allegiant at PIE: 10 gates; 25/day; https://chockwise.com/airports/pie/allegiant
 - American at PIT: 12 gates, Concourse B; 35/day; https://chockwise.com/airports/pit/american
 - Southwest at PIT: 10 gates, Concourse A; 31/day; https://chockwise.com/airports/pit/southwest
 - United at PIT: 9 gates, Concourse A; 27/day; https://chockwise.com/airports/pit/united
@@ -3489,14 +3538,15 @@ How we count: a gate is an airline's when that airline (including its regional p
 - Frontier at PNS: 1 gate; 1-2/day; https://chockwise.com/airports/pns/frontier
 - Alaska at PSC: 1 gate; 7-8/day; https://chockwise.com/airports/psc/alaska
 - Delta at PSC: 2 gates; 7-8/day; https://chockwise.com/airports/psc/delta
-- United at PSC: 2 gates; 3/day; https://chockwise.com/airports/psc/united
+- United at PSC: 1 gate; 3/day; https://chockwise.com/airports/psc/united
 - American at PSC: shared gates; 1-2/day; https://chockwise.com/airports/psc/american
-- Alaska at PSP: 3 gates; 11/day; https://chockwise.com/airports/psp/alaska
-- United at PSP: 5 gates; 11/day; https://chockwise.com/airports/psp/united
-- Southwest at PSP: 1 gate; 7/day; https://chockwise.com/airports/psp/southwest
-- American at PSP: 2 gates; 6-7/day; https://chockwise.com/airports/psp/american
-- Delta at PSP: 1 gate; 3-4/day; https://chockwise.com/airports/psp/delta
-- WestJet at PSP: shared gates; 1-2/day; https://chockwise.com/airports/psp/westjet
+- United at PSP: 5 gates; 13/day; https://chockwise.com/airports/psp/united
+- Alaska at PSP: 3 gates; 9/day; https://chockwise.com/airports/psp/alaska
+- American at PSP: 2 gates; 7-8/day; https://chockwise.com/airports/psp/american
+- Southwest at PSP: 1 gate; 5/day; https://chockwise.com/airports/psp/southwest
+- Delta at PSP: 1 gate; 4/day; https://chockwise.com/airports/psp/delta
+- WestJet at PSP: shared gates; 2-3/week; https://chockwise.com/airports/psp/westjet
+- Sun Country at PSP: shared gates; 2-3/week; https://chockwise.com/airports/psp/sun-country
 - American at PVD: 3 gates; 17/day; https://chockwise.com/airports/pvd/american
 - Southwest at PVD: 3 gates; 16/day; https://chockwise.com/airports/pvd/southwest
 - Breeze at PVD: 4 gates; 12/day; https://chockwise.com/airports/pvd/breeze
@@ -3512,13 +3562,13 @@ How we count: a gate is an airline's when that airline (including its regional p
 - United at RAP: 3 gates; 8-9/day; https://chockwise.com/airports/rap/united
 - Delta at RAP: 1 gate; 3-4/day; https://chockwise.com/airports/rap/delta
 - American at RAP: 1 gate; 3/day; https://chockwise.com/airports/rap/american
-- Allegiant at RAP: shared gates; under 1/week; https://chockwise.com/airports/rap/allegiant
+- Allegiant at RAP: 1 gate; under 1/week; https://chockwise.com/airports/rap/allegiant
 - United at RDD: 1 gate; 5/day; https://chockwise.com/airports/rdd/united
 - Alaska at RDD: shared gates; 1/day; https://chockwise.com/airports/rdd/alaska
 - Alaska at RDM: 2 gates; 14/day; https://chockwise.com/airports/rdm/alaska
 - United at RDM: 1 gate; 5-6/day; https://chockwise.com/airports/rdm/united
 - Delta at RDM: 1 gate; 5/day; https://chockwise.com/airports/rdm/delta
-- American at RDM: shared gates; 1-2/day; https://chockwise.com/airports/rdm/american
+- American at RDM: 1 gate; 1-2/day; https://chockwise.com/airports/rdm/american
 - Delta at RDU: 9 gates, Terminal 2; 54/day; https://chockwise.com/airports/rdu/delta
 - American at RDU: 11 gates, Terminal 2; 51/day; https://chockwise.com/airports/rdu/american
 - Southwest at RDU: 5 gates, Terminal 1; 25/day; https://chockwise.com/airports/rdu/southwest
@@ -3536,20 +3586,21 @@ How we count: a gate is an airline's when that airline (including its regional p
 - Aer Lingus at RDU: shared gates; 4-5/week; https://chockwise.com/airports/rdu/aer-lingus
 - Copa at RDU: shared gates; 4-5/week; https://chockwise.com/airports/rdu/copa
 - American at RIC: 6 gates, Concourse A; 24/day; https://chockwise.com/airports/ric/american
-- Delta at RIC: 8 gates, Concourse B; 21/day; https://chockwise.com/airports/ric/delta
+- Delta at RIC: 7 gates, Concourse B; 21/day; https://chockwise.com/airports/ric/delta
 - United at RIC: 6 gates, Concourse B; 17/day; https://chockwise.com/airports/ric/united
 - Southwest at RIC: 2 gates, Concourse B; 7/day; https://chockwise.com/airports/ric/southwest
 - Breeze at RIC: 1 gate, Concourse A; 5-6/day; https://chockwise.com/airports/ric/breeze
-- JetBlue at RIC: 2 gates, Concourse A; 5/day; https://chockwise.com/airports/ric/jetblue
-- Southwest at RNO: 3 gates, Concourse B; 25/day; https://chockwise.com/airports/rno/southwest
-- United at RNO: 4 gates, Concourse C; 13/day; https://chockwise.com/airports/rno/united
-- Delta at RNO: 1 gate, Concourse B; 8-9/day; https://chockwise.com/airports/rno/delta
-- American at RNO: 2 gates, Concourse C; 8/day; https://chockwise.com/airports/rno/american
-- Alaska at RNO: 3 gates, Concourse C; 7/day; https://chockwise.com/airports/rno/alaska
+- JetBlue at RIC: 3 gates, Concourse A; 5/day; https://chockwise.com/airports/ric/jetblue
+- Southwest at RNO: 4 gates, Concourse B; 21/day; https://chockwise.com/airports/rno/southwest
+- United at RNO: 3 gates, Concourse C; 12/day; https://chockwise.com/airports/rno/united
+- Delta at RNO: 1 gate, Concourse B; 8/day; https://chockwise.com/airports/rno/delta
+- American at RNO: 2 gates, Concourse C; 7-8/day; https://chockwise.com/airports/rno/american
+- Alaska at RNO: 3 gates, Concourse C; 5-6/day; https://chockwise.com/airports/rno/alaska
 - Frontier at RNO: shared gates; 1-2/day; https://chockwise.com/airports/rno/frontier
-- American at ROA: 3 gates; 13/day; https://chockwise.com/airports/roa/american
-- United at ROA: 1 gate; 5-6/day; https://chockwise.com/airports/roa/united
-- Delta at ROA: 2 gates; 5/day; https://chockwise.com/airports/roa/delta
+- Sun Country at RNO: shared gates; 1-2/week; https://chockwise.com/airports/rno/sun-country
+- American at ROA: 3 gates; 12/day; https://chockwise.com/airports/roa/american
+- United at ROA: 1 gate; 7/day; https://chockwise.com/airports/roa/united
+- Delta at ROA: 2 gates; 3-4/day; https://chockwise.com/airports/roa/delta
 - American at ROC: 5 gates, Concourse A; 17/day; https://chockwise.com/airports/roc/american
 - Delta at ROC: 4 gates, Concourse B; 13/day; https://chockwise.com/airports/roc/delta
 - United at ROC: 4 gates, Concourse B; 11/day; https://chockwise.com/airports/roc/united
@@ -3560,13 +3611,13 @@ How we count: a gate is an airline's when that airline (including its regional p
 - United at ROW: 1 gate; 2/day; https://chockwise.com/airports/row/united
 - Delta at RST: 1 gate; 3/day; https://chockwise.com/airports/rst/delta
 - American at RST: 2 gates; 3/day; https://chockwise.com/airports/rst/american
-- Southwest at RSW: 4 gates, Concourse B; 22/day; https://chockwise.com/airports/rsw/southwest
+- Southwest at RSW: 5 gates, Concourse B; 22/day; https://chockwise.com/airports/rsw/southwest
 - Delta at RSW: 5 gates, Concourse C; 15/day; https://chockwise.com/airports/rsw/delta
 - American at RSW: 4 gates, Concourse D; 14/day; https://chockwise.com/airports/rsw/american
 - United at RSW: 4 gates, Concourse C; 13/day; https://chockwise.com/airports/rsw/united
 - Breeze at RSW: 1 gate, Concourse D; 10/day; https://chockwise.com/airports/rsw/breeze
 - JetBlue at RSW: 2 gates, Terminal D; 7/day; https://chockwise.com/airports/rsw/jetblue
-- Frontier at RSW: shared gates; 1-2/day; https://chockwise.com/airports/rsw/frontier
+- Frontier at RSW: 1 gate, Concourse B; 1-2/day; https://chockwise.com/airports/rsw/frontier
 - Avelo at RSW: shared gates; 1-2/day; https://chockwise.com/airports/rsw/avelo
 - Sun Country at RSW: shared gates; 1/day; https://chockwise.com/airports/rsw/sun-country
 - Allegiant at RSW: shared gates; 1/day; https://chockwise.com/airports/rsw/allegiant
@@ -3606,15 +3657,20 @@ How we count: a gate is an airline's when that airline (including its regional p
 - Southwest at SAV: 2 gates; 8-9/day; https://chockwise.com/airports/sav/southwest
 - Breeze at SAV: shared gates; 2-3/day; https://chockwise.com/airports/sav/breeze
 - Allegiant at SAV: shared gates; 2-3/day; https://chockwise.com/airports/sav/allegiant
-- United at SBA: 5 gates; 10/day; https://chockwise.com/airports/sba/united
-- Southwest at SBA: shared gates; 6-7/day; https://chockwise.com/airports/sba/southwest
-- Alaska at SBA: 1 gate; 6/day; https://chockwise.com/airports/sba/alaska
+- United at SBA: 4 gates; 10/day; https://chockwise.com/airports/sba/united
 - American at SBA: 1 gate; 5/day; https://chockwise.com/airports/sba/american
+- Southwest at SBA: shared gates; 5/day; https://chockwise.com/airports/sba/southwest
+- Alaska at SBA: 1 gate; 4-5/day; https://chockwise.com/airports/sba/alaska
 - Delta at SBA: 1 gate; 3/day; https://chockwise.com/airports/sba/delta
-- United at SBN: 2 gates; 9-10/day; https://chockwise.com/airports/sbn/united
-- American at SBN: 2 gates; 9-10/day; https://chockwise.com/airports/sbn/american
-- Delta at SBN: 1 gate; 6/day; https://chockwise.com/airports/sbn/delta
-- Allegiant at SBN: 1 gate; 2-3/day; https://chockwise.com/airports/sbn/allegiant
+- American at SBN: 2 gates; 10/day; https://chockwise.com/airports/sbn/american
+- United at SBN: 1 gate; 9-10/day; https://chockwise.com/airports/sbn/united
+- Delta at SBN: 1 gate; 5-6/day; https://chockwise.com/airports/sbn/delta
+- Allegiant at SBN: 1 gate; 6-7/week; https://chockwise.com/airports/sbn/allegiant
+- United at SBP: 2 gates; 7-8/day; https://chockwise.com/airports/sbp/united
+- Alaska at SBP: shared gates; 4/day; https://chockwise.com/airports/sbp/alaska
+- American at SBP: 1 gate; 3/day; https://chockwise.com/airports/sbp/american
+- United at SCE: 2 gates; 7-8/day; https://chockwise.com/airports/sce/united
+- American at SCE: 1 gate; 5/day; https://chockwise.com/airports/sce/american
 - American at SDF: 7 gates, Concourse B; 25/day; https://chockwise.com/airports/sdf/american
 - Delta at SDF: 4 gates, Concourse A; 20/day; https://chockwise.com/airports/sdf/delta
 - Southwest at SDF: 4 gates, Concourse B; 18/day; https://chockwise.com/airports/sdf/southwest
@@ -3711,11 +3767,13 @@ How we count: a gate is an airline's when that airline (including its regional p
 - American at SGF: 4 gates; 18/day; https://chockwise.com/airports/sgf/american
 - United at SGF: 5 gates; 11/day; https://chockwise.com/airports/sgf/united
 - Delta at SGF: 1 gate; 3-4/day; https://chockwise.com/airports/sgf/delta
-- Allegiant at SGF: shared gates; 2-3/week; https://chockwise.com/airports/sgf/allegiant
+- Allegiant at SGF: shared gates; 3/week; https://chockwise.com/airports/sgf/allegiant
+- American at SGU: 2 gates; 4-5/day; https://chockwise.com/airports/sgu/american
+- United at SGU: 1 gate; 4/day; https://chockwise.com/airports/sgu/united
 - American at SHV: 1 gate; 7-8/day; https://chockwise.com/airports/shv/american
 - United at SHV: 3 gates; 7/day; https://chockwise.com/airports/shv/united
 - Delta at SHV: 1 gate; 4-5/day; https://chockwise.com/airports/shv/delta
-- Allegiant at SHV: shared gates; under 1/week; https://chockwise.com/airports/shv/allegiant
+- Allegiant at SHV: 1 gate; 1-2/week; https://chockwise.com/airports/shv/allegiant
 - Singapore Airlines at SIN: 24 gates, Terminal 3; 176/day; https://chockwise.com/airports/sin/singapore-airlines
 - Scoot at SIN: 12 gates, Terminal 1; 94/day; https://chockwise.com/airports/sin/scoot
 - AirAsia at SIN: shared gates; 16/day; https://chockwise.com/airports/sin/airasia
@@ -3813,7 +3871,7 @@ How we count: a gate is an airline's when that airline (including its regional p
 - JetBlue at SJU: 7 gates, Terminal A; 27/day; https://chockwise.com/airports/sju/jetblue
 - Cape Air at SJU: shared gates; 22/day; https://chockwise.com/airports/sju/cape-air
 - Frontier at SJU: 4 gates, Concourse C; 14/day; https://chockwise.com/airports/sju/frontier
-- Southwest at SJU: 2 gates, Terminal B; 11/day; https://chockwise.com/airports/sju/southwest
+- Southwest at SJU: 3 gates, Terminal B; 11/day; https://chockwise.com/airports/sju/southwest
 - American at SJU: 4 gates, Terminal C; 8-9/day; https://chockwise.com/airports/sju/american
 - United at SJU: 3 gates, Terminal B; 8/day; https://chockwise.com/airports/sju/united
 - Delta at SJU: 3 gates, Terminal B; 7-8/day; https://chockwise.com/airports/sju/delta
@@ -3851,7 +3909,7 @@ How we count: a gate is an airline's when that airline (including its regional p
 - Breeze at SNA: shared gates; 3-4/day; https://chockwise.com/airports/sna/breeze
 - Allegiant at SNA: shared gates; 2-3/day; https://chockwise.com/airports/sna/allegiant
 - Air Canada at SNA: shared gates; 1/day; https://chockwise.com/airports/sna/air-canada
-- Southwest at SRQ: 3 gates, Concourse B; 13/day; https://chockwise.com/airports/srq/southwest
+- Southwest at SRQ: 4 gates, Concourse B; 13/day; https://chockwise.com/airports/srq/southwest
 - Allegiant at SRQ: 5 gates, Concourse A; 10/day; https://chockwise.com/airports/srq/allegiant
 - American at SRQ: 3 gates, Concourse B; 6-7/day; https://chockwise.com/airports/srq/american
 - Delta at SRQ: 2 gates, Concourse B; 6-7/day; https://chockwise.com/airports/srq/delta
@@ -3892,10 +3950,10 @@ How we count: a gate is an airline's when that airline (including its regional p
 - United at SUN: shared gates; 2/day; https://chockwise.com/airports/sun/united
 - Alaska at SUN: 1 gate; 1/day; https://chockwise.com/airports/sun/alaska
 - American at SYR: 5 gates; 16/day; https://chockwise.com/airports/syr/american
-- Delta at SYR: 5 gates; 14/day; https://chockwise.com/airports/syr/delta
+- Delta at SYR: 4 gates; 14/day; https://chockwise.com/airports/syr/delta
 - United at SYR: 3 gates; 7-8/day; https://chockwise.com/airports/syr/united
 - JetBlue at SYR: 4 gates, Terminal A; 5/day; https://chockwise.com/airports/syr/jetblue
-- Allegiant at SYR: shared gates; 1-2/day; https://chockwise.com/airports/syr/allegiant
+- Allegiant at SYR: 1 gate; 1-2/day; https://chockwise.com/airports/syr/allegiant
 - Shenzhen Airlines at SZX: 2 gates, Terminal 3; 153/day; https://chockwise.com/airports/szx/shenzhen-airlines
 - China Southern at SZX: shared gates; 150/day; https://chockwise.com/airports/szx/china-southern
 - Hainan Airlines at SZX: shared gates; 40/day; https://chockwise.com/airports/szx/hainan-airlines
@@ -3943,24 +4001,25 @@ How we count: a gate is an airline's when that airline (including its regional p
 - Himalaya Airlines at SZX: shared gates; 1/week; https://chockwise.com/airports/szx/himalaya-airlines
 - Cambodia Angkor Air at SZX: shared gates; under 1/week; https://chockwise.com/airports/szx/cambodia-angkor-air
 - Hunnu Air at SZX: shared gates; under 1/week; https://chockwise.com/airports/szx/hunnu-air
-- American at TLH: 4 gates, Concourse A; 15/day; https://chockwise.com/airports/tlh/american
+- American at TLH: 4 gates, Concourse A; 13/day; https://chockwise.com/airports/tlh/american
 - Delta at TLH: 2 gates, Concourse B; 6-7/day; https://chockwise.com/airports/tlh/delta
-- Breeze at TLH: shared gates; 1-2/day; https://chockwise.com/airports/tlh/breeze
-- Southwest at TPA: 12 gates, Concourse C; 69/day; https://chockwise.com/airports/tpa/southwest
-- Delta at TPA: 9 gates, Concourse E; 40/day; https://chockwise.com/airports/tpa/delta
-- American at TPA: 12 gates, Concourse F; 39/day; https://chockwise.com/airports/tpa/american
-- United at TPA: 6 gates, Concourse A; 25/day; https://chockwise.com/airports/tpa/united
-- Breeze at TPA: 4 gates, Concourse A; 21/day; https://chockwise.com/airports/tpa/breeze
-- Frontier at TPA: 4 gates, Concourse E; 18/day; https://chockwise.com/airports/tpa/frontier
-- JetBlue at TPA: 3 gates, Concourse A; 10/day; https://chockwise.com/airports/tpa/jetblue
-- Air Canada Rouge at TPA: shared gates; 2/day; https://chockwise.com/airports/tpa/air-canada-rouge
-- Alaska at TPA: 1 gate, Terminal B; 2/day; https://chockwise.com/airports/tpa/alaska
-- Avelo at TPA: 1 gate, Concourse C; 2/day; https://chockwise.com/airports/tpa/avelo
-- Copa at TPA: shared gates; 1-2/day; https://chockwise.com/airports/tpa/copa
-- Virgin Atlantic at TPA: shared gates; 1/day; https://chockwise.com/airports/tpa/virgin-atlantic
-- Cayman Airways at TPA: shared gates; 1/day; https://chockwise.com/airports/tpa/cayman-airways
-- WestJet at TPA: shared gates; 4-5/week; https://chockwise.com/airports/tpa/westjet
-- Sun Country at TPA: shared gates; 4-5/week; https://chockwise.com/airports/tpa/sun-country
+- Breeze at TLH: shared gates; 5/week; https://chockwise.com/airports/tlh/breeze
+- Southwest at TPA: 13 gates, Concourse C; 71/day; https://chockwise.com/airports/tpa/southwest
+- American at TPA: 11 gates, Concourse F; 44/day; https://chockwise.com/airports/tpa/american
+- Delta at TPA: 8 gates, Concourse E; 38/day; https://chockwise.com/airports/tpa/delta
+- United at TPA: 6 gates, Concourse A; 28/day; https://chockwise.com/airports/tpa/united
+- Breeze at TPA: 5 gates, Concourse A; 19/day; https://chockwise.com/airports/tpa/breeze
+- Frontier at TPA: 4 gates, Concourse E; 15/day; https://chockwise.com/airports/tpa/frontier
+- JetBlue at TPA: 3 gates, Concourse A; 12/day; https://chockwise.com/airports/tpa/jetblue
+- Air Canada Rouge at TPA: shared gates; 2-3/day; https://chockwise.com/airports/tpa/air-canada-rouge
+- Alaska at TPA: 1 gate, Concourse C; 2-3/day; https://chockwise.com/airports/tpa/alaska
+- Copa at TPA: shared gates; 2-3/day; https://chockwise.com/airports/tpa/copa
+- Avelo at TPA: 1 gate, Concourse C; 1-2/day; https://chockwise.com/airports/tpa/avelo
+- Porter at TPA: shared gates; 1/day; https://chockwise.com/airports/tpa/porter
+- Virgin Atlantic at TPA: shared gates; 6-7/week; https://chockwise.com/airports/tpa/virgin-atlantic
+- Sun Country at TPA: shared gates; 6-7/week; https://chockwise.com/airports/tpa/sun-country
+- Cayman Airways at TPA: shared gates; 4-5/week; https://chockwise.com/airports/tpa/cayman-airways
+- WestJet at TPA: shared gates; 3/week; https://chockwise.com/airports/tpa/westjet
 - EVA Air at TPE: 9 gates, Terminal 2; 80/day; https://chockwise.com/airports/tpe/eva-air
 - China Airlines at TPE: shared gates; 79/day; https://chockwise.com/airports/tpe/china-airlines
 - STARLUX at TPE: 2 gates, Terminal 2; 35/day; https://chockwise.com/airports/tpe/starlux
@@ -4020,17 +4079,20 @@ How we count: a gate is an airline's when that airline (including its regional p
 - Shandong Airlines at TPE: shared gates; 2-3/week; https://chockwise.com/airports/tpe/shandong-airlines
 - American at TRI: 4 gates; 8-9/day; https://chockwise.com/airports/tri/american
 - Delta at TRI: 2 gates; 4-5/day; https://chockwise.com/airports/tri/delta
-- Breeze at TRI: shared gates; 1-2/week; https://chockwise.com/airports/tri/breeze
+- Breeze at TRI: shared gates; 2-3/week; https://chockwise.com/airports/tri/breeze
 - American at TUL: 4 gates, Concourse A; 19/day; https://chockwise.com/airports/tul/american
 - Southwest at TUL: 4 gates, Concourse B; 15/day; https://chockwise.com/airports/tul/southwest
 - United at TUL: 4 gates, Concourse B; 13/day; https://chockwise.com/airports/tul/united
 - Delta at TUL: 3 gates, Concourse A; 6-7/day; https://chockwise.com/airports/tul/delta
 - Alaska at TUL: 1 gate, Concourse A; 2/day; https://chockwise.com/airports/tul/alaska
-- American at TUS: 4 gates, Concourse B; 20/day; https://chockwise.com/airports/tus/american
+- American at TUS: 4 gates, Concourse B; 19/day; https://chockwise.com/airports/tus/american
 - Southwest at TUS: 4 gates, Concourse A; 13/day; https://chockwise.com/airports/tus/southwest
-- United at TUS: 4 gates, Concourse A; 9/day; https://chockwise.com/airports/tus/united
+- United at TUS: 4 gates, Concourse A; 11/day; https://chockwise.com/airports/tus/united
 - Delta at TUS: 2 gates, Concourse B; 8-9/day; https://chockwise.com/airports/tus/delta
-- Alaska at TUS: 2 gates, Concourse B; 3-4/day; https://chockwise.com/airports/tus/alaska
+- Alaska at TUS: 2 gates, Concourse B; 2/day; https://chockwise.com/airports/tus/alaska
+- United at TVC: 3 gates; 7/day; https://chockwise.com/airports/tvc/united
+- American at TVC: 1 gate; 4/day; https://chockwise.com/airports/tvc/american
+- Delta at TVC: 1 gate; 3/day; https://chockwise.com/airports/tvc/delta
 - American at TYS: 3 gates; 26/day; https://chockwise.com/airports/tys/american
 - Delta at TYS: 3 gates; 16/day; https://chockwise.com/airports/tys/delta
 - United at TYS: 2 gates; 15/day; https://chockwise.com/airports/tys/united
@@ -4107,22 +4169,23 @@ How we count: a gate is an airline's when that airline (including its regional p
 - American at VPS: 4 gates, Concourse A; 10/day; https://chockwise.com/airports/vps/american
 - Delta at VPS: 2 gates, Concourse B; 7/day; https://chockwise.com/airports/vps/delta
 - Southwest at VPS: 1 gate, Concourse B; 6-7/day; https://chockwise.com/airports/vps/southwest
-- American at XNA: 6 gates, Concourse A; 29/day; https://chockwise.com/airports/xna/american
-- United at XNA: 3 gates, Concourse A; 14/day; https://chockwise.com/airports/xna/united
-- Delta at XNA: 3 gates, Concourse A; 13/day; https://chockwise.com/airports/xna/delta
-- Allegiant at XNA: shared gates; 2/day; https://chockwise.com/airports/xna/allegiant
-- Frontier at XNA: shared gates; 4-5/week; https://chockwise.com/airports/xna/frontier
+- American at XNA: 6 gates, Concourse A; 25/day; https://chockwise.com/airports/xna/american
+- United at XNA: 3 gates, Concourse A; 13/day; https://chockwise.com/airports/xna/united
+- Delta at XNA: 3 gates, Concourse A; 11/day; https://chockwise.com/airports/xna/delta
+- Allegiant at XNA: shared gates; 4-5/week; https://chockwise.com/airports/xna/allegiant
+- Breeze at XNA: shared gates; 4-5/week; https://chockwise.com/airports/xna/breeze
+- Frontier at XNA: shared gates; 2-3/week; https://chockwise.com/airports/xna/frontier
 - WestJet at YYC: 32 gates, Terminal D; 143/day; https://chockwise.com/airports/yyc/westjet
 - Air Canada at YYC: 3 gates, Terminal D; 32/day; https://chockwise.com/airports/yyc/air-canada
 - Flair at YYC: shared gates; 11/day; https://chockwise.com/airports/yyc/flair
 - Porter at YYC: shared gates; 6-7/day; https://chockwise.com/airports/yyc/porter
-- United at YYC: 2 gates, International Terminal; 5-6/day; https://chockwise.com/airports/yyc/united
+- United at YYC: 1 gate, International Terminal; 5-6/day; https://chockwise.com/airports/yyc/united
 - Alaska at YYC: shared gates; 4-5/day; https://chockwise.com/airports/yyc/alaska
 - Delta at YYC: 2 gates, International Terminal; 4/day; https://chockwise.com/airports/yyc/delta
 - American at YYC: shared gates; 2/day; https://chockwise.com/airports/yyc/american
 - KLM at YYC: shared gates; 1-2/day; https://chockwise.com/airports/yyc/klm
 - Discover at YYC: shared gates; 1/day; https://chockwise.com/airports/yyc/discover
-- Air Canada at YYZ: 30 gates, Terminal 1; 187/day; https://chockwise.com/airports/yyz/air-canada
+- Air Canada at YYZ: 28 gates, Terminal 1; 187/day; https://chockwise.com/airports/yyz/air-canada
 - Air Canada Rouge at YYZ: shared gates; 61/day; https://chockwise.com/airports/yyz/air-canada-rouge
 - Porter at YYZ: 1 gate, Terminal 3; 46/day; https://chockwise.com/airports/yyz/porter
 - WestJet at YYZ: 2 gates, Terminal 3; 45/day; https://chockwise.com/airports/yyz/westjet
