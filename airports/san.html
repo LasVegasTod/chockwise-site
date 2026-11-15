@@ -93,7 +93,30 @@
                               header .wrap { flex-wrap:wrap; row-gap:12px; } nav { width:100%; display:flex; align-items:center; }
                               nav a { margin:0 14px 0 0; white-space:nowrap; } nav a.cta { margin:0 0 0 auto; padding:8px 12px; } .ai { grid-template-columns:1fr; } }
 </style>
-<style>
+<style id="livemap">
+.lm-box{position:relative;aspect-ratio:16/9;width:100%;border-radius:14px;overflow:hidden;border:1px solid var(--line,#E2DED3);
+ box-shadow:0 18px 50px rgba(20,33,61,.14);background:#F6F4EE}
+.lm-box>img.shot{width:100%;height:100%;object-fit:cover;border:0;border-radius:0;box-shadow:none;display:block}
+.lm-map{position:absolute;inset:0;background:#F6F4EE;font:inherit}
+.lm-hint{display:none}.lm.live .lm-hint{display:inline}
+.lm .leaflet-container{background:#F6F4EE;font-family:inherit}
+.lm-num{background:none;border:0;color:#14213D;font-weight:700;font-size:12px;text-align:center;white-space:nowrap;
+ text-shadow:0 0 3px #fff,0 0 3px #fff,0 0 2px #fff;pointer-events:none}
+.lm-key{background:rgba(255,255,255,.94);border-radius:10px;padding:8px 10px;font-size:13px;line-height:1.5;color:#14213D;
+ box-shadow:0 2px 10px rgba(0,0,0,.12);max-height:60%;overflow:auto}
+.lm-key b{display:block;font-size:12px;letter-spacing:.04em;text-transform:uppercase;color:#4A5468;margin-bottom:2px}
+.lm-key i{display:inline-block;width:12px;height:12px;border-radius:3px;margin-right:6px;vertical-align:-1px}
+.lm-key span{color:#4A5468}
+.lm-tip{font-size:13px;line-height:1.4}.lm-tip b{font-size:15px}
+.lm-tap{position:absolute;inset:auto 0 12px 0;margin:auto;width:max-content;z-index:800;background:#14213D;color:#fff;
+ border:0;border-radius:999px;padding:9px 16px;font:inherit;font-weight:600;cursor:pointer}
+.lm-done{position:absolute;top:10px;right:10px;z-index:800;background:#14213D;color:#fff;border:0;border-radius:999px;
+ padding:7px 14px;font:inherit;font-weight:600;cursor:pointer;display:none}
+.lm.active .lm-done{display:block}.lm.active .lm-tap{display:none}
+@media (max-width:640px){.lm-box{aspect-ratio:4/3}.lm-key{font-size:12px;max-height:70%}.lm .leaflet-control-attribution{font-size:9px}.lm-tap{inset:auto 0 30px 0}}
+.lm-key b{cursor:pointer}.lm-key b:after{content:' ▾'}.lm-key.shut b:after{content:' ▸'}.lm-key.shut div{display:none}
+.lm-key.shut b{margin:0}
+</style><style>
 .gbx{margin:14px 0 22px;border:1px solid #F3C7A6;border-left:4px solid #FF6B2C;border-radius:12px;background:#FFF8EF;padding:12px 16px;max-width:760px}
 .gbx h2{margin:0 0 6px;font-size:17px;line-height:1.3}
 .gbx ul{list-style:none;margin:0;padding:0}
@@ -182,12 +205,12 @@
 })();
 </script>
   <div class="tiles"><div class="tile"><b>51</b><span>gates mapped</span></div><div class="tile"><b>657</b><span>flights a day</span></div><div class="tile"><b>49,451</b><span>seats out a day</span></div><div class="tile"><b>58 min</b><span>median turn at the gate</span></div><div class="tile"><b>118</b><span>tows a week</span></div><div class="tile"><b>18%</b><span>departures on regional jets</span></div></div>
-  <figure><img class="shot" src="https://chockwise.com/airports/san-gates.webp?v=40a75b8e" width="1600" height="900" loading="lazy" alt="Map of San Diego Airport (SAN) with all 51 gates colored by the airline that uses each most: Southwest 15, Alaska 11, United 5, 5 common use."><figcaption>Every gate at SAN, colored by the airline that holds it.</figcaption></figure>
+  <figure class="lm" data-map="/airports/san-map.json?v=2a7e17ce" data-js="/vendor/leaflet-1.9.4/leaflet.js" data-css="/vendor/leaflet-1.9.4/leaflet.css" data-app="/livemap.js?v=9879da0a"><div class="lm-box"><img class="shot" src="https://chockwise.com/airports/san-gates.webp?v=40a75b8e" width="1600" height="900" loading="lazy" alt="Map of San Diego Airport (SAN) with all 51 gates colored by the airline that uses each most: Southwest 15, Alaska 11, United 5, 5 common use."></div><figcaption>Every gate at SAN, colored by the airline that holds it. <span class="lm-hint">Drag and zoom the map; hover or tap a gate.</span></figcaption></figure>
   <h2>Gates, seats and flights by airline at SAN</h2>
   <div class="tablewrap"><table>
     <tr><th>Airline</th><th>Gates held</th><th>Departures a day</th><th>Seats out a day</th><th>Share of seats</th>
         <th>Seats per departure</th><th>Regional jets</th><th>Median turn</th><th>Tows a week</th></tr>
-    <tr><td><span class="chip" style="background:#F7861E"></span><a href="/airports/san/southwest">Southwest</a></td><td>15</td><td>118</td><td>19,223</td><td>39%</td><td>163</td><td>0%</td><td>54 min</td><td>47</td></tr><tr><td><span class="chip" style="background:#4FB3E8"></span><a href="/airports/san/alaska">Alaska</a></td><td>11</td><td>98</td><td>12,014</td><td>24%</td><td>123</td><td>53%</td><td>53 min</td><td>37</td></tr><tr><td><span class="chip" style="background:#0033A0"></span><a href="/airports/san/united">United</a></td><td>5</td><td>33</td><td>5,655</td><td>11%</td><td>178</td><td>0%</td><td>74 min</td><td>18</td></tr><tr><td><span class="chip" style="background:#C8102E"></span><a href="/airports/san/delta">Delta</a></td><td>5</td><td>31</td><td>5,088</td><td>10%</td><td>166</td><td>15%</td><td>68 min</td><td>4</td></tr><tr><td><span class="chip" style="background:#A9B4BC"></span><a href="/airports/san/american">American</a></td><td>5</td><td>27</td><td>5,067</td><td>10%</td><td>188</td><td>1%</td><td>62 min</td><td>10</td></tr><tr><td><span class="chip" style="background:#002244"></span><a href="/airports/san/jetblue">JetBlue</a></td><td>2</td><td>5</td><td>943</td><td>2%</td><td>200</td><td>0%</td><td>93 min</td><td>0</td></tr><tr><td><span class="chip" style="background:#248168"></span><a href="/airports/san/frontier">Frontier</a></td><td>1</td><td>5</td><td>935</td><td>2%</td><td>201</td><td>0%</td><td>48 min</td><td>0</td></tr><tr><td><span class="chip" style="background:#C026D3"></span>Common use (shared)</td><td>5</td><td colspan="7"></td></tr>
+    <tr><td><span class="chip" style="background:#F7861E"></span><a href="/airports/san/southwest">Southwest</a></td><td>15</td><td>118</td><td>19,223</td><td>39%</td><td>163</td><td>0%</td><td>54 min</td><td>47</td></tr><tr><td><span class="chip" style="background:#4FB3E8"></span><a href="/airports/san/alaska">Alaska</a></td><td>11</td><td>98</td><td>12,014</td><td>24%</td><td>123</td><td>53%</td><td>53 min</td><td>37</td></tr><tr><td><span class="chip" style="background:#0033A0"></span><a href="/airports/san/united">United</a></td><td>5</td><td>33</td><td>5,655</td><td>11%</td><td>178</td><td>0%</td><td>73 min</td><td>18</td></tr><tr><td><span class="chip" style="background:#C8102E"></span><a href="/airports/san/delta">Delta</a></td><td>5</td><td>31</td><td>5,088</td><td>10%</td><td>166</td><td>15%</td><td>68 min</td><td>4</td></tr><tr><td><span class="chip" style="background:#A9B4BC"></span><a href="/airports/san/american">American</a></td><td>5</td><td>27</td><td>5,067</td><td>10%</td><td>188</td><td>1%</td><td>62 min</td><td>10</td></tr><tr><td><span class="chip" style="background:#002244"></span><a href="/airports/san/jetblue">JetBlue</a></td><td>2</td><td>5</td><td>943</td><td>2%</td><td>200</td><td>0%</td><td>93 min</td><td>0</td></tr><tr><td><span class="chip" style="background:#248168"></span><a href="/airports/san/frontier">Frontier</a></td><td>1</td><td>5</td><td>935</td><td>2%</td><td>201</td><td>0%</td><td>48 min</td><td>0</td></tr><tr><td><span class="chip" style="background:#C026D3"></span>Common use (shared)</td><td>5</td><td colspan="7"></td></tr>
   </table></div>
   <p class="note">44 gates by airline + 5 common use + 2 with few or no flights = 51. Average of 28 full days, Oct 17 to Nov 13, 2026. Gates held = the airline flying the gate most (regional partners count as their brand); 2 gates saw few or no flights (not in use or under repair). Seats are capacity, from each airline’s seat map per aircraft type; 1% of flights have no seat count yet.</p>
   
@@ -246,8 +269,13 @@
 </main>
 <footer><div class="wrap">
   <span>© <span id="year">2026</span> Chockwise LLC · <a href="/" style="color:inherit">chockwise.com</a> · <a href="/for-airlines" style="color:inherit">For airlines</a> · <a href="/for-airports" style="color:inherit">For airports</a> · <a href="/privacy" style="color:inherit">Privacy</a> · <a href="/terms" style="color:inherit">Terms</a></span>
-  <span>Flight data: FlightAware · Seats: each airline’s seat map per aircraft type · Map © OpenStreetMap contributors · Updated Nov 14, 2026</span>
+  <span>Flight data: FlightAware · Seats: each airline’s seat map per aircraft type · Map © OpenStreetMap contributors · Updated Nov 15, 2026</span>
 </div></footer>
 <script>document.getElementById('year').textContent = new Date().getFullYear();</script>
-</body>
+<script>(function(){var f=document.querySelector('figure.lm');if(!f||!window.IntersectionObserver)return;
+var go=function(){var l=document.createElement('link');l.rel='stylesheet';l.href=f.dataset.css;document.head.appendChild(l);
+var s=document.createElement('script');s.src=f.dataset.js;s.onload=function(){var a=document.createElement('script');
+a.src=f.dataset.app;document.head.appendChild(a);};document.head.appendChild(s);};
+var io=new IntersectionObserver(function(es){if(es.some(function(e){return e.isIntersecting;})){io.disconnect();go();}},
+{rootMargin:'300px'});io.observe(f);})();</script></body>
 </html>
