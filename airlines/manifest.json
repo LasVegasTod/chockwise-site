@@ -127027,7 +127027,7 @@
   },
   "american": {
    "airport_short": "SJC",
-   "changed": "2026-11-16",
+   "changed": "2026-11-17",
    "code": "AA",
    "data": "2026-10-06",
    "deps_day": 6.0,
@@ -127041,7 +127041,7 @@
     "10"
    ],
    "gone": false,
-   "hash": "b19bbeb7bf6c",
+   "hash": "1877f7eaa111",
    "last_seen": "2026-11-15",
    "last_seen_str": "Nov 15, 2026",
    "name": "American Airlines",
@@ -127058,7 +127058,7 @@
   },
   "delta": {
    "airport_short": "SJC",
-   "changed": "2026-11-15",
+   "changed": "2026-11-17",
    "code": "DL",
    "data": "2026-10-06",
    "deps_day": 20.7,
@@ -127078,7 +127078,7 @@
     "14"
    ],
    "gone": false,
-   "hash": "3a2d07d766e4",
+   "hash": "ac4eb7134714",
    "last_seen": "2026-11-16",
    "last_seen_str": "Nov 16, 2026",
    "name": "Delta Air Lines",
@@ -127095,7 +127095,7 @@
   },
   "frontier": {
    "airport_short": "SJC",
-   "changed": "2026-11-16",
+   "changed": "2026-11-17",
    "code": "F9",
    "data": "2026-10-06",
    "deps_day": 1.7,
@@ -127108,7 +127108,7 @@
     "8"
    ],
    "gone": false,
-   "hash": "13fca7e16cd0",
+   "hash": "f612dd0285ec",
    "last_seen": "2026-11-15",
    "last_seen_str": "Nov 15, 2026",
    "name": "Frontier Airlines",
@@ -127164,7 +127164,7 @@
   },
   "united": {
    "airport_short": "SJC",
-   "changed": "2026-11-16",
+   "changed": "2026-11-17",
    "code": "UA",
    "data": "2026-10-06",
    "deps_day": 4.7,
@@ -127177,7 +127177,7 @@
     "7"
    ],
    "gone": false,
-   "hash": "8236a635e723",
+   "hash": "7761a092871e",
    "last_seen": "2026-11-15",
    "last_seen_str": "Nov 15, 2026",
    "name": "United Airlines",
@@ -127194,7 +127194,7 @@
   },
   "volaris": {
    "airport_short": "SJC",
-   "changed": "2026-11-14",
+   "changed": "2026-11-17",
    "code": "Y4",
    "data": "2026-10-06",
    "deps_day": 3.7,
@@ -127209,7 +127209,7 @@
     "16"
    ],
    "gone": false,
-   "hash": "c844a6205fa5",
+   "hash": "fc5d734715a8",
    "last_seen": "2026-10-05",
    "last_seen_str": "Oct 5, 2026",
    "name": "Volaris",
