@@ -93,7 +93,37 @@
                               header .wrap { flex-wrap:wrap; row-gap:12px; } nav { width:100%; display:flex; align-items:center; }
                               nav a { margin:0 14px 0 0; white-space:nowrap; } nav a.cta { margin:0 0 0 auto; padding:8px 12px; } .ai { grid-template-columns:1fr; } }
 </style>
-<style id="live-demo">nav a.live{background:var(--navy);color:#fff;padding:6px 11px 6px 9px;border-radius:9px;white-space:nowrap}nav a.live::before{content:"\25B6";color:var(--chock);font-size:.8em;margin-right:5px}@media (max-width:560px){nav a.cta{display:none}}</style></head>
+<style id="livemap">
+.lm-box{position:relative;aspect-ratio:16/9;width:100%;border-radius:14px;overflow:hidden;border:1px solid var(--line,#E2DED3);
+ box-shadow:0 18px 50px rgba(20,33,61,.14);background:#F6F4EE}
+.lm-box>img.shot{width:100%;height:100%;object-fit:cover;border:0;border-radius:0;box-shadow:none;display:block}
+.lm-map{position:absolute;inset:0;background:#F6F4EE;font:inherit}
+.lm-hint{display:none}.lm.live .lm-hint{display:inline}
+.lm .leaflet-container{background:#F6F4EE;font-family:inherit}
+.lm-num{background:none;border:0;color:#14213D;font-weight:700;font-size:12px;text-align:center;white-space:nowrap;
+ text-shadow:0 0 3px #fff,0 0 3px #fff,0 0 2px #fff;pointer-events:none}
+.lm-key{background:rgba(255,255,255,.94);border-radius:10px;padding:8px 10px;font-size:13px;line-height:1.5;color:#14213D;
+ box-shadow:0 2px 10px rgba(0,0,0,.12);max-height:60%;overflow:auto}
+.lm-key b{display:block;font-size:12px;letter-spacing:.04em;text-transform:uppercase;color:#4A5468;margin-bottom:2px}
+.lm-key i{display:inline-block;width:12px;height:12px;border-radius:3px;margin-right:6px;vertical-align:-1px}
+.lm-key span{color:#4A5468}
+.lm-tip{font-size:13px;line-height:1.4}.lm-tip b{font-size:15px}
+.lm-pop{font-size:13px;line-height:1.45;color:#14213D}.lm-pop b{font-size:16px}.lm-pop p{margin:8px 0 10px;color:#4A5468}
+.lm-pop a.lm-req{display:inline-block;background:#F2B705;color:#14213D;font-weight:700;text-decoration:none;border-radius:999px;
+ padding:7px 14px;margin-right:10px}
+.lm-pop a.lm-demo{color:#14213D;font-weight:600;white-space:nowrap}
+.lm-under{position:relative;margin-top:10px;padding:12px 40px 14px 14px;border:1px solid var(--line,#E2DED3);border-radius:12px;background:#fff;text-align:left}
+.lm-under[hidden]{display:none}.lm-x{position:absolute;top:4px;right:6px;border:0;background:none;font-size:24px;line-height:1;color:#4A5468;padding:6px;cursor:pointer}
+.lm .leaflet-popup-content{margin:12px 14px}.lm .leaflet-popup-content-wrapper{border-radius:12px}
+.lm-tap{position:absolute;inset:auto 0 12px 0;margin:auto;width:max-content;z-index:800;background:#14213D;color:#fff;
+ border:0;border-radius:999px;padding:9px 16px;font:inherit;font-weight:600;cursor:pointer}
+.lm-done{position:absolute;top:10px;right:10px;z-index:800;background:#14213D;color:#fff;border:0;border-radius:999px;
+ padding:7px 14px;font:inherit;font-weight:600;cursor:pointer;display:none}
+.lm.active .lm-done{display:block}.lm.active .lm-tap{display:none}
+@media (max-width:640px){.lm-box{aspect-ratio:4/3}.lm-key{font-size:12px;max-height:70%}.lm .leaflet-control-attribution{font-size:9px}.lm-tap{inset:auto 0 30px 0}}
+.lm-key b{cursor:pointer}.lm-key b:after{content:' ▾'}.lm-key.shut b:after{content:' ▸'}.lm-key.shut div{display:none}
+.lm-key.shut b{margin:0}
+</style><style id="live-demo">nav a.live{background:var(--navy);color:#fff;padding:6px 11px 6px 9px;border-radius:9px;white-space:nowrap}nav a.live::before{content:"\25B6";color:var(--chock);font-size:.8em;margin-right:5px}@media (max-width:560px){nav a.cta{display:none}}</style></head>
 <body>
 <header><div class="wrap">
   <a class="brand" href="/" aria-label="Chockwise home"><svg viewBox="0 0 120 120" aria-hidden="true"><circle cx="60" cy="60" r="38" fill="none" stroke="#14213D" stroke-width="12"/><circle cx="60" cy="60" r="12" fill="#14213D"/><path d="M16 104 L37 104 L16 83 Z" fill="#F2B705"/><path d="M104 104 L83 104 L104 83 Z" fill="#F2B705"/><rect x="6" y="104" width="108" height="8" rx="2" fill="#14213D"/></svg><span>chockwise</span></a>
@@ -172,7 +202,7 @@
 })();
 </script>
   <div class="tiles"><div class="tile"><b>24</b><span>gates mapped</span></div><div class="tile"><b>491</b><span>flights a day</span></div><div class="tile"><b>31,851</b><span>seats out a day</span></div><div class="tile"><b>61 min</b><span>median turn at the gate</span></div><div class="tile"><b>0</b><span>tows a week</span></div><div class="tile"><b>0%</b><span>departures on regional jets</span></div></div>
-  <figure><img class="shot" src="https://chockwise.com/airports/cju-gates.webp?v=a261cdae" width="1600" height="900" loading="lazy" alt="Map of Jeju Airport (CJU) with all 24 gates colored by the airline that uses each most: Jeju Air 1, Eastar Jet 1, Jin Air 1, 21 common use."><figcaption>Every gate at CJU, colored by the airline that holds it.</figcaption></figure>
+  <figure class="lm" data-map="/airports/cju-map.json?v=6b45de4d" data-js="/vendor/leaflet-1.9.4/leaflet.js" data-css="/vendor/leaflet-1.9.4/leaflet.css" data-app="/livemap.js?v=87f8a6d1"><div class="lm-box"><img class="shot" src="https://chockwise.com/airports/cju-gates.webp?v=a261cdae" width="1600" height="900" loading="eager" fetchpriority="high" alt="Map of Jeju Airport (CJU) with all 24 gates colored by the airline that uses each most: Jeju Air 1, Eastar Jet 1, Jin Air 1, 21 common use."></div><figcaption>Every gate at CJU, colored by the airline that holds it. <span class="lm-hint">Drag and zoom the map; click or tap a gate.</span></figcaption></figure>
   <h2>Gates, seats and flights by airline at CJU</h2>
   <div class="tablewrap"><table>
     <tr><th>Airline</th><th>Gates held</th><th>Departures a day</th><th>Seats out a day</th><th>Share of seats</th>
@@ -238,5 +268,10 @@
   <span>Flight data: FlightAware · Seats: each airline’s seat map per aircraft type · Map © OpenStreetMap contributors · Updated Nov 18, 2026</span>
 </div></footer>
 <script>document.getElementById('year').textContent = new Date().getFullYear();</script>
-</body>
+<script>(function(){var f=document.querySelector('figure.lm');if(!f||!window.IntersectionObserver)return;
+var go=function(){var l=document.createElement('link');l.rel='stylesheet';l.href=f.dataset.css;document.head.appendChild(l);
+var s=document.createElement('script');s.src=f.dataset.js;s.onload=function(){var a=document.createElement('script');
+a.src=f.dataset.app;document.head.appendChild(a);};document.head.appendChild(s);};
+var io=new IntersectionObserver(function(es){if(es.some(function(e){return e.isIntersecting;})){io.disconnect();go();}},
+{rootMargin:'300px'});io.observe(f);})();</script></body>
 </html>

@@ -3,6 +3,7 @@ var f=document.querySelector('figure.lm');if(!f||!window.L)return;
 var box=f.querySelector('.lm-box');
 fetch(f.dataset.map).then(function(r){if(!r.ok)throw r.status;return r.json();}).then(draw).catch(function(){});
 function esc(s){return String(s).replace(/[&<>"]/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c];});}
+var DEMO='https://app.chockwise.com/demo';
 function draw(D){
   var touch=window.matchMedia&&matchMedia('(pointer:coarse)').matches;
   var el=document.createElement('div');el.className='lm-map';box.appendChild(el);
@@ -20,12 +21,27 @@ function draw(D){
     lines.forEach(function(l){l.setStyle({weight:Math.max(1,(l.options.k==='r'?45:23)/m)});});}
   var names={};D.key.forEach(function(k){if(k[0])names[k[0]]=k[1];});
   var bounds=L.latLngBounds([]),nums=[],shapes=[];
+  var narrow=el.clientWidth<640,under=document.createElement('div');under.className='lm-under';under.hidden=true;
+  box.parentNode.insertBefore(under,box.nextSibling);
   function w(){return map.getZoom()>=16?1.5:0.6;}
   D.gates.forEach(function(g){
     var shape=L.polygon(g.r,{renderer:R,fillColor:g.f,fillOpacity:g.o,color:g.s,weight:1.5,dashArray:g.d?'4 3':null});
     var who=g.a?esc(names[g.a]||g.a)+': ':'';
     var tip='<div class="lm-tip"><b>Gate '+esc(g.g)+'</b><br>'+who+esc(g.u)+'</div>';
-    shape.bindTooltip(tip,{sticky:!touch,direction:'top',opacity:1});
+    if(!touch)shape.bindTooltip(tip,{sticky:true,direction:'top',opacity:1});
+    // a click (or tap) on a gate: what it is, and where the rest of its numbers are. A card over the map on wide
+    // screens; under the map on narrow ones, where the card would not fit inside it
+    function card(){var d=document.createElement('div');d.className='lm-pop';
+      d.innerHTML='<b>Gate '+esc(g.g)+'</b><div>'+who+esc(g.u)+'</div><p>Planes turned, seats and this gate\u2019s whole day, '+
+        'hour by hour, are in Chockwise for airlines and airports.</p><a class="lm-req" href="/#contact">Request access</a>'+
+        '<a class="lm-demo" href="'+DEMO+'">See the live demo</a>';
+      d.querySelector('.lm-req').addEventListener('click',function(){try{if(window.gtag)gtag('event','livemap_request_access',{airport:D.code,gate:g.g});}catch(e){}});
+      return d;}
+    if(!narrow){shape.bindPopup(card,{maxWidth:250,minWidth:200,autoPanPadding:[14,14]});
+      shape.on('popupopen',function(){shape.closeTooltip();});}
+    else shape.on('click',function(){under.innerHTML='';var x=document.createElement('button');x.type='button';x.className='lm-x';
+      x.setAttribute('aria-label','Close');x.textContent='\u00d7';x.onclick=function(){under.hidden=true;};
+      under.appendChild(x);under.appendChild(card());under.hidden=false;});
     shape.on('mouseover',function(){shape.setStyle({weight:3,fillOpacity:Math.min(1,g.o+0.25)});});
     shape.on('mouseout',function(){shape.setStyle({weight:w(),fillOpacity:g.o});});shapes.push(shape);
     shape.addTo(map);bounds.extend(shape.getBounds());
