@@ -1,6 +1,6 @@
 # Chockwise
 
-> Airport gate data by airline, from flight data: how many gates each airline has at 265 airports, which terminal it uses, departures a day and nonstop routes. Data as of Nov 18, 2026.
+> Airport gate data by airline, from flight data: how many gates each airline has at 265 airports, which terminal it uses, departures a day and nonstop routes. Data as of Nov 19, 2026.
 
 How we count: a gate is an airline's when that airline (including its regional partners) flies at least 70% of the arrivals and departures there over the data window shown on each page. Gates no airline dominates are "common use". Counts on the airport page and the airline-at-airport page are always the same number. Each page says the days its numbers come from.
 
@@ -14,8 +14,8 @@ How we count: a gate is an airline's when that airline (including its regional p
 ## Largest airports
 - [O’Hare (ORD)](https://chockwise.com/airports/ord): 192 gates; United 89 (Terminal 1)
 - [Atlanta (ATL)](https://chockwise.com/airports/atl): 200 gates; Delta 145 (Concourse B)
-- [Dallas/Fort Worth (DFW)](https://chockwise.com/airports/dfw): 175 gates; American 125 (Terminal B)
-- [Denver (DEN)](https://chockwise.com/airports/den): 171 gates; United 85 (Concourse B)
+- [Dallas/Fort Worth (DFW)](https://chockwise.com/airports/dfw): 175 gates; American 126 (Terminal B)
+- [Denver (DEN)](https://chockwise.com/airports/den): 171 gates; United 88 (Concourse B)
 - [Los Angeles (LAX)](https://chockwise.com/airports/lax): 147 gates; Delta 27 (Terminal 3)
 - [Istanbul (IST)](https://chockwise.com/airports/ist): 115 gates; Turkish Airlines 85 (Concourse F)
 - [Charlotte (CLT)](https://chockwise.com/airports/clt): 122 gates; American 100 (Concourse E)
@@ -24,7 +24,7 @@ How we count: a gate is an airline's when that airline (including its regional p
 - [Amsterdam (AMS)](https://chockwise.com/airports/ams): 120 gates; KLM 40 (Terminal 1)
 - [Frankfurt (FRA)](https://chockwise.com/airports/fra): 117 gates; Lufthansa 21 (Terminal 1)
 - [London Heathrow (LHR)](https://chockwise.com/airports/lhr): 145 gates; British Airways 46 (Terminal 5)
-- [Houston Bush (IAH)](https://chockwise.com/airports/iah): 166 gates; United 100 (Terminal B)
+- [Houston Bush (IAH)](https://chockwise.com/airports/iah): 166 gates; United 101 (Terminal B)
 - [Beijing Capital (PEK)](https://chockwise.com/airports/pek): 123 gates; Air China 42 (Terminal 3)
 - [Phoenix (PHX)](https://chockwise.com/airports/phx): 111 gates; American 53 (Terminal 4)
 - [Shenzhen (SZX)](https://chockwise.com/airports/szx): 100 gates; Shenzhen Airlines 2 (Terminal 3)
@@ -40,5 +40,5 @@ How we count: a gate is an airline's when that airline (including its regional p
 - [Las Vegas (LAS)](https://chockwise.com/airports/las): 108 gates; Southwest 37 (Terminal 1)
 - [Newark (EWR)](https://chockwise.com/airports/ewr): 104 gates; United 80 (Terminal C)
 - [Orlando (MCO)](https://chockwise.com/airports/mco): 116 gates; Southwest 22 (Terminal A)
-- [Boston (BOS)](https://chockwise.com/airports/bos): 110 gates; JetBlue 27 (Terminal C)
 - [Jakarta (CGK)](https://chockwise.com/airports/cgk): 78 gates; Garuda 12 (Terminal 3)
+- [Toronto Pearson (YYZ)](https://chockwise.com/airports/yyz): 133 gates; Air Canada 26 (Terminal 1)
