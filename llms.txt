@@ -1,6 +1,6 @@
 # Chockwise
 
-> Airport gate data by airline, from flight data: how many gates each airline has at 265 airports, which terminal it uses, departures a day and nonstop routes. Data as of Nov 19, 2026.
+> Airport gate data by airline, from flight data: how many gates each airline has at 265 airports, which terminal it uses, departures a day and nonstop routes. Data as of Nov 20, 2026.
 
 How we count: a gate is an airline's when that airline (including its regional partners) flies at least 70% of the arrivals and departures there over the data window shown on each page. Gates no airline dominates are "common use". Counts on the airport page and the airline-at-airport page are always the same number. Each page says the days its numbers come from.
 
@@ -18,27 +18,27 @@ How we count: a gate is an airline's when that airline (including its regional p
 - [Denver (DEN)](https://chockwise.com/airports/den): 171 gates; United 88 (Concourse B)
 - [Los Angeles (LAX)](https://chockwise.com/airports/lax): 147 gates; Delta 27 (Terminal 3)
 - [Istanbul (IST)](https://chockwise.com/airports/ist): 115 gates; Turkish Airlines 85 (Concourse F)
-- [Charlotte (CLT)](https://chockwise.com/airports/clt): 122 gates; American 100 (Concourse E)
+- [Charlotte (CLT)](https://chockwise.com/airports/clt): 122 gates; American 99 (Concourse E)
 - [Madrid (MAD)](https://chockwise.com/airports/mad): 118 gates; Iberia 30 (Terminal 4)
 - [Tokyo Haneda (HND)](https://chockwise.com/airports/hnd): 108 gates; ANA 35 (Terminal 2N)
 - [Amsterdam (AMS)](https://chockwise.com/airports/ams): 120 gates; KLM 40 (Terminal 1)
-- [Frankfurt (FRA)](https://chockwise.com/airports/fra): 117 gates; Lufthansa 21 (Terminal 1)
+- [Frankfurt (FRA)](https://chockwise.com/airports/fra): 117 gates; Lufthansa 22 (Terminal 1)
 - [London Heathrow (LHR)](https://chockwise.com/airports/lhr): 145 gates; British Airways 46 (Terminal 5)
 - [Houston Bush (IAH)](https://chockwise.com/airports/iah): 166 gates; United 101 (Terminal B)
-- [Beijing Capital (PEK)](https://chockwise.com/airports/pek): 123 gates; Air China 42 (Terminal 3)
 - [Phoenix (PHX)](https://chockwise.com/airports/phx): 111 gates; American 53 (Terminal 4)
+- [Beijing Capital (PEK)](https://chockwise.com/airports/pek): 123 gates; Air China 42 (Terminal 3)
 - [Shenzhen (SZX)](https://chockwise.com/airports/szx): 100 gates; Shenzhen Airlines 2 (Terminal 3)
 - [Barcelona (BCN)](https://chockwise.com/airports/bcn): 108 gates; Vueling 17 (Terminal 1)
 - [Hong Kong (HKG)](https://chockwise.com/airports/hkg): 91 gates; Cathay Pacific 13 (Terminal 1)
-- [Seattle (SEA)](https://chockwise.com/airports/sea): 88 gates; Alaska 40 (Concourse N)
 - [Miami (MIA)](https://chockwise.com/airports/mia): 142 gates; American 70 (Concourse D)
+- [Seattle (SEA)](https://chockwise.com/airports/sea): 88 gates; Alaska 40 (Concourse N)
 - [Seoul Incheon (ICN)](https://chockwise.com/airports/icn): 151 gates; Korean Air 21 (Terminal 2)
 - [San Francisco (SFO)](https://chockwise.com/airports/sfo): 108 gates; United 47 (Terminal 3)
 - [Bangkok Suvarnabhumi (BKK)](https://chockwise.com/airports/bkk): 86 gates; Thai Airways 8 (Terminal M)
 - [Singapore (SIN)](https://chockwise.com/airports/sin): 131 gates; Singapore Airlines 25 (Terminal 3)
 - [New York JFK](https://chockwise.com/airports/jfk): 120 gates; Delta 38 (Terminal 4)
 - [Las Vegas (LAS)](https://chockwise.com/airports/las): 108 gates; Southwest 37 (Terminal 1)
-- [Newark (EWR)](https://chockwise.com/airports/ewr): 104 gates; United 80 (Terminal C)
 - [Orlando (MCO)](https://chockwise.com/airports/mco): 116 gates; Southwest 22 (Terminal A)
+- [Newark (EWR)](https://chockwise.com/airports/ewr): 104 gates; United 79 (Terminal C)
+- [Boston (BOS)](https://chockwise.com/airports/bos): 110 gates; JetBlue 27 (Terminal C)
 - [Jakarta (CGK)](https://chockwise.com/airports/cgk): 78 gates; Garuda 12 (Terminal 3)
-- [Toronto Pearson (YYZ)](https://chockwise.com/airports/yyz): 133 gates; Air Canada 26 (Terminal 1)
