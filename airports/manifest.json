@@ -27,15 +27,15 @@
   "sig": "{\"common\": 0, \"drawing\": \"dc867f546c3d\", \"gates\": 2, \"held\": {\"AA\": 1, \"UA\": 1}, \"low\": 0}",
   "top": "AA",
   "top_gates": 1,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "ABQ": {
-  "changed": "2026-11-21",
+  "changed": "2026-11-22",
   "data": "2026-11-21",
   "data_last": "2026-11-20",
   "flights_day": 151,
   "gates": 22,
-  "hash": "373646b09573",
+  "hash": "7cd7178fb87e",
   "name": "Albuquerque Intl Sunport",
   "published": "2026-10-07",
   "seats_day": 9727,
@@ -43,7 +43,7 @@
   "sig": "{\"common\": 0, \"drawing\": \"d43f40bd23cd\", \"gates\": 22, \"held\": {\"AA\": 4, \"AS\": 1, \"DL\": 3, \"UA\": 5, \"WN\": 7}, \"low\": 2}",
   "top": "WN",
   "top_gates": 7,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "ACK": {
   "changed": "2026-11-21",
@@ -59,15 +59,15 @@
   "sig": "{\"common\": 0, \"drawing\": \"64c526606bf1\", \"gates\": 1, \"held\": {\"9K\": 1}, \"low\": 0}",
   "top": "9K",
   "top_gates": 1,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "ACV": {
-  "changed": "2026-11-21",
+  "changed": "2026-11-22",
   "data": "2026-11-21",
   "data_last": "2026-11-20",
   "flights_day": 14,
   "gates": 2,
-  "hash": "d4af10a3933f",
+  "hash": "c34f29b49c4d",
   "name": "California Redwood Coast-Humboldt County, Arcata/Eureka",
   "published": "2026-11-08",
   "seats_day": 544,
@@ -75,7 +75,7 @@
   "sig": "{\"common\": 1, \"drawing\": \"04f64490db92\", \"gates\": 2, \"held\": {\"UA\": 1}, \"low\": 0}",
   "top": "UA",
   "top_gates": 1,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "AEX": {
   "changed": "2026-11-21",
@@ -91,7 +91,7 @@
   "sig": "{\"common\": 0, \"drawing\": \"a0e7d5c4c192\", \"gates\": 4, \"held\": {\"AA\": 2, \"UA\": 1}, \"low\": 1}",
   "top": "AA",
   "top_gates": 2,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "AGP": {
   "changed": "2026-11-20",
@@ -107,15 +107,15 @@
   "sig": "{\"common\": 27, \"drawing\": \"4cdde535de53\", \"gates\": 30, \"held\": {\"FR\": 1}, \"low\": 2}",
   "top": "FR",
   "top_gates": 1,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "AGS": {
-  "changed": "2026-11-21",
+  "changed": "2026-11-22",
   "data": "2026-11-21",
   "data_last": "2026-11-20",
   "flights_day": 27,
   "gates": 6,
-  "hash": "657059dedd3f",
+  "hash": "ae716fa532c5",
   "name": "Augusta Regional",
   "published": "2026-10-11",
   "seats_day": 972,
@@ -123,7 +123,7 @@
   "sig": "{\"common\": 1, \"drawing\": \"01b3ea140d45\", \"gates\": 6, \"held\": {\"AA\": 3, \"DL\": 1}, \"low\": 1}",
   "top": "AA",
   "top_gates": 3,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "AKL": {
   "changed": "2026-11-20",
@@ -139,15 +139,15 @@
   "sig": "{\"common\": 22, \"drawing\": \"73c92cea8413\", \"gates\": 52, \"held\": {\"JQ\": 3, \"NZ\": 17}, \"low\": 10}",
   "top": "NZ",
   "top_gates": 17,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "ALB": {
-  "changed": "2026-11-21",
+  "changed": "2026-11-22",
   "data": "2026-11-21",
   "data_last": "2026-11-20",
   "flights_day": 83,
   "gates": 15,
-  "hash": "6d7558380dcd",
+  "hash": "692c034e2d55",
   "name": "Albany Intl",
   "published": "2026-10-07",
   "seats_day": 4721,
@@ -155,7 +155,7 @@
   "sig": "{\"common\": 1, \"drawing\": \"b959bdbb206e\", \"gates\": 15, \"held\": {\"AA\": 3, \"B6\": 1, \"DL\": 3, \"G4\": 1, \"UA\": 4, \"WN\": 2}, \"low\": 0}",
   "top": "UA",
   "top_gates": 4,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "AMA": {
   "changed": "2026-10-31",
@@ -185,7 +185,7 @@
   "sig": "{\"common\": 59, \"drawing\": \"7de1b947b550\", \"gates\": 120, \"held\": {\"BA\": 1, \"KL\": 40, \"U2\": 14, \"UA\": 1}, \"low\": 5}",
   "top": "KL",
   "top_gates": 40,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "ANC": {
   "changed": "2026-11-21",
@@ -201,7 +201,7 @@
   "sig": "{\"common\": 1, \"drawing\": \"0eb31f139f55\", \"gates\": 26, \"held\": {\"AA\": 1, \"AS\": 12, \"DL\": 2, \"UA\": 1}, \"low\": 9}",
   "top": "AS",
   "top_gates": 12,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "ARN": {
   "changed": "2026-11-20",
@@ -217,15 +217,15 @@
   "sig": "{\"common\": 24, \"drawing\": \"025355ac4534\", \"gates\": 65, \"held\": {\"AY\": 1, \"DY\": 2, \"FR\": 1, \"HP\": 1, \"SK\": 15}, \"low\": 21}",
   "top": "SK",
   "top_gates": 15,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "ASE": {
-  "changed": "2026-11-21",
+  "changed": "2026-11-22",
   "data": "2026-11-21",
   "data_last": "2026-11-20",
   "flights_day": 24,
   "gates": 7,
-  "hash": "cdb7cc6dc0fb",
+  "hash": "09222eacc7c2",
   "name": "Aspen-Pitkin County",
   "published": "2026-10-09",
   "seats_day": 851,
@@ -233,7 +233,7 @@
   "sig": "{\"common\": 0, \"drawing\": \"9f1d74f07c82\", \"gates\": 7, \"held\": {\"AA\": 2, \"DL\": 1, \"UA\": 3}, \"low\": 1}",
   "top": "UA",
   "top_gates": 3,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "ATH": {
   "changed": "2026-11-20",
@@ -249,15 +249,15 @@
   "sig": "{\"common\": 37, \"drawing\": \"5e9c7c3424bd\", \"gates\": 51, \"held\": {\"A3\": 6, \"EK\": 1, \"RJ\": 1}, \"low\": 6}",
   "top": "A3",
   "top_gates": 6,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "ATL": {
-  "changed": "2026-11-21",
+  "changed": "2026-11-22",
   "data": "2026-11-21",
   "data_last": "2026-11-20",
   "flights_day": 2066,
   "gates": 200,
-  "hash": "d642529a424d",
+  "hash": "78e334ca322a",
   "name": "Hartsfield-Jackson Intl, Atlanta",
   "published": "2026-10-05",
   "seats_day": 162804,
@@ -265,15 +265,15 @@
   "sig": "{\"common\": 13, \"drawing\": \"b98dfc8e31ad\", \"gates\": 200, \"held\": {\"AA\": 5, \"DL\": 145, \"F9\": 8, \"UA\": 4, \"WN\": 8}, \"low\": 17}",
   "top": "DL",
   "top_gates": 145,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "ATW": {
-  "changed": "2026-11-21",
+  "changed": "2026-11-22",
   "data": "2026-11-21",
   "data_last": "2026-11-20",
   "flights_day": 41,
   "gates": 10,
-  "hash": "d2482620057a",
+  "hash": "2fd999b8ab7b",
   "name": "Appleton Intl",
   "published": "2026-10-09",
   "seats_day": 1711,
@@ -281,7 +281,7 @@
   "sig": "{\"common\": 3, \"drawing\": \"5310f01da463\", \"gates\": 10, \"held\": {\"AA\": 2, \"DL\": 2, \"G4\": 1, \"UA\": 2}, \"low\": 0}",
   "top": "DL",
   "top_gates": 2,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "AUH": {
   "changed": "2026-11-21",
@@ -297,15 +297,15 @@
   "sig": "{\"common\": 12, \"drawing\": \"1ab5ec76c570\", \"gates\": 71, \"held\": {\"EY\": 35}, \"low\": 24}",
   "top": "EY",
   "top_gates": 31,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "AUS": {
-  "changed": "2026-11-21",
+  "changed": "2026-11-22",
   "data": "2026-11-21",
   "data_last": "2026-11-20",
   "flights_day": 553,
   "gates": 40,
-  "hash": "382240e5a15d",
+  "hash": "3a63a8271964",
   "name": "Austin-Bergstrom Intl",
   "published": "2026-10-06",
   "seats_day": 40023,
@@ -313,15 +313,15 @@
   "sig": "{\"common\": 4, \"drawing\": \"5458c945807c\", \"gates\": 40, \"held\": {\"AA\": 4, \"AS\": 1, \"DL\": 11, \"UA\": 6, \"WN\": 10}, \"low\": 4}",
   "top": "DL",
   "top_gates": 11,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "AVL": {
-  "changed": "2026-11-21",
+  "changed": "2026-11-22",
   "data": "2026-11-21",
   "data_last": "2026-11-20",
   "flights_day": 66,
   "gates": 12,
-  "hash": "6d439fe77a40",
+  "hash": "ee231636294c",
   "name": "Asheville Rgnl",
   "published": "2026-10-08",
   "seats_day": 3031,
@@ -329,15 +329,15 @@
   "sig": "{\"common\": 4, \"drawing\": \"c5e0c8754412\", \"gates\": 12, \"held\": {\"AA\": 2, \"DL\": 1, \"UA\": 1}, \"low\": 4}",
   "top": "AA",
   "top_gates": 2,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "AVP": {
-  "changed": "2026-11-21",
+  "changed": "2026-11-22",
   "data": "2026-11-21",
   "data_last": "2026-11-20",
   "flights_day": 20,
   "gates": 8,
-  "hash": "8bbf73de12af",
+  "hash": "54dc2c912095",
   "name": "Scranton Intl, Wilkes-Barre/Scranton",
   "published": "2026-10-19",
   "seats_day": 698,
@@ -345,7 +345,7 @@
   "sig": "{\"common\": 0, \"drawing\": \"169ab498b7f0\", \"gates\": 8, \"held\": {\"AA\": 2, \"MX\": 1, \"UA\": 2}, \"low\": 3}",
   "top": "AA",
   "top_gates": 2,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "BCN": {
   "changed": "2026-11-21",
@@ -361,15 +361,15 @@
   "sig": "{\"common\": 64, \"drawing\": \"7d2ff6541a99\", \"gates\": 108, \"held\": {\"FR\": 3, \"IB\": 1, \"U2\": 4, \"VY\": 17}, \"low\": 19}",
   "top": "VY",
   "top_gates": 17,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "BDL": {
-  "changed": "2026-11-21",
+  "changed": "2026-11-22",
   "data": "2026-11-21",
   "data_last": "2026-11-20",
   "flights_day": 145,
   "gates": 25,
-  "hash": "633f49403693",
+  "hash": "2e41b7cd325c",
   "name": "Bradley Intl, Windsor Locks",
   "published": "2026-10-08",
   "seats_day": 10130,
@@ -377,7 +377,7 @@
   "sig": "{\"common\": 2, \"drawing\": \"11f01c3f8e45\", \"gates\": 25, \"held\": {\"AA\": 5, \"B6\": 3, \"DL\": 4, \"MX\": 5, \"UA\": 3, \"WN\": 3}, \"low\": 0}",
   "top": "AA",
   "top_gates": 5,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "BER": {
   "changed": "2026-11-18",
@@ -393,15 +393,15 @@
   "sig": "{\"common\": 35, \"drawing\": \"8a00cb5af787\", \"gates\": 43, \"held\": {\"FR\": 1}, \"low\": 7}",
   "top": "FR",
   "top_gates": 1,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "BFL": {
-  "changed": "2026-11-21",
+  "changed": "2026-11-22",
   "data": "2026-11-21",
   "data_last": "2026-11-20",
   "flights_day": 18,
   "gates": 4,
-  "hash": "79d6a8d84814",
+  "hash": "a72ae4405386",
   "name": "Meadows Fld, Bakersfield",
   "published": "2026-10-19",
   "seats_day": 738,
@@ -409,15 +409,15 @@
   "sig": "{\"common\": 0, \"drawing\": \"0b4b8be25a4a\", \"gates\": 4, \"held\": {\"AA\": 2, \"UA\": 2}, \"low\": 0}",
   "top": "AA",
   "top_gates": 2,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "BGR": {
-  "changed": "2026-11-21",
+  "changed": "2026-11-22",
   "data": "2026-11-21",
   "data_last": "2026-11-20",
   "flights_day": 31,
   "gates": 6,
-  "hash": "a038cdf2255e",
+  "hash": "1d9d84832074",
   "name": "Bangor Intl",
   "published": "2026-10-09",
   "seats_day": 1014,
@@ -425,15 +425,15 @@
   "sig": "{\"common\": 1, \"drawing\": \"8df61640cb39\", \"gates\": 6, \"held\": {\"AA\": 2, \"DL\": 1, \"UA\": 1}, \"low\": 1}",
   "top": "AA",
   "top_gates": 2,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "BHM": {
-  "changed": "2026-11-21",
+  "changed": "2026-11-22",
   "data": "2026-11-21",
   "data_last": "2026-11-20",
   "flights_day": 111,
   "gates": 19,
-  "hash": "a5a42e012010",
+  "hash": "521761a7fb05",
   "name": "Birmingham-Shuttlesworth Intl",
   "published": "2026-10-07",
   "seats_day": 5632,
@@ -441,7 +441,7 @@
   "sig": "{\"common\": 0, \"drawing\": \"8c00684915a4\", \"gates\": 19, \"held\": {\"AA\": 8, \"DL\": 5, \"UA\": 3, \"WN\": 3}, \"low\": 0}",
   "top": "AA",
   "top_gates": 8,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "BHX": {
   "changed": "2026-11-18",
@@ -457,15 +457,15 @@
   "sig": "{\"common\": 14, \"drawing\": \"e9b25ad349da\", \"gates\": 32, \"held\": {\"FR\": 2, \"LS\": 2, \"U2\": 2}, \"low\": 12}",
   "top": "FR",
   "top_gates": 2,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "BIL": {
-  "changed": "2026-11-21",
+  "changed": "2026-11-22",
   "data": "2026-11-21",
   "data_last": "2026-11-20",
   "flights_day": 33,
   "gates": 8,
-  "hash": "2595ced40f2b",
+  "hash": "a05f6db1999a",
   "name": "Billings Logan Intl",
   "published": "2026-10-11",
   "seats_day": 1452,
@@ -473,7 +473,7 @@
   "sig": "{\"common\": 0, \"drawing\": \"4c62fe8f5b2a\", \"gates\": 8, \"held\": {\"AA\": 1, \"AS\": 1, \"DL\": 2, \"G4\": 1, \"UA\": 2}, \"low\": 1}",
   "top": "UA",
   "top_gates": 2,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "BIS": {
   "changed": "2026-11-21",
@@ -489,7 +489,7 @@
   "sig": "{\"common\": 1, \"drawing\": \"6ad00c16812b\", \"gates\": 4, \"held\": {\"AA\": 1, \"DL\": 1, \"UA\": 1}, \"low\": 0}",
   "top": "DL",
   "top_gates": 1,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "BKK": {
   "changed": "2026-11-20",
@@ -505,15 +505,15 @@
   "sig": "{\"common\": 70, \"drawing\": \"7278522b14e5\", \"gates\": 86, \"held\": {\"PG\": 3, \"TG\": 8}, \"low\": 5}",
   "top": "TG",
   "top_gates": 8,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "BMI": {
-  "changed": "2026-11-21",
+  "changed": "2026-11-22",
   "data": "2026-11-21",
   "data_last": "2026-11-20",
   "flights_day": 14,
   "gates": 8,
-  "hash": "b3e5f500622f",
+  "hash": "0a33b30ae482",
   "name": "Cent II Rgnl, Bloomington/Normal",
   "published": "2026-10-13",
   "seats_day": 462,
@@ -521,15 +521,15 @@
   "sig": "{\"common\": 1, \"drawing\": \"f8e2b3e9a439\", \"gates\": 8, \"held\": {\"AA\": 2}, \"low\": 5}",
   "top": "AA",
   "top_gates": 2,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "BNA": {
-  "changed": "2026-11-21",
+  "changed": "2026-11-22",
   "data": "2026-11-21",
   "data_last": "2026-11-20",
   "flights_day": 694,
   "gates": 62,
-  "hash": "599c8980ab6c",
+  "hash": "9bf88efc23d9",
   "name": "Nashville Intl",
   "published": "2026-10-06",
   "seats_day": 50525,
@@ -537,7 +537,7 @@
   "sig": "{\"common\": 7, \"drawing\": \"9e8970b549c7\", \"gates\": 62, \"held\": {\"AA\": 8, \"B6\": 1, \"DL\": 7, \"G4\": 2, \"UA\": 4, \"WN\": 23}, \"low\": 10}",
   "top": "WN",
   "top_gates": 23,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "BNE": {
   "changed": "2026-11-20",
@@ -553,7 +553,7 @@
   "sig": "{\"common\": 26, \"drawing\": \"f83008466597\", \"gates\": 58, \"held\": {\"JQ\": 5, \"QF\": 12, \"QQ\": 1, \"SQ\": 1, \"VA\": 10}, \"low\": 3}",
   "top": "QF",
   "top_gates": 12,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "BOI": {
   "changed": "2026-11-21",
@@ -569,7 +569,7 @@
   "sig": "{\"common\": 0, \"drawing\": \"66fe72235a40\", \"gates\": 24, \"held\": {\"AA\": 2, \"AS\": 7, \"DL\": 3, \"UA\": 3, \"WN\": 3}, \"low\": 6}",
   "top": "AS",
   "top_gates": 7,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "BOM": {
   "changed": "2026-11-18",
@@ -585,15 +585,15 @@
   "sig": "{\"common\": 48, \"drawing\": \"54f4cfdd1f4a\", \"gates\": 66, \"held\": {\"6E\": 13}, \"low\": 5}",
   "top": "6E",
   "top_gates": 12,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "BOS": {
-  "changed": "2026-11-21",
+  "changed": "2026-11-22",
   "data": "2026-11-21",
   "data_last": "2026-11-20",
   "flights_day": 988,
   "gates": 110,
-  "hash": "42e88b6371be",
+  "hash": "dc70aa3d45c8",
   "name": "Boston Logan Intl",
   "published": "2026-10-05",
   "seats_day": 66339,
@@ -601,15 +601,15 @@
   "sig": "{\"common\": 12, \"drawing\": \"dfd77013e7bb\", \"gates\": 110, \"held\": {\"4B\": 1, \"9K\": 1, \"AA\": 16, \"AC\": 3, \"AS\": 2, \"B6\": 27, \"DL\": 23, \"PD\": 1, \"UA\": 9, \"WN\": 5}, \"low\": 10}",
   "top": "B6",
   "top_gates": 27,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "BRO": {
-  "changed": "2026-11-21",
+  "changed": "2026-11-22",
   "data": "2026-11-21",
   "data_last": "2026-11-20",
   "flights_day": 14,
   "gates": 4,
-  "hash": "f3dcd4294dad",
+  "hash": "32dbb6f8ae9c",
   "name": "Brownsville Intl",
   "published": "2026-10-10",
   "seats_day": 393,
@@ -617,7 +617,7 @@
   "sig": "{\"common\": 0, \"drawing\": \"fc747f58d499\", \"gates\": 4, \"held\": {\"AA\": 1, \"UA\": 2}, \"low\": 1}",
   "top": "UA",
   "top_gates": 2,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "BRU": {
   "changed": "2026-11-21",
@@ -633,15 +633,15 @@
   "sig": "{\"common\": 16, \"drawing\": \"974a7b0ea435\", \"gates\": 57, \"held\": {\"FR\": 1, \"SN\": 27, \"UA\": 3}, \"low\": 10}",
   "top": "SN",
   "top_gates": 27,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "BTR": {
-  "changed": "2026-11-21",
+  "changed": "2026-11-22",
   "data": "2026-11-21",
   "data_last": "2026-11-20",
   "flights_day": 39,
   "gates": 6,
-  "hash": "84eb9973b9b5",
+  "hash": "bb2a21400c06",
   "name": "Baton Rouge Metro",
   "published": "2026-10-09",
   "seats_day": 1442,
@@ -649,15 +649,15 @@
   "sig": "{\"common\": 0, \"drawing\": \"4b4d3901cb33\", \"gates\": 6, \"held\": {\"AA\": 2, \"DL\": 2, \"UA\": 2}, \"low\": 0}",
   "top": "AA",
   "top_gates": 2,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "BTV": {
-  "changed": "2026-11-21",
+  "changed": "2026-11-22",
   "data": "2026-11-21",
   "data_last": "2026-11-20",
   "flights_day": 48,
   "gates": 11,
-  "hash": "443ead769974",
+  "hash": "6c489cc524c7",
   "name": "Patrick Leahy Burlington Intl",
   "published": "2026-10-11",
   "seats_day": 2229,
@@ -665,15 +665,15 @@
   "sig": "{\"common\": 1, \"drawing\": \"95559df25dda\", \"gates\": 11, \"held\": {\"AA\": 4, \"DL\": 3, \"UA\": 3}, \"low\": 0}",
   "top": "AA",
   "top_gates": 4,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "BUF": {
-  "changed": "2026-11-21",
+  "changed": "2026-11-22",
   "data": "2026-11-21",
   "data_last": "2026-11-20",
   "flights_day": 139,
   "gates": 24,
-  "hash": "0d5c027e0c6b",
+  "hash": "d83bc5bc55ae",
   "name": "Buffalo Niagara Intl",
   "published": "2026-10-07",
   "seats_day": 8381,
@@ -681,7 +681,7 @@
   "sig": "{\"common\": 1, \"drawing\": \"29d1d73e43ff\", \"gates\": 24, \"held\": {\"AA\": 5, \"B6\": 3, \"DL\": 5, \"F9\": 1, \"UA\": 4, \"WN\": 4}, \"low\": 1}",
   "top": "AA",
   "top_gates": 5,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "BUR": {
   "changed": "2026-11-21",
@@ -697,15 +697,15 @@
   "sig": "{\"common\": 2, \"drawing\": \"b83d744f9845\", \"gates\": 14, \"held\": {\"AA\": 1, \"AS\": 2, \"DL\": 1, \"UA\": 2, \"WN\": 6}, \"low\": 0}",
   "top": "WN",
   "top_gates": 6,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "BWI": {
-  "changed": "2026-11-21",
+  "changed": "2026-11-22",
   "data": "2026-11-21",
   "data_last": "2026-11-20",
   "flights_day": 534,
   "gates": 77,
-  "hash": "2d4a34b1fb1d",
+  "hash": "4116c557aead",
   "name": "Baltimore/Washington Intl",
   "published": "2026-10-06",
   "seats_day": 42077,
@@ -713,15 +713,15 @@
   "sig": "{\"common\": 5, \"drawing\": \"f34ee53542f4\", \"gates\": 77, \"held\": {\"AA\": 5, \"AS\": 1, \"B6\": 1, \"BA\": 2, \"DL\": 5, \"F9\": 4, \"MX\": 1, \"UA\": 5, \"WN\": 38}, \"low\": 10}",
   "top": "WN",
   "top_gates": 38,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "BZN": {
-  "changed": "2026-11-21",
+  "changed": "2026-11-22",
   "data": "2026-11-21",
   "data_last": "2026-11-20",
   "flights_day": 48,
   "gates": 12,
-  "hash": "4ae755e69c2a",
+  "hash": "67c76978577a",
   "name": "Bozeman Yellowstone Intl",
   "published": "2026-10-08",
   "seats_day": 3288,
@@ -729,15 +729,15 @@
   "sig": "{\"common\": 1, \"drawing\": \"4d41781da8b4\", \"gates\": 12, \"held\": {\"AA\": 1, \"AS\": 1, \"DL\": 3, \"UA\": 2, \"WN\": 2}, \"low\": 2}",
   "top": "DL",
   "top_gates": 3,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "CAE": {
-  "changed": "2026-11-21",
+  "changed": "2026-11-22",
   "data": "2026-11-21",
   "data_last": "2026-11-20",
   "flights_day": 63,
   "gates": 10,
-  "hash": "43f930d27268",
+  "hash": "7433411a0a47",
   "name": "Columbia Metro",
   "published": "2026-10-08",
   "seats_day": 2310,
@@ -745,7 +745,7 @@
   "sig": "{\"common\": 1, \"drawing\": \"ef44e34b14e9\", \"gates\": 10, \"held\": {\"AA\": 5, \"DL\": 3, \"UA\": 1}, \"low\": 0}",
   "top": "AA",
   "top_gates": 5,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "CAK": {
   "changed": "2026-11-21",
@@ -761,7 +761,7 @@
   "sig": "{\"common\": 0, \"drawing\": \"a002953d0b07\", \"gates\": 9, \"held\": {\"AA\": 2, \"G4\": 1, \"MX\": 4, \"UA\": 2}, \"low\": 0}",
   "top": "MX",
   "top_gates": 4,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "CGK": {
   "changed": "2026-11-20",
@@ -777,15 +777,15 @@
   "sig": "{\"common\": 28, \"drawing\": \"37a443b68636\", \"gates\": 78, \"held\": {\"GA\": 12, \"ID\": 7, \"IN\": 1, \"IP\": 3, \"IU\": 5, \"JT\": 4, \"QG\": 7, \"QZ\": 1}, \"low\": 10}",
   "top": "GA",
   "top_gates": 12,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "CHA": {
-  "changed": "2026-11-21",
+  "changed": "2026-11-22",
   "data": "2026-11-21",
   "data_last": "2026-11-20",
   "flights_day": 59,
   "gates": 8,
-  "hash": "cb158809fe15",
+  "hash": "9def7943f6d3",
   "name": "Lovell Fld, Chattanooga",
   "published": "2026-10-08",
   "seats_day": 2135,
@@ -793,15 +793,15 @@
   "sig": "{\"common\": 1, \"drawing\": \"44f5194897a5\", \"gates\": 8, \"held\": {\"AA\": 2, \"DL\": 3, \"UA\": 2}, \"low\": 0}",
   "top": "DL",
   "top_gates": 3,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "CHO": {
-  "changed": "2026-11-21",
+  "changed": "2026-11-22",
   "data": "2026-11-21",
   "data_last": "2026-11-20",
   "flights_day": 44,
   "gates": 7,
-  "hash": "8353c9a12590",
+  "hash": "2da52f4517db",
   "name": "Charlottesville-Albemarle",
   "published": "2026-10-09",
   "seats_day": 1383,
@@ -809,15 +809,15 @@
   "sig": "{\"common\": 0, \"drawing\": \"42f41494f169\", \"gates\": 7, \"held\": {\"AA\": 3, \"DL\": 2, \"UA\": 2}, \"low\": 0}",
   "top": "AA",
   "top_gates": 3,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "CHS": {
-  "changed": "2026-11-21",
+  "changed": "2026-11-22",
   "data": "2026-11-21",
   "data_last": "2026-11-20",
   "flights_day": 173,
   "gates": 18,
-  "hash": "b66becacc866",
+  "hash": "80f989a49638",
   "name": "Charleston Intl/AFB",
   "published": "2026-10-07",
   "seats_day": 10877,
@@ -825,15 +825,15 @@
   "sig": "{\"common\": 4, \"drawing\": \"18c8eb2b61d7\", \"gates\": 18, \"held\": {\"AA\": 4, \"DL\": 3, \"MX\": 2, \"UA\": 3, \"WN\": 1}, \"low\": 1}",
   "top": "AA",
   "top_gates": 4,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "CID": {
-  "changed": "2026-11-21",
+  "changed": "2026-11-22",
   "data": "2026-11-21",
   "data_last": "2026-11-20",
   "flights_day": 53,
   "gates": 13,
-  "hash": "99c5fd954a0b",
+  "hash": "27cb432bfc23",
   "name": "The Eastern Iowa, Cedar Rapids",
   "published": "2026-10-08",
   "seats_day": 2349,
@@ -841,7 +841,7 @@
   "sig": "{\"common\": 1, \"drawing\": \"9341ffaa446b\", \"gates\": 13, \"held\": {\"AA\": 4, \"DL\": 2, \"UA\": 4}, \"low\": 2}",
   "top": "AA",
   "top_gates": 4,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "CJU": {
   "changed": "2026-11-20",
@@ -857,15 +857,15 @@
   "sig": "{\"common\": 21, \"drawing\": \"ed0830b99854\", \"gates\": 24, \"held\": {\"7C\": 1, \"LJ\": 1, \"ZE\": 1}, \"low\": 0}",
   "top": "7C",
   "top_gates": 1,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "CLE": {
-  "changed": "2026-11-21",
+  "changed": "2026-11-22",
   "data": "2026-11-21",
   "data_last": "2026-11-20",
   "flights_day": 259,
   "gates": 49,
-  "hash": "cf0b4cba7b57",
+  "hash": "deb158f07460",
   "name": "Cleveland-Hopkins Intl",
   "published": "2026-10-07",
   "seats_day": 17299,
@@ -873,15 +873,15 @@
   "sig": "{\"common\": 2, \"drawing\": \"f648ad2e1fa0\", \"gates\": 49, \"held\": {\"AA\": 9, \"AS\": 1, \"B6\": 2, \"DL\": 7, \"F9\": 4, \"UA\": 11, \"WN\": 5}, \"low\": 8}",
   "top": "UA",
   "top_gates": 11,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "CLT": {
-  "changed": "2026-11-21",
+  "changed": "2026-11-22",
   "data": "2026-11-21",
   "data_last": "2026-11-20",
   "flights_day": 1370,
   "gates": 122,
-  "hash": "0c7a60ef7380",
+  "hash": "c33625d1ee78",
   "name": "Charlotte/Douglas Intl",
   "published": "2026-10-06",
   "seats_day": 80177,
@@ -889,15 +889,15 @@
   "sig": "{\"common\": 5, \"drawing\": \"f9f51078c65f\", \"gates\": 122, \"held\": {\"AA\": 99, \"B6\": 1, \"DL\": 7, \"F9\": 2, \"UA\": 5, \"WN\": 2}, \"low\": 1}",
   "top": "AA",
   "top_gates": 99,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "CMH": {
-  "changed": "2026-11-21",
+  "changed": "2026-11-22",
   "data": "2026-11-21",
   "data_last": "2026-11-20",
   "flights_day": 241,
   "gates": 34,
-  "hash": "6ecf4e7f0cdc",
+  "hash": "aabf887d36a6",
   "name": "John Glenn Columbus Intl Airport",
   "published": "2026-10-07",
   "seats_day": 14241,
@@ -905,15 +905,15 @@
   "sig": "{\"common\": 2, \"drawing\": \"5cad8d72ff03\", \"gates\": 34, \"held\": {\"AA\": 9, \"AS\": 1, \"DL\": 6, \"F9\": 1, \"UA\": 6, \"WN\": 5}, \"low\": 4}",
   "top": "AA",
   "top_gates": 9,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "COS": {
-  "changed": "2026-11-21",
+  "changed": "2026-11-22",
   "data": "2026-11-21",
   "data_last": "2026-11-20",
   "flights_day": 69,
   "gates": 16,
-  "hash": "2e65ec04a754",
+  "hash": "c6f194e4bba5",
   "name": "Colorado Sprgs Muni, Colorado Springs",
   "published": "2026-10-06",
   "seats_day": 3499,
@@ -921,15 +921,15 @@
   "sig": "{\"common\": 0, \"drawing\": \"3d3c7b01b17a\", \"gates\": 16, \"held\": {\"AA\": 2, \"DL\": 1, \"UA\": 3, \"WN\": 4}, \"low\": 6}",
   "top": "WN",
   "top_gates": 4,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "COU": {
-  "changed": "2026-11-21",
+  "changed": "2026-11-22",
   "data": "2026-11-21",
   "data_last": "2026-11-20",
   "flights_day": 21,
   "gates": 4,
-  "hash": "1e0c63783238",
+  "hash": "4bac6b1988e8",
   "name": "Columbia Rgnl",
   "published": "2026-10-10",
   "seats_day": 682,
@@ -937,7 +937,7 @@
   "sig": "{\"common\": 1, \"drawing\": \"ec4d43a65473\", \"gates\": 4, \"held\": {\"AA\": 1, \"UA\": 2}, \"low\": 0}",
   "top": "UA",
   "top_gates": 2,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "CPH": {
   "changed": "2026-11-21",
@@ -953,15 +953,15 @@
   "sig": "{\"common\": 33, \"drawing\": \"72a95e2b3d43\", \"gates\": 89, \"held\": {\"FR\": 2, \"SK\": 25}, \"low\": 29}",
   "top": "SK",
   "top_gates": 25,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "CPR": {
-  "changed": "2026-11-21",
+  "changed": "2026-11-22",
   "data": "2026-11-21",
   "data_last": "2026-11-20",
   "flights_day": 14,
   "gates": 3,
-  "hash": "5ac205213be8",
+  "hash": "38e4022fa235",
   "name": "Casper/Natrona County Intl",
   "published": "2026-10-10",
   "seats_day": 422,
@@ -969,15 +969,15 @@
   "sig": "{\"common\": 0, \"drawing\": \"beae06455231\", \"gates\": 3, \"held\": {\"UA\": 3}, \"low\": 0}",
   "top": "UA",
   "top_gates": 3,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "CRP": {
-  "changed": "2026-11-21",
+  "changed": "2026-11-22",
   "data": "2026-11-21",
   "data_last": "2026-11-20",
   "flights_day": 27,
   "gates": 5,
-  "hash": "fe36ac8197d0",
+  "hash": "248a080aa254",
   "name": "Corpus Christi Intl",
   "published": "2026-10-14",
   "seats_day": 881,
@@ -985,15 +985,15 @@
   "sig": "{\"common\": 0, \"drawing\": \"fa163aee07ee\", \"gates\": 5, \"held\": {\"AA\": 1, \"UA\": 2}, \"low\": 2}",
   "top": "AA",
   "top_gates": 1,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "CRW": {
-  "changed": "2026-11-21",
+  "changed": "2026-11-22",
   "data": "2026-11-21",
   "data_last": "2026-11-20",
   "flights_day": 20,
   "gates": 11,
-  "hash": "a7c0e0d9fcdc",
+  "hash": "004e623cdc23",
   "name": "West Virginia Intl Yeager, Charleston",
   "published": "2026-10-13",
   "seats_day": 737,
@@ -1001,7 +1001,7 @@
   "sig": "{\"common\": 1, \"drawing\": \"e828f38a0024\", \"gates\": 11, \"held\": {\"AA\": 2, \"DL\": 1, \"MX\": 1, \"UA\": 1}, \"low\": 5}",
   "top": "AA",
   "top_gates": 2,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "CTS": {
   "changed": "2026-11-20",
@@ -1017,15 +1017,15 @@
   "sig": "{\"common\": 18, \"drawing\": \"b206385021b3\", \"gates\": 27, \"held\": {\"BC\": 1, \"JL\": 2, \"NH\": 5}, \"low\": 1}",
   "top": "NH",
   "top_gates": 5,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "CVG": {
-  "changed": "2026-11-21",
+  "changed": "2026-11-22",
   "data": "2026-11-21",
   "data_last": "2026-11-20",
   "flights_day": 323,
   "gates": 49,
-  "hash": "4eb189e50011",
+  "hash": "a087fe8454b1",
   "name": "Cincinnati/Northern Kentucky International Airport, Hebron",
   "published": "2026-10-07",
   "seats_day": 14502,
@@ -1033,15 +1033,15 @@
   "sig": "{\"common\": 3, \"drawing\": \"62da78bbe0f8\", \"gates\": 49, \"held\": {\"AA\": 9, \"AS\": 1, \"DL\": 15, \"F9\": 2, \"G4\": 5, \"UA\": 10, \"WN\": 2}, \"low\": 2}",
   "top": "DL",
   "top_gates": 15,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "DAB": {
-  "changed": "2026-11-21",
+  "changed": "2026-11-22",
   "data": "2026-11-21",
   "data_last": "2026-11-20",
   "flights_day": 15,
   "gates": 6,
-  "hash": "640cbaf89e0c",
+  "hash": "43b3b3310458",
   "name": "Daytona Beach Intl",
   "published": "2026-10-19",
   "seats_day": 964,
@@ -1049,7 +1049,7 @@
   "sig": "{\"common\": 1, \"drawing\": \"ab43f73b88c1\", \"gates\": 6, \"held\": {\"AA\": 1, \"DL\": 1, \"MX\": 1}, \"low\": 2}",
   "top": "DL",
   "top_gates": 1,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "DAL": {
   "changed": "2026-11-21",
@@ -1065,15 +1065,15 @@
   "sig": "{\"common\": 0, \"drawing\": \"506fa8286bf3\", \"gates\": 20, \"held\": {\"DL\": 1, \"WN\": 19}, \"low\": 0}",
   "top": "WN",
   "top_gates": 19,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "DAY": {
-  "changed": "2026-11-21",
+  "changed": "2026-11-22",
   "data": "2026-11-21",
   "data_last": "2026-11-20",
   "flights_day": 52,
   "gates": 24,
-  "hash": "8cb5b0a7a20b",
+  "hash": "c5f92329a043",
   "name": "James M Cox Dayton Intl",
   "published": "2026-10-13",
   "seats_day": 2028,
@@ -1081,15 +1081,15 @@
   "sig": "{\"common\": 0, \"drawing\": \"c78f89892da3\", \"gates\": 24, \"held\": {\"AA\": 6, \"DL\": 1, \"G4\": 1, \"MX\": 1, \"UA\": 3}, \"low\": 12}",
   "top": "AA",
   "top_gates": 6,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "DCA": {
-  "changed": "2026-11-21",
+  "changed": "2026-11-22",
   "data": "2026-11-21",
   "data_last": "2026-11-20",
   "flights_day": 874,
   "gates": 61,
-  "hash": "3155d65b54cf",
+  "hash": "27105be7b335",
   "name": "Reagan National, Washington",
   "published": "2026-10-06",
   "seats_day": 47016,
@@ -1097,15 +1097,15 @@
   "sig": "{\"common\": 0, \"drawing\": \"5021c6ae7e97\", \"gates\": 61, \"held\": {\"AA\": 35, \"AC\": 1, \"AS\": 1, \"B6\": 3, \"DL\": 7, \"F9\": 1, \"UA\": 4, \"WN\": 7}, \"low\": 2}",
   "top": "AA",
   "top_gates": 35,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "DEN": {
-  "changed": "2026-11-21",
+  "changed": "2026-11-22",
   "data": "2026-11-21",
   "data_last": "2026-11-20",
   "flights_day": 1801,
   "gates": 171,
-  "hash": "2118441556ff",
+  "hash": "31c641be3d3c",
   "name": "Denver Intl",
   "published": "2026-10-05",
   "seats_day": 129888,
@@ -1113,15 +1113,15 @@
   "sig": "{\"common\": 6, \"drawing\": \"1e80ca2f34e3\", \"gates\": 171, \"held\": {\"AA\": 5, \"AS\": 2, \"DL\": 6, \"F9\": 14, \"LF\": 1, \"UA\": 88, \"WN\": 40}, \"low\": 9}",
   "top": "UA",
   "top_gates": 88,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "DFW": {
-  "changed": "2026-11-21",
+  "changed": "2026-11-22",
   "data": "2026-11-21",
   "data_last": "2026-11-20",
   "flights_day": 1967,
   "gates": 175,
-  "hash": "6da8d645f96f",
+  "hash": "5185a89e631d",
   "name": "Dallas-Fort Worth Intl",
   "published": "2026-10-06",
   "seats_day": 131774,
@@ -1129,7 +1129,7 @@
   "sig": "{\"common\": 10, \"drawing\": \"13feeceac384\", \"gates\": 175, \"held\": {\"AA\": 126, \"AS\": 1, \"DL\": 5, \"F9\": 4, \"LF\": 1, \"QF\": 1, \"UA\": 6}, \"low\": 21}",
   "top": "AA",
   "top_gates": 126,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "DJT": {
   "changed": "2026-11-21",
@@ -1145,15 +1145,15 @@
   "sig": "{\"common\": 4, \"drawing\": \"7a24128af4ad\", \"gates\": 36, \"held\": {\"AA\": 3, \"B6\": 6, \"DL\": 5, \"MX\": 1, \"UA\": 4, \"WN\": 2}, \"low\": 11}",
   "top": "B6",
   "top_gates": 6,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "DLH": {
-  "changed": "2026-11-21",
+  "changed": "2026-11-22",
   "data": "2026-11-21",
   "data_last": "2026-11-20",
   "flights_day": 15,
   "gates": 4,
-  "hash": "f51c108243f0",
+  "hash": "7ce995d9d7c4",
   "name": "Duluth Intl",
   "published": "2026-10-19",
   "seats_day": 452,
@@ -1161,7 +1161,7 @@
   "sig": "{\"common\": 0, \"drawing\": \"928ff4dcc35b\", \"gates\": 4, \"held\": {\"DL\": 2, \"UA\": 1}, \"low\": 1}",
   "top": "DL",
   "top_gates": 2,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "DMK": {
   "changed": "2026-11-18",
@@ -1177,7 +1177,7 @@
   "sig": "{\"common\": 19, \"drawing\": \"6f2934cb5c04\", \"gates\": 28, \"held\": {\"FD\": 8}, \"low\": 1}",
   "top": "FD",
   "top_gates": 8,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "DOH": {
   "changed": "2026-11-21",
@@ -1193,7 +1193,7 @@
   "sig": "{\"common\": 16, \"drawing\": \"13f97fa90c3f\", \"gates\": 63, \"held\": {\"QR\": 44}, \"low\": 3}",
   "top": "QR",
   "top_gates": 44,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "DPS": {
   "changed": "2026-11-18",
@@ -1209,15 +1209,15 @@
   "sig": "{\"common\": 15, \"drawing\": \"21e86823d0d4\", \"gates\": 15, \"held\": {}, \"low\": 0}",
   "top": "JQ",
   "top_gates": 0,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "DRO": {
-  "changed": "2026-11-21",
+  "changed": "2026-11-22",
   "data": "2026-11-21",
   "data_last": "2026-11-20",
   "flights_day": 21,
   "gates": 5,
-  "hash": "d678063d1660",
+  "hash": "5c6121d7c79a",
   "name": "Durango-La Plata County",
   "published": "2026-10-10",
   "seats_day": 840,
@@ -1225,15 +1225,15 @@
   "sig": "{\"common\": 0, \"drawing\": \"0b00ec75f940\", \"gates\": 5, \"held\": {\"AA\": 1, \"UA\": 4}, \"low\": 0}",
   "top": "UA",
   "top_gates": 4,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "DSM": {
-  "changed": "2026-11-21",
+  "changed": "2026-11-22",
   "data": "2026-11-21",
   "data_last": "2026-11-20",
   "flights_day": 93,
   "gates": 13,
-  "hash": "0d472c533d62",
+  "hash": "c7cf0ed72978",
   "name": "Des Moines Intl",
   "published": "2026-10-11",
   "seats_day": 4925,
@@ -1241,15 +1241,15 @@
   "sig": "{\"common\": 2, \"drawing\": \"32263fba3d21\", \"gates\": 13, \"held\": {\"AA\": 3, \"DL\": 2, \"G4\": 2, \"UA\": 3, \"WN\": 1}, \"low\": 0}",
   "top": "AA",
   "top_gates": 3,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "DTW": {
-  "changed": "2026-11-21",
+  "changed": "2026-11-22",
   "data": "2026-11-21",
   "data_last": "2026-11-20",
   "flights_day": 813,
   "gates": 133,
-  "hash": "1a789a9fb4c7",
+  "hash": "c8590295a853",
   "name": "Detroit Metro Wayne Co",
   "published": "2026-10-06",
   "seats_day": 51434,
@@ -1257,7 +1257,7 @@
   "sig": "{\"common\": 5, \"drawing\": \"3ccc3df1a7bd\", \"gates\": 133, \"held\": {\"AA\": 8, \"B6\": 1, \"DL\": 83, \"F9\": 4, \"UA\": 9, \"WN\": 3}, \"low\": 20}",
   "top": "DL",
   "top_gates": 83,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "DUB": {
   "changed": "2026-11-21",
@@ -1273,7 +1273,7 @@
   "sig": "{\"common\": 17, \"drawing\": \"d6270491a1d4\", \"gates\": 76, \"held\": {\"EA\": 5, \"EI\": 20, \"FR\": 17, \"UA\": 1}, \"low\": 16}",
   "top": "EI",
   "top_gates": 20,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "DXB": {
   "changed": "2026-11-19",
@@ -1289,15 +1289,15 @@
   "sig": "{\"common\": 24, \"drawing\": \"e6f9ff3466a7\", \"gates\": 117, \"held\": {\"EK\": 72, \"FZ\": 12, \"IX\": 2}, \"low\": 7}",
   "top": "EK",
   "top_gates": 72,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "ECP": {
-  "changed": "2026-11-21",
+  "changed": "2026-11-22",
   "data": "2026-11-21",
   "data_last": "2026-11-20",
   "flights_day": 51,
   "gates": 7,
-  "hash": "95a4abaa14cd",
+  "hash": "84ab34cf0991",
   "name": "Northwest Florida Beaches Intl, Panama City",
   "published": "2026-10-08",
   "seats_day": 2747,
@@ -1305,7 +1305,7 @@
   "sig": "{\"common\": 0, \"drawing\": \"f6401552755f\", \"gates\": 7, \"held\": {\"AA\": 2, \"DL\": 2, \"UA\": 1, \"WN\": 2}, \"low\": 0}",
   "top": "DL",
   "top_gates": 2,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "ELP": {
   "changed": "2026-11-21",
@@ -1321,15 +1321,15 @@
   "sig": "{\"common\": 2, \"drawing\": \"2075734219fe\", \"gates\": 15, \"held\": {\"AA\": 4, \"DL\": 1, \"F9\": 1, \"UA\": 3, \"WN\": 4}, \"low\": 0}",
   "top": "WN",
   "top_gates": 4,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "EUG": {
-  "changed": "2026-11-21",
+  "changed": "2026-11-22",
   "data": "2026-11-21",
   "data_last": "2026-11-20",
   "flights_day": 61,
   "gates": 9,
-  "hash": "f4a8cc97f34a",
+  "hash": "52ad26210d21",
   "name": "Mahlon Sweet Fld, Eugene",
   "published": "2026-10-08",
   "seats_day": 2978,
@@ -1337,15 +1337,15 @@
   "sig": "{\"common\": 1, \"drawing\": \"9c7cdfced3cb\", \"gates\": 9, \"held\": {\"AA\": 1, \"AS\": 1, \"DL\": 3, \"UA\": 2, \"WN\": 1}, \"low\": 0}",
   "top": "DL",
   "top_gates": 3,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "EVV": {
-  "changed": "2026-11-21",
+  "changed": "2026-11-22",
   "data": "2026-11-21",
   "data_last": "2026-11-20",
   "flights_day": 22,
   "gates": 5,
-  "hash": "fc7a49686618",
+  "hash": "663fea130895",
   "name": "Evansville Rgnl",
   "published": "2026-10-13",
   "seats_day": 703,
@@ -1353,15 +1353,15 @@
   "sig": "{\"common\": 0, \"drawing\": \"181dc5971057\", \"gates\": 5, \"held\": {\"AA\": 3, \"DL\": 1, \"G4\": 1}, \"low\": 0}",
   "top": "AA",
   "top_gates": 3,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "EWN": {
-  "changed": "2026-11-21",
+  "changed": "2026-11-22",
   "data": "2026-11-21",
   "data_last": "2026-11-20",
   "flights_day": 10,
   "gates": 3,
-  "hash": "9166d4bb9fc4",
+  "hash": "c3deb4418fe8",
   "name": "Coastal Carolina Rgnl, New Bern",
   "published": "2026-10-21",
   "seats_day": 250,
@@ -1369,15 +1369,15 @@
   "sig": "{\"common\": 0, \"drawing\": \"b6d1057b8d5e\", \"gates\": 3, \"held\": {\"AA\": 2, \"MX\": 1}, \"low\": 0}",
   "top": "AA",
   "top_gates": 1,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "EWR": {
-  "changed": "2026-11-21",
+  "changed": "2026-11-22",
   "data": "2026-11-21",
   "data_last": "2026-11-20",
   "flights_day": 1004,
   "gates": 104,
-  "hash": "d571c61d3958",
+  "hash": "795166cec50d",
   "name": "Newark Liberty Intl",
   "published": "2026-10-06",
   "seats_day": 72410,
@@ -1385,15 +1385,15 @@
   "sig": "{\"common\": 7, \"drawing\": \"22e7c26bc00b\", \"gates\": 104, \"held\": {\"AA\": 3, \"AS\": 4, \"B6\": 1, \"DL\": 2, \"G4\": 1, \"UA\": 79}, \"low\": 7}",
   "top": "UA",
   "top_gates": 79,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "EYW": {
-  "changed": "2026-11-21",
+  "changed": "2026-11-22",
   "data": "2026-11-21",
   "data_last": "2026-11-20",
   "flights_day": 40,
   "gates": 8,
-  "hash": "5af2baca87bb",
+  "hash": "5d19326aee46",
   "name": "Key West Intl",
   "published": "2026-10-14",
   "seats_day": 1831,
@@ -1401,7 +1401,7 @@
   "sig": "{\"common\": 2, \"drawing\": \"ddee4ef3628c\", \"gates\": 8, \"held\": {\"AA\": 4, \"DL\": 1, \"UA\": 1}, \"low\": 0}",
   "top": "AA",
   "top_gates": 4,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "FAI": {
   "changed": "2026-11-21",
@@ -1417,7 +1417,7 @@
   "sig": "{\"common\": 0, \"drawing\": \"3f09d230eed9\", \"gates\": 6, \"held\": {\"AS\": 3, \"DL\": 1}, \"low\": 2}",
   "top": "AS",
   "top_gates": 3,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "FAR": {
   "changed": "2026-11-21",
@@ -1433,15 +1433,15 @@
   "sig": "{\"common\": 0, \"drawing\": \"5c9ccc57cfaa\", \"gates\": 5, \"held\": {\"AA\": 1, \"DL\": 2, \"UA\": 2}, \"low\": 0}",
   "top": "DL",
   "top_gates": 2,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "FAT": {
-  "changed": "2026-11-21",
+  "changed": "2026-11-22",
   "data": "2026-11-21",
   "data_last": "2026-11-20",
   "flights_day": 76,
   "gates": 14,
-  "hash": "3f470e0838d6",
+  "hash": "d6bb00e29b55",
   "name": "Fresno Yosemite Intl",
   "published": "2026-10-08",
   "seats_day": 4035,
@@ -1449,15 +1449,15 @@
   "sig": "{\"common\": 5, \"drawing\": \"ed138ae34c21\", \"gates\": 14, \"held\": {\"AA\": 1, \"AS\": 1, \"UA\": 4, \"WN\": 1}, \"low\": 2}",
   "top": "UA",
   "top_gates": 4,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "FAY": {
-  "changed": "2026-11-21",
+  "changed": "2026-11-22",
   "data": "2026-11-21",
   "data_last": "2026-11-20",
   "flights_day": 17,
   "gates": 3,
-  "hash": "a9cf795cfcef",
+  "hash": "e4559d38418e",
   "name": "Fayetteville Rgnl",
   "published": "2026-10-11",
   "seats_day": 523,
@@ -1465,15 +1465,15 @@
   "sig": "{\"common\": 0, \"drawing\": \"fbfdb24a38db\", \"gates\": 3, \"held\": {\"AA\": 2, \"DL\": 1}, \"low\": 0}",
   "top": "AA",
   "top_gates": 2,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "FCA": {
-  "changed": "2026-11-21",
+  "changed": "2026-11-22",
   "data": "2026-11-21",
   "data_last": "2026-11-20",
   "flights_day": 20,
   "gates": 7,
-  "hash": "b550a786b8d2",
+  "hash": "d4cc8e0c87d8",
   "name": "Glacier Park Intl, Kalispell",
   "published": "2026-10-09",
   "seats_day": 1054,
@@ -1481,15 +1481,15 @@
   "sig": "{\"common\": 3, \"drawing\": \"29012b7d436f\", \"gates\": 7, \"held\": {\"AS\": 1, \"UA\": 1}, \"low\": 2}",
   "top": "UA",
   "top_gates": 1,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "FLL": {
-  "changed": "2026-11-21",
+  "changed": "2026-11-22",
   "data": "2026-11-21",
   "data_last": "2026-11-20",
   "flights_day": 615,
   "gates": 67,
-  "hash": "222bd399a904",
+  "hash": "54d97e15d872",
   "name": "Fort Lauderdale Intl",
   "published": "2026-10-06",
   "seats_day": 48737,
@@ -1497,7 +1497,7 @@
   "sig": "{\"common\": 8, \"drawing\": \"d0b085ad04a6\", \"gates\": 67, \"held\": {\"AA\": 5, \"B6\": 26, \"DL\": 8, \"F9\": 3, \"G4\": 3, \"MX\": 1, \"UA\": 6, \"WN\": 6}, \"low\": 1}",
   "top": "B6",
   "top_gates": 26,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "FRA": {
   "changed": "2026-11-21",
@@ -1513,7 +1513,7 @@
   "sig": "{\"common\": 43, \"drawing\": \"df47f4cafb18\", \"gates\": 117, \"held\": {\"4Y\": 3, \"AA\": 2, \"DE\": 3, \"DL\": 3, \"EI\": 1, \"LH\": 22, \"UA\": 14, \"YW\": 1}, \"low\": 25}",
   "top": "LH",
   "top_gates": 22,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "FSD": {
   "changed": "2026-11-21",
@@ -1529,7 +1529,7 @@
   "sig": "{\"common\": 2, \"drawing\": \"95805d05fb0a\", \"gates\": 7, \"held\": {\"AA\": 1, \"DL\": 1, \"UA\": 2}, \"low\": 1}",
   "top": "UA",
   "top_gates": 2,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "FUK": {
   "changed": "2026-11-20",
@@ -1545,7 +1545,7 @@
   "sig": "{\"common\": 33, \"drawing\": \"6c42054f4d9f\", \"gates\": 35, \"held\": {\"NH\": 1}, \"low\": 1}",
   "top": "NH",
   "top_gates": 1,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "FWA": {
   "changed": "2026-11-21",
@@ -1561,7 +1561,7 @@
   "sig": "{\"common\": 3, \"drawing\": \"2361fbe3d97d\", \"gates\": 9, \"held\": {\"AA\": 3, \"DL\": 2, \"UA\": 1}, \"low\": 0}",
   "top": "AA",
   "top_gates": 3,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "GEG": {
   "changed": "2026-11-21",
@@ -1577,15 +1577,15 @@
   "sig": "{\"common\": 1, \"drawing\": \"83100e72a48e\", \"gates\": 21, \"held\": {\"AA\": 2, \"AS\": 6, \"DL\": 5, \"UA\": 2, \"WN\": 4}, \"low\": 1}",
   "top": "AS",
   "top_gates": 6,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "GJT": {
-  "changed": "2026-11-21",
+  "changed": "2026-11-22",
   "data": "2026-11-21",
   "data_last": "2026-11-20",
   "flights_day": 25,
   "gates": 6,
-  "hash": "2af30ef7756a",
+  "hash": "3ddbe327bb76",
   "name": "Grand Junction Rgnl",
   "published": "2026-10-10",
   "seats_day": 972,
@@ -1593,15 +1593,15 @@
   "sig": "{\"common\": 0, \"drawing\": \"0be004a72745\", \"gates\": 6, \"held\": {\"AA\": 2, \"UA\": 2}, \"low\": 2}",
   "top": "UA",
   "top_gates": 2,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "GNV": {
-  "changed": "2026-11-21",
+  "changed": "2026-11-22",
   "data": "2026-11-21",
   "data_last": "2026-11-20",
   "flights_day": 26,
   "gates": 5,
-  "hash": "f94757cfda58",
+  "hash": "19649e42b47b",
   "name": "Gainesville Rgnl",
   "published": "2026-10-13",
   "seats_day": 991,
@@ -1609,15 +1609,15 @@
   "sig": "{\"common\": 0, \"drawing\": \"7bd0ef4a1c96\", \"gates\": 5, \"held\": {\"AA\": 3, \"DL\": 2}, \"low\": 0}",
   "top": "AA",
   "top_gates": 3,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "GPT": {
-  "changed": "2026-11-21",
+  "changed": "2026-11-22",
   "data": "2026-11-21",
   "data_last": "2026-11-20",
   "flights_day": 26,
   "gates": 7,
-  "hash": "b6ebeaa97c9e",
+  "hash": "b2a9473670d6",
   "name": "Gulfport-Biloxi Intl",
   "published": "2026-10-14",
   "seats_day": 1026,
@@ -1625,15 +1625,15 @@
   "sig": "{\"common\": 0, \"drawing\": \"8300a1b20ee4\", \"gates\": 7, \"held\": {\"AA\": 2, \"DL\": 1, \"MX\": 1, \"SY\": 1, \"UA\": 1}, \"low\": 1}",
   "top": "AA",
   "top_gates": 2,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "GRB": {
-  "changed": "2026-11-21",
+  "changed": "2026-11-22",
   "data": "2026-11-21",
   "data_last": "2026-11-20",
   "flights_day": 34,
   "gates": 14,
-  "hash": "cec34e9aadac",
+  "hash": "0707b23f0b87",
   "name": "Green Bay/Austin Straubel Intl",
   "published": "2026-10-13",
   "seats_day": 1205,
@@ -1641,15 +1641,15 @@
   "sig": "{\"common\": 0, \"drawing\": \"1136fd1c05a5\", \"gates\": 14, \"held\": {\"AA\": 1, \"DL\": 5, \"UA\": 3}, \"low\": 5}",
   "top": "DL",
   "top_gates": 5,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "GRK": {
-  "changed": "2026-11-21",
+  "changed": "2026-11-22",
   "data": "2026-11-21",
   "data_last": "2026-11-20",
   "flights_day": 11,
   "gates": 5,
-  "hash": "815881857aeb",
+  "hash": "b6310b6b444b",
   "name": "Robert Gray Aaf, Fort Hood (Killeen)",
   "published": "2026-10-20",
   "seats_day": 383,
@@ -1657,15 +1657,15 @@
   "sig": "{\"common\": 0, \"drawing\": \"73d176d27f4b\", \"gates\": 5, \"held\": {\"AA\": 2}, \"low\": 3}",
   "top": "AA",
   "top_gates": 2,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "GRR": {
-  "changed": "2026-11-21",
+  "changed": "2026-11-22",
   "data": "2026-11-21",
   "data_last": "2026-11-20",
   "flights_day": 103,
   "gates": 23,
-  "hash": "3a5bf61b5129",
+  "hash": "df393e0bfdef",
   "name": "Gerald R Ford Intl, Grand Rapids",
   "published": "2026-10-07",
   "seats_day": 5863,
@@ -1673,15 +1673,15 @@
   "sig": "{\"common\": 0, \"drawing\": \"72a57e0c42cd\", \"gates\": 23, \"held\": {\"AA\": 6, \"DL\": 5, \"F9\": 1, \"G4\": 3, \"UA\": 4, \"WN\": 2}, \"low\": 2}",
   "top": "AA",
   "top_gates": 6,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "GSO": {
-  "changed": "2026-11-21",
+  "changed": "2026-11-22",
   "data": "2026-11-21",
   "data_last": "2026-11-20",
   "flights_day": 88,
   "gates": 24,
-  "hash": "73598f94b5a7",
+  "hash": "51025fafe917",
   "name": "Piedmont Triad Intl, Greensboro",
   "published": "2026-10-08",
   "seats_day": 3416,
@@ -1689,15 +1689,15 @@
   "sig": "{\"common\": 1, \"drawing\": \"25b45d66d883\", \"gates\": 24, \"held\": {\"AA\": 8, \"DL\": 4, \"UA\": 4}, \"low\": 7}",
   "top": "AA",
   "top_gates": 8,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "GSP": {
-  "changed": "2026-11-21",
+  "changed": "2026-11-22",
   "data": "2026-11-21",
   "data_last": "2026-11-20",
   "flights_day": 103,
   "gates": 15,
-  "hash": "a0801a4cbc00",
+  "hash": "268db8850e23",
   "name": "Greenville/Spartanburg Intl, Greer",
   "published": "2026-10-09",
   "seats_day": 4719,
@@ -1705,15 +1705,15 @@
   "sig": "{\"common\": 1, \"drawing\": \"752360389149\", \"gates\": 15, \"held\": {\"AA\": 5, \"DL\": 4, \"UA\": 4, \"WN\": 1}, \"low\": 0}",
   "top": "AA",
   "top_gates": 5,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "GTF": {
-  "changed": "2026-11-21",
+  "changed": "2026-11-22",
   "data": "2026-11-21",
   "data_last": "2026-11-20",
   "flights_day": 12,
   "gates": 5,
-  "hash": "819f76ec7947",
+  "hash": "7b341ff9b408",
   "name": "Great Falls Intl",
   "published": "2026-10-21",
   "seats_day": 569,
@@ -1721,7 +1721,7 @@
   "sig": "{\"common\": 0, \"drawing\": \"f72a5e42bb8b\", \"gates\": 5, \"held\": {\"AS\": 1, \"DL\": 2, \"UA\": 1}, \"low\": 1}",
   "top": "DL",
   "top_gates": 2,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "GVA": {
   "changed": "2026-11-20",
@@ -1737,7 +1737,7 @@
   "sig": "{\"common\": 27, \"drawing\": \"4f45ffeb302e\", \"gates\": 32, \"held\": {\"U2\": 4}, \"low\": 1}",
   "top": "U2",
   "top_gates": 4,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "HEL": {
   "changed": "2026-11-21",
@@ -1753,7 +1753,7 @@
   "sig": "{\"common\": 12, \"drawing\": \"bdd265c7a4c1\", \"gates\": 55, \"held\": {\"AY\": 32}, \"low\": 11}",
   "top": "AY",
   "top_gates": 32,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "HKG": {
   "changed": "2026-11-21",
@@ -1769,7 +1769,7 @@
   "sig": "{\"common\": 69, \"drawing\": \"15453a6a17bb\", \"gates\": 91, \"held\": {\"CX\": 13, \"HX\": 2, \"UO\": 2}, \"low\": 5}",
   "top": "CX",
   "top_gates": 13,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "HKT": {
   "changed": "2026-11-20",
@@ -1785,7 +1785,7 @@
   "sig": "{\"common\": 10, \"drawing\": \"0da2b90840ab\", \"gates\": 11, \"held\": {}, \"low\": 1}",
   "top": "EK",
   "top_gates": 0,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "HND": {
   "changed": "2026-11-21",
@@ -1801,7 +1801,7 @@
   "sig": "{\"common\": 11, \"drawing\": \"12a62175b890\", \"gates\": 108, \"held\": {\"AA\": 5, \"BC\": 5, \"DL\": 3, \"JL\": 28, \"NH\": 35, \"UA\": 4}, \"low\": 17}",
   "top": "NH",
   "top_gates": 35,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "HNL": {
   "changed": "2026-11-21",
@@ -1817,7 +1817,7 @@
   "sig": "{\"common\": 10, \"drawing\": \"12fa2a28423e\", \"gates\": 58, \"held\": {\"AA\": 2, \"AS\": 26, \"DL\": 3, \"UA\": 4, \"WN\": 5}, \"low\": 8}",
   "top": "AS",
   "top_gates": 26,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "HOU": {
   "changed": "2026-11-21",
@@ -1833,7 +1833,7 @@
   "sig": "{\"common\": 0, \"drawing\": \"02f6a004fe71\", \"gates\": 30, \"held\": {\"AA\": 2, \"DL\": 1, \"SY\": 1, \"WN\": 23}, \"low\": 3}",
   "top": "WN",
   "top_gates": 23,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "HPN": {
   "changed": "2026-11-21",
@@ -1849,7 +1849,7 @@
   "sig": "{\"common\": 5, \"drawing\": \"a8017731078e\", \"gates\": 6, \"held\": {\"AA\": 1}, \"low\": 0}",
   "top": "AA",
   "top_gates": 1,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "HRL": {
   "changed": "2026-10-31",
@@ -1866,12 +1866,12 @@
   "updated": "2026-11-01"
  },
  "HSV": {
-  "changed": "2026-11-21",
+  "changed": "2026-11-22",
   "data": "2026-11-21",
   "data_last": "2026-11-20",
   "flights_day": 78,
   "gates": 14,
-  "hash": "fb7ca210b692",
+  "hash": "3437fdde7704",
   "name": "Huntsville Intl",
   "published": "2026-10-08",
   "seats_day": 3038,
@@ -1879,7 +1879,7 @@
   "sig": "{\"common\": 2, \"drawing\": \"6efb7be2f119\", \"gates\": 14, \"held\": {\"AA\": 4, \"DL\": 3, \"UA\": 3}, \"low\": 2}",
   "top": "AA",
   "top_gates": 4,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "HVN": {
   "changed": "2026-11-01",
@@ -1896,12 +1896,12 @@
   "updated": "2026-11-02"
  },
  "IAD": {
-  "changed": "2026-11-21",
+  "changed": "2026-11-22",
   "data": "2026-11-21",
   "data_last": "2026-11-20",
   "flights_day": 687,
   "gates": 132,
-  "hash": "5790a32e6ddb",
+  "hash": "37dce55dffb5",
   "name": "Washington Dulles Intl",
   "published": "2026-10-06",
   "seats_day": 40544,
@@ -1909,15 +1909,15 @@
   "sig": "{\"common\": 13, \"drawing\": \"60a40ccd390e\", \"gates\": 132, \"held\": {\"AA\": 3, \"AC\": 1, \"AS\": 2, \"BA\": 2, \"CA\": 1, \"CM\": 1, \"DL\": 4, \"ET\": 1, \"EY\": 1, \"F9\": 1, \"G4\": 1, \"LX\": 1, \"MX\": 1, \"OS\": 1, \"TP\": 1, \"UA\": 87}, \"low\": 10}",
   "top": "UA",
   "top_gates": 87,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "IAH": {
-  "changed": "2026-11-21",
+  "changed": "2026-11-22",
   "data": "2026-11-21",
   "data_last": "2026-11-20",
   "flights_day": 1196,
   "gates": 166,
-  "hash": "6a78e61ee89d",
+  "hash": "b809220cc50e",
   "name": "Houston Bush Int'ctl",
   "published": "2026-10-06",
   "seats_day": 76041,
@@ -1925,7 +1925,7 @@
   "sig": "{\"common\": 11, \"drawing\": \"df4f689999c4\", \"gates\": 166, \"held\": {\"AA\": 5, \"AC\": 1, \"AM\": 1, \"AS\": 1, \"B6\": 2, \"DL\": 5, \"F9\": 3, \"QR\": 1, \"UA\": 101}, \"low\": 35}",
   "top": "UA",
   "top_gates": 101,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "ICN": {
   "changed": "2026-11-21",
@@ -1941,15 +1941,15 @@
   "sig": "{\"common\": 106, \"drawing\": \"9d9c5fa0e23e\", \"gates\": 151, \"held\": {\"7C\": 2, \"KE\": 21, \"LJ\": 2, \"OZ\": 8}, \"low\": 12}",
   "top": "KE",
   "top_gates": 21,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "ICT": {
-  "changed": "2026-11-21",
+  "changed": "2026-11-22",
   "data": "2026-11-21",
   "data_last": "2026-11-20",
   "flights_day": 74,
   "gates": 11,
-  "hash": "0835562c6773",
+  "hash": "ec89eddbab7a",
   "name": "Wichita Eisenhower",
   "published": "2026-10-08",
   "seats_day": 3170,
@@ -1957,15 +1957,15 @@
   "sig": "{\"common\": 1, \"drawing\": \"0a2e4b2a5caa\", \"gates\": 11, \"held\": {\"AA\": 3, \"DL\": 2, \"UA\": 3, \"WN\": 2}, \"low\": 0}",
   "top": "UA",
   "top_gates": 3,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "IDA": {
-  "changed": "2026-11-21",
+  "changed": "2026-11-22",
   "data": "2026-11-21",
   "data_last": "2026-11-20",
   "flights_day": 26,
   "gates": 6,
-  "hash": "2a8ff6f1b940",
+  "hash": "36d5848c66b0",
   "name": "Idaho Falls Rgnl",
   "published": "2026-10-11",
   "seats_day": 1010,
@@ -1973,15 +1973,15 @@
   "sig": "{\"common\": 0, \"drawing\": \"f83836f2f8d7\", \"gates\": 6, \"held\": {\"AA\": 2, \"AS\": 1, \"G4\": 1, \"UA\": 1}, \"low\": 1}",
   "top": "AA",
   "top_gates": 2,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "ILM": {
-  "changed": "2026-11-21",
+  "changed": "2026-11-22",
   "data": "2026-11-21",
   "data_last": "2026-11-20",
   "flights_day": 55,
   "gates": 9,
-  "hash": "05824f1c8bf2",
+  "hash": "d0d9b8b4f780",
   "name": "Wilmington Intl",
   "published": "2026-10-08",
   "seats_day": 2239,
@@ -1989,15 +1989,15 @@
   "sig": "{\"common\": 1, \"drawing\": \"6f94cac881f4\", \"gates\": 9, \"held\": {\"AA\": 5, \"DL\": 1, \"MX\": 1, \"UA\": 1}, \"low\": 0}",
   "top": "AA",
   "top_gates": 5,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "IND": {
-  "changed": "2026-11-21",
+  "changed": "2026-11-22",
   "data": "2026-11-21",
   "data_last": "2026-11-20",
   "flights_day": 325,
   "gates": 40,
-  "hash": "089e3a91f08c",
+  "hash": "4ab65f23069d",
   "name": "Indianapolis Intl",
   "published": "2026-10-07",
   "seats_day": 19166,
@@ -2005,7 +2005,7 @@
   "sig": "{\"common\": 4, \"drawing\": \"6ee74d776b9a\", \"gates\": 40, \"held\": {\"AA\": 9, \"AS\": 1, \"DL\": 9, \"F9\": 1, \"G4\": 2, \"UA\": 6, \"WN\": 7}, \"low\": 1}",
   "top": "AA",
   "top_gates": 9,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "ISP": {
   "changed": "2026-11-21",
@@ -2021,7 +2021,7 @@
   "sig": "{\"common\": 1, \"drawing\": \"5911ae564a11\", \"gates\": 11, \"held\": {\"B6\": 1, \"MX\": 1, \"WN\": 3}, \"low\": 5}",
   "top": "WN",
   "top_gates": 3,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "IST": {
   "changed": "2026-11-20",
@@ -2037,7 +2037,7 @@
   "sig": "{\"common\": 28, \"drawing\": \"1d3e2f3ea6b2\", \"gates\": 115, \"held\": {\"TK\": 85}, \"low\": 2}",
   "top": "TK",
   "top_gates": 85,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "ITO": {
   "changed": "2026-11-20",
@@ -2053,15 +2053,15 @@
   "sig": "{\"common\": 0, \"drawing\": \"cd46f0796008\", \"gates\": 7, \"held\": {\"AS\": 2, \"WN\": 2}, \"low\": 3}",
   "top": "AS",
   "top_gates": 2,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "JAC": {
-  "changed": "2026-11-21",
+  "changed": "2026-11-22",
   "data": "2026-11-21",
   "data_last": "2026-11-20",
   "flights_day": 19,
   "gates": 10,
-  "hash": "c3cbefc8f942",
+  "hash": "64de4e9744ef",
   "name": "Jackson Hole",
   "published": "2026-10-09",
   "seats_day": 1070,
@@ -2069,15 +2069,15 @@
   "sig": "{\"common\": 0, \"drawing\": \"e4e98f4f2e68\", \"gates\": 10, \"held\": {\"AA\": 3, \"DL\": 1, \"UA\": 4}, \"low\": 2}",
   "top": "UA",
   "top_gates": 4,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "JAN": {
-  "changed": "2026-11-21",
+  "changed": "2026-11-22",
   "data": "2026-11-21",
   "data_last": "2026-11-20",
   "flights_day": 43,
   "gates": 8,
-  "hash": "f1bcaf9d472c",
+  "hash": "4a8dbd8d96a3",
   "name": "Jackson-Medgar Wiley Evers Intl",
   "published": "2026-10-08",
   "seats_day": 1654,
@@ -2085,15 +2085,15 @@
   "sig": "{\"common\": 0, \"drawing\": \"d367b4083ca2\", \"gates\": 8, \"held\": {\"AA\": 2, \"DL\": 2, \"UA\": 1, \"WN\": 1}, \"low\": 2}",
   "top": "DL",
   "top_gates": 2,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "JAX": {
-  "changed": "2026-11-21",
+  "changed": "2026-11-22",
   "data": "2026-11-21",
   "data_last": "2026-11-20",
   "flights_day": 191,
   "gates": 20,
-  "hash": "051f596451e4",
+  "hash": "eae4b6fa5e08",
   "name": "Jacksonville Intl",
   "published": "2026-10-07",
   "seats_day": 12941,
@@ -2101,15 +2101,15 @@
   "sig": "{\"common\": 4, \"drawing\": \"24daa3e6c803\", \"gates\": 20, \"held\": {\"AA\": 5, \"B6\": 1, \"DL\": 4, \"UA\": 3, \"WN\": 3}, \"low\": 0}",
   "top": "AA",
   "top_gates": 5,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "JFK": {
-  "changed": "2026-11-21",
+  "changed": "2026-11-22",
   "data": "2026-11-21",
   "data_last": "2026-11-20",
   "flights_day": 1030,
   "gates": 120,
-  "hash": "7d12e005bc5a",
+  "hash": "3c72a15c88c8",
   "name": "John F Kennedy Intl, New York",
   "published": "2026-10-06",
   "seats_day": 73492,
@@ -2117,7 +2117,7 @@
   "sig": "{\"common\": 20, \"drawing\": \"2a56b0c431f3\", \"gates\": 120, \"held\": {\"AA\": 14, \"AS\": 1, \"B6\": 29, \"BA\": 1, \"CM\": 1, \"DL\": 38}, \"low\": 16}",
   "top": "DL",
   "top_gates": 38,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "JNB": {
   "changed": "2026-11-20",
@@ -2133,7 +2133,7 @@
   "sig": "{\"common\": 10, \"drawing\": \"a98ccdc3f9d8\", \"gates\": 27, \"held\": {\"FA\": 5, \"SA\": 3}, \"low\": 9}",
   "top": "FA",
   "top_gates": 5,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "KIX": {
   "changed": "2026-11-21",
@@ -2149,7 +2149,7 @@
   "sig": "{\"common\": 37, \"drawing\": \"dec6c7ea0bea\", \"gates\": 61, \"held\": {\"7C\": 3, \"BX\": 2, \"GK\": 1, \"JL\": 1, \"MM\": 15, \"NH\": 1}, \"low\": 1}",
   "top": "MM",
   "top_gates": 15,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "KOA": {
   "changed": "2026-11-21",
@@ -2165,7 +2165,7 @@
   "sig": "{\"common\": 1, \"drawing\": \"dd3319d0a442\", \"gates\": 12, \"held\": {\"AA\": 1, \"AS\": 2, \"DL\": 1, \"UA\": 2, \"WN\": 2}, \"low\": 3}",
   "top": "AS",
   "top_gates": 2,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "KRK": {
   "changed": "2026-11-20",
@@ -2181,15 +2181,15 @@
   "sig": "{\"common\": 5, \"drawing\": \"b7bc9d8628ec\", \"gates\": 17, \"held\": {\"FR\": 3, \"LH\": 1, \"RR\": 4}, \"low\": 4}",
   "top": "RR",
   "top_gates": 4,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "LAS": {
-  "changed": "2026-11-21",
+  "changed": "2026-11-22",
   "data": "2026-11-21",
   "data_last": "2026-11-20",
   "flights_day": 1027,
   "gates": 108,
-  "hash": "dc0454131270",
+  "hash": "6fd64791b6ba",
   "name": "Harry Reid Intl, Las Vegas",
   "published": "2026-10-05",
   "seats_day": 82310,
@@ -2197,15 +2197,15 @@
   "sig": "{\"common\": 15, \"drawing\": \"baaf4b8a43fa\", \"gates\": 108, \"held\": {\"AA\": 9, \"AS\": 5, \"B6\": 2, \"DL\": 9, \"F9\": 9, \"G4\": 11, \"MX\": 1, \"UA\": 9, \"WN\": 37}, \"low\": 1}",
   "top": "WN",
   "top_gates": 37,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "LAX": {
-  "changed": "2026-11-21",
+  "changed": "2026-11-22",
   "data": "2026-11-21",
   "data_last": "2026-11-20",
   "flights_day": 1426,
   "gates": 147,
-  "hash": "0da8b617fa10",
+  "hash": "8eb9afd0cd73",
   "name": "Los Angeles Intl",
   "published": "2026-10-05",
   "seats_day": 107178,
@@ -2213,7 +2213,7 @@
   "sig": "{\"common\": 32, \"drawing\": \"1ce6db81adbd\", \"gates\": 147, \"held\": {\"AA\": 22, \"AS\": 11, \"B6\": 3, \"DL\": 27, \"F9\": 4, \"UA\": 24, \"WN\": 10, \"Y4\": 2}, \"low\": 12}",
   "top": "DL",
   "top_gates": 27,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "LBB": {
   "changed": "2026-11-21",
@@ -2229,15 +2229,15 @@
   "sig": "{\"common\": 0, \"drawing\": \"c818c640ef58\", \"gates\": 9, \"held\": {\"AA\": 4, \"UA\": 2, \"WN\": 3}, \"low\": 0}",
   "top": "AA",
   "top_gates": 4,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "LEX": {
-  "changed": "2026-11-21",
+  "changed": "2026-11-22",
   "data": "2026-11-21",
   "data_last": "2026-11-20",
   "flights_day": 63,
   "gates": 10,
-  "hash": "a5da7ce8b6f0",
+  "hash": "97df9a0c948d",
   "name": "Blue Grass, Lexington",
   "published": "2026-10-08",
   "seats_day": 2536,
@@ -2245,15 +2245,15 @@
   "sig": "{\"common\": 1, \"drawing\": \"4230c9dddcf8\", \"gates\": 10, \"held\": {\"AA\": 3, \"DL\": 3, \"UA\": 3}, \"low\": 0}",
   "top": "DL",
   "top_gates": 3,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "LFT": {
-  "changed": "2026-11-21",
+  "changed": "2026-11-22",
   "data": "2026-11-21",
   "data_last": "2026-11-20",
   "flights_day": 32,
   "gates": 5,
-  "hash": "3370f4d10fb9",
+  "hash": "8e8d6aad5877",
   "name": "Lafayette Rgnl/Paul Fournet Fld",
   "published": "2026-10-13",
   "seats_day": 1047,
@@ -2261,15 +2261,15 @@
   "sig": "{\"common\": 3, \"drawing\": \"3e20c0945466\", \"gates\": 5, \"held\": {}, \"low\": 2}",
   "top": "UA",
   "top_gates": 0,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "LGA": {
-  "changed": "2026-11-21",
+  "changed": "2026-11-22",
   "data": "2026-11-21",
   "data_last": "2026-11-20",
   "flights_day": 934,
   "gates": 80,
-  "hash": "892edc1e0db6",
+  "hash": "764f1e827706",
   "name": "LaGuardia, New York",
   "published": "2026-10-06",
   "seats_day": 55433,
@@ -2277,7 +2277,7 @@
   "sig": "{\"common\": 1, \"drawing\": \"cdaadfc131af\", \"gates\": 80, \"held\": {\"AA\": 19, \"AC\": 1, \"B6\": 2, \"DL\": 38, \"F9\": 1, \"UA\": 7, \"WN\": 4}, \"low\": 7}",
   "top": "DL",
   "top_gates": 38,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "LGB": {
   "changed": "2026-11-21",
@@ -2293,7 +2293,7 @@
   "sig": "{\"common\": 0, \"drawing\": \"edd7acc6e237\", \"gates\": 11, \"held\": {\"AS\": 1, \"DL\": 1, \"WN\": 8}, \"low\": 1}",
   "top": "WN",
   "top_gates": 8,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "LHR": {
   "changed": "2026-11-21",
@@ -2309,7 +2309,7 @@
   "sig": "{\"common\": 55, \"drawing\": \"364ba489c8ee\", \"gates\": 145, \"held\": {\"AA\": 1, \"BA\": 46, \"EI\": 2, \"EK\": 1, \"EY\": 1, \"QR\": 1, \"UA\": 8, \"VS\": 1}, \"low\": 29}",
   "top": "BA",
   "top_gates": 46,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "LIH": {
   "changed": "2026-11-21",
@@ -2325,7 +2325,7 @@
   "sig": "{\"common\": 4, \"drawing\": \"8a190f31c6e2\", \"gates\": 9, \"held\": {\"AS\": 2, \"DL\": 1, \"UA\": 1, \"WN\": 1}, \"low\": 0}",
   "top": "AS",
   "top_gates": 2,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "LIM": {
   "changed": "2026-11-21",
@@ -2341,15 +2341,15 @@
   "sig": "{\"common\": 27, \"drawing\": \"833901e474e6\", \"gates\": 48, \"held\": {\"4A\": 1, \"AA\": 1, \"LP\": 18}, \"low\": 1}",
   "top": "LP",
   "top_gates": 18,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "LIT": {
-  "changed": "2026-11-21",
+  "changed": "2026-11-22",
   "data": "2026-11-21",
   "data_last": "2026-11-20",
   "flights_day": 80,
   "gates": 12,
-  "hash": "d5e427721636",
+  "hash": "d6cba849bef8",
   "name": "Clinton National, Little Rock",
   "published": "2026-10-08",
   "seats_day": 3403,
@@ -2357,15 +2357,15 @@
   "sig": "{\"common\": 0, \"drawing\": \"64989f4aa7c0\", \"gates\": 12, \"held\": {\"AA\": 4, \"DL\": 2, \"UA\": 4, \"WN\": 2}, \"low\": 0}",
   "top": "AA",
   "top_gates": 4,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "LNK": {
-  "changed": "2026-11-21",
+  "changed": "2026-11-22",
   "data": "2026-11-21",
   "data_last": "2026-11-20",
   "flights_day": 24,
   "gates": 6,
-  "hash": "0e09716fabd9",
+  "hash": "98ee04dbf1f5",
   "name": "Lincoln",
   "published": "2026-10-09",
   "seats_day": 772,
@@ -2373,7 +2373,7 @@
   "sig": "{\"common\": 1, \"drawing\": \"9f46bd080bd5\", \"gates\": 6, \"held\": {\"AA\": 2, \"UA\": 3}, \"low\": 0}",
   "top": "UA",
   "top_gates": 3,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "LRD": {
   "changed": "2026-11-21",
@@ -2389,15 +2389,15 @@
   "sig": "{\"common\": 0, \"drawing\": \"ce74681f7531\", \"gates\": 5, \"held\": {\"AA\": 2, \"UA\": 2}, \"low\": 1}",
   "top": "AA",
   "top_gates": 2,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "LYH": {
-  "changed": "2026-11-21",
+  "changed": "2026-11-22",
   "data": "2026-11-21",
   "data_last": "2026-11-20",
   "flights_day": 15,
   "gates": 2,
-  "hash": "f077c6b6aa58",
+  "hash": "da0bddcc444a",
   "name": "Lynchburg Rgnl",
   "published": "2026-10-19",
   "seats_day": 371,
@@ -2405,7 +2405,7 @@
   "sig": "{\"common\": 0, \"drawing\": \"a8611e935dbf\", \"gates\": 2, \"held\": {\"AA\": 1, \"UA\": 1}, \"low\": 0}",
   "top": "AA",
   "top_gates": 1,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "MAD": {
   "changed": "2026-11-21",
@@ -2421,7 +2421,7 @@
   "sig": "{\"common\": 81, \"drawing\": \"443694dc1cdf\", \"gates\": 118, \"held\": {\"FR\": 4, \"IB\": 30}, \"low\": 3}",
   "top": "IB",
   "top_gates": 30,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "MAF": {
   "changed": "2026-11-20",
@@ -2437,7 +2437,7 @@
   "sig": "{\"common\": 0, \"drawing\": \"48845680df42\", \"gates\": 6, \"held\": {\"AA\": 2, \"UA\": 2, \"WN\": 2}, \"low\": 0}",
   "top": "WN",
   "top_gates": 2,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "MAN": {
   "changed": "2026-11-21",
@@ -2453,15 +2453,15 @@
   "sig": "{\"common\": 30, \"drawing\": \"c12953930a80\", \"gates\": 66, \"held\": {\"BY\": 3, \"FR\": 15, \"LS\": 3, \"RK\": 1, \"U2\": 6}, \"low\": 8}",
   "top": "FR",
   "top_gates": 15,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "MCI": {
-  "changed": "2026-11-21",
+  "changed": "2026-11-22",
   "data": "2026-11-21",
   "data_last": "2026-11-20",
   "flights_day": 297,
   "gates": 40,
-  "hash": "b9d2222148f2",
+  "hash": "0189da44b13a",
   "name": "Kansas City Intl",
   "published": "2026-10-07",
   "seats_day": 20493,
@@ -2469,15 +2469,15 @@
   "sig": "{\"common\": 2, \"drawing\": \"19f40345cd6d\", \"gates\": 40, \"held\": {\"AA\": 8, \"AS\": 1, \"DL\": 6, \"UA\": 6, \"WN\": 15}, \"low\": 2}",
   "top": "WN",
   "top_gates": 15,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "MCO": {
-  "changed": "2026-11-21",
+  "changed": "2026-11-22",
   "data": "2026-11-21",
   "data_last": "2026-11-20",
   "flights_day": 1012,
   "gates": 116,
-  "hash": "c196e6165c14",
+  "hash": "7c45305f8925",
   "name": "Orlando Intl",
   "published": "2026-10-06",
   "seats_day": 83352,
@@ -2485,15 +2485,15 @@
   "sig": "{\"common\": 23, \"drawing\": \"34dd4b08023a\", \"gates\": 116, \"held\": {\"AA\": 12, \"AS\": 2, \"B6\": 9, \"CM\": 1, \"DL\": 11, \"F9\": 12, \"MX\": 6, \"UA\": 10, \"VS\": 1, \"WN\": 22}, \"low\": 7}",
   "top": "WN",
   "top_gates": 22,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "MDT": {
-  "changed": "2026-11-21",
+  "changed": "2026-11-22",
   "data": "2026-11-21",
   "data_last": "2026-11-20",
   "flights_day": 62,
   "gates": 12,
-  "hash": "c7835bc777bb",
+  "hash": "8d7b6a3e1037",
   "name": "Harrisburg Intl",
   "published": "2026-10-08",
   "seats_day": 2412,
@@ -2501,15 +2501,15 @@
   "sig": "{\"common\": 0, \"drawing\": \"632f3e6447bb\", \"gates\": 12, \"held\": {\"AA\": 5, \"DL\": 2, \"G4\": 1, \"UA\": 3}, \"low\": 1}",
   "top": "AA",
   "top_gates": 5,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "MDW": {
-  "changed": "2026-11-21",
+  "changed": "2026-11-22",
   "data": "2026-11-21",
   "data_last": "2026-11-20",
   "flights_day": 393,
   "gates": 43,
-  "hash": "51bb2c5f7e15",
+  "hash": "929f18e4a3fa",
   "name": "Chicago Midway Intl",
   "published": "2026-10-06",
   "seats_day": 31511,
@@ -2517,7 +2517,7 @@
   "sig": "{\"common\": 4, \"drawing\": \"2040e9cf638c\", \"gates\": 43, \"held\": {\"DL\": 3, \"F9\": 1, \"WN\": 33}, \"low\": 2}",
   "top": "WN",
   "top_gates": 33,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "MEL": {
   "changed": "2026-11-20",
@@ -2533,7 +2533,7 @@
   "sig": "{\"common\": 15, \"drawing\": \"e7adca7fdc3d\", \"gates\": 67, \"held\": {\"JQ\": 12, \"QF\": 15, \"VA\": 16}, \"low\": 9}",
   "top": "VA",
   "top_gates": 16,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "MEM": {
   "changed": "2026-11-21",
@@ -2549,7 +2549,7 @@
   "sig": "{\"common\": 3, \"drawing\": \"0dbe390d9979\", \"gates\": 23, \"held\": {\"AA\": 5, \"DL\": 7, \"UA\": 4, \"WN\": 4}, \"low\": 0}",
   "top": "DL",
   "top_gates": 7,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "MEX": {
   "changed": "2026-11-21",
@@ -2565,15 +2565,15 @@
   "sig": "{\"common\": 30, \"drawing\": \"45219cd5794e\", \"gates\": 71, \"held\": {\"5D\": 2, \"AM\": 26, \"VB\": 2, \"Y4\": 7}, \"low\": 4}",
   "top": "AM",
   "top_gates": 26,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "MFE": {
-  "changed": "2026-11-21",
+  "changed": "2026-11-22",
   "data": "2026-11-21",
   "data_last": "2026-11-20",
   "flights_day": 29,
   "gates": 6,
-  "hash": "ec090e694919",
+  "hash": "69bb13934297",
   "name": "Mc Allen Intl",
   "published": "2026-10-10",
   "seats_day": 1235,
@@ -2581,15 +2581,15 @@
   "sig": "{\"common\": 2, \"drawing\": \"69cab6d0d748\", \"gates\": 6, \"held\": {\"AA\": 2, \"UA\": 2}, \"low\": 0}",
   "top": "AA",
   "top_gates": 2,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "MFR": {
-  "changed": "2026-11-21",
+  "changed": "2026-11-22",
   "data": "2026-11-21",
   "data_last": "2026-11-20",
   "flights_day": 47,
   "gates": 6,
-  "hash": "e90e3badbabf",
+  "hash": "92d765970274",
   "name": "Rogue Valley Intl, Medford",
   "published": "2026-10-08",
   "seats_day": 1911,
@@ -2597,15 +2597,15 @@
   "sig": "{\"common\": 1, \"drawing\": \"719ae4356b23\", \"gates\": 6, \"held\": {\"AS\": 2, \"DL\": 1, \"UA\": 1}, \"low\": 1}",
   "top": "AS",
   "top_gates": 2,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "MGM": {
-  "changed": "2026-11-21",
+  "changed": "2026-11-22",
   "data": "2026-11-21",
   "data_last": "2026-11-20",
   "flights_day": 25,
   "gates": 4,
-  "hash": "d83aac15d6a4",
+  "hash": "2652ad1e2c39",
   "name": "Montgomery Rgnl ",
   "published": "2026-10-11",
   "seats_day": 779,
@@ -2613,7 +2613,7 @@
   "sig": "{\"common\": 0, \"drawing\": \"5636f106c626\", \"gates\": 4, \"held\": {\"AA\": 2, \"DL\": 1, \"UA\": 1}, \"low\": 0}",
   "top": "AA",
   "top_gates": 2,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "MHT": {
   "changed": "2026-11-21",
@@ -2629,15 +2629,15 @@
   "sig": "{\"common\": 0, \"drawing\": \"1b19236bf0f1\", \"gates\": 14, \"held\": {\"AA\": 4, \"MX\": 1, \"UA\": 1, \"WN\": 3}, \"low\": 5}",
   "top": "AA",
   "top_gates": 4,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "MIA": {
-  "changed": "2026-11-21",
+  "changed": "2026-11-22",
   "data": "2026-11-21",
   "data_last": "2026-11-20",
   "flights_day": 1097,
   "gates": 142,
-  "hash": "dc8b46e1ad82",
+  "hash": "e7bf337112e9",
   "name": "Miami Intl",
   "published": "2026-10-06",
   "seats_day": 69756,
@@ -2645,15 +2645,15 @@
   "sig": "{\"common\": 29, \"drawing\": \"2a6a7daadc2f\", \"gates\": 142, \"held\": {\"AA\": 70, \"AM\": 1, \"BA\": 1, \"CM\": 1, \"DL\": 7, \"F9\": 4, \"IB\": 1, \"KX\": 1, \"LP\": 1, \"OB\": 1, \"UA\": 5, \"WN\": 4}, \"low\": 16}",
   "top": "AA",
   "top_gates": 70,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "MKE": {
-  "changed": "2026-11-21",
+  "changed": "2026-11-22",
   "data": "2026-11-21",
   "data_last": "2026-11-20",
   "flights_day": 184,
   "gates": 32,
-  "hash": "ffdf45cfdee2",
+  "hash": "4e06ddd07e9a",
   "name": "Milwaukee Mitchell Intl Airport",
   "published": "2026-11-01",
   "seats_day": 10483,
@@ -2661,15 +2661,15 @@
   "sig": "{\"common\": 0, \"drawing\": \"075dbc8733dc\", \"gates\": 32, \"held\": {\"AA\": 5, \"AS\": 1, \"B6\": 1, \"DL\": 7, \"F9\": 1, \"SY\": 1, \"UA\": 5, \"WN\": 8}, \"low\": 3}",
   "top": "WN",
   "top_gates": 8,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "MKL": {
-  "changed": "2026-11-21",
+  "changed": "2026-11-22",
   "data": "2026-11-21",
   "data_last": "2026-11-20",
   "flights_day": 3,
   "gates": 1,
-  "hash": "57c6ca364fc6",
+  "hash": "065f75679842",
   "name": "Jackson Rgnl",
   "published": "2026-11-09",
   "seats_day": 88,
@@ -2677,7 +2677,7 @@
   "sig": "{\"common\": 0, \"drawing\": \"c9d7d84c6700\", \"gates\": 1, \"held\": {\"KG\": 1}, \"low\": 0}",
   "top": "KG",
   "top_gates": 1,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "MLB": {
   "changed": "2026-11-21",
@@ -2693,15 +2693,15 @@
   "sig": "{\"common\": 0, \"drawing\": \"385d78593568\", \"gates\": 9, \"held\": {\"AA\": 1, \"DL\": 3, \"G4\": 1}, \"low\": 4}",
   "top": "DL",
   "top_gates": 3,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "MLI": {
-  "changed": "2026-11-21",
+  "changed": "2026-11-22",
   "data": "2026-11-21",
   "data_last": "2026-11-20",
   "flights_day": 32,
   "gates": 13,
-  "hash": "356077aca9c3",
+  "hash": "d959783a0344",
   "name": "Quad Cities Intl, Moline",
   "published": "2026-10-12",
   "seats_day": 1035,
@@ -2709,15 +2709,15 @@
   "sig": "{\"common\": 0, \"drawing\": \"0c44ea3c088b\", \"gates\": 13, \"held\": {\"AA\": 3, \"DL\": 1, \"G4\": 1, \"UA\": 4}, \"low\": 4}",
   "top": "UA",
   "top_gates": 4,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "MLU": {
-  "changed": "2026-11-21",
+  "changed": "2026-11-22",
   "data": "2026-11-21",
   "data_last": "2026-11-20",
   "flights_day": 12,
   "gates": 4,
-  "hash": "e2d0f123089b",
+  "hash": "c31bdfe3bdf4",
   "name": "Monroe Rgnl",
   "published": "2026-10-13",
   "seats_day": 429,
@@ -2725,15 +2725,15 @@
   "sig": "{\"common\": 0, \"drawing\": \"0a6b7e2a3ff0\", \"gates\": 4, \"held\": {\"AA\": 1}, \"low\": 3}",
   "top": "AA",
   "top_gates": 1,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "MOB": {
-  "changed": "2026-11-21",
+  "changed": "2026-11-22",
   "data": "2026-11-21",
   "data_last": "2026-11-20",
   "flights_day": 31,
   "gates": 7,
-  "hash": "f3de85fe9bbf",
+  "hash": "e29c08ae0b06",
   "name": "Mobile Rgnl",
   "published": "2026-10-10",
   "seats_day": 1024,
@@ -2741,15 +2741,15 @@
   "sig": "{\"common\": 0, \"drawing\": \"2833e8b40318\", \"gates\": 7, \"held\": {\"AA\": 3, \"DL\": 1, \"UA\": 2}, \"low\": 1}",
   "top": "AA",
   "top_gates": 3,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "MOT": {
-  "changed": "2026-11-21",
+  "changed": "2026-11-22",
   "data": "2026-11-21",
   "data_last": "2026-11-20",
   "flights_day": 14,
   "gates": 4,
-  "hash": "1ec1fc1489ff",
+  "hash": "a4228a741e4a",
   "name": "Minot Intl",
   "published": "2026-10-20",
   "seats_day": 511,
@@ -2757,15 +2757,15 @@
   "sig": "{\"common\": 0, \"drawing\": \"0e84d2f17d63\", \"gates\": 4, \"held\": {\"DL\": 1, \"G4\": 1, \"UA\": 1}, \"low\": 1}",
   "top": "DL",
   "top_gates": 1,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "MRY": {
-  "changed": "2026-11-21",
+  "changed": "2026-11-22",
   "data": "2026-11-21",
   "data_last": "2026-11-20",
   "flights_day": 32,
   "gates": 5,
-  "hash": "b9c8c0d28c8c",
+  "hash": "9e5deec427bf",
   "name": "Monterey Rgnl",
   "published": "2026-10-10",
   "seats_day": 1261,
@@ -2773,15 +2773,15 @@
   "sig": "{\"common\": 0, \"drawing\": \"95c4e9c683f0\", \"gates\": 5, \"held\": {\"AA\": 2, \"AS\": 1, \"UA\": 1}, \"low\": 1}",
   "top": "AA",
   "top_gates": 2,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "MSN": {
-  "changed": "2026-11-21",
+  "changed": "2026-11-22",
   "data": "2026-11-21",
   "data_last": "2026-11-20",
   "flights_day": 88,
   "gates": 16,
-  "hash": "e460131ab5b9",
+  "hash": "bf40d9e6af0c",
   "name": "Dane Co Rgnl, Madison",
   "published": "2026-10-08",
   "seats_day": 4339,
@@ -2789,15 +2789,15 @@
   "sig": "{\"common\": 1, \"drawing\": \"bbeeb5af7d51\", \"gates\": 16, \"held\": {\"AA\": 7, \"DL\": 4, \"UA\": 4}, \"low\": 0}",
   "top": "AA",
   "top_gates": 7,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "MSO": {
-  "changed": "2026-11-21",
+  "changed": "2026-11-22",
   "data": "2026-11-21",
   "data_last": "2026-11-20",
   "flights_day": 24,
   "gates": 6,
-  "hash": "f2005cf95afe",
+  "hash": "ee3a64f2bfd3",
   "name": "Missoula Montana",
   "published": "2026-10-11",
   "seats_day": 1294,
@@ -2805,15 +2805,15 @@
   "sig": "{\"common\": 1, \"drawing\": \"a2fa45376dde\", \"gates\": 6, \"held\": {\"AA\": 1, \"AS\": 2, \"DL\": 1, \"UA\": 1}, \"low\": 0}",
   "top": "AS",
   "top_gates": 2,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "MSP": {
-  "changed": "2026-11-21",
+  "changed": "2026-11-22",
   "data": "2026-11-21",
   "data_last": "2026-11-20",
   "flights_day": 807,
   "gates": 121,
-  "hash": "3c714d802d55",
+  "hash": "d6d6b8096a47",
   "name": "Minneapolis/St Paul Intl",
   "published": "2026-10-06",
   "seats_day": 52689,
@@ -2821,15 +2821,15 @@
   "sig": "{\"common\": 1, \"drawing\": \"97b684762670\", \"gates\": 121, \"held\": {\"AA\": 7, \"AC\": 1, \"AS\": 1, \"DL\": 74, \"F9\": 1, \"SY\": 7, \"UA\": 6, \"WN\": 5, \"WS\": 1}, \"low\": 17}",
   "top": "DL",
   "top_gates": 74,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "MSY": {
-  "changed": "2026-11-21",
+  "changed": "2026-11-22",
   "data": "2026-11-21",
   "data_last": "2026-11-20",
   "flights_day": 259,
   "gates": 35,
-  "hash": "ddacd220adc3",
+  "hash": "3998ac7cd5a5",
   "name": "Louis Armstrong New Orleans International Airport",
   "published": "2026-10-07",
   "seats_day": 19882,
@@ -2837,7 +2837,7 @@
   "sig": "{\"common\": 6, \"drawing\": \"ae3cc6bd0ca9\", \"gates\": 35, \"held\": {\"AA\": 5, \"AS\": 1, \"B6\": 2, \"DL\": 5, \"F9\": 1, \"MX\": 2, \"UA\": 4, \"WN\": 9}, \"low\": 0}",
   "top": "WN",
   "top_gates": 9,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "MTJ": {
   "changed": "2026-11-18",
@@ -2853,7 +2853,7 @@
   "sig": "{\"common\": 1, \"drawing\": \"21a418fa9b35\", \"gates\": 7, \"held\": {\"UA\": 3, \"WN\": 1}, \"low\": 2}",
   "top": "UA",
   "top_gates": 2,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "MXP": {
   "changed": "2026-11-21",
@@ -2869,7 +2869,7 @@
   "sig": "{\"common\": 16, \"drawing\": \"3f82bbc4f8a4\", \"gates\": 36, \"held\": {\"EK\": 1, \"FR\": 1, \"U2\": 7}, \"low\": 11}",
   "top": "U2",
   "top_gates": 7,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "MYR": {
   "changed": "2026-11-20",
@@ -2885,7 +2885,7 @@
   "sig": "{\"common\": 3, \"drawing\": \"21e03f889846\", \"gates\": 19, \"held\": {\"AA\": 3, \"DL\": 2, \"G4\": 3, \"MX\": 3, \"UA\": 2, \"WN\": 2}, \"low\": 1}",
   "top": "AA",
   "top_gates": 3,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "NRT": {
   "changed": "2026-11-21",
@@ -2901,15 +2901,15 @@
   "sig": "{\"common\": 49, \"drawing\": \"55e835b324f6\", \"gates\": 86, \"held\": {\"GK\": 9, \"HX\": 1, \"JL\": 5, \"NH\": 9, \"UA\": 6, \"ZG\": 4}, \"low\": 3}",
   "top": "NH",
   "top_gates": 9,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "OAJ": {
-  "changed": "2026-11-21",
+  "changed": "2026-11-22",
   "data": "2026-11-21",
   "data_last": "2026-11-20",
   "flights_day": 18,
   "gates": 3,
-  "hash": "486ffac7400a",
+  "hash": "637edb8d0191",
   "name": "Albert J Ellis, Jacksonville",
   "published": "2026-10-19",
   "seats_day": 548,
@@ -2917,7 +2917,7 @@
   "sig": "{\"common\": 0, \"drawing\": \"3c778da01c61\", \"gates\": 3, \"held\": {\"AA\": 1, \"DL\": 1}, \"low\": 1}",
   "top": "AA",
   "top_gates": 1,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "OAK": {
   "changed": "2026-11-21",
@@ -2933,7 +2933,7 @@
   "sig": "{\"common\": 0, \"drawing\": \"9e473c00c185\", \"gates\": 28, \"held\": {\"AS\": 5, \"DL\": 2, \"F9\": 1, \"WN\": 13, \"Y4\": 1}, \"low\": 6}",
   "top": "WN",
   "top_gates": 13,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "OGG": {
   "changed": "2026-11-21",
@@ -2949,7 +2949,7 @@
   "sig": "{\"common\": 2, \"drawing\": \"ee22bf0b0c66\", \"gates\": 17, \"held\": {\"AA\": 1, \"AS\": 7, \"DL\": 1, \"UA\": 3, \"WN\": 3}, \"low\": 0}",
   "top": "AS",
   "top_gates": 7,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "OKA": {
   "changed": "2026-11-18",
@@ -2965,15 +2965,15 @@
   "sig": "{\"common\": 13, \"drawing\": \"fc76e6a64bff\", \"gates\": 20, \"held\": {\"BC\": 1, \"JL\": 1, \"NH\": 4, \"NU\": 1}, \"low\": 0}",
   "top": "NH",
   "top_gates": 4,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "OKC": {
-  "changed": "2026-11-21",
+  "changed": "2026-11-22",
   "data": "2026-11-21",
   "data_last": "2026-11-20",
   "flights_day": 124,
   "gates": 21,
-  "hash": "ff1b3a9db48a",
+  "hash": "46a964c61abc",
   "name": "OKC Will Rogers Intl, Oklahoma City",
   "published": "2026-10-07",
   "seats_day": 7160,
@@ -2981,15 +2981,15 @@
   "sig": "{\"common\": 3, \"drawing\": \"d61f51cb50f3\", \"gates\": 21, \"held\": {\"AA\": 5, \"DL\": 3, \"F9\": 1, \"UA\": 4, \"WN\": 4}, \"low\": 1}",
   "top": "AA",
   "top_gates": 5,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "OMA": {
-  "changed": "2026-11-21",
+  "changed": "2026-11-22",
   "data": "2026-11-21",
   "data_last": "2026-11-20",
   "flights_day": 136,
   "gates": 19,
-  "hash": "e65c9c8bf36b",
+  "hash": "0cd5ea12972c",
   "name": "Eppley Airfield, Omaha",
   "published": "2026-10-06",
   "seats_day": 7750,
@@ -2997,15 +2997,15 @@
   "sig": "{\"common\": 1, \"drawing\": \"ddbcd8be8f8c\", \"gates\": 19, \"held\": {\"AA\": 4, \"DL\": 5, \"UA\": 4, \"WN\": 3}, \"low\": 2}",
   "top": "UA",
   "top_gates": 4,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "ONT": {
-  "changed": "2026-11-21",
+  "changed": "2026-11-22",
   "data": "2026-11-21",
   "data_last": "2026-11-20",
   "flights_day": 201,
   "gates": 27,
-  "hash": "afcc6242858b",
+  "hash": "038578c957cb",
   "name": "Ontario Intl",
   "published": "2026-10-07",
   "seats_day": 11547,
@@ -3013,15 +3013,15 @@
   "sig": "{\"common\": 1, \"drawing\": \"d803936e6990\", \"gates\": 27, \"held\": {\"AA\": 4, \"AS\": 2, \"CI\": 1, \"DL\": 2, \"F9\": 2, \"UA\": 4, \"WN\": 7}, \"low\": 4}",
   "top": "WN",
   "top_gates": 7,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "ORD": {
-  "changed": "2026-11-21",
+  "changed": "2026-11-22",
   "data": "2026-11-21",
   "data_last": "2026-11-20",
   "flights_day": 2535,
   "gates": 192,
-  "hash": "c374c7c3de90",
+  "hash": "53f8a4589a76",
   "name": "Chicago O'Hare Intl",
   "published": "2026-10-05",
   "seats_day": 148298,
@@ -3029,15 +3029,15 @@
   "sig": "{\"common\": 21, \"drawing\": \"9a5d97ddd6fd\", \"gates\": 192, \"held\": {\"AA\": 67, \"AS\": 2, \"DL\": 5, \"F9\": 1, \"UA\": 89}, \"low\": 7}",
   "top": "UA",
   "top_gates": 89,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "ORF": {
-  "changed": "2026-11-21",
+  "changed": "2026-11-22",
   "data": "2026-11-21",
   "data_last": "2026-11-20",
   "flights_day": 131,
   "gates": 28,
-  "hash": "229afd4a26c5",
+  "hash": "de453d93f524",
   "name": "Norfolk Intl",
   "published": "2026-10-07",
   "seats_day": 7581,
@@ -3045,7 +3045,7 @@
   "sig": "{\"common\": 2, \"drawing\": \"3e2832490f97\", \"gates\": 28, \"held\": {\"AA\": 7, \"B6\": 1, \"DL\": 6, \"MX\": 2, \"UA\": 4, \"WN\": 3}, \"low\": 3}",
   "top": "AA",
   "top_gates": 7,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "OSL": {
   "changed": "2026-11-20",
@@ -3061,7 +3061,7 @@
   "sig": "{\"common\": 43, \"drawing\": \"d71f498e9bf6\", \"gates\": 55, \"held\": {\"DY\": 6, \"SK\": 4, \"WF\": 2}, \"low\": 0}",
   "top": "DY",
   "top_gates": 6,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "OTP": {
   "changed": "2026-11-18",
@@ -3077,15 +3077,15 @@
   "sig": "{\"common\": 27, \"drawing\": \"23714597f84a\", \"gates\": 34, \"held\": {\"TK\": 1}, \"low\": 6}",
   "top": "W4",
   "top_gates": 0,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "PAE": {
-  "changed": "2026-11-21",
+  "changed": "2026-11-22",
   "data": "2026-11-21",
   "data_last": "2026-11-20",
   "flights_day": 20,
   "gates": 3,
-  "hash": "eff347aec60e",
+  "hash": "999a910cfdc9",
   "name": "Snohomish County, Everett",
   "published": "2026-11-12",
   "seats_day": 1161,
@@ -3093,7 +3093,7 @@
   "sig": "{\"common\": 0, \"drawing\": \"3b7652565aac\", \"gates\": 3, \"held\": {\"AS\": 3}, \"low\": 0}",
   "top": "AS",
   "top_gates": 3,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "PBH": {
   "changed": "2026-11-18",
@@ -3109,15 +3109,15 @@
   "sig": "{\"common\": 0, \"drawing\": \"eef4fe8d82e4\", \"gates\": 1, \"held\": {\"KB\": 1}, \"low\": 0}",
   "top": "KB",
   "top_gates": 1,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "PDX": {
-  "changed": "2026-11-21",
+  "changed": "2026-11-22",
   "data": "2026-11-21",
   "data_last": "2026-11-20",
   "flights_day": 483,
   "gates": 55,
-  "hash": "ab505ab1e9bc",
+  "hash": "6daf9aaf80ec",
   "name": "Portland Intl",
   "published": "2026-10-06",
   "seats_day": 31389,
@@ -3125,7 +3125,7 @@
   "sig": "{\"common\": 7, \"drawing\": \"435cf559dcaa\", \"gates\": 55, \"held\": {\"AA\": 3, \"AC\": 1, \"AS\": 26, \"DL\": 8, \"UA\": 4, \"WN\": 5}, \"low\": 1}",
   "top": "AS",
   "top_gates": 26,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "PEK": {
   "changed": "2026-11-20",
@@ -3141,15 +3141,15 @@
   "sig": "{\"common\": 45, \"drawing\": \"b1d2b7b65ae5\", \"gates\": 123, \"held\": {\"CA\": 42, \"HU\": 10, \"HX\": 1}, \"low\": 25}",
   "top": "CA",
   "top_gates": 42,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "PHL": {
-  "changed": "2026-11-21",
+  "changed": "2026-11-22",
   "data": "2026-11-21",
   "data_last": "2026-11-20",
   "flights_day": 721,
   "gates": 127,
-  "hash": "17d64fafa86a",
+  "hash": "01f47aa2e600",
   "name": "Philadelphia Intl",
   "published": "2026-10-06",
   "seats_day": 44658,
@@ -3157,15 +3157,15 @@
   "sig": "{\"common\": 1, \"drawing\": \"e33cc8f47386\", \"gates\": 127, \"held\": {\"AA\": 89, \"AC\": 1, \"AS\": 1, \"B6\": 3, \"DL\": 6, \"F9\": 10, \"UA\": 6, \"WN\": 5}, \"low\": 5}",
   "top": "AA",
   "top_gates": 89,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "PHX": {
-  "changed": "2026-11-21",
+  "changed": "2026-11-22",
   "data": "2026-11-21",
   "data_last": "2026-11-20",
   "flights_day": 1174,
   "gates": 111,
-  "hash": "986e6d8cd956",
+  "hash": "4f6a5dfdd8fe",
   "name": "Phoenix Sky Harbor Intl",
   "published": "2026-10-05",
   "seats_day": 85802,
@@ -3173,15 +3173,15 @@
   "sig": "{\"common\": 8, \"drawing\": \"1a59de21b91f\", \"gates\": 111, \"held\": {\"AA\": 53, \"AS\": 3, \"DL\": 4, \"F9\": 3, \"LF\": 1, \"UA\": 6, \"WN\": 31}, \"low\": 2}",
   "top": "AA",
   "top_gates": 53,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "PIA": {
-  "changed": "2026-11-21",
+  "changed": "2026-11-22",
   "data": "2026-11-21",
   "data_last": "2026-11-20",
   "flights_day": 26,
   "gates": 9,
-  "hash": "fd8730acfe8c",
+  "hash": "813e1541eeda",
   "name": "General Downing - Peoria Intl",
   "published": "2026-10-11",
   "seats_day": 812,
@@ -3189,7 +3189,7 @@
   "sig": "{\"common\": 0, \"drawing\": \"8ec472445697\", \"gates\": 9, \"held\": {\"AA\": 3, \"G4\": 1, \"UA\": 3}, \"low\": 2}",
   "top": "AA",
   "top_gates": 3,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "PIE": {
   "changed": "2026-11-21",
@@ -3205,15 +3205,15 @@
   "sig": "{\"common\": 0, \"drawing\": \"846c2035b6a1\", \"gates\": 12, \"held\": {\"G4\": 10}, \"low\": 2}",
   "top": "G4",
   "top_gates": 10,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "PIT": {
-  "changed": "2026-11-21",
+  "changed": "2026-11-22",
   "data": "2026-11-21",
   "data_last": "2026-11-20",
   "flights_day": 269,
   "gates": 55,
-  "hash": "e84cdee12933",
+  "hash": "c84358f45440",
   "name": "Pittsburgh Intl",
   "published": "2026-10-07",
   "seats_day": 16171,
@@ -3221,7 +3221,7 @@
   "sig": "{\"common\": 5, \"drawing\": \"dcf0a84f4ca2\", \"gates\": 55, \"held\": {\"AA\": 11, \"AC\": 1, \"AS\": 1, \"B6\": 2, \"DL\": 7, \"G4\": 1, \"MX\": 1, \"UA\": 9, \"WN\": 10}, \"low\": 7}",
   "top": "AA",
   "top_gates": 11,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "PMI": {
   "changed": "2026-11-20",
@@ -3237,15 +3237,15 @@
   "sig": "{\"common\": 46, \"drawing\": \"5f66af25d045\", \"gates\": 58, \"held\": {\"FR\": 2, \"IB\": 3}, \"low\": 7}",
   "top": "IB",
   "top_gates": 3,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "PNS": {
-  "changed": "2026-11-21",
+  "changed": "2026-11-22",
   "data": "2026-11-21",
   "data_last": "2026-11-20",
   "flights_day": 79,
   "gates": 10,
-  "hash": "465c3fbc1107",
+  "hash": "3f8555d4d6ee",
   "name": "Pensacola Intl",
   "published": "2026-10-08",
   "seats_day": 4583,
@@ -3253,7 +3253,7 @@
   "sig": "{\"common\": 1, \"drawing\": \"a97ce0171ba3\", \"gates\": 10, \"held\": {\"AA\": 3, \"DL\": 2, \"F9\": 1, \"UA\": 2, \"WN\": 1}, \"low\": 0}",
   "top": "AA",
   "top_gates": 3,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "PRG": {
   "changed": "2026-11-18",
@@ -3269,15 +3269,15 @@
   "sig": "{\"common\": 21, \"drawing\": \"e591bd71626d\", \"gates\": 44, \"held\": {\"BA\": 1, \"DL\": 1, \"FR\": 2, \"TK\": 1, \"U2\": 1}, \"low\": 17}",
   "top": "FR",
   "top_gates": 2,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "PSC": {
-  "changed": "2026-11-21",
+  "changed": "2026-11-22",
   "data": "2026-11-21",
   "data_last": "2026-11-20",
   "flights_day": 41,
   "gates": 7,
-  "hash": "0343aae5f16b",
+  "hash": "8e2a1464954a",
   "name": "Tri-Cities, Pasco",
   "published": "2026-10-09",
   "seats_day": 1688,
@@ -3285,15 +3285,15 @@
   "sig": "{\"common\": 0, \"drawing\": \"f66bdfc44ebd\", \"gates\": 7, \"held\": {\"AA\": 1, \"AS\": 1, \"DL\": 2, \"G4\": 1, \"UA\": 1}, \"low\": 1}",
   "top": "DL",
   "top_gates": 2,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "PSP": {
-  "changed": "2026-11-21",
+  "changed": "2026-11-22",
   "data": "2026-11-21",
   "data_last": "2026-11-20",
   "flights_day": 78,
   "gates": 18,
-  "hash": "aefe0e29f244",
+  "hash": "67a03465f330",
   "name": "Palm Springs Intl",
   "published": "2026-10-08",
   "seats_day": 4733,
@@ -3301,7 +3301,7 @@
   "sig": "{\"common\": 3, \"drawing\": \"dafc7c3c9b4f\", \"gates\": 18, \"held\": {\"AA\": 2, \"AS\": 3, \"DL\": 2, \"UA\": 5, \"WN\": 1}, \"low\": 2}",
   "top": "UA",
   "top_gates": 5,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "PTY": {
   "changed": "2026-11-21",
@@ -3317,7 +3317,7 @@
   "sig": "{\"common\": 3, \"drawing\": \"9fc35f70c14c\", \"gates\": 56, \"held\": {\"CM\": 49, \"UA\": 1}, \"low\": 3}",
   "top": "CM",
   "top_gates": 49,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "PVD": {
   "changed": "2026-11-21",
@@ -3333,15 +3333,15 @@
   "sig": "{\"common\": 1, \"drawing\": \"d9fbda041ad7\", \"gates\": 24, \"held\": {\"AA\": 3, \"B6\": 2, \"DL\": 2, \"MX\": 4, \"UA\": 3, \"WN\": 3}, \"low\": 6}",
   "top": "MX",
   "top_gates": 4,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "PWM": {
-  "changed": "2026-11-21",
+  "changed": "2026-11-22",
   "data": "2026-11-21",
   "data_last": "2026-11-20",
   "flights_day": 71,
   "gates": 13,
-  "hash": "464ed5c83576",
+  "hash": "ea7d51775a93",
   "name": "Portland Intl Jetport",
   "published": "2026-11-02",
   "seats_day": 3902,
@@ -3349,15 +3349,15 @@
   "sig": "{\"common\": 2, \"drawing\": \"182ee79964ef\", \"gates\": 13, \"held\": {\"AA\": 3, \"B6\": 1, \"DL\": 3, \"UA\": 3, \"WN\": 1}, \"low\": 0}",
   "top": "UA",
   "top_gates": 3,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "RAP": {
-  "changed": "2026-11-21",
+  "changed": "2026-11-22",
   "data": "2026-11-21",
   "data_last": "2026-11-20",
   "flights_day": 30,
   "gates": 7,
-  "hash": "f8b57869c119",
+  "hash": "40f7129dea9d",
   "name": "Rapid City Rgnl",
   "published": "2026-10-09",
   "seats_day": 1118,
@@ -3365,15 +3365,15 @@
   "sig": "{\"common\": 0, \"drawing\": \"a4be24279197\", \"gates\": 7, \"held\": {\"AA\": 1, \"DL\": 1, \"G4\": 1, \"UA\": 4}, \"low\": 0}",
   "top": "UA",
   "top_gates": 4,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "RDD": {
-  "changed": "2026-11-21",
+  "changed": "2026-11-22",
   "data": "2026-11-21",
   "data_last": "2026-11-20",
   "flights_day": 13,
   "gates": 1,
-  "hash": "2a62490f604c",
+  "hash": "a615fd7a1868",
   "name": "Redding Rgnl",
   "published": "2026-10-20",
   "seats_day": 372,
@@ -3381,15 +3381,15 @@
   "sig": "{\"common\": 0, \"drawing\": \"f71143457beb\", \"gates\": 1, \"held\": {\"UA\": 1}, \"low\": 0}",
   "top": "UA",
   "top_gates": 1,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "RDM": {
-  "changed": "2026-11-21",
+  "changed": "2026-11-22",
   "data": "2026-11-21",
   "data_last": "2026-11-20",
   "flights_day": 53,
   "gates": 5,
-  "hash": "6c973bb69fc8",
+  "hash": "b39a005e151b",
   "name": "Roberts Fld/Redmond Muni",
   "published": "2026-10-13",
   "seats_day": 2298,
@@ -3397,15 +3397,15 @@
   "sig": "{\"common\": 0, \"drawing\": \"1712e82d6701\", \"gates\": 5, \"held\": {\"AA\": 1, \"AS\": 2, \"DL\": 1, \"UA\": 1}, \"low\": 0}",
   "top": "AS",
   "top_gates": 2,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "RDU": {
-  "changed": "2026-11-21",
+  "changed": "2026-11-22",
   "data": "2026-11-21",
   "data_last": "2026-11-20",
   "flights_day": 403,
   "gates": 45,
-  "hash": "a185948bfabf",
+  "hash": "49989323d724",
   "name": "Raleigh-Durham Intl, Raleigh/Durham",
   "published": "2026-10-07",
   "seats_day": 27139,
@@ -3413,15 +3413,15 @@
   "sig": "{\"common\": 9, \"drawing\": \"794655dcdd51\", \"gates\": 45, \"held\": {\"AA\": 11, \"B6\": 2, \"DL\": 9, \"MX\": 3, \"UA\": 2, \"WN\": 4}, \"low\": 5}",
   "top": "AA",
   "top_gates": 11,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "RIC": {
-  "changed": "2026-11-21",
+  "changed": "2026-11-22",
   "data": "2026-11-21",
   "data_last": "2026-11-20",
   "flights_day": 149,
   "gates": 28,
-  "hash": "f69af61ac8e9",
+  "hash": "e9aadb133d81",
   "name": "Richmond Intl",
   "published": "2026-10-07",
   "seats_day": 7843,
@@ -3429,15 +3429,15 @@
   "sig": "{\"common\": 2, \"drawing\": \"d885e5dae896\", \"gates\": 28, \"held\": {\"AA\": 6, \"B6\": 3, \"DL\": 7, \"MX\": 1, \"UA\": 6, \"WN\": 2}, \"low\": 1}",
   "top": "DL",
   "top_gates": 7,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "RNO": {
-  "changed": "2026-11-21",
+  "changed": "2026-11-22",
   "data": "2026-11-21",
   "data_last": "2026-11-20",
   "flights_day": 112,
   "gates": 23,
-  "hash": "bbb244a214b7",
+  "hash": "b9bc3997d3f3",
   "name": "Reno/Tahoe Intl",
   "published": "2026-10-07",
   "seats_day": 7448,
@@ -3445,15 +3445,15 @@
   "sig": "{\"common\": 2, \"drawing\": \"8aafe9c67af8\", \"gates\": 23, \"held\": {\"AA\": 2, \"AS\": 4, \"DL\": 2, \"UA\": 3, \"WN\": 4}, \"low\": 6}",
   "top": "WN",
   "top_gates": 4,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "ROA": {
-  "changed": "2026-11-21",
+  "changed": "2026-11-22",
   "data": "2026-11-21",
   "data_last": "2026-11-20",
   "flights_day": 49,
   "gates": 7,
-  "hash": "08770aad8c52",
+  "hash": "769083cf2cad",
   "name": "Roanoke Rgnl",
   "published": "2026-10-08",
   "seats_day": 1574,
@@ -3461,15 +3461,15 @@
   "sig": "{\"common\": 0, \"drawing\": \"8f2b35c5bc7f\", \"gates\": 7, \"held\": {\"AA\": 3, \"DL\": 3, \"UA\": 1}, \"low\": 0}",
   "top": "AA",
   "top_gates": 3,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "ROC": {
-  "changed": "2026-11-21",
+  "changed": "2026-11-22",
   "data": "2026-11-21",
   "data_last": "2026-11-20",
   "flights_day": 88,
   "gates": 21,
-  "hash": "9935e9bfd334",
+  "hash": "a1b9bdc5dca3",
   "name": "Frederick Douglass/Greater Rochester Intl",
   "published": "2026-10-08",
   "seats_day": 4293,
@@ -3477,15 +3477,15 @@
   "sig": "{\"common\": 2, \"drawing\": \"bae04922da27\", \"gates\": 21, \"held\": {\"AA\": 5, \"B6\": 1, \"DL\": 4, \"MX\": 2, \"UA\": 4, \"WN\": 2}, \"low\": 1}",
   "top": "AA",
   "top_gates": 5,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "ROW": {
-  "changed": "2026-11-21",
+  "changed": "2026-11-22",
   "data": "2026-11-21",
   "data_last": "2026-11-20",
   "flights_day": 10,
   "gates": 1,
-  "hash": "86cf53043a56",
+  "hash": "1d0ac38258b0",
   "name": "Roswell Air Center",
   "published": "2026-10-27",
   "seats_day": 272,
@@ -3493,15 +3493,15 @@
   "sig": "{\"common\": 0, \"drawing\": \"eaf0a4d794b9\", \"gates\": 1, \"held\": {\"UA\": 1}, \"low\": 0}",
   "top": "UA",
   "top_gates": 1,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "RST": {
-  "changed": "2026-11-21",
+  "changed": "2026-11-22",
   "data": "2026-11-21",
   "data_last": "2026-11-20",
   "flights_day": 11,
   "gates": 6,
-  "hash": "745eaf470114",
+  "hash": "21dea08c15cd",
   "name": "Rochester Intl",
   "published": "2026-10-20",
   "seats_day": 397,
@@ -3509,7 +3509,7 @@
   "sig": "{\"common\": 0, \"drawing\": \"2202d69c4d6a\", \"gates\": 6, \"held\": {\"AA\": 2, \"DL\": 1}, \"low\": 3}",
   "top": "AA",
   "top_gates": 2,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "RSW": {
   "changed": "2026-11-21",
@@ -3525,15 +3525,15 @@
   "sig": "{\"common\": 2, \"drawing\": \"cf4f82ad879d\", \"gates\": 28, \"held\": {\"AA\": 4, \"B6\": 3, \"DL\": 4, \"F9\": 1, \"MX\": 1, \"UA\": 4, \"WN\": 5}, \"low\": 4}",
   "top": "WN",
   "top_gates": 5,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "SAF": {
-  "changed": "2026-11-21",
+  "changed": "2026-11-22",
   "data": "2026-11-21",
   "data_last": "2026-11-20",
   "flights_day": 25,
   "gates": 2,
-  "hash": "0782ad669723",
+  "hash": "6027bb497f79",
   "name": "Santa Fe Regional",
   "published": "2026-10-10",
   "seats_day": 831,
@@ -3541,15 +3541,15 @@
   "sig": "{\"common\": 0, \"drawing\": \"ed465404a789\", \"gates\": 2, \"held\": {\"AA\": 1, \"UA\": 1}, \"low\": 0}",
   "top": "AA",
   "top_gates": 1,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "SAN": {
-  "changed": "2026-11-21",
+  "changed": "2026-11-22",
   "data": "2026-11-21",
   "data_last": "2026-11-20",
   "flights_day": 650,
   "gates": 51,
-  "hash": "f0a16f62754c",
+  "hash": "8fc0bd87e741",
   "name": "San Diego Intl",
   "published": "2026-10-05",
   "seats_day": 48790,
@@ -3557,15 +3557,15 @@
   "sig": "{\"common\": 5, \"drawing\": \"d62df94ee819\", \"gates\": 51, \"held\": {\"AA\": 5, \"AS\": 11, \"B6\": 2, \"DL\": 5, \"F9\": 1, \"UA\": 5, \"WN\": 15}, \"low\": 2}",
   "top": "WN",
   "top_gates": 15,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "SAT": {
-  "changed": "2026-11-21",
+  "changed": "2026-11-22",
   "data": "2026-10-06",
   "data_last": "2026-10-05",
   "flights_day": 244,
   "gates": 28,
-  "hash": "9ea0d1353779",
+  "hash": "517a1ecc0ebf",
   "name": "San Antonio Intl",
   "published": "2026-10-07",
   "seats_day": 17908,
@@ -3573,15 +3573,15 @@
   "sig": "{\"common\": 2, \"drawing\": \"11da48a0fe0a\", \"gates\": 28, \"held\": {\"AA\": 5, \"DL\": 4, \"UA\": 5, \"WN\": 8}, \"low\": 4}",
   "top": "WN",
   "top_gates": 8,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "SAV": {
-  "changed": "2026-11-21",
+  "changed": "2026-11-22",
   "data": "2026-11-21",
   "data_last": "2026-11-20",
   "flights_day": 108,
   "gates": 15,
-  "hash": "7c618470f295",
+  "hash": "81a1429136ad",
   "name": "Savannah/Hilton Head Intl",
   "published": "2026-10-07",
   "seats_day": 6091,
@@ -3589,15 +3589,15 @@
   "sig": "{\"common\": 1, \"drawing\": \"c0c659dd7eb9\", \"gates\": 15, \"held\": {\"AA\": 3, \"B6\": 1, \"DL\": 4, \"UA\": 3, \"WN\": 2}, \"low\": 1}",
   "top": "DL",
   "top_gates": 4,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "SBA": {
-  "changed": "2026-11-21",
+  "changed": "2026-11-22",
   "data": "2026-11-21",
   "data_last": "2026-11-20",
   "flights_day": 56,
   "gates": 10,
-  "hash": "50016b0f677d",
+  "hash": "8a4fe95dc381",
   "name": "Santa Barbara Muni",
   "published": "2026-10-08",
   "seats_day": 2992,
@@ -3605,15 +3605,15 @@
   "sig": "{\"common\": 2, \"drawing\": \"291b0968b5dd\", \"gates\": 10, \"held\": {\"AA\": 1, \"AS\": 1, \"DL\": 1, \"UA\": 3, \"WN\": 1}, \"low\": 1}",
   "top": "UA",
   "top_gates": 3,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "SBN": {
-  "changed": "2026-11-21",
+  "changed": "2026-11-22",
   "data": "2026-11-21",
   "data_last": "2026-11-20",
   "flights_day": 52,
   "gates": 9,
-  "hash": "f809480eb098",
+  "hash": "a0cfc77262d9",
   "name": "South Bend Intl",
   "published": "2026-10-11",
   "seats_day": 1789,
@@ -3621,15 +3621,15 @@
   "sig": "{\"common\": 2, \"drawing\": \"d93d23e2bb93\", \"gates\": 9, \"held\": {\"AA\": 2, \"DL\": 1, \"G4\": 1, \"UA\": 1}, \"low\": 2}",
   "top": "AA",
   "top_gates": 2,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "SBP": {
-  "changed": "2026-11-21",
+  "changed": "2026-11-22",
   "data": "2026-11-21",
   "data_last": "2026-11-20",
   "flights_day": 31,
   "gates": 6,
-  "hash": "a38e5bac2cd5",
+  "hash": "9df6d6844bf8",
   "name": "San Luis Obispo County Rgnl",
   "published": "2026-10-10",
   "seats_day": 1442,
@@ -3637,15 +3637,15 @@
   "sig": "{\"common\": 2, \"drawing\": \"5bdd45191aad\", \"gates\": 6, \"held\": {\"AA\": 1, \"UA\": 3}, \"low\": 0}",
   "top": "UA",
   "top_gates": 3,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "SCE": {
-  "changed": "2026-11-21",
+  "changed": "2026-11-22",
   "data": "2026-11-21",
   "data_last": "2026-11-20",
   "flights_day": 24,
   "gates": 4,
-  "hash": "876b47153e6a",
+  "hash": "b77d0ece3df4",
   "name": "State College Regional Airport",
   "published": "2026-10-31",
   "seats_day": 674,
@@ -3653,7 +3653,7 @@
   "sig": "{\"common\": 0, \"drawing\": \"dc52a9668f7e\", \"gates\": 4, \"held\": {\"AA\": 1, \"UA\": 2}, \"low\": 1}",
   "top": "UA",
   "top_gates": 2,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "SDF": {
   "changed": "2026-11-21",
@@ -3669,15 +3669,15 @@
   "sig": "{\"common\": 1, \"drawing\": \"84a6b1178237\", \"gates\": 25, \"held\": {\"AA\": 7, \"DL\": 5, \"G4\": 1, \"UA\": 6, \"WN\": 4}, \"low\": 1}",
   "top": "AA",
   "top_gates": 7,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "SEA": {
-  "changed": "2026-11-21",
+  "changed": "2026-11-22",
   "data": "2026-11-21",
   "data_last": "2026-11-20",
   "flights_day": 1090,
   "gates": 88,
-  "hash": "e9d7166b15c6",
+  "hash": "d33ad9aeab74",
   "name": "Seattle-Tacoma Intl",
   "published": "2026-10-06",
   "seats_day": 75750,
@@ -3685,7 +3685,7 @@
   "sig": "{\"common\": 16, \"drawing\": \"51870165ac1c\", \"gates\": 88, \"held\": {\"AA\": 3, \"AS\": 40, \"DL\": 20, \"UA\": 4, \"WN\": 3}, \"low\": 2}",
   "top": "AS",
   "top_gates": 40,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "SFB": {
   "changed": "2026-11-21",
@@ -3701,15 +3701,15 @@
   "sig": "{\"common\": 0, \"drawing\": \"9df72b80dc21\", \"gates\": 16, \"held\": {\"G4\": 11}, \"low\": 5}",
   "top": "G4",
   "top_gates": 11,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "SFO": {
-  "changed": "2026-11-21",
+  "changed": "2026-11-22",
   "data": "2026-11-21",
   "data_last": "2026-11-20",
   "flights_day": 1070,
   "gates": 108,
-  "hash": "37412e63986f",
+  "hash": "3ff28547ac30",
   "name": "San Francisco Int'l",
   "published": "2026-10-06",
   "seats_day": 83995,
@@ -3717,15 +3717,15 @@
   "sig": "{\"common\": 25, \"drawing\": \"6a04b3f692e0\", \"gates\": 108, \"held\": {\"AA\": 6, \"AC\": 1, \"AS\": 8, \"B6\": 2, \"DL\": 7, \"F9\": 2, \"UA\": 47, \"WN\": 4}, \"low\": 6}",
   "top": "UA",
   "top_gates": 47,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "SGF": {
-  "changed": "2026-11-21",
+  "changed": "2026-11-22",
   "data": "2026-11-21",
   "data_last": "2026-11-20",
   "flights_day": 63,
   "gates": 11,
-  "hash": "81a9c0056396",
+  "hash": "f5835fc3828f",
   "name": "Springfield",
   "published": "2026-10-08",
   "seats_day": 2096,
@@ -3733,15 +3733,15 @@
   "sig": "{\"common\": 3, \"drawing\": \"2cec6a89f5e4\", \"gates\": 11, \"held\": {\"AA\": 4, \"DL\": 1, \"UA\": 3}, \"low\": 0}",
   "top": "AA",
   "top_gates": 4,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "SGU": {
-  "changed": "2026-11-21",
+  "changed": "2026-11-22",
   "data": "2026-11-21",
   "data_last": "2026-11-20",
   "flights_day": 27,
   "gates": 3,
-  "hash": "8139b48e8afc",
+  "hash": "271391919cae",
   "name": "St George Rgnl",
   "published": "2026-10-14",
   "seats_day": 846,
@@ -3749,15 +3749,15 @@
   "sig": "{\"common\": 0, \"drawing\": \"3a452fdab7e1\", \"gates\": 3, \"held\": {\"AA\": 2, \"UA\": 1}, \"low\": 0}",
   "top": "AA",
   "top_gates": 2,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "SHV": {
-  "changed": "2026-11-21",
+  "changed": "2026-11-22",
   "data": "2026-11-21",
   "data_last": "2026-11-20",
   "flights_day": 38,
   "gates": 8,
-  "hash": "7020ab4af30a",
+  "hash": "51801b6ee01f",
   "name": "Shreveport Rgnl",
   "published": "2026-10-13",
   "seats_day": 1262,
@@ -3765,7 +3765,7 @@
   "sig": "{\"common\": 0, \"drawing\": \"c49030b4a7fe\", \"gates\": 8, \"held\": {\"AA\": 1, \"DL\": 1, \"G4\": 1, \"UA\": 3}, \"low\": 2}",
   "top": "UA",
   "top_gates": 3,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "SIN": {
   "changed": "2026-11-21",
@@ -3781,7 +3781,7 @@
   "sig": "{\"common\": 64, \"drawing\": \"d5671ba4602e\", \"gates\": 131, \"held\": {\"5J\": 1, \"CX\": 1, \"SQ\": 25, \"TR\": 11}, \"low\": 29}",
   "top": "SQ",
   "top_gates": 25,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "SJC": {
   "changed": "2026-11-21",
@@ -3797,15 +3797,15 @@
   "sig": "{\"common\": 4, \"drawing\": \"5ae6bc838e1c\", \"gates\": 37, \"held\": {\"AA\": 1, \"AS\": 6, \"DL\": 5, \"UA\": 2, \"WN\": 13}, \"low\": 6}",
   "top": "WN",
   "top_gates": 13,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "SJU": {
-  "changed": "2026-11-21",
+  "changed": "2026-11-22",
   "data": "2026-11-21",
   "data_last": "2026-11-20",
   "flights_day": 289,
   "gates": 27,
-  "hash": "220ead4b16de",
+  "hash": "17a33fdee3f2",
   "name": "Luis Munoz Marin Intl, San Juan",
   "published": "2026-10-07",
   "seats_day": 17380,
@@ -3813,15 +3813,15 @@
   "sig": "{\"common\": 3, \"drawing\": \"e23a8df120ca\", \"gates\": 27, \"held\": {\"AA\": 4, \"B6\": 7, \"CM\": 1, \"DL\": 2, \"F9\": 4, \"UA\": 3, \"WN\": 3}, \"low\": 0}",
   "top": "B6",
   "top_gates": 7,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "SLC": {
-  "changed": "2026-11-21",
+  "changed": "2026-11-22",
   "data": "2026-11-21",
   "data_last": "2026-11-20",
   "flights_day": 663,
   "gates": 94,
-  "hash": "be0f04ab408e",
+  "hash": "a0f1201ffae7",
   "name": "Salt Lake City Intl",
   "published": "2026-10-06",
   "seats_day": 43132,
@@ -3829,7 +3829,7 @@
   "sig": "{\"common\": 4, \"drawing\": \"bbcaa5326f24\", \"gates\": 94, \"held\": {\"AA\": 4, \"AS\": 3, \"B6\": 1, \"DL\": 61, \"F9\": 1, \"SY\": 1, \"UA\": 10, \"WN\": 8}, \"low\": 1}",
   "top": "DL",
   "top_gates": 61,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "SMF": {
   "changed": "2026-11-21",
@@ -3845,7 +3845,7 @@
   "sig": "{\"common\": 1, \"drawing\": \"238b5dafa84e\", \"gates\": 34, \"held\": {\"AA\": 4, \"AS\": 5, \"DL\": 4, \"F9\": 1, \"UA\": 5, \"WN\": 14}, \"low\": 0}",
   "top": "WN",
   "top_gates": 14,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "SNA": {
   "changed": "2026-11-21",
@@ -3861,7 +3861,7 @@
   "sig": "{\"common\": 3, \"drawing\": \"7261960f1321\", \"gates\": 21, \"held\": {\"AA\": 3, \"AS\": 3, \"DL\": 4, \"UA\": 3, \"WN\": 5}, \"low\": 0}",
   "top": "WN",
   "top_gates": 5,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "SRQ": {
   "changed": "2026-11-21",
@@ -3877,7 +3877,7 @@
   "sig": "{\"common\": 1, \"drawing\": \"859c29293512\", \"gates\": 18, \"held\": {\"AA\": 3, \"B6\": 1, \"DL\": 2, \"G4\": 5, \"UA\": 2, \"WN\": 4}, \"low\": 0}",
   "top": "G4",
   "top_gates": 5,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "STL": {
   "changed": "2026-11-21",
@@ -3893,7 +3893,7 @@
   "sig": "{\"common\": 0, \"drawing\": \"30df4f9d07c2\", \"gates\": 54, \"held\": {\"AA\": 9, \"AC\": 1, \"AS\": 1, \"DL\": 6, \"F9\": 2, \"UA\": 7, \"WN\": 18}, \"low\": 10}",
   "top": "WN",
   "top_gates": 18,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "STN": {
   "changed": "2026-11-20",
@@ -3909,7 +3909,7 @@
   "sig": "{\"common\": 13, \"drawing\": \"6b1724681755\", \"gates\": 54, \"held\": {\"FR\": 28, \"LS\": 6}, \"low\": 7}",
   "top": "FR",
   "top_gates": 28,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "STS": {
   "changed": "2026-11-21",
@@ -3925,15 +3925,15 @@
   "sig": "{\"common\": 0, \"drawing\": \"21c4a95aa857\", \"gates\": 8, \"held\": {\"AA\": 2, \"AS\": 3, \"DL\": 1, \"WN\": 1}, \"low\": 1}",
   "top": "AS",
   "top_gates": 3,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "SUN": {
-  "changed": "2026-11-21",
+  "changed": "2026-11-22",
   "data": "2026-11-21",
   "data_last": "2026-11-20",
   "flights_day": 10,
   "gates": 2,
-  "hash": "39c2097c9ec3",
+  "hash": "9dd17f76b08a",
   "name": "Sun Valley/Friedman Meml, Hailey",
   "published": "2026-10-11",
   "seats_day": 388,
@@ -3941,7 +3941,7 @@
   "sig": "{\"common\": 0, \"drawing\": \"8e387d91c9f2\", \"gates\": 2, \"held\": {\"AS\": 1, \"DL\": 1}, \"low\": 0}",
   "top": "DL",
   "top_gates": 1,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "SYD": {
   "changed": "2026-11-21",
@@ -3957,15 +3957,15 @@
   "sig": "{\"common\": 20, \"drawing\": \"23e384a36a3e\", \"gates\": 75, \"held\": {\"??\": 5, \"JQ\": 8, \"QF\": 10, \"UA\": 3, \"VA\": 9, \"ZL\": 1}, \"low\": 19}",
   "top": "QF",
   "top_gates": 10,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "SYR": {
-  "changed": "2026-11-21",
+  "changed": "2026-11-22",
   "data": "2026-11-21",
   "data_last": "2026-11-20",
   "flights_day": 79,
   "gates": 20,
-  "hash": "a6e3274818f2",
+  "hash": "2403e9f7b7ab",
   "name": "Syracuse Hancock Intl",
   "published": "2026-10-07",
   "seats_day": 4047,
@@ -3973,7 +3973,7 @@
   "sig": "{\"common\": 3, \"drawing\": \"cf2deb6cb785\", \"gates\": 20, \"held\": {\"AA\": 5, \"B6\": 3, \"DL\": 4, \"G4\": 1, \"UA\": 3}, \"low\": 1}",
   "top": "AA",
   "top_gates": 5,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "SZX": {
   "changed": "2026-11-20",
@@ -3989,15 +3989,15 @@
   "sig": "{\"common\": 98, \"drawing\": \"d486b487d7c9\", \"gates\": 100, \"held\": {\"ZH\": 2}, \"low\": 0}",
   "top": "ZH",
   "top_gates": 2,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "TLH": {
-  "changed": "2026-11-21",
+  "changed": "2026-11-22",
   "data": "2026-11-21",
   "data_last": "2026-11-20",
   "flights_day": 41,
   "gates": 6,
-  "hash": "314fb11dde49",
+  "hash": "ceaad5ca082a",
   "name": "Tallahassee Intl",
   "published": "2026-10-09",
   "seats_day": 1492,
@@ -4005,15 +4005,15 @@
   "sig": "{\"common\": 0, \"drawing\": \"703ec3798725\", \"gates\": 6, \"held\": {\"AA\": 4, \"DL\": 2}, \"low\": 0}",
   "top": "AA",
   "top_gates": 4,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "TPA": {
-  "changed": "2026-11-21",
+  "changed": "2026-11-22",
   "data": "2026-11-21",
   "data_last": "2026-11-20",
   "flights_day": 478,
   "gates": 59,
-  "hash": "26087aa71b06",
+  "hash": "14cdfc3514ef",
   "name": "Tampa Intl",
   "published": "2026-10-06",
   "seats_day": 38085,
@@ -4021,7 +4021,7 @@
   "sig": "{\"common\": 5, \"drawing\": \"07f18c8cf065\", \"gates\": 59, \"held\": {\"AA\": 10, \"AS\": 1, \"B6\": 3, \"CM\": 1, \"DL\": 8, \"F9\": 4, \"MX\": 5, \"UA\": 6, \"WN\": 13, \"XP\": 1}, \"low\": 2}",
   "top": "WN",
   "top_gates": 13,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "TPE": {
   "changed": "2026-11-20",
@@ -4037,15 +4037,15 @@
   "sig": "{\"common\": 38, \"drawing\": \"19e0d7b39e32\", \"gates\": 49, \"held\": {\"BR\": 9, \"JX\": 2}, \"low\": 0}",
   "top": "BR",
   "top_gates": 9,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "TRI": {
-  "changed": "2026-11-21",
+  "changed": "2026-11-22",
   "data": "2026-11-21",
   "data_last": "2026-11-20",
   "flights_day": 26,
   "gates": 7,
-  "hash": "18919bbaf183",
+  "hash": "b86ef7c0f5c8",
   "name": "Tri-Cities, Bristol/Johnson/Kingsport",
   "published": "2026-10-11",
   "seats_day": 863,
@@ -4053,15 +4053,15 @@
   "sig": "{\"common\": 0, \"drawing\": \"b7b773c0fcc8\", \"gates\": 7, \"held\": {\"AA\": 4, \"DL\": 2}, \"low\": 1}",
   "top": "AA",
   "top_gates": 4,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "TUL": {
-  "changed": "2026-11-21",
+  "changed": "2026-11-22",
   "data": "2026-11-21",
   "data_last": "2026-11-20",
   "flights_day": 95,
   "gates": 22,
-  "hash": "c00080a1e973",
+  "hash": "38cc7b34724a",
   "name": "Tulsa Intl",
   "published": "2026-10-07",
   "seats_day": 5083,
@@ -4069,15 +4069,15 @@
   "sig": "{\"common\": 0, \"drawing\": \"d0e01e475716\", \"gates\": 22, \"held\": {\"AA\": 4, \"AS\": 1, \"DL\": 3, \"UA\": 4, \"WN\": 4}, \"low\": 6}",
   "top": "AA",
   "top_gates": 4,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "TUS": {
-  "changed": "2026-11-21",
+  "changed": "2026-11-22",
   "data": "2026-11-21",
   "data_last": "2026-11-20",
   "flights_day": 108,
   "gates": 21,
-  "hash": "9bc879bdb0f0",
+  "hash": "25307678fce4",
   "name": "Tucson Intl",
   "published": "2026-10-07",
   "seats_day": 6664,
@@ -4085,15 +4085,15 @@
   "sig": "{\"common\": 1, \"drawing\": \"87686b17ecb7\", \"gates\": 21, \"held\": {\"AA\": 5, \"AS\": 1, \"DL\": 2, \"UA\": 4, \"WN\": 4}, \"low\": 4}",
   "top": "AA",
   "top_gates": 5,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "TVC": {
-  "changed": "2026-11-21",
+  "changed": "2026-11-22",
   "data": "2026-11-21",
   "data_last": "2026-11-20",
   "flights_day": 27,
   "gates": 5,
-  "hash": "adecba67b30f",
+  "hash": "44d556dad309",
   "name": "Cherry Capital, Traverse City",
   "published": "2026-10-11",
   "seats_day": 996,
@@ -4101,15 +4101,15 @@
   "sig": "{\"common\": 0, \"drawing\": \"d9d08f97c17f\", \"gates\": 5, \"held\": {\"AA\": 1, \"DL\": 1, \"UA\": 3}, \"low\": 0}",
   "top": "UA",
   "top_gates": 3,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "TYS": {
-  "changed": "2026-11-21",
+  "changed": "2026-11-22",
   "data": "2026-11-21",
   "data_last": "2026-11-20",
   "flights_day": 126,
   "gates": 13,
-  "hash": "cbdd8a54c8f6",
+  "hash": "3238ad32f782",
   "name": "McGhee Tyson, Knoxville",
   "published": "2026-10-18",
   "seats_day": 6183,
@@ -4117,7 +4117,7 @@
   "sig": "{\"common\": 1, \"drawing\": \"ba1b2794d2ef\", \"gates\": 13, \"held\": {\"AA\": 3, \"DL\": 3, \"G4\": 2, \"UA\": 2, \"WN\": 2}, \"low\": 0}",
   "top": "AA",
   "top_gates": 3,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "VIE": {
   "changed": "2026-11-20",
@@ -4133,7 +4133,7 @@
   "sig": "{\"common\": 16, \"drawing\": \"9bda4e6b3a08\", \"gates\": 57, \"held\": {\"FR\": 5, \"OS\": 30}, \"low\": 6}",
   "top": "OS",
   "top_gates": 30,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "VPS": {
   "changed": "2026-11-21",
@@ -4149,15 +4149,15 @@
   "sig": "{\"common\": 1, \"drawing\": \"5cd1186158a4\", \"gates\": 14, \"held\": {\"AA\": 4, \"DL\": 2, \"G4\": 4, \"WN\": 1}, \"low\": 2}",
   "top": "G4",
   "top_gates": 4,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "XNA": {
-  "changed": "2026-11-21",
+  "changed": "2026-11-22",
   "data": "2026-11-21",
   "data_last": "2026-11-20",
   "flights_day": 106,
   "gates": 17,
-  "hash": "f0d4beb0f434",
+  "hash": "83b55666aa44",
   "name": "Northwest Arkansas Ntl, Fayetteville/Springdale/Rogers",
   "published": "2026-10-08",
   "seats_day": 3978,
@@ -4165,7 +4165,7 @@
   "sig": "{\"common\": 2, \"drawing\": \"ea9f8163a502\", \"gates\": 17, \"held\": {\"AA\": 6, \"DL\": 3, \"UA\": 3}, \"low\": 3}",
   "top": "AA",
   "top_gates": 6,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "YUL": {
   "changed": "2026-11-21",
@@ -4181,7 +4181,7 @@
   "sig": "{\"common\": 18, \"drawing\": \"65dada02394e\", \"gates\": 62, \"held\": {\"AC\": 20, \"DL\": 1, \"PD\": 2, \"UA\": 3}, \"low\": 18}",
   "top": "AC",
   "top_gates": 20,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "YYC": {
   "changed": "2026-11-21",
@@ -4197,7 +4197,7 @@
   "sig": "{\"common\": 16, \"drawing\": \"c5797564c279\", \"gates\": 58, \"held\": {\"AC\": 3, \"DL\": 2, \"UA\": 1, \"WS\": 32}, \"low\": 4}",
   "top": "WS",
   "top_gates": 32,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "YYZ": {
   "changed": "2026-11-21",
@@ -4213,7 +4213,7 @@
   "sig": "{\"common\": 54, \"drawing\": \"1cfac6b55512\", \"gates\": 133, \"held\": {\"AA\": 2, \"AC\": 26, \"DL\": 1, \"PD\": 1, \"TS\": 1, \"UA\": 12, \"WS\": 2}, \"low\": 34}",
   "top": "AC",
   "top_gates": 26,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "ZRH": {
   "changed": "2026-11-21",
@@ -4229,6 +4229,6 @@
   "sig": "{\"common\": 36, \"drawing\": \"e1acbdd1949f\", \"gates\": 80, \"held\": {\"LX\": 14, \"SQ\": 1}, \"low\": 29}",
   "top": "LX",
   "top_gates": 14,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  }
 }
