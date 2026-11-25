@@ -1,6 +1,6 @@
 # Chockwise
 
-> Airport gate data by airline, from flight data: how many gates each airline has at 265 airports, which terminal it uses, departures a day and nonstop routes. Data as of Nov 24, 2026.
+> Airport gate data by airline, from flight data: how many gates each airline has at 266 airports, which terminal it uses, departures a day and nonstop routes. Data as of Nov 24, 2026.
 
 How we count: a gate is an airline's when that airline (including its regional partners) flies at least 70% of the arrivals and departures there over the data window shown on each page. Gates no airline dominates are "common use". Counts on the airport page and the airline-at-airport page are always the same number. Each page says the days its numbers come from.
 
@@ -2683,6 +2683,7 @@ How we count: a gate is an airline's when that airline (including its regional p
 - Aegean at MAN: shared gates; 2/week; https://chockwise.com/airports/man/aegean
 - Hainan Airlines at MAN: shared gates; 2/week; https://chockwise.com/airports/man/hainan-airlines
 - Biman Bangladesh at MAN: shared gates; 1-2/week; https://chockwise.com/airports/man/biman-bangladesh
+- United at MBS: 2 gates; 2/day; https://chockwise.com/airports/mbs/united
 - Southwest at MCI: 15 gates, Concourse B; 57/day; https://chockwise.com/airports/mci/southwest
 - Delta at MCI: 6 gates, Concourse B; 31/day; https://chockwise.com/airports/mci/delta
 - American at MCI: 8 gates, Concourse A; 27/day; https://chockwise.com/airports/mci/american

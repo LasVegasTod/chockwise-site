@@ -1,11 +1,11 @@
 # Chockwise
 
-> Airport gate data by airline, from flight data: how many gates each airline has at 265 airports, which terminal it uses, departures a day and nonstop routes. Data as of Nov 24, 2026.
+> Airport gate data by airline, from flight data: how many gates each airline has at 266 airports, which terminal it uses, departures a day and nonstop routes. Data as of Nov 24, 2026.
 
 How we count: a gate is an airline's when that airline (including its regional partners) flies at least 70% of the arrivals and departures there over the data window shown on each page. Gates no airline dominates are "common use". Counts on the airport page and the airline-at-airport page are always the same number. Each page says the days its numbers come from.
 
 ## Key pages
-- [Airports](https://chockwise.com/airports/): gates by airline at 265 airports
+- [Airports](https://chockwise.com/airports/): gates by airline at 266 airports
 - [Airlines](https://chockwise.com/airlines/): gates and terminals for 420 airlines
 - [Routes](https://chockwise.com/routes): nonstop routes and flights a day
 - [Chockwise for Airlines](https://chockwise.com/for-airlines): airport gate management software for airline network and station planners (where a new flight fits, which gate could become theirs, delay risk)

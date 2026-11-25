@@ -38849,13 +38849,13 @@
     "C6"
    ],
    "gone": false,
-   "hash": "d3ac5616f2e7",
+   "hash": "92addebedaba",
    "last_seen": "2026-11-22",
    "last_seen_str": "Nov 22, 2026",
    "name": "Allegiant Air",
    "published": "2026-10-13",
    "short": "Allegiant",
-   "sig": "{\"drawing\": \"7a24128af4ad\", \"focus\": [\"C6\"], \"held\": [], \"held_n\": 0, \"main\": [\"C6\"]}",
+   "sig": "{\"drawing\": \"1cfe580aaee3\", \"focus\": [\"C6\"], \"held\": [], \"held_n\": 0, \"main\": [\"C6\"]}",
    "slug": "allegiant",
    "types": [
     "A320"
@@ -38884,13 +38884,13 @@
     "B12"
    ],
    "gone": false,
-   "hash": "cd7f53198591",
+   "hash": "877883fc783b",
    "last_seen": "2026-11-23",
    "last_seen_str": "Nov 23, 2026",
    "name": "American Airlines",
    "published": "2026-10-13",
    "short": "American",
-   "sig": "{\"drawing\": \"7a24128af4ad\", \"focus\": [\"B2\", \"B8\", \"B10\", \"B12\"], \"held\": [\"B8\", \"B10\", \"B12\"], \"held_n\": 3, \"main\": [\"B1\", \"B2\", \"B8\", \"B10\", \"B12\"]}",
+   "sig": "{\"drawing\": \"1cfe580aaee3\", \"focus\": [\"B2\", \"B8\", \"B10\", \"B12\"], \"held\": [\"B8\", \"B10\", \"B12\"], \"held_n\": 3, \"main\": [\"B1\", \"B2\", \"B8\", \"B10\", \"B12\"]}",
    "slug": "american",
    "types": [
     "737-800",
@@ -38914,13 +38914,13 @@
     "C8"
    ],
    "gone": false,
-   "hash": "0f49d956a3d2",
+   "hash": "879c03a57ea2",
    "last_seen": "2026-10-12",
    "last_seen_str": "Oct 12, 2026",
    "name": "Avelo Airlines",
    "published": "2026-10-13",
    "short": "Avelo",
-   "sig": "{\"drawing\": \"7a24128af4ad\", \"focus\": [\"C6\", \"C8\"], \"held\": [], \"held_n\": 0, \"main\": [\"C6\", \"C8\"]}",
+   "sig": "{\"drawing\": \"1cfe580aaee3\", \"focus\": [\"C6\", \"C8\"], \"held\": [], \"held_n\": 0, \"main\": [\"C6\", \"C8\"]}",
    "slug": "avelo",
    "types": [
     "737-800"
@@ -38943,13 +38943,13 @@
     "C7"
    ],
    "gone": false,
-   "hash": "221dfe022917",
+   "hash": "f8435d4db319",
    "last_seen": "2026-11-23",
    "last_seen_str": "Nov 23, 2026",
    "name": "Breeze Airways",
    "published": "2026-10-13",
    "short": "Breeze",
-   "sig": "{\"drawing\": \"7a24128af4ad\", \"focus\": [\"C5\", \"C7\"], \"held\": [\"C7\"], \"held_n\": 1, \"main\": [\"C5\", \"C7\"]}",
+   "sig": "{\"drawing\": \"1cfe580aaee3\", \"focus\": [\"C5\", \"C7\"], \"held\": [\"C7\"], \"held_n\": 1, \"main\": [\"C5\", \"C7\"]}",
    "slug": "breeze",
    "types": [
     "A220-300"
@@ -38978,13 +38978,13 @@
     "C5"
    ],
    "gone": false,
-   "hash": "459a23726adb",
+   "hash": "c7d20679efc5",
    "last_seen": "2026-11-24",
    "last_seen_str": "Nov 24, 2026",
    "name": "Delta Air Lines",
    "published": "2026-10-13",
    "short": "Delta",
-   "sig": "{\"drawing\": \"7a24128af4ad\", \"focus\": [\"C1\", \"C2\", \"C3\", \"C4\", \"C5\"], \"held\": [\"C1\", \"C2\", \"C3\", \"C4\", \"C5\"], \"held_n\": 5, \"main\": [\"C1\", \"C2\", \"C3\", \"C4\", \"C5\"]}",
+   "sig": "{\"drawing\": \"1cfe580aaee3\", \"focus\": [\"C1\", \"C2\", \"C3\", \"C4\", \"C5\"], \"held\": [\"C1\", \"C2\", \"C3\", \"C4\", \"C5\"], \"held_n\": 5, \"main\": [\"C1\", \"C2\", \"C3\", \"C4\", \"C5\"]}",
    "slug": "delta",
    "types": [
     "A321",
@@ -39016,13 +39016,13 @@
     "C16"
    ],
    "gone": false,
-   "hash": "a65d04ce9bb0",
+   "hash": "3f024553dd89",
    "last_seen": "2026-11-23",
    "last_seen_str": "Nov 23, 2026",
    "name": "JetBlue",
    "published": "2026-10-13",
    "short": "JetBlue",
-   "sig": "{\"drawing\": \"7a24128af4ad\", \"focus\": [\"C10\", \"C11\", \"C12\", \"C14\", \"C15\", \"C16\"], \"held\": [\"C10\", \"C11\", \"C12\", \"C14\", \"C15\", \"C16\"], \"held_n\": 6, \"main\": [\"C10\", \"C11\", \"C12\", \"C14\", \"C15\", \"C16\"]}",
+   "sig": "{\"drawing\": \"1cfe580aaee3\", \"focus\": [\"C10\", \"C11\", \"C12\", \"C14\", \"C15\", \"C16\"], \"held\": [\"C10\", \"C11\", \"C12\", \"C14\", \"C15\", \"C16\"], \"held_n\": 6, \"main\": [\"C10\", \"C11\", \"C12\", \"C14\", \"C15\", \"C16\"]}",
    "slug": "jetblue",
    "types": [
     "A320",
@@ -39048,13 +39048,13 @@
     "B5"
    ],
    "gone": false,
-   "hash": "422ea0e3a574",
+   "hash": "63c1388f9328",
    "last_seen": "2026-11-24",
    "last_seen_str": "Nov 24, 2026",
    "name": "Southwest Airlines",
    "published": "2026-10-13",
    "short": "Southwest",
-   "sig": "{\"drawing\": \"7a24128af4ad\", \"focus\": [\"B3\", \"B5\"], \"held\": [\"B3\", \"B5\"], \"held_n\": 2, \"main\": [\"B3\", \"B5\"]}",
+   "sig": "{\"drawing\": \"1cfe580aaee3\", \"focus\": [\"B3\", \"B5\"], \"held\": [\"B3\", \"B5\"], \"held_n\": 2, \"main\": [\"B3\", \"B5\"]}",
    "slug": "southwest",
    "types": [
     "737-700",
@@ -39083,13 +39083,13 @@
     "B7"
    ],
    "gone": false,
-   "hash": "149749db0940",
+   "hash": "9043fe8d3356",
    "last_seen": "2026-11-23",
    "last_seen_str": "Nov 23, 2026",
    "name": "United Airlines",
    "published": "2026-10-13",
    "short": "United",
-   "sig": "{\"drawing\": \"7a24128af4ad\", \"focus\": [\"B2\", \"B4\", \"B6\", \"B7\"], \"held\": [\"B4\", \"B6\", \"B7\", \"C9\"], \"held_n\": 4, \"main\": [\"B2\", \"B4\", \"B6\", \"B7\"]}",
+   "sig": "{\"drawing\": \"1cfe580aaee3\", \"focus\": [\"B2\", \"B4\", \"B6\", \"B7\"], \"held\": [\"B4\", \"B6\", \"B7\", \"C9\"], \"held_n\": 4, \"main\": [\"B2\", \"B4\", \"B6\", \"B7\"]}",
    "slug": "united",
    "types": [
     "737 MAX 9",
@@ -89618,6 +89618,36 @@
    "slug": "vueling",
    "types": [
     "A320"
+   ],
+   "updated": "2026-11-25"
+  }
+ },
+ "MBS": {
+  "united": {
+   "airport_short": "MBS",
+   "changed": "2026-11-25",
+   "code": "UA",
+   "data": "2026-11-24",
+   "deps_day": 1.9,
+   "dests": [
+    "ORD"
+   ],
+   "gates": [
+    "1",
+    "3"
+   ],
+   "gone": false,
+   "hash": "cb34be0cfb5a",
+   "last_seen": "2026-11-23",
+   "last_seen_str": "Nov 23, 2026",
+   "name": "United Airlines",
+   "published": "2026-11-25",
+   "short": "United",
+   "sig": "{\"drawing\": \"bf6f0dc44470\", \"focus\": [\"1\", \"3\"], \"held\": [\"1\", \"3\"], \"held_n\": 2, \"main\": [\"1\", \"3\"]}",
+   "slug": "united",
+   "types": [
+    "CRJ-700",
+    "CRJ-200"
    ],
    "updated": "2026-11-25"
   }
