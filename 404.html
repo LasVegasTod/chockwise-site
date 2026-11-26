@@ -75,13 +75,13 @@
                               header .wrap { flex-wrap:wrap; row-gap:12px; } nav { width:100%; display:flex; align-items:center; }
                               nav a { margin:0 14px 0 0; white-space:nowrap; } nav a.cta { margin:0 0 0 auto; padding:8px 12px; } .ai { grid-template-columns:1fr; } }
 </style>
-<style id="live-demo">nav a.live{background:var(--navy);color:#fff;padding:6px 11px 6px 9px;border-radius:9px;white-space:nowrap}nav a.live::before{content:"\25B6";color:var(--chock);font-size:.8em;margin-right:5px}@media (max-width:560px){nav a.cta{display:none}}</style><script>(function(){var p=location.pathname,q=p;if(q.length>1&&q.slice(-1)==="/")q=q.slice(0,-1);
+<script>(function(){var p=location.pathname,q=p;if(q.length>1&&q.slice(-1)==="/")q=q.slice(0,-1);
 if(/^\/airports\//.test(q)||/^\/airlines\//.test(q))q=q.toLowerCase();if(q!==p)location.replace(q+location.search+location.hash);})();</script>
-</head>
+<style id="live-demo">nav a.live{background:var(--navy);color:#fff;padding:6px 11px 6px 9px;border-radius:9px;white-space:nowrap}nav a.live::before{content:"\25B6";color:var(--chock);font-size:.8em;margin-right:5px}@media (max-width:760px){nav{flex-wrap:wrap;row-gap:10px}}@media (max-width:560px){nav a.cta{display:none}}</style></head>
 <body>
 <header><div class="wrap">
   <a class="brand" href="/" aria-label="Chockwise home"><svg viewBox="0 0 120 120" aria-hidden="true"><circle cx="60" cy="60" r="38" fill="none" stroke="#14213D" stroke-width="12"/><circle cx="60" cy="60" r="12" fill="#14213D"/><path d="M16 104 L37 104 L16 83 Z" fill="#F2B705"/><path d="M104 104 L83 104 L104 83 Z" fill="#F2B705"/><rect x="6" y="104" width="108" height="8" rx="2" fill="#14213D"/></svg><span>chockwise</span></a>
-  <nav aria-label="Main"><a href="/airports/">Airports</a><a href="/airlines/">Airlines</a><a href="/routes">Routes</a><a class="live" href="https://app.chockwise.com/demo">Live Demo</a><a class="wide" href="/#ai">AI analyst</a><a class="cta" href="/#contact">Request access</a></nav>
+  <nav aria-label="Main"><a href="/for-airlines">For Airlines</a><a href="/for-airports">For Airports</a><a href="/airports/">Airports</a><a href="/airlines/">Airlines</a><a href="/routes">Routes</a><a class="live" href="https://app.chockwise.com/demo">Live Demo</a><a class="cta" href="/#contact">Request access</a></nav>
 </div></header>
 <main class="wrap">
 <style>.nf ul a{color:var(--navy,#14213D);font-weight:600}</style><div class="nf">
@@ -104,7 +104,7 @@ if(/^\/airports\//.test(q)||/^\/airlines\//.test(q))q=q.toLowerCase();if(q!==p)l
 </div>
 </main>
 <footer><div class="wrap">
-  <span>© <span id="year">2026</span> Chockwise LLC · <a href="/" style="color:inherit">chockwise.com</a> · <a href="/privacy" style="color:inherit">Privacy</a> · <a href="/terms" style="color:inherit">Terms</a></span>
+  <span>© <span id="year">2026</span> Chockwise LLC · <a href="/" style="color:inherit">chockwise.com</a> · <a href="/for-airlines" style="color:inherit">For airlines</a> · <a href="/for-airports" style="color:inherit">For airports</a> · <a href="/press" style="color:inherit">Press</a> · <a href="/privacy" style="color:inherit">Privacy</a> · <a href="/terms" style="color:inherit">Terms</a></span>
   <span>Flight data: FlightAware · Seats: each airline’s seat map per aircraft type · Map © OpenStreetMap contributors</span>
 </div></footer>
 <script>document.getElementById('year').textContent = new Date().getFullYear();</script>
